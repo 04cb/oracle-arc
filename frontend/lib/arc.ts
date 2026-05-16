@@ -16,11 +16,51 @@ export const ARC_CHAIN = {
 
 export const PICK_LEDGER_ADDRESS = process.env
   .NEXT_PUBLIC_PICK_LEDGER_ADDRESS as `0x${string}`;
+export const REPUTATION_REGISTRY = process.env
+  .NEXT_PUBLIC_REPUTATION_REGISTRY as `0x${string}` | undefined;
 
 export const PICK_LEDGER_ABI = parseAbi([
   "event Pick(address indexed agent, uint256 indexed id, bytes32 indexed marketId, uint256 tokenId, uint8 side, uint16 probBP, int16 edgeBP, uint16 kellyFracBP, bytes32 reasoningHash, string reasoningURI, uint64 expiresAt)",
   "event AgentRegistered(address indexed agent, string name)",
 ]);
+
+export const REPUTATION_ABI = parseAbi([
+  "event Reputation(address indexed agent, uint256 indexed pickId, bytes32 indexed marketId, uint8 outcome, uint8 agentSide, bool hit, int32 pnlBP, uint256 notionalUSDC6, address attestor)",
+  "event TrackRecord(address indexed agent, uint64 totalPicks, uint64 resolved, uint64 hits, int64 cumulativePnLBP)",
+]);
+
+export type TrackRecordEvent = {
+  agent: `0x${string}`;
+  totalPicks: bigint;
+  resolved: bigint;
+  hits: bigint;
+  cumulativePnLBP: bigint;
+  txHash: `0x${string}`;
+  blockNumber: bigint;
+};
+
+export async function fetchTrackRecords(
+  agent: `0x${string}`,
+  fromBlock = 42_460_000n,
+): Promise<TrackRecordEvent[]> {
+  if (!REPUTATION_REGISTRY) return [];
+  const logs = await publicClient.getLogs({
+    address: REPUTATION_REGISTRY,
+    event: REPUTATION_ABI[1],
+    args: { agent },
+    fromBlock,
+    toBlock: "latest",
+  });
+  return logs.map((log) => ({
+    agent: log.args.agent!,
+    totalPicks: log.args.totalPicks!,
+    resolved: log.args.resolved!,
+    hits: log.args.hits!,
+    cumulativePnLBP: log.args.cumulativePnLBP!,
+    txHash: log.transactionHash,
+    blockNumber: log.blockNumber,
+  }));
+}
 
 export const publicClient = createPublicClient({
   chain: ARC_CHAIN,

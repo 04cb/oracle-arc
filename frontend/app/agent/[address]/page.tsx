@@ -2,7 +2,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { isAddress } from "viem";
 
-import { fetchPicks, PICK_LEDGER_ADDRESS } from "@/lib/arc";
+import {
+  fetchPicks,
+  fetchTrackRecords,
+  PICK_LEDGER_ADDRESS,
+  REPUTATION_REGISTRY,
+} from "@/lib/arc";
 import { getMarketMeta } from "@/lib/polymarket";
 import { fetchReasoning } from "@/lib/reasoning";
 import { fmtUSDC, getAgentStats } from "@/lib/stats";
@@ -55,15 +60,18 @@ export default async function AgentPage({ params }: { params: Params }) {
     events.reduce((s, e) => s + e.kellyFracBP, 0) / events.length;
 
   // Enrich each pick with market metadata + reasoning (parallel)
-  const rows = await Promise.all(
-    events.map(async (e) => {
-      const [m, r] = await Promise.all([
-        getMarketMeta(e.marketId),
-        fetchReasoning(e.reasoningURI),
-      ]);
-      return { e, m, r };
-    }),
-  );
+  const [rows, trackRecords] = await Promise.all([
+    Promise.all(
+      events.map(async (e) => {
+        const [m, r] = await Promise.all([
+          getMarketMeta(e.marketId),
+          fetchReasoning(e.reasoningURI),
+        ]);
+        return { e, m, r };
+      }),
+    ),
+    fetchTrackRecords(address as `0x${string}`).catch(() => []),
+  ]);
 
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-100">
@@ -109,6 +117,73 @@ export default async function AgentPage({ params }: { params: Params }) {
           <StatCard label="avg kelly" value={bp(avgKellyBP)} />
           <StatCard label="treasury" value={`${fmtUSDC(balance)} USDC`} />
         </section>
+
+        {trackRecords.length > 0 && REPUTATION_REGISTRY && (
+          <section className="mt-10">
+            <h2 className="text-sm font-mono uppercase tracking-[0.2em] text-zinc-400 mb-3 border-b border-zinc-800 pb-2">
+              on-chain reputation snapshots
+              <span className="text-[10px] text-zinc-600 ml-2 normal-case tracking-normal">
+                via{" "}
+                <a
+                  className="underline hover:text-zinc-400"
+                  href={`https://testnet.arcscan.app/address/${REPUTATION_REGISTRY}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ReputationRegistry
+                </a>
+              </span>
+            </h2>
+            <div className="border border-zinc-800 rounded-lg overflow-hidden">
+              <table className="w-full text-sm">
+                <thead className="bg-zinc-900 text-xs text-zinc-500 uppercase tracking-wider">
+                  <tr>
+                    <th className="px-3 py-2 text-left">block</th>
+                    <th className="px-3 py-2 text-right">total picks</th>
+                    <th className="px-3 py-2 text-right">resolved</th>
+                    <th className="px-3 py-2 text-right">hits</th>
+                    <th className="px-3 py-2 text-right">cumulative PnL</th>
+                    <th className="px-3 py-2 text-right">tx</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {trackRecords.map((tr) => (
+                    <tr
+                      key={tr.txHash}
+                      className="border-t border-zinc-800 hover:bg-zinc-900/40"
+                    >
+                      <td className="px-3 py-2 font-mono text-xs text-zinc-400">
+                        {tr.blockNumber.toString()}
+                      </td>
+                      <td className="px-3 py-2 text-right font-mono text-xs text-zinc-200">
+                        {tr.totalPicks.toString()}
+                      </td>
+                      <td className="px-3 py-2 text-right font-mono text-xs text-zinc-200">
+                        {tr.resolved.toString()}
+                      </td>
+                      <td className="px-3 py-2 text-right font-mono text-xs text-zinc-200">
+                        {tr.hits.toString()}
+                      </td>
+                      <td className="px-3 py-2 text-right font-mono text-xs text-zinc-200">
+                        {(Number(tr.cumulativePnLBP) / 100).toFixed(2)}%
+                      </td>
+                      <td className="px-3 py-2 text-right">
+                        <a
+                          className="text-xs text-zinc-500 hover:text-zinc-300 underline"
+                          href={`https://testnet.arcscan.app/tx/${tr.txHash}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          ↗
+                        </a>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        )}
 
         <section className="mt-10">
           <h2 className="text-sm font-mono uppercase tracking-[0.2em] text-zinc-400 mb-3 border-b border-zinc-800 pb-2">

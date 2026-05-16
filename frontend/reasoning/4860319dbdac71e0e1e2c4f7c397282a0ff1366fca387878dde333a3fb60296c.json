@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
+  "market_slug": "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election",
+  "market_question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 4150,
+  "edge_bp": -2950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Cepeda is a left-wing senator but not the frontrunner for 2026. The left is fragmented without Petro and polls point to stronger center-right candidates. His true chances appear low, so the market overestimates his odds.",
+  "evidence_points": [
+    "Left-wing coalition is divided with multiple possible candidates (Márquez, Bolívar, etc.) and no clear consensus.",
+    "Early pre-2025 polls show candidates like Vicky Dávila and Federico Gutiérrez leading, with left candidates collectively polling well below 41%.",
+    "Cepeda’s name recognition is moderate, and he lacks the cross-party appeal or momentum of the leading contenders."
+  ],
+  "sources_consulted": [
+    "Colombian election analysis 2024-2025 (general knowledge)",
+    "Polling data summaries (pre-2025)",
+    "Political coverage of left-wing nominations"
+  ],
+  "created_at": "2026-05-16T11:22:26.245381+00:00",
+  "agent_version": "0.1.0"
+}
