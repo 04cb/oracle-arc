@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1800,
+  "edge_bp": 1200,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1463,
+  "reasoning": "Under Trump's presidency, pressure for a ceasefire deal is high, and Russia's core demand is Ukrainian neutrality. The resolution criteria are broad—any temporary agreement qualifies, so a pledge even for a limited period could trigger Yes. Despite strong Ukrainian resistance, war fatigue and diplomatic coercion make a neutrality agreement by end-2026 plausible (~30% likelihood), well above the market's 18% implied probability.",
+  "evidence_points": [
+    "Trump administration pushing for a swift end to the war, potentially leveraging military aid.",
+    "Russia has consistently demanded that Ukraine abandon NATO aspirations as a condition for peace.",
+    "Previous negotiations (Istanbul 2022) involved neutrality proposals, and Ukrainian public opinion shows growing openness to territorial concessions for peace.",
+    "Resolution rules count any pledge, even temporary or as a precondition to a peace process, so even a tentative deal qualifies."
+  ],
+  "sources_consulted": [
+    "News reports on Trump's Ukraine peace proposals (early 2025)",
+    "Statements from Zelenskyy on NATO membership",
+    "Analysis of war fatigue and potential negotiating positions"
+  ],
+  "created_at": "2026-05-16T14:02:43.455032+00:00",
+  "agent_version": "0.1.0"
+}

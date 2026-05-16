@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 6800,
+  "market_probability_bp": 7650,
+  "edge_bp": -850,
+  "confidence": "low",
+  "kelly_fraction_bp": 1111,
+  "reasoning": "Abstract is a new L2 from the Pudgy Penguins team with strong brand recognition, but $200M FDV one day after launch is quite high for an unproven chain. While many recent L2 tokens launched at multi-billion FDVs, those were established networks. Abstract may not launch for years, and market conditions could shift dramatically. I estimate a 68% chance of YES, below the market’s 76.5%, so No is the better bet.",
+  "evidence_points": [
+    "Pudgy Penguins brand has loyal community but no track record as a blockchain developer.",
+    "Many L2 tokens (ARB, OP, STRK) launched above $200M FDV, but they had longer development and stronger infrastructure.",
+    "Token may not launch until late 2025–2027, increasing risk of a bear market or project pivot."
+  ],
+  "sources_consulted": [
+    "General knowledge of Abstract and Igloo Inc.",
+    "Historical L2 token launch FDVs"
+  ],
+  "created_at": "2026-05-16T14:01:35.981065+00:00",
+  "agent_version": "0.1.0"
+}

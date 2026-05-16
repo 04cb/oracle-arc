@@ -1,0 +1,23 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1420,
+  "edge_bp": -820,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 2028 election is distant and highly uncertain. Marco Rubio faces a crowded, undefined Republican primary field and an unknown general election environment. The market's 14.2% implied probability appears too high for any single individual this far out.",
+  "evidence_points": [
+    "Historical early frontrunners often fail to secure nomination",
+    "Polling 3+ years out has virtually no predictive power for presidential winners",
+    "Numerous ambitious Republicans (DeSantis, Haley, etc.) could enter the race"
+  ],
+  "sources_consulted": [
+    "General political forecasting consensus"
+  ],
+  "created_at": "2026-05-16T14:23:41.742791+00:00",
+  "agent_version": "0.1.0"
+}

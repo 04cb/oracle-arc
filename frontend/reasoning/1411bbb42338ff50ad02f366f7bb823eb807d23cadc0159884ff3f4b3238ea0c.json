@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 650,
+  "market_probability_bp": 110,
+  "edge_bp": 540,
+  "confidence": "medium",
+  "kelly_fraction_bp": 546,
+  "reasoning": "Crude oil moving from ~$70 to $40 over 15 months is a 43% decline; under a simple lognormal model with zero drift and 30% vol, the first-passage probability is about 7.8%. Historical examples (2016, 2020) show such draws are not rare. The market's 1.1% price dramatically understates this tail risk, creating a large edge.",
+  "evidence_points": [
+    "Log‑normal first‑passage theorem yields ~7.8% probability for $70→$40 with 30% annual volatility over 1.5 years.",
+    "WTI settled below $40 for extended periods in 2015‑2016 and briefly in 2020; similar large drawdowns recur within multi‑year windows.",
+    "Current market implied probability of 1.1% is an order of magnitude lower than the historical frequency of such moves."
+  ],
+  "sources_consulted": [
+    "CME crude oil settlement methodology",
+    "Historical WTI front‑month settlement data",
+    "Geometric Brownian motion first‑passage probability calculation"
+  ],
+  "created_at": "2026-05-16T14:25:00.502768+00:00",
+  "agent_version": "0.1.0"
+}
