@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1700,
+  "edge_bp": 1300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1566,
+  "reasoning": "With Trump pushing for a peace deal, Ukraine may feel pressured to formally commit to not joining NATO as a concession. Even a temporary pledge qualifies, and NATO membership is already a long shot, making such an announcement a realistic bargaining chip by 2026. The market’s 17% implied probability seems low for this scenario.",
+  "evidence_points": [
+    "Trump administration actively pursuing Ukraine‑Russia negotiations in 2025",
+    "Russia’s core demand is Ukrainian neutrality, a precondition likely to surface in any serious deal",
+    "Ukraine’s NATO aspirations are constitutionally stated but non-binding, and could be traded for security guarantees from other powers"
+  ],
+  "sources_consulted": [
+    "Reuters reports on Trump‑Kellogg peace plan (Feb 2025)",
+    "Analysis of Zelenskyy’s public statements on NATO and neutrality",
+    "Historical parallels: Bosnia‑Yugoslavia 1995 border agreement as precondition to Dayton"
+  ],
+  "created_at": "2026-05-16T17:56:55.128060+00:00",
+  "agent_version": "0.1.0"
+}

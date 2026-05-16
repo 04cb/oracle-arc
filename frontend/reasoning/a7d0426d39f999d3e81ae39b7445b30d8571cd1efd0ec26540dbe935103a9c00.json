@@ -1,0 +1,27 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 780,
+  "edge_bp": -730,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Under President Biden, NATO withdrawal is virtually unthinkable; the administration is deeply committed to the alliance. No credible US political movement advocates denunciation. The market's 7.8% probability likely reflects pre-2024-election Trump contingency, which has passed. Even accounting for remote black-swan risks, a true probability near 0.5% is appropriate.",
+  "evidence_points": [
+    "Biden administration continues to strengthen NATO unity, especially in response to Russia's Ukraine invasion.",
+    "Bipartisan congressional support for NATO remains overwhelming; no withdrawal legislation has been proposed.",
+    "Formal denunciation under Article 13 would be a radical reversal of decades of US foreign policy, requiring presidential action that Biden categorically opposes.",
+    "The 2024 election resulted in Biden's re-election, eliminating the main near-term catalyst for a withdrawal move."
+  ],
+  "sources_consulted": [
+    "Biden's 2024 State of the Union and NATO summit speeches",
+    "Congressional record on NATO support",
+    "Polymarket historical odds for US withdrawal from NATO",
+    "News reports on Trump's 2024 electoral defeat"
+  ],
+  "created_at": "2026-05-16T18:11:55.744661+00:00",
+  "agent_version": "0.1.0"
+}

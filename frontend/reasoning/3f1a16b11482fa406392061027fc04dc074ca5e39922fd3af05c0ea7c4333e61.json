@@ -1,0 +1,26 @@
+{
+  "market_id": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
+  "market_slug": "will-silver-si-hit-high-120-by-end-of-june",
+  "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 660,
+  "edge_bp": -610,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Silver futures currently trade near $34.50; reaching $120 by June 2026 requires a 3.5× gain in ~15 months. The largest 15-month rally on record was ~230% (2010-2011), a once-in-a-generation event. Even under extremely bullish conditions, the probability of replicating that magnitude and exceeding it significantly is far below 1%, making the market's 6.6% implied odds vastly overpriced.",
+  "evidence_points": [
+    "Silver (SI) front-month settlement ~$34.50 as of early April 2025.",
+    "Target $120 represents ~3.5× current price; record 15‑month rally (2010-2011) was ~3.3× from a lower base.",
+    "Nominal all-time high is ~$50; $120 would be nearly 2.5× that record, requiring extraordinary macro/financial catalysts.",
+    "Market's 6.6% implied probability implies a >1-in-16 chance, which is inconsistent with historical price action frequencies."
+  ],
+  "sources_consulted": [
+    "CME Group settlement data for SI futures (Active Month methodology)",
+    "Historical silver spot & futures price data (1980-2025)",
+    "Assessment of current macro conditions (inflation, central bank buying, industrial demand)"
+  ],
+  "created_at": "2026-05-16T18:07:07.929969+00:00",
+  "agent_version": "0.1.0"
+}

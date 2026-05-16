@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 7650,
+  "edge_bp": 1850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract's L2 governance token is very likely to launch with an FDV above $200M given comparable L2 launches (Arbitrum, Optimism, Starknet) achieving multi-billion dollar FDVs. The team behind it, including Pudgy Penguins, brings strong community and hype. The threshold of $200M is a low bar relative to typical new L2 valuations. The only meaningful risk is non-launch by end-2027, which is unlikely with mainnet imminent.",
+  "evidence_points": [
+    "Recent L2 token launches: STRK $20B+, ARB $12B+, OP $8.5B+ FDV at launch",
+    "Abstract is backed by the successful Pudgy Penguins team, ensuring a large user base",
+    "The token's total supply is likely designed to support a >$200M FDV given airdrop expectations and market conditions"
+  ],
+  "sources_consulted": [
+    "General knowledge of L2 token FDV at launch",
+    "Abstract documentation and announcements about mainnet in 2025"
+  ],
+  "created_at": "2026-05-16T17:55:59.606499+00:00",
+  "agent_version": "0.1.0"
+}

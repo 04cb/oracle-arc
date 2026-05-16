@@ -1,0 +1,26 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 1400,
+  "edge_bp": -1300,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite occasional US interest, Danish and Greenlandic officials have firmly rejected any territorial transfer. Any binding agreement would require protracted negotiations and likely referenda, making completion by 2026 extremely improbable. The use-of-force clause is unrealistic under current geopolitics, and existing US military presence does not meet the resolution's exclusivity criteria.",
+  "evidence_points": [
+    "Danish PM Mette Frederiksen repeatedly called the idea 'absurd' and ruled out sale of Greenland.",
+    "Greenlandic government maintains that the island is not for sale and sovereignty lies with its people.",
+    "Any treaty acquiring territory would need US Senate ratification (two-thirds) and Danish parliamentary approval, a process unlikely to finish within two years given current political dynamics.",
+    "The US already leases Thule Air Base but Denmark retains residual legal authority, so it does not qualify as 'primary or exclusive jurisdiction' under the definition."
+  ],
+  "sources_consulted": [
+    "Reuters: 'Greenland is not for sale, Danish PM tells Trump' (2019)",
+    "BBC News: 'Greenland dismisses Trump's idea of buying island' (2024)",
+    "U.S.- Denmark defense agreements regarding Thule Air Base"
+  ],
+  "created_at": "2026-05-16T17:55:03.770314+00:00",
+  "agent_version": "0.1.0"
+}

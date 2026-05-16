@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 2820,
+  "edge_bp": -2020,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People won only 13 seats in 2021 (2.9%) and remains a minor, Kremlin‑tolerated party. The chance they gain more seats than any other party is very low, likely <10%, as larger opposition parties like the CPRF (57 seats) could easily gain more or United Russia’s net loss might be smaller. The 28% market price is inflated, likely reflecting sentiment rather than structural probabilities.",
+  "evidence_points": [
+    "New People secured 13 seats in the 2021 Duma (5.3% of the vote) and is a small, systemic opposition party.",
+    "Larger parties such as the CPRF (57 seats) or LDPR (21 seats) have better potential to achieve a higher net seat gain.",
+    "The Kremlin tightly controls electoral outcomes, and a scenario where a minor party like New People records the largest gain—over all others—is improbable."
+  ],
+  "sources_consulted": [
+    "2021 Russian State Duma election results",
+    "General knowledge of Russian electoral dynamics and Kremlin influence"
+  ],
+  "created_at": "2026-05-16T18:05:17.151427+00:00",
+  "agent_version": "0.1.0"
+}

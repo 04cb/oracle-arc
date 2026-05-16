@@ -1,0 +1,23 @@
+{
+  "market_id": "0x355093713e6bd18745724e2c42a8bdfeb8433a08a441b93a7ce27a97b707a9d6",
+  "market_slug": "will-rizo-velovic-win-survivor-season-50",
+  "market_question": "Will Rizo Velovic win Survivor Season 50?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 800,
+  "edge_bp": -700,
+  "confidence": "medium",
+  "kelly_fraction_bp": 0,
+  "reasoning": "Rizo Velovic is not a recognized Survivor contestant, and the probability of any single named individual winning a future season with a large, unknown cast is extremely low. The market's 0.8% implied chance is far above this baseline, making No undervalued.",
+  "evidence_points": [
+    "Rizo Velovic has no known Survivor history or public connection to the show.",
+    "Survivor 50's cast is unannounced, giving any specific person a base rate well below 0.2%.",
+    "The market's 0.8% probability is an outlier given the wide pool of possible winners."
+  ],
+  "sources_consulted": [
+    "General Survivor knowledge and probability benchmarks."
+  ],
+  "created_at": "2026-05-16T18:03:08.526849+00:00",
+  "agent_version": "0.1.0"
+}

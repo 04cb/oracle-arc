@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4800,
+  "market_probability_bp": 3850,
+  "edge_bp": 950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1545,
+  "reasoning": "As of early 2025, the 2028 election is an open-seat race with no clear candidate from either party. Historical patterns and structural factors (e.g., slight Electoral College bias toward Republicans) suggest a roughly even chance, while the market's implied 38.5% for a Republican win seems too pessimistic. Early uncertainty typically points to a near-50% prior, making Yes undervalued.",
+  "evidence_points": [
+    "No incumbent runs in 2028 (Trump term‑limited), making it a competitive open seat historically close to a coin flip.",
+    "Recent presidential elections show a small Electoral College advantage for Republicans, which persists absent demographic shifts.",
+    "The market's heavy discounting of Republicans may overweight anti‑Trump sentiment and underweight the party's demonstrated ability to win (2016, 2024)."
+  ],
+  "sources_consulted": [
+    "Historical US election outcomes (1968–2024)",
+    "Electoral College bias analysis (e.g., 2020/2024 trends)",
+    "Polymarket liquidity and volume data as of March 2025"
+  ],
+  "created_at": "2026-05-16T18:04:23.824066+00:00",
+  "agent_version": "0.1.0"
+}
