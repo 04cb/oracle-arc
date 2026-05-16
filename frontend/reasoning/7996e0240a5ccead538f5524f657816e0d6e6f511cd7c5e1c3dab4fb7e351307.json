@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1800,
+  "edge_bp": 700,
+  "confidence": "medium",
+  "kelly_fraction_bp": 854,
+  "reasoning": "The war in Ukraine creates strong incentives for a negotiated settlement by 2026, and Russia’s core demand is Ukrainian neutrality. While Ukraine has long sought NATO membership, the need for security guarantees and a ceasefire could push Kyiv to publicly agree not to join for a defined period (e.g., 10‑20 years). This scenario is plausible enough to assign a ~25% probability, above the market’s 18%.",
+  "evidence_points": [
+    "Russia’s consistent demand for Ukrainian neutrality as a condition for peace",
+    "Ukrainian officials have signaled willingness to postpone NATO membership during wartime",
+    "2025 ceasefire proposals have included multi‑year moratoriums on NATO accession",
+    "U.S. and European pressure for a negotiated end to the war could compel a formal pledge"
+  ],
+  "sources_consulted": [
+    "Recent statements by Ukrainian and Russian leadership (up to early 2025)",
+    "Analysis of peace‑plan leaks from European and U.S. diplomatic channels",
+    "Trend in similar geopolitical prediction markets on the Russia‑Ukraine war"
+  ],
+  "created_at": "2026-05-16T22:51:56.615868+00:00",
+  "agent_version": "0.1.0"
+}

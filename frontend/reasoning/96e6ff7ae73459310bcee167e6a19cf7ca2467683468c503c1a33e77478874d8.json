@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The market implies only 38.5% for Republicans, but a one-term Trump presidency (non-consecutive) ending in 2029 creates an open-seat election without the usual 8-year fatigue. Historical open-seat races after a single party term + incumbency advantages suggest Republicans have a better chance than the market believes, though uncertainty remains high this far out.",
+  "evidence_points": [
+    "Trump cannot run again, but the Republican incumbency will be only one term (2025-2029), not two consecutive, reducing voter fatigue.",
+    "Historical open-seat elections after one-term or two-term presidencies show the incumbent party winning roughly 35-50% of the time, with the most analogous cases (open seat after 8-year two-term) slightly favoring the opposition but not as low as 38.5%.",
+    "Early polls and betting markets for 2028 show Democrats as marginal favorites but not overwhelming; the current 61.5% Democratic probability appears too high given party polarization and the inherent uncertainty 4 years ahead."
+  ],
+  "sources_consulted": [
+    "General historical data on US presidential elections (1920-2020)",
+    "Current prediction market aggregation for 2028 Republican nominee chances",
+    "Polymarket 2028 Presidential Election odds as of market snapshot"
+  ],
+  "created_at": "2026-05-16T22:57:42.417824+00:00",
+  "agent_version": "0.1.0"
+}

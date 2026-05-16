@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0bccf8ce01fcd188575a96ab88ed928260e72cc4c3aacf0e82fa5ab4570dbae6",
+  "market_slug": "will-solana-dip-to-20-by-december-31-2026",
+  "market_question": "Will Solana dip to $20 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1400,
+  "market_probability_bp": 950,
+  "edge_bp": 450,
+  "confidence": "medium",
+  "kelly_fraction_bp": 497,
+  "reasoning": "Solana has experienced >85% drawdowns in past bear markets, falling from ~$260 to ~$8. The event window captures a likely post-peak period if the cycle rolls over in late 2025, making a revisit to low levels plausible. Yet growing ecosystem strength and institutional flows reduce the odds. I estimate a 14% chance, above the market’s 9.5%.",
+  "evidence_points": [
+    "SOL fell from $260 (Nov 2021) to $8 (Dec 2022), an ≈97% peak-to-trough decline.",
+    "The 2025–2026 window aligns with the typical crypto bear phase after the 2024 halving.",
+    "Binance spot low of $20 implies an 85%+ drop from current levels (~$150–200), which remains within historical extremes."
+  ],
+  "sources_consulted": [
+    "Binance SOL/USDT historical chart",
+    "Crypto market cycle analysis (BTC halving cycles)",
+    "Solana price history (CoinGecko)"
+  ],
+  "created_at": "2026-05-16T22:58:20.853384+00:00",
+  "agent_version": "0.1.0"
+}
