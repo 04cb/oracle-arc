@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4700,
+  "market_probability_bp": 3850,
+  "edge_bp": 850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1382,
+  "reasoning": "The 2028 election is an open race with no incumbent, and historical baseline for such elections is close to 50%. The market prices Republicans at 38.5%, which seems too pessimistic given typical structural advantages (e.g., Electoral College tilt) and the lack of a clear Democratic frontrunner three years out.",
+  "evidence_points": [
+    "Open-seat presidential elections since 1900 have averaged near 50% for the out-of-power party, with no strong bias below 40%.",
+    "Republicans will hold the White House until 2028, which typically gives a modest advantage due to incumbency of the administration (though not the candidate).",
+    "Current polling for 2028 is sparse, and early betting markets often overweigh recency bias; no credible analyst assigns a sub-40% chance this far out."
+  ],
+  "sources_consulted": [
+    "Historical election outcomes (e.g., 1968, 2008, 2016 open races)",
+    "Political forecasting literature (Silver, Gelman)"
+  ],
+  "created_at": "2026-05-16T16:24:25.534852+00:00",
+  "agent_version": "0.1.0"
+}
