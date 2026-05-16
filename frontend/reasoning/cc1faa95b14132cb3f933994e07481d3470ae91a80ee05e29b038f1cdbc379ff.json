@@ -1,0 +1,26 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 2820,
+  "edge_bp": -1820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People currently hold only 13 seats; for them to gain the most seats, they would need a historically unprecedented jump for a Kremlin-controlled 'systemic opposition' party, while the authoritarian electoral management likely caps any opposition gain to preserve United Russia's dominance. The true probability is substantially lower than the 28% implied by the market, which appears to overestimate the chance of a dramatic upset.",
+  "evidence_points": [
+    "New People won only 13 seats in the 2021 Duma election, making a leap to the highest seat gain require a massive swing not seen in recent Russian elections.",
+    "Russian electoral authorities and the Kremlin tightly control vote allocation via ballot-stuffing, voter suppression, and engineered ballot access to ensure United Russia remains dominant; they are unlikely to grant a large gain to any single non-UR party.",
+    "Other systemic parties (CPRF 57 seats, LDPR 21, SRZP 27) are better positioned to absorb protest gains if the regime allowed it, but political incentives favor limiting all opposition gains to avoid undermining the ruling party's supermajority.",
+    "The 2026 election takes place amid ongoing war and heightened repression, further reducing the likelihood of electoral liberalization or a major protest vote translating into significant seat gains for any challenger."
+  ],
+  "sources_consulted": [
+    "Wikipedia: 2021 Russian legislative election results",
+    "Analyses of Kremlin electoral manipulation (e.g., OSCE/ODIHR reports on prior Russian elections)",
+    "Political risk assessments on Russian electoral politics from think tanks (e.g., Carnegie Endowment, Chatham House)"
+  ],
+  "created_at": "2026-05-16T17:21:12.317924+00:00",
+  "agent_version": "0.1.0"
+}

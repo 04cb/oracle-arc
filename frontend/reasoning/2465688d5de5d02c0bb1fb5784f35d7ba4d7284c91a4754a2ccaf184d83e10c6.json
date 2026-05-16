@@ -1,0 +1,25 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 20,
+  "edge_bp": 480,
+  "confidence": "medium",
+  "kelly_fraction_bp": 486,
+  "reasoning": "ByteDance is one of the world's most valuable private companies (~$300B); if it IPOs in 2026 its first-day market cap would likely be the highest among all 2026 IPOs, barring a huge rival like Ant Group. The main uncertainty is an IPO occurring at all given US-China regulatory tensions, but a ~5% chance is far above the market's implied 0.2%.",
+  "evidence_points": [
+    "ByteDance last valued around $300B, far exceeding typical IPO market caps",
+    "Record tech IPO market cap is Alibaba's $168B, which ByteDance would likely surpass",
+    "Geopolitical hurdles and TikTok divesture demands obscure the IPO timeline, but not enough to justify 0.2%"
+  ],
+  "sources_consulted": [
+    "General knowledge of ByteDance valuation",
+    "News on TikTok/ByteDance IPO speculation",
+    "Historical IPO market cap data (Alibaba, etc.)"
+  ],
+  "created_at": "2026-05-16T17:22:15.361570+00:00",
+  "agent_version": "0.1.0"
+}
