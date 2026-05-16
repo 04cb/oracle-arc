@@ -3,10 +3,27 @@
 The frontend is a single Next.js 16 app. For the hackathon demo it needs a
 public URL so judges can click through without spinning up your dev server.
 
+**Current production deploy: https://oracle-arc.vercel.app** (deployed and
+verified, all 4 routes serve HTTP 200 < 2s).
+
 ## Recommended: Vercel
 
 The frontend was scaffolded with `create-next-app`, so Vercel is the
-zero-config path.
+zero-config path — but watch for three things that don't auto-set
+correctly via the dashboard import:
+
+1. **Root Directory** must be `frontend` (set under Project Settings →
+   General). Without this the build fails with "No Next.js version
+   detected" because Vercel looks at the repo root.
+2. **Framework Preset** should be Next.js — usually auto-detects, but
+   set it explicitly to be safe.
+3. **Deployment Protection** (Settings → Deployment Protection) — Vercel
+   defaults to "Vercel Authentication" for new projects, which 401s every
+   request from anyone who isn't logged into your team. **Turn it off**
+   for the hackathon judges.
+
+(All three are PATCHable through the Vercel REST API if the CLI flow gets
+stuck — see [`Project Settings API`](https://vercel.com/docs/rest-api/endpoints/projects#update-an-existing-project).)
 
 ### One-time setup
 

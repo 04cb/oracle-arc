@@ -6,6 +6,8 @@
 
 Built for the **Agora Agents Hackathon** (Canteen × Circle, 2026-05-11 → 2026-05-25).
 
+**Live demo: https://oracle-arc.vercel.app**
+
 ![Oracle home page](./docs/screenshots/home.png)
 
 ---

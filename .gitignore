@@ -22,3 +22,4 @@ discord_state.json
 # Canonical reasoning blobs live at frontend/reasoning/ (committed, shipped
 # with Vercel). The top-level /reasoning/ is a legacy write mirror.
 /reasoning/
+.vercel
