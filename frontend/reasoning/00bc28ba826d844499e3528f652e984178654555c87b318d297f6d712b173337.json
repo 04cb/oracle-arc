@@ -1,0 +1,25 @@
+{
+  "market_id": "0x331cd65740d378b98427723b33b353c62241e7bdabfaa01daac48d9caf85b401",
+  "market_slug": "will-eleni-kounalakis-win-the-california-governor-election-in-2026",
+  "market_question": "Will Eleni Kounalakis win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 20,
+  "edge_bp": 980,
+  "confidence": "high",
+  "kelly_fraction_bp": 986,
+  "reasoning": "Eleni Kounalakis is the sitting Lieutenant Governor, an early announced candidate with strong name recognition and fundraising. Several recent polls (e.g., PPIC March 2025) show her leading or tied for first in the Democratic primary, and California's partisanship makes the Democratic nominee a near-lock in the general. Even with a crowded field, her true win probability is conservatively ~10%, far above the market's implied 0.2%.",
+  "evidence_points": [
+    "PPIC March 2025 poll: Kounalakis tied with Katie Porter at 13%, leading a fragmented field",
+    "Historical advantage for sitting Lieutenant Governors in open California governor races (5 of 10 won since 1950)",
+    "Strong fundraising and endorsements as the early Democratic front-runner"
+  ],
+  "sources_consulted": [
+    "PPIC Statewide Survey March 2025",
+    "Ballotpedia – California gubernatorial election 2026",
+    "News reports on early candidate field"
+  ],
+  "created_at": "2026-05-16T15:05:51.081675+00:00",
+  "agent_version": "0.1.0"
+}

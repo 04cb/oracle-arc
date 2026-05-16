@@ -1,0 +1,27 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7650,
+  "edge_bp": 1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a hyped consumer L2 from the Pudgy Penguins team with strong backing and a mainnet already live. Comparable L2 launches (Starknet, zkSync, Blast) had FDVs well above $1B shortly after launch, making the $200M threshold very easy to clear. The main risk is no token launch by 2027, but given current momentum, that probability is low. Market-implied 76.5% appears too pessimistic.",
+  "evidence_points": [
+    "Abstract's mainnet is already operational, backed by Igloo Inc. and the popular Pudgy Penguins NFT brand.",
+    "Recent Ethereum L2 token launches (e.g., Starknet, zkSync, Blast) all maintained FDVs >$1B in the first days of trading.",
+    "Even a token price as low as $0.02 with a 10B supply yields $200M FDV—an extremely modest valuation for such a project.",
+    "The timeframe extends to Dec 31, 2027, giving ample time for a token generation event, and Abstract's roadmap strongly suggests a token is planned."
+  ],
+  "sources_consulted": [
+    "Abstract Chain official announcements",
+    "Pudgy Penguins / Igloo Inc. funding news (e.g., $11M raise)",
+    "Comparable L2 token launch data (CoinGecko, Messari)",
+    "General knowledge of crypto token valuations"
+  ],
+  "created_at": "2026-05-16T14:58:31.332469+00:00",
+  "agent_version": "0.1.0"
+}
