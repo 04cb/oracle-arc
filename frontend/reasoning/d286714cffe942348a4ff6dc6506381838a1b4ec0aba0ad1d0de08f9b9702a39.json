@@ -1,0 +1,24 @@
+{
+  "market_id": "0xfe94ae52c5ecfc54a8a308016894ea9732a5345afeeebc5860d1b3c2b5155338",
+  "market_slug": "gemini-3pt2-released-by-may-31-2026-393-444-173-117",
+  "market_question": "Gemini 3.2 released by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8700,
+  "market_probability_bp": 9930,
+  "edge_bp": -1230,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1239,
+  "reasoning": "Google's release cadence from Gemini 1.0 to 2.0 spanned about 12 months, and progressing through 3.0, 3.1, then 3.2 within ~17 months from 2.0's launch is ambitious. While rapid iteration is possible, there's a meaningful risk of delays or naming shifts, so the market-implied 99.3% overstates the true probability, which I estimate around 87%.",
+  "evidence_points": [
+    "Gemini 2.0 Flash launched December 2024; major version increments historically take roughly a year.",
+    "Reaching 3.0, then 3.1, then 3.2 by May 2026 requires at least three distinct version steps in a tight 17-month window.",
+    "Google could alter naming conventions or skip directly to a future version, adding significant uncertainty to the explicit 'Gemini 3.2' requirement."
+  ],
+  "sources_consulted": [
+    "Google AI blog and historical release timelines",
+    "Public reports on Gemini model versioning"
+  ],
+  "created_at": "2026-05-16T20:43:06.464042+00:00",
+  "agent_version": "0.1.0"
+}

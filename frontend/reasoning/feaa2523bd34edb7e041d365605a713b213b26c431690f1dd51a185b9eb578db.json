@@ -1,0 +1,24 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 590,
+  "edge_bp": -580,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a minor PSOL federal deputy with negligible national presence. Second place in the first round will be fought by major candidates from dominant parties (Lula, Bolsonaro, or their successors), while PSOL typically polls under 1% and never finishes second. The market-implied 5.9% is a massive overestimate.",
+  "evidence_points": [
+    "PSOL's 2018 presidential candidate (Guilherme Boulos) received 0.58% of the first-round vote, and the party hasn't fielded a top-tier candidate. Renan Santos is even less known.",
+    "The 2022 first-round top-two were Lula (48%) and Bolsonaro (43%), leaving zero room for a fringe candidate to become runner-up.",
+    "Brazilian opinion polls for 2026 consistently list frontrunners from PT and the right; Renan Santos is never mentioned among contenders."
+  ],
+  "sources_consulted": [
+    "General knowledge of Brazilian elections 2018, 2022",
+    "Public profile of Renan Santos (MTST, PSOL)"
+  ],
+  "created_at": "2026-05-16T20:47:11.334375+00:00",
+  "agent_version": "0.1.0"
+}

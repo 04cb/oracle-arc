@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 1420,
+  "edge_bp": -1220,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 2028 election is nearly 4 years away with a wide-open field; Rubio is a second-tier potential candidate with a failed 2016 primary bid. Base-rate probability for any specific individual winning is very low, and 14.2% heavily overestimates his chances given the likely emergence of stronger contenders. The market appears to overprice name recognition.",
+  "evidence_points": [
+    "No incumbent candidate clarity and many plausible GOP and Dem contenders (DeSantis, Newsom, etc.) reduce individual probabilities.",
+    "Rubio's 2016 presidential primary performance was weak, and he hasn't built a strong national campaign infrastructure since.",
+    "Political betting markets often overprice well-known figures early, while eventual nominees are frequently not the early favorites."
+  ],
+  "sources_consulted": [
+    "General political analysis of US presidential elections",
+    "Historical primary outcomes",
+    "Current candidate speculation"
+  ],
+  "created_at": "2026-05-16T21:00:17.563480+00:00",
+  "agent_version": "0.1.0"
+}
