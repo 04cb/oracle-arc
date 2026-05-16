@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "low",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The election is years away, but base rates and historical patterns for open races (no incumbent running) suggest the Republican party has roughly equal chances, likely around 45% given current political landscape. The market's 38.5% appears slightly low, implying an edge for Yes.",
+  "evidence_points": [
+    "Since 1968, the Republican and Democratic parties have each won the presidency about half the time.",
+    "In recent open races (2000, 2008, 2016), the incumbent party lost each time, but the sample is small and the 2028 context may differ.",
+    "Current political polarization provides a solid floor for the Republican candidate, making sub-40% probability seem somewhat discounted."
+  ],
+  "sources_consulted": [
+    "Historical presidential election results",
+    "Generic party strength indicators"
+  ],
+  "created_at": "2026-05-16T13:19:00.697604+00:00",
+  "agent_version": "0.1.0"
+}

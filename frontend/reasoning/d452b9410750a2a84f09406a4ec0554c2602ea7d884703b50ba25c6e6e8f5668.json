@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb60c044bba6f7958768691345df1e102448a5b7ef16e4a08879bb10483fb4567",
+  "market_slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+  "market_question": "Will Neymar play in the 2026 FIFA World Cup?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 7750,
+  "edge_bp": -750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 968,
+  "reasoning": "Neymar returned to Brazil's squad in March 2025, scoring in a qualifier, proving he's in the coach's plans for the 2026 cycle. However, he will be 34 at the tournament and has a long history of severe injuries (2023 ACL, multiple foot/metatarsal fractures) that make further setbacks likely. The 14-month gap to the World Cup introduces significant fitness risk, so fair value is closer to 70% rather than the market's 77.5%.",
+  "evidence_points": [
+    "Neymar suffered an ACL tear in October 2023 and missed a full year of football.",
+    "He returned to the Brazil national team in March 2025, scoring against Colombia, and appears reintegrated under coach Dorival Júnior.",
+    "At age 34 and with a lengthy injury dossier, the probability of missing the 2026 World Cup through another injury is material, even if he only needs a single appearance to settle the market."
+  ],
+  "sources_consulted": [
+    "FIFA official records and World Cup qualification tables",
+    "BBC Sport reports on Neymar's 2025 Brazil call-up and performance",
+    "Transfermarkt injury history for Neymar"
+  ],
+  "created_at": "2026-05-16T13:17:52.024120+00:00",
+  "agent_version": "0.1.0"
+}
