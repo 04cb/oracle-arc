@@ -1,8 +1,9 @@
 import Link from "next/link";
 
-import { fetchPicks, PICK_LEDGER_ADDRESS, type PickEvent } from "@/lib/arc";
+import { PICK_LEDGER_ADDRESS, type PickEvent } from "@/lib/arc";
 import { getMarketMeta, polymarketUrl, type MarketMeta } from "@/lib/polymarket";
 import { fetchReasoning, type ReasoningBlob } from "@/lib/reasoning";
+import { fmtUSDC, getAgentStats, type AgentStats } from "@/lib/stats";
 
 export const dynamic = "force-dynamic";
 
@@ -12,10 +13,10 @@ type EnrichedPick = {
   reasoning: ReasoningBlob | null;
 };
 
-async function load(): Promise<EnrichedPick[]> {
-  const events = await fetchPicks({ limit: 50 });
-  return Promise.all(
-    events.map(async (event) => {
+async function load(): Promise<{ stats: AgentStats; picks: EnrichedPick[] }> {
+  const { stats, events } = await getAgentStats();
+  const picks = await Promise.all(
+    events.slice(0, 25).map(async (event) => {
       const [market, reasoning] = await Promise.all([
         getMarketMeta(event.marketId),
         fetchReasoning(event.reasoningURI),
@@ -23,6 +24,7 @@ async function load(): Promise<EnrichedPick[]> {
       return { event, market, reasoning };
     }),
   );
+  return { stats, picks };
 }
 
 function bp(n: number): string {
@@ -44,12 +46,34 @@ function ConfidencePill({ c }: { c: string }) {
   );
 }
 
+function StatCard({
+  label,
+  value,
+  sub,
+}: {
+  label: string;
+  value: string;
+  sub?: string;
+}) {
+  return (
+    <div className="border border-zinc-800 rounded-lg p-4 bg-zinc-950">
+      <div className="text-[10px] text-zinc-500 uppercase tracking-[0.2em]">
+        {label}
+      </div>
+      <div className="font-mono text-2xl text-zinc-100 mt-1">{value}</div>
+      {sub && <div className="text-[10px] text-zinc-500 mt-1">{sub}</div>}
+    </div>
+  );
+}
+
 function PickCard({ pick }: { pick: EnrichedPick }) {
   const { event, market, reasoning } = pick;
   const outcome =
     reasoning?.outcome_label ?? (event.edgeBP >= 0 ? "Yes" : "No");
   const question = market?.question ?? "Loading market…";
-  const liquidity = market ? `$${Math.round(market.liquidity).toLocaleString()}` : "—";
+  const liquidity = market
+    ? `$${Math.round(market.liquidity).toLocaleString()}`
+    : "—";
   const isYes = outcome.toLowerCase() === "yes";
   const marketProbBP = event.probBP - event.edgeBP;
 
@@ -160,32 +184,124 @@ function Stat({
 }
 
 export default async function Home() {
-  const picks = await load();
+  const { stats, picks } = await load();
+  const avgEdgeBP = stats.picks ? stats.edgeSumAbs / stats.picks : 0;
 
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-100">
-      <header className="border-b border-zinc-800 px-6 py-8 max-w-3xl mx-auto">
-        <h1 className="text-3xl font-serif tracking-tight">Oracle</h1>
-        <p className="text-sm text-zinc-400 mt-2 max-w-xl">
-          AI-signed prediction-market picks, published on{" "}
-          <a
-            className="underline"
-            href={`https://testnet.arcscan.app/address/${PICK_LEDGER_ADDRESS}`}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Arc testnet
-          </a>
-          . Every recommendation lives on-chain forever — agent name + market +
-          recommended side + reasoning hash. Click a card to follow a pick on
-          Polymarket.
-        </p>
-        <p className="text-xs text-zinc-500 mt-3">
-          Agora Agents Hackathon · Canteen × Circle · 2026
-        </p>
+      {/* HERO */}
+      <header className="border-b border-zinc-800">
+        <div className="max-w-4xl mx-auto px-6 py-12">
+          <div className="flex items-center gap-2 text-[10px] tracking-[0.3em] uppercase text-amber-300 mb-4">
+            <span className="w-1.5 h-1.5 rounded-full bg-amber-300 animate-pulse" />
+            agora agents hackathon · canteen × circle
+          </div>
+          <h1 className="text-5xl md:text-6xl font-serif tracking-tight leading-none">
+            Oracle.
+          </h1>
+          <p className="text-lg text-zinc-300 mt-4 max-w-2xl leading-relaxed">
+            An AI prediction-market agent that{" "}
+            <span className="text-zinc-100">signs every pick on Arc</span>,
+            attaches its builder code to every fill on Polymarket V2, and
+            bridges the resulting USDC fees home via{" "}
+            <span className="text-zinc-100">Circle CCTPv2</span>.
+          </p>
+          <p className="text-sm text-zinc-500 mt-3 max-w-2xl">
+            Reasoning traces are first-class. Every recommendation lives on{" "}
+            <a
+              className="underline hover:text-zinc-300"
+              href={`https://testnet.arcscan.app/address/${PICK_LEDGER_ADDRESS}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Arc Testnet
+            </a>{" "}
+            forever, hash-anchored to the full trace.
+          </p>
+        </div>
       </header>
 
-      <section className="max-w-3xl mx-auto px-6 py-8 space-y-4">
+      {/* STATS */}
+      <section className="max-w-4xl mx-auto px-6 py-8">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+          <StatCard
+            label="picks signed"
+            value={stats.picks.toString()}
+            sub="on Arc Testnet"
+          />
+          <StatCard
+            label="avg edge"
+            value={bp(avgEdgeBP)}
+            sub="vs market price"
+          />
+          <StatCard
+            label="yes / no"
+            value={`${stats.yesPicks} / ${stats.noPicks}`}
+            sub="position direction"
+          />
+          <StatCard
+            label="treasury"
+            value={`${fmtUSDC(stats.treasuryBalanceWei)} USDC`}
+            sub="agent EOA on Arc"
+          />
+        </div>
+
+        {/* HOW IT WORKS */}
+        <div className="mt-10 grid md:grid-cols-3 gap-4 text-sm">
+          <div className="border border-zinc-800 rounded-lg p-4 bg-zinc-950">
+            <div className="text-amber-300 font-mono text-xs tracking-wider">
+              01 · ANALYZE
+            </div>
+            <div className="mt-2 text-zinc-200 font-semibold">
+              DeepSeek-V4 Pro reads each market.
+            </div>
+            <p className="mt-2 text-xs text-zinc-500 leading-relaxed">
+              Pulls open Polymarket markets, estimates true probability,
+              computes edge over market price, sizes via Kelly.
+            </p>
+          </div>
+          <div className="border border-zinc-800 rounded-lg p-4 bg-zinc-950">
+            <div className="text-amber-300 font-mono text-xs tracking-wider">
+              02 · SIGN
+            </div>
+            <div className="mt-2 text-zinc-200 font-semibold">
+              Pick emits on Arc, hash-anchored.
+            </div>
+            <p className="mt-2 text-xs text-zinc-500 leading-relaxed">
+              Recommendation + reasoning trace + Kelly size become a single
+              `Pick` event. Trail is immutable.
+            </p>
+          </div>
+          <div className="border border-zinc-800 rounded-lg p-4 bg-zinc-950">
+            <div className="text-amber-300 font-mono text-xs tracking-wider">
+              03 · MONETIZE
+            </div>
+            <div className="mt-2 text-zinc-200 font-semibold">
+              Orders carry our builder code.
+            </div>
+            <p className="mt-2 text-xs text-zinc-500 leading-relaxed">
+              Click "Place bet" — Polymarket V2 SDK signs your order with our
+              `bytes32 builderCode`. Filled fees flow back via Circle CCTPv2.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* FEED */}
+      <section className="max-w-4xl mx-auto px-6 pb-16 space-y-4">
+        <div className="flex items-baseline justify-between border-b border-zinc-800 pb-2 mb-4">
+          <h2 className="text-sm font-mono uppercase tracking-[0.2em] text-zinc-400">
+            recent picks
+          </h2>
+          {stats.agentAddress && (
+            <Link
+              href={`/agent/${stats.agentAddress}`}
+              className="text-xs text-zinc-500 hover:text-zinc-300 underline"
+            >
+              full agent profile →
+            </Link>
+          )}
+        </div>
         {picks.length === 0 ? (
           <p className="text-zinc-500 text-sm">
             No picks yet. The oracle is thinking.
