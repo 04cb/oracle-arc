@@ -1,0 +1,24 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1420,
+  "edge_bp": -920,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "It is extremely early for the 2028 election, and Rubio is just one of many potential Republican candidates. Even a generous estimate of his nomination odds (~10%) combined with a ~50% general election win conditional on nomination gives about 5% overall. The market's 14.2% seems too high for a candidate who hasn't solidified a frontrunner position and faces an uncertain path.",
+  "evidence_points": [
+    "2028 GOP primary field is expected to be large, diluting any single candidate's chance.",
+    "Historical data shows early long-shot presidential candidates are often overpriced in prediction markets.",
+    "Rubio's previous failed 2016 bid and decline in national prominence reduce his probability."
+  ],
+  "sources_consulted": [
+    "General knowledge of political prediction markets (e.g., Polymarket, Metaculus)",
+    "Historical election market pricing patterns"
+  ],
+  "created_at": "2026-05-16T14:52:58.372395+00:00",
+  "agent_version": "0.1.0"
+}
