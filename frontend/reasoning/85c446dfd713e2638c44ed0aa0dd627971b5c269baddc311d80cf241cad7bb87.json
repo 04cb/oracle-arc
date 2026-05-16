@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 2820,
+  "edge_bp": -1820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People gained 15 seats in 2021 from zero, but to again record the highest seat gain in 2026 they would need a remarkable surge in an electoral landscape where United Russia is likely to recover its 2021 losses. Given Kremlin control, United Russia could easily gain back 20+ seats, while other managed parties also compete for minor gains. The market's 28.2% probability seems inflated by recency bias; a true probability near 10% is more realistic.",
+  "evidence_points": [
+    "New People entered the Duma in 2021 with 15 seats, all gains, but their voting share (5.3%) suggests limited organic base.",
+    "United Russia shed 19 seats in 2021; a patriotic rally-around-the-flag effect from the war makes a seat gain by UR likely, exceeding any New People increase.",
+    "Kremlin-managed elections often distribute seats to multiple loyalist parties, diluting the chance that a single small party records the maximum gain."
+  ],
+  "sources_consulted": [
+    "2021 Russian State Duma election results (Wikipedia/CEC)",
+    "Center for Strategic and International Studies – Russia’s managed democracy analysis",
+    "Levada Center polling trends on party support (as available)"
+  ],
+  "created_at": "2026-05-16T17:42:11.855644+00:00",
+  "agent_version": "0.1.0"
+}

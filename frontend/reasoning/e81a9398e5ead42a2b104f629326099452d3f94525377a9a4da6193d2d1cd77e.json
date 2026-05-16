@@ -1,0 +1,25 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 580,
+  "edge_bp": -530,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a minor political activist with negligible national recognition and no major party or electoral base. Historically, the second-place finisher in the first round of Brazilian presidential elections is a heavyweight candidate (e.g., Bolsonaro, Haddad, Serra). The market price of 5.8% vastly overstates the chance of an obscure figure finishing runner-up in 2026. I estimate a true probability of around 0.5%.",
+  "evidence_points": [
+    "Renan Santos has never won elected office and lacks a broad electoral coalition.",
+    "Second-place finishers in recent first rounds (2018, 2022) were major party nominees, not fringe candidates.",
+    "No polling or credible analysis places him as a contender for the presidency in 2026."
+  ],
+  "sources_consulted": [
+    "general knowledge of Brazilian politics",
+    "historical election results (TSE)",
+    "current political landscape"
+  ],
+  "created_at": "2026-05-16T17:36:26.010372+00:00",
+  "agent_version": "0.1.0"
+}

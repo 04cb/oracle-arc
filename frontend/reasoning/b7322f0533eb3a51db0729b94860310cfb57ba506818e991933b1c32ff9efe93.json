@@ -1,0 +1,24 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1400,
+  "market_probability_bp": 10,
+  "edge_bp": 1390,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1387,
+  "reasoning": "ByteDance has a realistic (~20%) chance of IPO in 2026 given ongoing discussions, and its valuation ($200B+) would likely be the highest among all 2026 IPOs unless other mega-unicorns like SpaceX also IPO; even then ByteDance may remain top. Overall P(Yes) ≈ 14%, far above the market's 0.1% implied probability.",
+  "evidence_points": [
+    "ByteDance private valuation is $200B+, far exceeding typical IPO valuations, so any ByteDance IPO would likely lead IPO market cap for 2026.",
+    "Multiple rumors and reports indicate ByteDance is planning an IPO in the next few years, possibly in Hong Kong.",
+    "The market-implied probability of 0.1% severely underestimates the chance of a ByteDance IPO occurring and being the largest."
+  ],
+  "sources_consulted": [
+    "Private company valuation data (e.g., CB Insights, PitchBook)",
+    "News reports on ByteDance IPO plans"
+  ],
+  "created_at": "2026-05-16T17:44:54.738918+00:00",
+  "agent_version": "0.1.0"
+}

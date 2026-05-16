@@ -1,0 +1,26 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 780,
+  "edge_bp": 720,
+  "confidence": "medium",
+  "kelly_fraction_bp": 776,
+  "reasoning": "Trump's second term raises the tail risk of a US withdrawal from NATO, given his long-standing scepticism. While the National Defense Authorization Act now requires Senate consent or an act of Congress, the president could still formally trigger the denunciation process by notifying the depositary (the US government), an action that would meet the resolution criteria even if later blocked. The historical stance of Trump and the lack of a comparable attempt in his first term suggest a ~15% probability, higher than the market's 7.8%.",
+  "evidence_points": [
+    "Trump has repeatedly threatened to leave NATO and was reportedly close to doing so in his first term.",
+    "A 2023 law (FY2024 NDAA) explicitly prohibits the president from withdrawing without congressional approval, but a denunciation notice could still be sent unilaterally.",
+    "The resolution rules state that any such notice qualifies for 'Yes' regardless of judicial or legislative blocks to implementation."
+  ],
+  "sources_consulted": [
+    "Polymarket description and resolution criteria",
+    "Article 13 of the North Atlantic Treaty",
+    "FY2024 National Defense Authorization Act (Sec. 1250A)",
+    "Historical reporting on Trump's 2018-2020 NATO stance"
+  ],
+  "created_at": "2026-05-16T17:45:48.136242+00:00",
+  "agent_version": "0.1.0"
+}
