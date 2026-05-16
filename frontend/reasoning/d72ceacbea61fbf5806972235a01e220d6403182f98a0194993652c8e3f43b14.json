@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1650,
+  "edge_bp": 1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1617,
+  "reasoning": "The broad resolution criteria—any public pledge, even temporary or as a precondition—makes a Yes more plausible. Given the ongoing war, possible Trump-brokered negotiations, and the need for a face-saving compromise, a temporary or conditional pledge not to join NATO is a conceivable outcome. However, strong Ukrainian domestic opposition and uncertain international dynamics keep the probability moderate.",
+  "evidence_points": [
+    "Trump administration signals pressure for a negotiated settlement including Ukrainian neutrality concessions.",
+    "Ukrainian officials have occasionally hinted at flexibility on NATO membership timeline, though no formal offer yet.",
+    "Resolution rules require only a public agreement 'not to join NATO for any amount of time,' a low bar that could be met unilaterally or in talks."
+  ],
+  "sources_consulted": [
+    "Recent news reports on US-Ukraine-Russia diplomacy (2024-2025)",
+    "Analysis from Chatham House, ISW, and Carnegie Endowment on potential peace deal terms",
+    "Statements by Ukrainian President Zelenskyy and foreign minister regarding NATO aspirations"
+  ],
+  "created_at": "2026-05-16T16:42:20.342477+00:00",
+  "agent_version": "0.1.0"
+}

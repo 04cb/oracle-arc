@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8800,
+  "market_probability_bp": 7650,
+  "edge_bp": 1150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract's L2 token benefits from Pudgy Penguins hype and strong community. Most major L2 tokens have launched with FDVs well above $200M, and Abstract is likely to achieve at least that given now-typical valuations. Even if a bear market tempers prices, a fully diluted value of $200M is a low bar for a well-backed project in the current cycle.",
+  "evidence_points": [
+    "Blast, Starknet, zkSync, etc. all launched with FDVs in the billions.",
+    "Abstract is associated with the popular Pudgy Penguins NFT brand, ensuring significant attention and demand.",
+    "FDV multiplies total supply by token price, so even a modest token price with a large total supply can surpass $200M."
+  ],
+  "sources_consulted": [
+    "General crypto market observations on L2 token launches",
+    "Abstract project documentation and community channels"
+  ],
+  "created_at": "2026-05-16T16:41:42.749348+00:00",
+  "agent_version": "0.1.0"
+}

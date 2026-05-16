@@ -1,0 +1,24 @@
+{
+  "market_id": "0xfe94ae52c5ecfc54a8a308016894ea9732a5345afeeebc5860d1b3c2b5155338",
+  "market_slug": "gemini-3pt2-released-by-may-31-2026-393-444-173-117",
+  "market_question": "Gemini 3.2 released by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 9850,
+  "edge_bp": -1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1371,
+  "reasoning": "Google must release Gemini 3.0, 3.1, then 3.2 by May 31, 2026, a tight schedule. While Google's recent pace is fast, requiring three distinct named releases within ~13 months leaves significant room for delays, rebranding, or version-skipping. A 98.5% implied probability is too high; a realistic estimate is around 85%.",
+  "evidence_points": [
+    "Gemini 2.0 launched in Dec 2024, Gemini 2.5 in Mar 2025, indicating rapid but not guaranteed sequential releases.",
+    "Achieving 3.2 by May 2026 demands perfect execution: 3.0 by ~Q3 2025, 3.1 by early 2026, 3.2 by Q2 2026 — any slip misses the deadline.",
+    "Strict naming rules exclude non-text models and require explicit 'Gemini 3.2' labeling; minor rebranding or a leap to Gemini 4 would resolve No."
+  ],
+  "sources_consulted": [
+    "Knowledge of Google DeepMind model release history (Gemini 2.0, 2.5 dates)",
+    "Market resolution criteria from question description"
+  ],
+  "created_at": "2026-05-16T16:45:32.581904+00:00",
+  "agent_version": "0.1.0"
+}
