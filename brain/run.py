@@ -14,6 +14,7 @@ from pathlib import Path
 
 from oracle import env  # noqa: F401  — must import first to load .env
 from oracle.analyzer import analyze
+from oracle.chain import ensure_registered, publish as publish_onchain
 from oracle.markets import fetch_open_binary_markets
 
 log = logging.getLogger("oracle.run")
@@ -29,6 +30,11 @@ def main() -> int:
         help="abs edge below this threshold = skipped pick",
     )
     parser.add_argument("--out", type=Path, default=Path("picks.json"))
+    parser.add_argument(
+        "--publish",
+        action="store_true",
+        help="emit each pick on-chain via PickLedger",
+    )
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args()
 
@@ -36,6 +42,10 @@ def main() -> int:
         level=logging.DEBUG if args.verbose else logging.INFO,
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
+
+    if args.publish:
+        log.info("ensuring agent is registered on-chain…")
+        ensure_registered("Oracle")
 
     log.info("fetching open markets…")
     markets = fetch_open_binary_markets(max_results=args.limit)
@@ -59,6 +69,13 @@ def main() -> int:
             pick.edge_bp,
             pick.kelly_fraction_bp,
         )
+        if args.publish:
+            try:
+                pick_id, tx_hash = publish_onchain(pick)
+                log.info("  → on-chain id=%d  tx=%s", pick_id, tx_hash)
+            except Exception as e:
+                log.error("  → publish failed: %s", e)
+                continue
         picks.append(pick)
 
     out = {"picks": [asdict(p) for p in picks]}

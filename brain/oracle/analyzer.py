@@ -41,32 +41,36 @@ def get_client() -> Anthropic:
 
 PROMPT_SYSTEM = """You are Oracle — an AI prediction-market analyst.
 
-For each market you receive, you will:
-1. Read the question and the resolution rules carefully.
-2. Estimate the TRUE probability that the YES outcome resolves.
-3. Compare to the market's implied probability and compute the edge.
-4. Decide whether to recommend a position. ONLY recommend if:
-   - your estimate differs from the market by at least 5 percentage points (500 bp), AND
-   - you have a defensible reason backed by public facts or strong base rates.
-5. Output a single JSON object, no prose around it.
+For each market:
+1. Read the question and resolution rules.
+2. Estimate the TRUE probability that YES resolves (call this p_yes_true, 0..1).
+3. The market shows implied_p_yes from the price.
+4. If |p_yes_true - implied_p_yes| < 0.05, set "skip": true.
+5. Otherwise pick the cheaper side:
+   - If p_yes_true > implied_p_yes → outcome_choice = "Yes" (market underprices YES).
+   - If p_yes_true < implied_p_yes → outcome_choice = "No"  (market overprices YES).
+6. Report numbers RELATIVE TO YES — do NOT flip them when the choice is No:
+   - my_probability_bp     = round(p_yes_true * 10000)
+   - market_probability_bp = round(implied_p_yes * 10000)
+   - edge_bp               = my_probability_bp - market_probability_bp
+     (negative edge_bp means you're recommending No)
+7. Output ONE JSON object, no prose around it.
 
-Be honest. If you don't have strong reasoning, set "skip": true. The cost of
-a wrong pick is much higher than the cost of skipping — every published pick
-attaches to the agent's on-chain reputation.
-
-Probabilities are integers in basis points (1% = 100 bp; range 0..10000).
+Be honest. If reasoning is weak, set "skip": true — every published pick
+attaches to the agent's on-chain reputation, and a wrong pick is much
+costlier than a missed one.
 """
 
 OUTPUT_SCHEMA_HINT = """{
   "skip": false,
-  "outcome_choice": "Yes",
-  "my_probability_bp": 6200,
-  "market_probability_bp": 5400,
-  "edge_bp": 800,
-  "confidence": "medium",
+  "outcome_choice": "Yes" | "No",
+  "my_probability_bp": 0..10000,           // your P(YES) * 10000
+  "market_probability_bp": 0..10000,       // implied P(YES) from the market * 10000
+  "edge_bp": int,                          // = my - market; sign tells the side
+  "confidence": "high" | "medium" | "low",
   "reasoning": "<2-4 sentence justification>",
   "evidence_points": ["bullet 1", "bullet 2", "bullet 3"],
-  "sources_consulted": ["e.g. 'official Rockstar announcements', 'Rihanna's recent statements'"]
+  "sources_consulted": ["..."]
 }"""
 
 
@@ -154,6 +158,17 @@ def _build_pick(market: Market, p: dict[str, Any]) -> Pick | None:
     if not (0 <= my_prob <= 10000 and 0 <= mkt_prob <= 10000):
         return None
 
+    # Sanity check: sign of edge must match chosen side.
+    # edge_bp > 0  → YES is underpriced → choice should be "Yes"
+    # edge_bp < 0  → YES is overpriced  → choice should be "No"
+    derived_side = "Yes" if (my_prob - mkt_prob) > 0 else "No"
+    if outcome_label.lower() != derived_side.lower():
+        log.warning(
+            "market %s: outcome_choice=%s contradicts edge (my=%d mkt=%d); overriding to %s",
+            market.id, outcome_label, my_prob, mkt_prob, derived_side,
+        )
+        outcome_label = derived_side
+
     # Map outcome_label to outcome token id
     idx = next(
         (i for i, o in enumerate(market.outcomes) if o.lower() == outcome_label.lower()),
@@ -162,18 +177,17 @@ def _build_pick(market: Market, p: dict[str, Any]) -> Pick | None:
     if idx is None or idx >= len(market.outcome_token_ids):
         return None
 
-    side = 0  # always BUY the chosen outcome; edge sign already chose the side
+    side = 0  # always BUY the chosen outcome; the choice itself encodes direction
     chosen_price = market.outcome_prices[idx]
     if chosen_price <= 0 or chosen_price >= 1:
         return None
 
-    # Kelly: b = (1-price)/price for buying the outcome at `price`
-    b = (1.0 - chosen_price) / chosen_price
-    # Use agent's belief for the chosen outcome
+    # Kelly: agent's belief that the *chosen outcome* wins
     if outcome_label.lower() == "yes":
         p_win = my_prob / 10000.0
     else:
         p_win = 1.0 - (my_prob / 10000.0)
+    b = (1.0 - chosen_price) / chosen_price
     kelly_bp = kelly_fraction_bp(p_win, b)
 
     return Pick(
