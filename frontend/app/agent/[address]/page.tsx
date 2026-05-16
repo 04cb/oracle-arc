@@ -7,7 +7,7 @@ import { getMarketMeta } from "@/lib/polymarket";
 import { fetchReasoning } from "@/lib/reasoning";
 import { fmtUSDC, getAgentStats } from "@/lib/stats";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 60;
 
 type Params = Promise<{ address: string }>;
 

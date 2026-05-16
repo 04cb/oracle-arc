@@ -7,7 +7,10 @@ import { getMarketMeta, polymarketUrl, type MarketMeta } from "@/lib/polymarket"
 import { fetchReasoning, type ReasoningBlob } from "@/lib/reasoning";
 import { fmtUSDC, getAgentStats, type AgentStats } from "@/lib/stats";
 
-export const dynamic = "force-dynamic";
+// Cache for 60s. Picks change in the background as the brain runs; the
+// home page doesn't need real-time freshness, and ISR keeps the page fast
+// on Vercel's edge.
+export const revalidate = 60;
 
 type EnrichedPick = {
   event: PickEvent;
@@ -17,8 +20,10 @@ type EnrichedPick = {
 
 async function load(): Promise<{ stats: AgentStats; picks: EnrichedPick[] }> {
   const { stats, events } = await getAgentStats();
+  // Show the 12 most-recent picks on the home page. The full track record
+  // lives at /agent/[address] and isn't capped.
   const picks = await Promise.all(
-    events.slice(0, 25).map(async (event) => {
+    events.slice(0, 12).map(async (event) => {
       const [market, reasoning] = await Promise.all([
         getMarketMeta(event.marketId),
         fetchReasoning(event.reasoningURI),

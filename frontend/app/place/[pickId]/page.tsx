@@ -7,7 +7,7 @@ import { fetchReasoning } from "@/lib/reasoning";
 
 import { PlaceBetForm } from "./PlaceBetForm";
 
-export const dynamic = "force-dynamic";
+export const revalidate = 60;
 
 type Params = Promise<{ pickId: string }>;
 
