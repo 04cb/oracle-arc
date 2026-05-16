@@ -1,0 +1,1 @@
+Run from contracts/: `forge install foundry-rs/forge-std --no-git`
