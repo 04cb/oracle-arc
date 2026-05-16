@@ -114,14 +114,22 @@ function PickCard({ pick }: { pick: EnrichedPick }) {
           <span>liquidity {liquidity}</span>
         </div>
         {market?.slug ? (
-          <Link
-            href={polymarketUrl(market.slug)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-xs font-semibold px-3 py-1.5 rounded bg-zinc-100 text-zinc-950 hover:bg-white"
-          >
-            Bet on Polymarket →
-          </Link>
+          <div className="flex items-center gap-2">
+            <Link
+              href={polymarketUrl(market.slug)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs px-3 py-1.5 rounded border border-zinc-700 hover:border-zinc-500 text-zinc-300"
+            >
+              View on Polymarket
+            </Link>
+            <Link
+              href={`/place/${event.pickId.toString()}`}
+              className="text-xs font-semibold px-3 py-1.5 rounded bg-zinc-100 text-zinc-950 hover:bg-white"
+            >
+              Place bet →
+            </Link>
+          </div>
         ) : null}
       </footer>
     </article>
