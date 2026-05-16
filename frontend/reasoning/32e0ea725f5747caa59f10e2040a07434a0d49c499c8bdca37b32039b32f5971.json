@@ -1,0 +1,24 @@
+{
+  "market_id": "0x86f097adec2b38cbd44f02d1476a20b26a4ba82d00ced50944126b6096f7950b",
+  "market_slug": "will-houston-texans-win-the-2027-nfl-afc-championship-334",
+  "market_question": "Will Houston Texans win the 2027 NFL AFC Championship?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 450,
+  "market_probability_bp": 1000,
+  "edge_bp": -550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The implied 10% chance is too generous for a Texans team that, while improving with a promising QB, still operates in an AFC loaded with Mahomes, Allen, Burrow, Jackson, and other elite quarterbacks. Winning the conference three years out also involves significant roster and injury uncertainty; a more realistic probability is about 4.5%.",
+  "evidence_points": [
+    "The AFC has multiple perennial Super Bowl contenders with top-tier QBs, making it extremely difficult for a team like the Texans to break through.",
+    "Houston's recent playoff appearances are a step forward, but they have not yet demonstrated the consistency or roster depth to compete with the AFC's top tier.",
+    "Long-range NFL forecasts have high variance; even promising teams face ~5% or lower annual odds to win their conference unless they are already established powerhouses."
+  ],
+  "sources_consulted": [
+    "General NFL landscape knowledge via NFL.com and sports media (current QB hierarchy, recent playoff results)",
+    "Historical NFL conference championship win probabilities for non-top-4 seeds"
+  ],
+  "created_at": "2026-05-16T15:43:25.459213+00:00",
+  "agent_version": "0.1.0"
+}

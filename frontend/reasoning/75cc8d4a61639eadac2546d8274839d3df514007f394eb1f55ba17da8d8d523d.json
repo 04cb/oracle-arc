@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8800,
+  "market_probability_bp": 7650,
+  "edge_bp": 1150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile Ethereum L2 by the creators of Pudgy Penguins, with a strong community and likely token launch before 2028. Most comparable L2 tokens (e.g., Blast, Starknet, ZKsync) launched with FDVs well above $200M on their first day. The risk of no launch or a sub-$200M debut is low. The market’s 76.5% probability underestimates the true chance, creating value on YES.",
+  "evidence_points": [
+    "Pudgy Penguins/Igloo Inc. backing ensures significant attention and liquidity at launch.",
+    "Historical precedent: L2 tokens typically launch with FDVs in the billions, not millions.",
+    "Only major adverse market or regulatory events would prevent a >$200M FDV on day one."
+  ],
+  "sources_consulted": [
+    "General knowledge of L2 token launches (Starknet, ZKsync, Blast, Arbitrum)",
+    "Igloo Inc. / Abstract project background",
+    "Crypto market norms for first-day FDV"
+  ],
+  "created_at": "2026-05-16T15:25:33.509873+00:00",
+  "agent_version": "0.1.0"
+}
