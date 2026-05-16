@@ -1,0 +1,27 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 780,
+  "edge_bp": -580,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite campaign rhetoric, no US administration has ever formally initiated NATO withdrawal, and doing so would face overwhelming domestic and international opposition. Even a second Trump term is unlikely to overcome Congressional, military, and public resistance to trigger Article 13 by end-2026. The market's ~7.8% price overestimates this tail risk.",
+  "evidence_points": [
+    "Trump’s first term included threats but never formal withdrawal steps; closest was a 2018 NYT report that he privately discussed it.",
+    "Recent Trump comments remain ambiguous and do not equate to official notice under Article 13.",
+    "NATO withdrawal would require sustained political capital and would swiftly be challenged by Congress and the courts, delaying or blocking implementation.",
+    "The 2024 election outcome is uncertain, but even a Republican administration faces steep institutional barriers."
+  ],
+  "sources_consulted": [
+    "The North Atlantic Treaty (Article 13)",
+    "New York Times reporting on Trump's private NATO discussions (2018)",
+    "Analysis from think tanks (Brookings, CFR) on US-NATO relations",
+    "Polymarket odds for 2024 presidential election"
+  ],
+  "created_at": "2026-05-16T13:54:17.048150+00:00",
+  "agent_version": "0.1.0"
+}

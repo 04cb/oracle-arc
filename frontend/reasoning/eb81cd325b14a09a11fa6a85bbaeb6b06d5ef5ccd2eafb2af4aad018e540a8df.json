@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 7650,
+  "edge_bp": 850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile L2 backed by Igloo Inc. (Pudgy Penguins) with ample funding, making a token launch by end‑2027 highly probable. Comparable recent L2 tokens (Arbitrum, Optimism, Starknet, Mode) all launched with FDVs far exceeding $200M, and a $200M threshold equates to a token price below $0.02 for a typical multi‑billion supply, which is extremely low for a hyped project. The main risk is a delayed or missed launch, but even after discounting that, P(Yes) is around 85%.",
+  "evidence_points": [
+    "Abstract is building a consumer‑focused L2, started by the team behind Pudgy Penguins, with a strategic raise of $11M.",
+    "Token launch before 2028 appears very likely given project roadmap and history of comparable L2s.",
+    "FDVs of recent L2 governance tokens (e.g., ARB at $1.5B+, MODE at $400M) indicate the $200M bar is a very low hurdle."
+  ],
+  "sources_consulted": [
+    "Abstract official announcements and roadmap",
+    "Igloo Inc. funding news",
+    "Historical launch FDVs of ARB, OP, STRK, MODE, ZK"
+  ],
+  "created_at": "2026-05-16T13:35:21.461422+00:00",
+  "agent_version": "0.1.0"
+}

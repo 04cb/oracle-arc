@@ -1,0 +1,24 @@
+{
+  "market_id": "0xfe94ae52c5ecfc54a8a308016894ea9732a5345afeeebc5860d1b3c2b5155338",
+  "market_slug": "gemini-3pt2-released-by-may-31-2026-393-444-173-117",
+  "market_question": "Gemini 3.2 released by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 9880,
+  "edge_bp": -2880,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Google's latest model is Gemini 2.5; releasing Gemini 3, then a 3.1, and then a successor 3.2 (or 3.3/3.4) within a year would require an aggressive cadence. The specific naming sequence adds uncertainty, and skipping to Gemini 4 is possible. The current 98.8% implied probability appears overly confident given no public roadmap for such a rapid version progression.",
+  "evidence_points": [
+    "As of May 2025, the latest Gemini model is 2.5 Pro/Flash; no Gemini 3.x exists yet.",
+    "Google would need to ship Gemini 3, then 3.1, then a qualifying 3.2+ variant by May 2026, which is three version increments in ~12 months.",
+    "AI companies frequently skip minor version numbers or rebrand entire model lines, making exact 3.2 naming far from guaranteed."
+  ],
+  "sources_consulted": [
+    "Public knowledge of Google AI releases (Gemini 2.5 Pro March 2025, Gemini 2.5 Flash April 2025)",
+    "General observation of AI model release cadences"
+  ],
+  "created_at": "2026-05-16T13:41:42.290183+00:00",
+  "agent_version": "0.1.0"
+}

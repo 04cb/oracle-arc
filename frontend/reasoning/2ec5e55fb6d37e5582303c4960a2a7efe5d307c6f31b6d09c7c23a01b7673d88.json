@@ -1,0 +1,27 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1700,
+  "edge_bp": 1300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1566,
+  "reasoning": "The market's 17% implied probability likely underestimates the chance that Ukraine formally agrees to renounce NATO membership by end of 2026. With Trump's administration pushing for a ceasefire, a peace deal before 2027 is plausible, and Russia will make Ukrainian neutrality a condition. Ukraine's leadership, while publicly pro-NATO, may accept a temporary moratorium to secure peace and Western security guarantees, as seen in the 2022 Istanbul draft. I assess a 30% likelihood.",
+  "evidence_points": [
+    "Trump is strongly pressuring for a Ukraine-Russia peace deal in 2025, raising odds of an agreement by the deadline.",
+    "Russia's core demand remains Ukraine's permanent neutrality and non-alignment; any peace deal will almost certainly include a NATO restriction.",
+    "During the 2022 Istanbul peace talks, Ukraine signaled willingness to adopt a neutral, non-nuclear status with international security guarantees, showing a precedent for such concessions.",
+    "Ukraine's de facto inability to join NATO soon (low membership odds, measured at ~6% by 2030 on Polymarket) reduces the political cost of formally agreeing not to join for a period."
+  ],
+  "sources_consulted": [
+    "Polymarket data for this market",
+    "Polymarket odds on Ukraine joining NATO by 2030",
+    "News reports on Trump's peace initiatives (2025)",
+    "Historical context of 2022 Istanbul negotiations"
+  ],
+  "created_at": "2026-05-16T13:37:59.216892+00:00",
+  "agent_version": "0.1.0"
+}
