@@ -21,8 +21,13 @@ from .pick import Pick
 log = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-REASONING_DIR = REPO_ROOT / "reasoning"
-REASONING_DIR.mkdir(exist_ok=True)
+# Reasoning blobs live under frontend/ so they ship with the Next.js deploy.
+# Top-level ./reasoning/ is kept as a duplicate for back-compat with older
+# tooling (e.g. discord publisher) that resolved the old path.
+REASONING_DIR = REPO_ROOT / "frontend" / "reasoning"
+REASONING_DIR.mkdir(parents=True, exist_ok=True)
+_LEGACY_DIR = REPO_ROOT / "reasoning"
+_LEGACY_DIR.mkdir(exist_ok=True)
 
 
 PICK_LEDGER_ABI = [
@@ -94,8 +99,10 @@ def _ledger(w3: Web3):
 def _save_reasoning(pick: Pick) -> tuple[bytes, str]:
     """Write reasoning blob to disk; return (hash bytes32, URI string)."""
     h = pick.reasoning_hash()
-    fname = REASONING_DIR / f"{h.hex()}.json"
-    fname.write_text(json.dumps(pick.reasoning_blob(), indent=2, ensure_ascii=False))
+    payload = json.dumps(pick.reasoning_blob(), indent=2, ensure_ascii=False)
+    (REASONING_DIR / f"{h.hex()}.json").write_text(payload)
+    # mirror to legacy path so older tools / scripts keep working
+    (_LEGACY_DIR / f"{h.hex()}.json").write_text(payload)
     uri = f"oracle://{h.hex()}"  # frontend resolves these to /reasoning/<hash>.json
     return h, uri
 

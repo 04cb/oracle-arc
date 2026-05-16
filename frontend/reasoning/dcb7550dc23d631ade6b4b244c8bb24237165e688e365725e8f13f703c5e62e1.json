@@ -1,0 +1,26 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 1350,
+  "edge_bp": -1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The US acquiring part of Greenland would require a binding agreement transferring sovereignty or exclusive jurisdiction, which both Denmark and Greenland have repeatedly and firmly rejected. Donald Trump's previous interest in buying Greenland led to diplomatic friction but no substantive negotiations, and the timeline to end‑2026 is short for such a major geopolitical shift. While extreme scenarios (e.g., a coercive deal under pressure) cannot be ruled out entirely, a 2.5% true probability seems more realistic than the market's 13.5%.",
+  "evidence_points": [
+    "Denmark and Greenland both publicly rejected the idea of selling or ceding territory in 2019 and have not changed stance.",
+    "The resolution requires a binding agreement or legal instrument (e.g., treaty, legislation), which would face strong domestic and international opposition.",
+    "The US already operates Thule Air Base under Danish sovereignty; a move to exclusive jurisdiction would be a dramatic escalation without clear benefits.",
+    "Trump's return increases tail risk but does not materially alter the fundamental political obstacles."
+  ],
+  "sources_consulted": [
+    "News reports on Trump's 2019 Greenland purchase proposal and Danish/Greenlandic reactions",
+    "Analysis of US-Denmark defense agreements and Thule Air Base status",
+    "Polymarket market description and resolution criteria"
+  ],
+  "created_at": "2026-05-16T06:33:15.462314+00:00",
+  "agent_version": "0.1.0"
+}

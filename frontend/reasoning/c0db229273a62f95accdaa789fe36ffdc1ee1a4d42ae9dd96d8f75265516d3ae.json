@@ -1,0 +1,26 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 7600,
+  "edge_bp": 1600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer Layer‑2 by Igloo Inc. (Pudgy Penguins), with mainnet live since January 2025 and a governance token expected. Comparable L2 tokens (e.g., Arbitrum, Optimism) launched with FDVs well above $2B, and even smaller chains easily exceed $200M. The primary risk is a failure to launch by end‑2027, but that appears very unlikely given the team’s track record and the mainnet launch. Thus, true probability is far above the market’s 76%.",
+  "evidence_points": [
+    "Abstract mainnet launched January 2025; team confirmed token launch upcoming.",
+    "Arbitrum, Optimism, and other L2 tokens launched with FDVs in the multi‑billion range, making $200M a trivial bar.",
+    "Pudgy Penguins’ associated PENGU token has a fully diluted valuation over $500M, confirming strong market interest.",
+    "Total supply metrics and initial price discovery typically produce FDVs above $200M for projects of this scale."
+  ],
+  "sources_consulted": [
+    "Abstract Chain official announcements",
+    "Pudgy Penguins / Igloo Inc. funding and token news",
+    "CoinGecko/CoinMarketCap FDV data for comparable L2 tokens"
+  ],
+  "created_at": "2026-05-16T04:48:41.039042+00:00",
+  "agent_version": "0.1.0"
+}

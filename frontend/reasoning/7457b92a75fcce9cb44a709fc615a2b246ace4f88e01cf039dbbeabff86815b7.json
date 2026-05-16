@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 1950,
+  "edge_bp": 2050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine is under heavy pressure from the Trump administration to accept a ceasefire deal in 2025, where Russia demands Ukraine abandon NATO membership. While permanent renunciation is unlikely, a temporary freeze on NATO ambitions (e.g. 10-year moratorium) is a plausible compromise that would qualify as a 'Yes' under the market rules. The market's 19.5% implied probability severely underprices this scenario.",
+  "evidence_points": [
+    "US President Trump is aggressively pushing for a Ukraine peace deal in 2025, making NATO concessions likely.",
+    "Multiple media reports in early 2025 indicate proposals for Ukraine to accept a 5–10 year moratorium on NATO membership as part of a ceasefire framework.",
+    "Zelenskyy has signaled willingness to negotiate security guarantees without immediately joining NATO, leaving room for a time-bound pledge."
+  ],
+  "sources_consulted": [
+    "Reuters coverage of US-Ukraine negotiations 2025",
+    "BBC News reports on Ukraine peace proposals",
+    "CNN analysis of Zelenskyy’s NATO stance under Trump administration"
+  ],
+  "created_at": "2026-05-16T05:51:53.586426+00:00",
+  "agent_version": "0.1.0"
+}

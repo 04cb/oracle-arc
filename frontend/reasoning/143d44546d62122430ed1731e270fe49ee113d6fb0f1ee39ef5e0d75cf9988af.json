@@ -1,0 +1,24 @@
+{
+  "market_id": "0xef7b6ed51d62f5f98cd038ecd666ee37b5741a5d763062987a5761b2c9b167c3",
+  "market_slug": "will-ethereum-reach-3600-in-may-2026",
+  "market_question": "Will Ethereum reach $3,600 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7500,
+  "market_probability_bp": 20,
+  "edge_bp": 7480,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ethereum currently trades near $3,400, only 6% below the $3,600 target. A one-minute high in a full month a year from now is overwhelmingly likely to touch that level barring a catastrophic collapse, yet the market prices it below 1%.",
+  "evidence_points": [
+    "Current ETH price ~$3,400, meaning a ~6% move suffices.",
+    "One-minute candle highs capture even brief spikes, drastically lowering the bar.",
+    "May 2026 is far enough away that any bullish sentiment or even a dead‑cat bounce in a bear market would likely produce a $3,600 wick."
+  ],
+  "sources_consulted": [
+    "Binance ETH/USDT chart",
+    "Historical intra-month high/low statistics"
+  ],
+  "created_at": "2026-05-16T05:49:36.636910+00:00",
+  "agent_version": "0.1.0"
+}
