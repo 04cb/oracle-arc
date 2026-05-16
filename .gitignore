@@ -19,3 +19,4 @@ build/
 .vscode/
 picks.json
 reasoning/
+discord_state.json
