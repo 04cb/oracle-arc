@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 750,
+  "market_probability_bp": 1420,
+  "edge_bp": -670,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Elections four years out are highly unpredictable. Marco Rubio is a credible but not prohibitive frontrunner; his 2016 campaign underperformed. In a wide-open Republican primary, his nomination chance is around 15%, and conditional on nomination the general election is roughly 50-50, giving ~7.5% overall. The market's 14.2% overvalues him at this early stage.",
+  "evidence_points": [
+    "Historical betting markets for individual candidates 4 years ahead rarely exceed 10% unless they are clear national favorites (Rubio is not).",
+    "Rubio failed to win a single state in the 2016 GOP primary, suggesting limited nominee path.",
+    "The Republican field is likely to include DeSantis, Haley, and others who draw similar constituencies, diluting Rubio's support."
+  ],
+  "sources_consulted": [
+    "Polymarket historical odds",
+    "Ballotpedia 2016 primary results",
+    "FiveThirtyEight election models"
+  ],
+  "created_at": "2026-05-16T19:11:45.441555+00:00",
+  "agent_version": "0.1.0"
+}

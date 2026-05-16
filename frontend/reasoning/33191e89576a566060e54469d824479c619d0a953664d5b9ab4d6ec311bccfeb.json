@@ -1,0 +1,26 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 350,
+  "market_probability_bp": 1450,
+  "edge_bp": -1100,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market's 14.5% implied probability is heavily inflated by rhetoric; actual acquisition would require a negotiated transfer of sovereignty or exclusive jurisdiction, which Denmark and Greenland have consistently and categorically rejected, or a forceful seizure against a NATO ally—extremely implausible. Even if negotiations were to start, the legal, political, and diplomatic hurdles would likely push any effective date past the 2026 deadline. True probability is closer to 3–4%.",
+  "evidence_points": [
+    "Denmark and Greenland have repeatedly and officially ruled out selling or ceding territory, leadership statements in 2019 and again in 2025.",
+    "Forcible acquisition is virtually unthinkable under NATO Article 5 and international law, with no credible threat of military action against an ally.",
+    "Negotiating and ratifying a binding agreement of this scale (e.g., a compact of free association or a territorial purchase) would realistically take years, making a late 2026 deadline extremely challenging."
+  ],
+  "sources_consulted": [
+    "Statements from Danish and Greenlandic prime ministers (2019–2025)",
+    "News coverage of Trump's 2019 proposal and 2025 administration's revived interest",
+    "Analysis of U.S. military basing agreements (Pituffik Space Base) showing they grant no sovereignty or exclusive jurisdiction",
+    "Historical precedents of territorial acquisition by purchase (last 100 years) and their timelines"
+  ],
+  "created_at": "2026-05-16T18:48:54.464122+00:00",
+  "agent_version": "0.1.0"
+}
