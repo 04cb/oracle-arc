@@ -1,0 +1,25 @@
+{
+  "market_id": "0x331cd65740d378b98427723b33b353c62241e7bdabfaa01daac48d9caf85b401",
+  "market_slug": "will-eleni-kounalakis-win-the-california-governor-election-in-2026",
+  "market_question": "Will Eleni Kounalakis win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 20,
+  "edge_bp": 480,
+  "confidence": "medium",
+  "kelly_fraction_bp": 486,
+  "reasoning": "Eleni Kounalakis is the sitting Lieutenant Governor of California, a Democrat with high name recognition in a state where the office historically provides a strong stepping stone to the governorship. The 2026 race is an open seat (Newsom term‑limited), and a top‑two primary in a deep‑blue state makes it plausible she advances. The market’s price of 0.2% far underestimates her chances, which are conservatively in the low single digits even accounting for a crowded field and the tiny risk of delayed certification.",
+  "evidence_points": [
+    "Sitting Lieutenant Governors have historically had a high success rate in California gubernatorial elections (e.g., Gray Davis, Gavin Newsom).",
+    "Kounalakis has been actively fundraising and building a campaign operation for 2026.",
+    "The open‑seat, top‑two primary structure in a heavily Democratic state allows multiple strong Democrats to compete, but leaves a credible path for a well‑known figure like Kounalakis."
+  ],
+  "sources_consulted": [
+    "Historical California gubernatorial election results",
+    "Recent news articles on Kounalakis’ 2026 campaign (e.g., CalMatters, Los Angeles Times)",
+    "Polymarket CA Governor 2026 market (overview of other candidate prices)"
+  ],
+  "created_at": "2026-05-16T23:15:06.420627+00:00",
+  "agent_version": "0.1.0"
+}

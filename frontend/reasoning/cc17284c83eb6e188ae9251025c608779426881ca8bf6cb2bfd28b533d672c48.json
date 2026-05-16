@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1410,
+  "edge_bp": -810,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio's true probability of winning the 2028 election is likely significantly lower than the market's 14.1%. The race is far off, the GOP field is wide open with strong potential candidates like DeSantis and Haley, and Rubio's historical electoral performance and the typical path from Secretary of State make his odds modest. I estimate a 6% chance, implying the market is overpricing YES.",
+  "evidence_points": [
+    "Extreme forecasting uncertainty ~4 years out; early nomination markets often overstate single-digit candidates.",
+    "Rubio's 2016 campaign underperformed; as SecState he gains visibility but not a guaranteed primary boost.",
+    "Other likely GOP contenders (DeSantis, Haley, Ramaswamy, etc.) split support, likely pushing Rubio's true chance into the 5–10% range."
+  ],
+  "sources_consulted": [
+    "Polymarket historical pricing patterns for distant elections",
+    "General election dynamics and term limits (Trump ineligible in 2028)",
+    "Historical Secretary of State-to-President transitions"
+  ],
+  "created_at": "2026-05-16T23:36:41.814980+00:00",
+  "agent_version": "0.1.0"
+}
