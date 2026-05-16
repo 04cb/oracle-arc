@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "low",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The 2028 election is far in the future with immense uncertainty. Republicans, as the incumbent party after Trump's 2024 win, may benefit from a favourable electoral map and economic conditions, but historical patterns after a single term and potential voter fatigue create headwinds. I estimate a 45% chance, slightly above the market's 38.5%.",
+  "evidence_points": [
+    "Incumbent party without the president running often faces a challenged re-election bid.",
+    "Historical data shows that after a one-term presidency, the out-party wins about 55% of the time since WWII, suggesting a ~45% baseline for the incumbent.",
+    "Republicans currently hold structural advantages in the Electoral College, which could persist."
+  ],
+  "sources_consulted": [
+    "Historical election outcome databases (1948-2024)",
+    "Current electoral college projections and demographic trends",
+    "General political science literature on party electoral penalty after one term"
+  ],
+  "created_at": "2026-05-16T19:57:22.846581+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7650,
+  "edge_bp": 1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is an Ethereum L2 backed by the Pudgy Penguins team, with a strong brand and large community. Comparable L2 tokens (Arbitrum, Optimism, Polygon) launched with FDVs in the billions, making a $200M threshold very low. The market's 23.5% implied failure probability seems excessive given the project's prominence and the typical valuations in the space, though regulatory or launch-timing risks add minor uncertainty.",
+  "evidence_points": [
+    "Arbitrum, Optimism, and other major L2 tokens launched with FDVs >$1B, suggesting $200M is easily achievable.",
+    "Abstract benefits from the Pudgy Penguins NFT community, one of the most recognized brands in crypto.",
+    "The market-implied 76.5% probability underestimates the likelihood given the track record of hyped L2 launches."
+  ],
+  "sources_consulted": [
+    "General crypto market knowledge of L2 token valuations",
+    "Abstract project background (Pudgy Penguins, Igloo Inc.)",
+    "Historical data on airdrop valuations"
+  ],
+  "created_at": "2026-05-16T19:47:05.980009+00:00",
+  "agent_version": "0.1.0"
+}

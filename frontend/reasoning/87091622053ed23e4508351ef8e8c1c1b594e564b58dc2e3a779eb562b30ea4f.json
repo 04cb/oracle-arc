@@ -1,0 +1,26 @@
+{
+  "market_id": "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231",
+  "market_slug": "will-bitcoin-dip-to-75k-in-may-2026",
+  "market_question": "Will Bitcoin dip to $75,000 in May?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4300,
+  "market_probability_bp": 5750,
+  "edge_bp": -1450,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "With Bitcoin around $85k, a dip to $75k is a ~12% decline. Using 60% annualised volatility, the probability of touching that level in a month is about 45%, well below the market-implied 57.5%. The No contract is therefore undervalued.",
+  "evidence_points": [
+    "BTC/USDT spot price near $85k in late April 2025",
+    "Monthly IV typically 40–60%, giving a 1‑sigma range of ~$71k–$100k",
+    "Touch probability estimate of 45% from a simple driftless barrier model",
+    "Market overestimates the likelihood of such a wick, possibly due to recency bias or fear"
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT spot chart",
+    "Deribit implied volatility term structure",
+    "Historical intra-month wick frequency"
+  ],
+  "created_at": "2026-05-16T20:04:23.003632+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1750,
+  "edge_bp": 750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 909,
+  "reasoning": "A peace deal before 2027 is plausible given war fatigue and potential political shifts. Any settlement would almost certainly involve a Ukrainian pledge of neutrality, satisfying the market’s broad criteria (any duration or precondition). The market’s 17.5% seems slightly too low for this scenario.",
+  "evidence_points": [
+    "Russia has consistently demanded Ukraine's neutrality as a condition for peace",
+    "U.S. political developments may push for a negotiated settlement in 2025",
+    "Market resolution rules are lenient: any agreement, even as a pre-condition or for any time period, qualifies"
+  ],
+  "sources_consulted": [
+    "General geopolitical analysis of Russo-Ukrainian war dynamics",
+    "Assessment of peace deal likelihood from conflict resolution think tanks",
+    "Market resolution rules"
+  ],
+  "created_at": "2026-05-16T19:48:05.985173+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 2860,
+  "edge_bp": -1660,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People gained 13 seats in 2021, while CPRF gained 15, making it unlikely that a newer Kremlin-aligned party would be the top gainer in a highly controlled 2026 election, where United Russia’s dominance and suppression of opposition are expected to limit gains for any outsider.",
+  "evidence_points": [
+    "In 2021, New People gained 13 seats (from 0) but CPRF gained 15, so the top-gainer threshold was modest.",
+    "Since 2021, political repression has intensified, and systemic opposition parties like New People may be allowed only limited growth to preserve United Russia’s supermajority.",
+    "Wartime nationalism typically benefits the incumbent party, reducing the chance that an opposition party (even one perceived as loyal) will see the largest seat increase."
+  ],
+  "sources_consulted": [
+    "2021 Russian State Duma election results (official CEC data)",
+    "Reports on Russian political landscape 2022–2024 (Freedom House, Al Jazeera)",
+    "Analysis of United Russia’s electoral strategies under Putin"
+  ],
+  "created_at": "2026-05-16T19:45:35.049049+00:00",
+  "agent_version": "0.1.0"
+}
