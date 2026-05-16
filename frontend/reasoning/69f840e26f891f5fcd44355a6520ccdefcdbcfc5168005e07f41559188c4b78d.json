@@ -1,0 +1,25 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 550,
+  "edge_bp": -500,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a minor political figure, leader of the MBL movement, with limited national recognition. The 2026 Brazilian presidential election will likely feature strong major-party candidates, making it highly improbable for Santos to secure second place. The market's 5.5% implied probability significantly overstates his true chances.",
+  "evidence_points": [
+    "Santos has never held a high-profile elected office and lacks a broad electoral coalition.",
+    "Historical first-round results show second place goes to major party candidates.",
+    "Preliminary polls and political analysis do not include Santos as a leading contender."
+  ],
+  "sources_consulted": [
+    "Wikipedia: Renan Santos",
+    "Brazilian political analysis articles (Folha de S.Paulo)",
+    "2022 election results data"
+  ],
+  "created_at": "2026-05-16T15:56:30.761703+00:00",
+  "agent_version": "0.1.0"
+}

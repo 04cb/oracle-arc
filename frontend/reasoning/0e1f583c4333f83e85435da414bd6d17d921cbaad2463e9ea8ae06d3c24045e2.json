@@ -1,0 +1,25 @@
+{
+  "market_id": "0x86f097adec2b38cbd44f02d1476a20b26a4ba82d00ced50944126b6096f7950b",
+  "market_slug": "will-houston-texans-win-the-2027-nfl-afc-championship-334",
+  "market_question": "Will Houston Texans win the 2027 NFL AFC Championship?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 350,
+  "market_probability_bp": 870,
+  "edge_bp": -520,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Houston Texans have never reached an AFC Championship game and play in a conference dominated by established powers like the Chiefs, Bills, and Ravens. While C.J. Stroud and DeMeco Ryans provide a solid foundation, converting that into a conference title by 2027 requires multiple deep playoff wins against elite teams—a roughly 3–4% proposition in my assessment, well below the 8.7% implied by the market.",
+  "evidence_points": [
+    "Texans have zero AFC Championship appearances in franchise history, with their deepest run being a divisional round loss in 2023.",
+    "The AFC features multiple perennial Super Bowl contenders (Chiefs, Bills, Ravens, Bengals) that have deep playoff experience and elite rosters.",
+    "While the Texans are a rising team, statistical models and historical conversion rates from 'promising young core' to 'conference champion' support a single-digit probability for a specific future year."
+  ],
+  "sources_consulted": [
+    "NFL standings and playoff history",
+    "current power rankings and roster assessments",
+    "Super Bowl futures market data for context on AFC dominance"
+  ],
+  "created_at": "2026-05-16T16:10:44.376698+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 2820,
+  "edge_bp": -1820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People is a small, Kremlin-vetted party with just 13 seats in the current Duma. For it to gain the most seats, its net increase would have to exceed that of all other parties, including any positive gain by United Russia or a large negative swing by the ruling party—both scenarios are highly unlikely under Russia's managed electoral system. The market's 28.2% implied probability is far too optimistic given the party's marginal position and the Kremlin's penchant for ensuring United Russia's dominant performance.",
+  "evidence_points": [
+    "New People won only 13 seats (≈2.9% of seats) in 2021; it would need an unprecedented net gain in a system where seat allocation is tightly controlled.",
+    "United Russia holds 324 seats and operates as the ‘party of power’—a significant seat loss (negative gain) is improbable under current political conditions.",
+    "Historical precedent shows new Kremlin-backed parties like New People remain peripheral, rarely becoming the top seat gainers in any election."
+  ],
+  "sources_consulted": [
+    "2021 Russian legislative election official results (CEC data)",
+    "Reports on Russian electoral authoritarianism and party system management",
+    "Current Duma composition by party"
+  ],
+  "created_at": "2026-05-16T16:10:05.060003+00:00",
+  "agent_version": "0.1.0"
+}
