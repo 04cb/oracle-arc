@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8800,
+  "market_probability_bp": 7650,
+  "edge_bp": 1150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a hyped L2 from the Pudgy Penguins team; their previous PENGU token launched with multi-billion FDV. A $200M FDV is a very low threshold for credible projects, and the long timeline to 2028 makes token launch highly probable. The market's 76.5% probability appears too low for this scenario.",
+  "evidence_points": [
+    "Pudgy Penguins/Igloo Inc. track record with token launches (PENGU reached >$2B FDV)",
+    "Top L2 tokens consistently debut well above $200M FDV in the current cycle",
+    "The resolution window extends to end of 2027, giving ample time for launch"
+  ],
+  "sources_consulted": [
+    "Crypto market data on L2 valuations",
+    "Public information on Abstract and Igloo Inc. funding/launch history"
+  ],
+  "created_at": "2026-05-16T22:23:02.568147+00:00",
+  "agent_version": "0.1.0"
+}
