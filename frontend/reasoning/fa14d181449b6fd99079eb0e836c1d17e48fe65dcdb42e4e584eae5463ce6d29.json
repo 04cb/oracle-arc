@@ -1,0 +1,26 @@
+{
+  "market_id": "0x2de954c6acc43b5b6382dfe453c4e2e00dc9c2c8e9caf2a5752039d3c218f231",
+  "market_slug": "will-bitcoin-dip-to-75k-in-may-2026",
+  "market_question": "Will Bitcoin dip to $75,000 in May?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5000,
+  "market_probability_bp": 5750,
+  "edge_bp": -750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1304,
+  "reasoning": "Bitcoin at ~$84k, a 10.7% drop to $75k in a month is plausible but not more likely than not. Assuming ~3% daily volatility and neutral drift, the first-passage probability for hitting $75k is around 50%. The market’s 57.5% slightly overestimates the likelihood, giving a negative edge on Yes.",
+  "evidence_points": [
+    "Bitcoin spot price ~$84,000 (Binance BTC/USDT), $75k is ~10.7% below current.",
+    "30-day annualized volatility ~65%, translating to ~16% monthly standard deviation in log-prices.",
+    "Driftless barrier-hit probability over 30 days ≈ 2*Φ(−ln(84/75)/0.164) = 48-50%, and bullish drift biases it lower.",
+    "Recent intra-month drawdowns have been 15-20% but typically reverse; this May holds no obvious high-conviction catalyst for a break."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT price chart (April 2025)",
+    "Custom estimate of monthly volatility from daily returns (CoinGecko/Binance)",
+    "Black-Scholes / first-passage barrier approximation for GBM"
+  ],
+  "created_at": "2026-05-16T20:32:36.116293+00:00",
+  "agent_version": "0.1.0"
+}

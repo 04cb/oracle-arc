@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1750,
+  "edge_bp": 750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 909,
+  "reasoning": "Trump’s return to office significantly increases pressure for a negotiated settlement, and Russia’s paramount demand is Ukrainian neutrality on NATO. While Ukraine’s public stance has been firmly pro-NATO, the military stalemate and potential drop in aid could force a pledge, even if temporary, to secure a peace deal. The broad resolution criteria mean any pledge, even part of a peace process, qualifies, making the 25% probability a reasonable estimate versus the market’s 17.5%.",
+  "evidence_points": [
+    "Trump administration signals a push for a Ukraine peace deal in 2025, with reports that neutrality or a NATO moratorium will be central.",
+    "Russia’s consistent precondition has been Ukraine’s non-membership in NATO; any ceasefire would likely require Ukraine’s explicit agreement.",
+    "Ukrainian public and elite opposition to formally renouncing NATO is strong, but the economic and military strain could prompt a temporary pledge.",
+    "Broad resolution rules include unilateral pledges, temporary agreements, or pledges made as part of a broader peace process."
+  ],
+  "sources_consulted": [
+    "General knowledge of Ukraine-Russia war developments (2022–2025)",
+    "Post-election US foreign policy statements (Trump/Rubio)",
+    "Reports on potential peace frameworks (e.g., 20-year NATO delay proposals)"
+  ],
+  "created_at": "2026-05-16T20:16:33.428147+00:00",
+  "agent_version": "0.1.0"
+}

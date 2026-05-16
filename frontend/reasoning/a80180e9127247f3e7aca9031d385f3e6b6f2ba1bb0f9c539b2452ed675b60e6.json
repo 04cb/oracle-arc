@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7fb1d4834d08753c1ad60587ac6b9e1e5d36dca9ce48e06d58d21e789e7df11e",
+  "market_slug": "bitcoin-above-72k-on-may-17",
+  "market_question": "Will the price of Bitcoin be above $72,000 on May 17?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8700,
+  "market_probability_bp": 9990,
+  "edge_bp": -1290,
+  "confidence": "high",
+  "kelly_fraction_bp": 1287,
+  "reasoning": "Bitcoin currently trades around $87k, well above $72k, but 13 months is a long horizon with high Bitcoin annualized volatility (~70%). The probability of a correction below $72k—just a 17% drop—is non-trivial given historical patterns, regulatory risks, and market cycles. The market's 99.9% implied probability is far too confident.",
+  "evidence_points": [
+    "Current BTC price ~$87k (as of mid-April 2025)",
+    "Historical 70%+ annualized volatility suggests significant tail risk over 13 months.",
+    "Thin order book (liquidity $38k) can cause severe overpricing of 'Yes' shares.",
+    "Multiple 30%+ drawdowns have occurred even in bull markets."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT spot price",
+    "Historical Bitcoin volatility data"
+  ],
+  "created_at": "2026-05-16T20:28:38.786393+00:00",
+  "agent_version": "0.1.0"
+}

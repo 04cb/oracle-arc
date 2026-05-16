@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1420,
+  "edge_bp": -920,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market's implied 14.2% chance for Rubio to win in 2028 is far too high given the extreme uncertainty over four years out, a crowded potential GOP field, and Rubio’s modest current standing. Other prominent Republicans like DeSantis, Vance, or Haley likely have better odds, and the base rate for a specific Senator or Secretary of State winning the presidency is low. A more realistic true probability is around 5%.",
+  "evidence_points": [
+    "Prediction markets for the 2028 Republican nomination place Rubio around 7–8%, with other candidates significantly higher.",
+    "Historically, few sitting Senators or Secretaries of State have been elected president; governors and vice presidents dominate.",
+    "Rubio’s ties to Trump may energize the base but could limit crossover appeal in a general election, especially if the GOP base moves in another direction by 2028."
+  ],
+  "sources_consulted": [
+    "Polymarket 2028 Republican nominee market data (approximate current odds)",
+    "Historical US election outcomes (governor/senator base rates)",
+    "Current political commentary on 2028 GOP contenders"
+  ],
+  "created_at": "2026-05-16T20:36:44.636233+00:00",
+  "agent_version": "0.1.0"
+}
