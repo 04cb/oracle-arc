@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7650,
+  "edge_bp": 1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Most Layer-2 tokens launch with FDVs well above $200M, often in the billions. Abstract, associated with the highly successful Pudgy Penguins and the consumer-focused L2 narrative, carries significant hype that makes a sub-$200M FDV unlikely. A modest 10% discount accounts for a possible failed launch or uniquely bearish market conditions at the time.",
+  "evidence_points": [
+    "Comparable L2 tokens (Optimism, Arbitrum, zkSync, Blast) all launched with FDVs > $1B",
+    "Abstract has strong backing (Pudgy Penguins, Igloo Inc.) and a large pre-existing community",
+    "$200M FDV is a very low threshold relative to recent crypto project valuations"
+  ],
+  "sources_consulted": [
+    "General knowledge of L2 token launches",
+    "Abstract project background"
+  ],
+  "created_at": "2026-05-16T19:21:10.860096+00:00",
+  "agent_version": "0.1.0"
+}

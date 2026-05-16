@@ -1,0 +1,27 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 780,
+  "edge_bp": 720,
+  "confidence": "medium",
+  "kelly_fraction_bp": 776,
+  "reasoning": "Trump's well-documented skepticism toward NATO and past threats to withdraw, combined with a second term ending after 2026, give a meaningful chance (≈15%) he will formally issue a notice of denunciation. Legal barriers like the 2023 law may not block the act of submitting notice per the resolution criteria, and the market's 7.8% implied probability appears to underprice this risk relative to other forecasting platforms and geopolitical analysis.",
+  "evidence_points": [
+    "Trump repeatedly discussed withdrawing from NATO during his first term and only backed down after internal pushback.",
+    "His 2024 campaign rhetoric maintained ambiguity on Article 5 commitments, signaling continued skepticism.",
+    "Resolution rules count 'official notice' toward withdrawal even if later blocked by courts or Congress, lowering the bar for a Yes.",
+    "Metaculus and other prediction markets estimate higher probabilities for similar US departure timelines."
+  ],
+  "sources_consulted": [
+    "Polymarket current pricing and description",
+    "Metaculus 'US withdraw from NATO by 2028' community prediction (~15%)",
+    "News reports on Trump's NATO stance and 2023 congressional withdrawal safeguards",
+    "North Atlantic Treaty Article 13 text"
+  ],
+  "created_at": "2026-05-16T19:37:18.914880+00:00",
+  "agent_version": "0.1.0"
+}
