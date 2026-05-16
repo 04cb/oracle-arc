@@ -1,0 +1,24 @@
+{
+  "market_id": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
+  "market_slug": "will-ethereum-dip-to-1500-by-december-31-2026",
+  "market_question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 5500,
+  "market_probability_bp": 4650,
+  "edge_bp": 850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1589,
+  "reasoning": "Given ETH’s historical volatility, a >30% drawdown over a 13‑month window is plausible. The market’s 46.5% implied probability slightly understates this likelihood, as the observation period could capture a post‑cycle correction from elevated levels.",
+  "evidence_points": [
+    "ETH has experienced multiple 30%+ declines in prior 1‑year periods, including during 2022 and 2023.",
+    "The start date (late 2025) may align with a cyclical top, historically followed by significant corrections.",
+    "Binance 1‑minute candle lows frequently dip further than daily closing prices during sell‑offs."
+  ],
+  "sources_consulted": [
+    "Historical ETH/USDT price data (Binance)",
+    "General knowledge of crypto market cycles and volatility"
+  ],
+  "created_at": "2026-05-16T21:53:12.387478+00:00",
+  "agent_version": "0.1.0"
+}

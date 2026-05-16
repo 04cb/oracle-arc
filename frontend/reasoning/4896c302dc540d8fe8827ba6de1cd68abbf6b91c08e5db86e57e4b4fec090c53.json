@@ -1,0 +1,26 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 1450,
+  "edge_bp": -1150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A US acquisition of Greenland territory requires a binding agreement with Denmark and Greenland. Both governments have firmly and repeatedly rejected any transfer of sovereignty or exclusive jurisdiction. The short timeline (21 months) makes it extremely unlikely that this political landscape changes enough to produce a treaty, binding pact, or enacted legislation. Use of force against a NATO ally is virtually unthinkable. Thus, the true probability is around 3%, far below the market's 14.5%.",
+  "evidence_points": [
+    "Greenland’s March 2025 election produced a coalition explicitly opposed to US acquisition.",
+    "Danish Prime Minister Mette Frederiksen has stated Greenland is not for sale and sovereignty is non-negotiable.",
+    "No formal negotiations or draft agreements have been reported; the 2019 Trump proposal was swiftly rejected, and no apparent groundwork has been laid for a deal.",
+    "The option of acquiring territory through force is exceedingly improbable given NATO alliance and international law."
+  ],
+  "sources_consulted": [
+    "Reuters: 'Greenland's pro-business party wins election amid Trump pitch' (Mar 2025)",
+    "BBC News: 'Trump revives interest in buying Greenland' (Jan 2025)",
+    "Politico: 'Denmark says Greenland deal is dead on arrival' (Jan 2025)"
+  ],
+  "created_at": "2026-05-16T21:30:36.567989+00:00",
+  "agent_version": "0.1.0"
+}

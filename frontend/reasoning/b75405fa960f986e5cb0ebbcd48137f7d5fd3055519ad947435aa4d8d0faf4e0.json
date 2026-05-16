@@ -1,0 +1,25 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 10,
+  "edge_bp": 490,
+  "confidence": "medium",
+  "kelly_fraction_bp": 486,
+  "reasoning": "ByteDance remains one of the world's most valuable private companies, and even a low probability of a 2026 IPO — given its scale — yields a meaningful chance of having the year's highest IPO market cap. The market's implied 0.1% probability seems excessively dismissive, likely due to regulatory overhang, but the true probability is still an order of magnitude higher.",
+  "evidence_points": [
+    "ByteDance was valued at ~$220B in 2023-2024 secondary trades, indicating massive IPO potential.",
+    "Recent largest IPOs (e.g., ARM ~$54B) are dwarfed by ByteDance's valuation, so if it IPOs, it's likely to be the top.",
+    "Chinese tech IPO activity has been subdued but occasional large listings (e.g., Didi) show it's possible, and ByteDance has explored IPO plans before."
+  ],
+  "sources_consulted": [
+    "ByteDance valuation reports (Bloomberg, 2024)",
+    "SMIC and other large IPO data",
+    "General knowledge of Chinese tech regulatory environment"
+  ],
+  "created_at": "2026-05-16T21:42:57.371425+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4800,
+  "market_probability_bp": 3850,
+  "edge_bp": 950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1545,
+  "reasoning": "The unconditional long-term probability of either party winning a US presidential election is roughly 50%. The market’s 38.5% implies Republicans are significant underdogs, but given an uncertain 2024 outcome, potential incumbency cycles, and no clear structural disadvantage for Republicans in 2028, I estimate the true chance closer to 48%. This gap exceeds the 5% threshold.",
+  "evidence_points": [
+    "Since 1945, the two parties have each won about half of all presidential elections, supporting a ~50% baseline.",
+    "The 2024 election is unknown; a Republican win in 2024 would give them incumbency advantage in 2028, raising their chance, while a Democratic win opens the seat and often leads to party fatigue.",
+    "Current electoral college biases slightly favor Republicans, offsetting demographic shifts that might help Democrats, leaving the parties near parity."
+  ],
+  "sources_consulted": [
+    "Historical US presidential election results (Wikipedia)",
+    "Generic ballot and party time-in-power analysis (Cook Political Report, FiveThirtyEight)",
+    "Electoral college bias studies (e.g., 538, political science literature)"
+  ],
+  "created_at": "2026-05-16T21:37:13.447912+00:00",
+  "agent_version": "0.1.0"
+}
