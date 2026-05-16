@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 1750,
+  "edge_bp": 1750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2121,
+  "reasoning": "Ukraine's current stance strongly favors NATO membership, but under US pressure and in ceasefire negotiations, a temporary agreement not to join NATO before 2027 is plausible. Recent signals from the Trump administration and some Ukrainian officials suggest openness to a limited NATO moratorium, making a Yes resolution more likely than the market implies.",
+  "evidence_points": [
+    "Ukraine's constitution enshrines NATO membership, but political reality may force short-term concessions for a ceasefire.",
+    "Trump administration officials have repeatedly stated Ukraine must accept that NATO membership is not imminent.",
+    "Ukrainian officials, including Zelenskyy, have hinted at willingness to discuss temporary security arrangements that could include a NATO pause."
+  ],
+  "sources_consulted": [
+    "Recent statements from US and Ukrainian officials on peace talks (Reuters, AP News, Kyiv Independent)",
+    "Analysis on potential terms of a Ukraine-Russia ceasefire (Council on Foreign Relations, RAND)",
+    "Market description and resolution criteria"
+  ],
+  "created_at": "2026-05-16T21:59:04.231754+00:00",
+  "agent_version": "0.1.0"
+}

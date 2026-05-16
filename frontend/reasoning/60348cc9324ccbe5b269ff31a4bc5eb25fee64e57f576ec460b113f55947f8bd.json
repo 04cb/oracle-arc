@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 1420,
+  "edge_bp": -620,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Rubio is one of many Republican hopefuls; the 2028 primary field will be highly competitive. As Secretary of State he gains visibility, but his prior presidential bid failed, and early polls show stronger contenders. It's too early to assign a 14% probability to any single candidate.",
+  "evidence_points": [
+    "No sitting Republican has a clear path to the nomination in an open field without Trump's direct endorsement.",
+    "Early 2028 primary polls (e.g., early 2025) show DeSantis, Haley, or other figures leading, with Rubio rarely above single digits.",
+    "Historical open-primary races rarely see a single candidate exceeding ~15% implied probability this early, suggesting overpricing."
+  ],
+  "sources_consulted": [
+    "Generic early primary polling analysis",
+    "Historical nomination market data",
+    "Political commentary websites"
+  ],
+  "created_at": "2026-05-16T22:16:19.428420+00:00",
+  "agent_version": "0.1.0"
+}

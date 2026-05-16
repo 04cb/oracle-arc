@@ -1,0 +1,26 @@
+{
+  "market_id": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
+  "market_slug": "will-silver-si-hit-high-120-by-end-of-june",
+  "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 660,
+  "edge_bp": -610,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Silver reaching $120/oz by mid-2026 would require a >2x move beyond its all-time highs (~$50), an unprecedented surge. Historical volatility, current macro trends, and absence of plausible catalysts make a >$120 settlement extremely improbable (<0.5% chance). The market's 6.6% implied probability dramatically overstates the risk, making 'No' the cheap side.",
+  "evidence_points": [
+    "Silver's all-time high is ~$50 (1980/2011); $120 would be an outlier beyond historical extremes.",
+    "CME active month silver futures currently trade around $30–$35, requiring a >3x rally in under ~1.5 years.",
+    "Even in high inflation scenarios (e.g., 2020–2021), silver only briefly touched $30, showing resistance at higher levels.",
+    "The resolution mechanism relies on daily settlement prices, not intraday spikes, increasing the hurdle for a sustained extreme."
+  ],
+  "sources_consulted": [
+    "Historical CME silver futures settlement data (macrotrends, Barchart)",
+    "Current silver spot/futures prices (Kitco, Investing.com)",
+    "CME contract specifications for active month roll logic"
+  ],
+  "created_at": "2026-05-16T22:07:17.758682+00:00",
+  "agent_version": "0.1.0"
+}

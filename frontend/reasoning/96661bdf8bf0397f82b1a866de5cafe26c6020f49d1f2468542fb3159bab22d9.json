@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc19836bc3b7c831fa51330717c3273aa7fd55743548653802f7ea1870f4685ce",
+  "market_slug": "bitcoin-above-78k-on-may-17",
+  "market_question": "Will the price of Bitcoin be above $78,000 on May 17?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5600,
+  "market_probability_bp": 6410,
+  "edge_bp": -810,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1270,
+  "reasoning": "Current BTC spot ~$83k, $78k is only ~6% below. With typical 1-year implied vol 55-70% and positive forward, risk‑neutral P(>$78k) ≈ 50–60%, not 64%. The market appears overpriced for YES.",
+  "evidence_points": [
+    "Bitcoin 1‑year implied vol around 60% implies ~45% chance below $78k under risk‑neutral measure",
+    "A 6% downside over 13 months has occurred frequently in Bitcoin ranging or corrective phases",
+    "Market’s 64% YES price embeds only 36% chance of ≤$78k, which seems too low given historical volatility"
+  ],
+  "sources_consulted": [
+    "Bitcoin historical volatility estimates",
+    "Deribit‑like long‑dated implied volatility approximations",
+    "Current BTC/USDT spot price (~$83k)"
+  ],
+  "created_at": "2026-05-16T21:56:17.032225+00:00",
+  "agent_version": "0.1.0"
+}
