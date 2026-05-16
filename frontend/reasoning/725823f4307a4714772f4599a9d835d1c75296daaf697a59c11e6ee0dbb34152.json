@@ -1,0 +1,25 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 1350,
+  "edge_bp": -1150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Denmark's consistent rejection of any territorial transfer and the absence of legal or forcible pathways make U.S. acquisition of Greenland territory extremely unlikely. The market is heavily overpriced due to speculative rhetoric, with no indication of binding negotiations or plausible use of force.",
+  "evidence_points": [
+    "Denmark's Prime Minister publicly called the idea 'absurd' and frozen any diplomatic discussion permanently.",
+    "No treaty, legislation, or executive action has been initiated or leaked that would indicate a binding agreement.",
+    "Acquisition by force would violate NATO alliance and international law, making it politically and militarily unimaginable."
+  ],
+  "sources_consulted": [
+    "General knowledge of U.S.-Denmark relations",
+    "Historical Greenland purchase proposals",
+    "Current geopolitical analysis"
+  ],
+  "created_at": "2026-05-16T11:43:45.464368+00:00",
+  "agent_version": "0.1.0"
+}

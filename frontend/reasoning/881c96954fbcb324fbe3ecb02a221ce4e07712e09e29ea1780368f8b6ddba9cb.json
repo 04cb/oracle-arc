@@ -1,0 +1,24 @@
+{
+  "market_id": "0xfe94ae52c5ecfc54a8a308016894ea9732a5345afeeebc5860d1b3c2b5155338",
+  "market_slug": "gemini-3pt2-released-by-may-31-2026-393-444-173-117",
+  "market_question": "Gemini 3.2 released by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 9800,
+  "edge_bp": -1800,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1833,
+  "reasoning": "Google's release cadence makes a Gemini 3.2 (or higher 3.x) likely before May 2026, but there is non-trivial risk they skip the numbering or rebrand, making 98% overly confident. I estimate about 80% probability that such a specific version number appears.",
+  "evidence_points": [
+    "Google has rapidly iterated Gemini models (2.0 in Dec 2024, 2.5 in Mar 2025) so a 3.x series starting mid-2025 is plausible.",
+    "However, they occasionally skip sub-versions (e.g., 2.0 to 2.5, no 2.1-2.4) and might release a 3.5 directly without ever naming a 3.2.",
+    "Rebranding or shifting to a different naming scheme (like 'Gemini Pro 2026') could prevent the precise 3.2 designation required by resolution."
+  ],
+  "sources_consulted": [
+    "Google AI blog and announcement history",
+    "Past Gemini release patterns"
+  ],
+  "created_at": "2026-05-16T11:28:31.531269+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0x5f650ebba706855a4373ad215c1d342997c85e4be0efe81a2e13935fce4bd8cd",
+  "market_slug": "bitcoin-above-76k-on-may-17",
+  "market_question": "Will the price of Bitcoin be above $76,000 on May 17?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 9400,
+  "edge_bp": -1400,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1485,
+  "reasoning": "Bitcoin is currently around $83k, above $76k, but the market's 94% implied probability of staying above $76k by May 2026 seems too high. Historical cycles suggest a bear market could be underway by then, making a drop below $76k plausible. I estimate the true probability of Yes closer to 80%.",
+  "evidence_points": [
+    "Bitcoin historically enters bear markets 12-18 months after halving; May 2026 is 2 years post-2024 halving.",
+    "Current price of ~$83k means only an 8.5% drop is needed to breach $76k.",
+    "Long-dated options and futures show wider implied distributions, not a 94% confidence of staying above $76k."
+  ],
+  "sources_consulted": [
+    "General knowledge of Bitcoin price history and halving cycles",
+    "Current BTC price via major exchanges"
+  ],
+  "created_at": "2026-05-16T11:48:51.552190+00:00",
+  "agent_version": "0.1.0"
+}

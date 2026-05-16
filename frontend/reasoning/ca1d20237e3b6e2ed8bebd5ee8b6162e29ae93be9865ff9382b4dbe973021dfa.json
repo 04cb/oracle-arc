@@ -1,0 +1,25 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 650,
+  "edge_bp": -500,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a low-visibility candidate from the MBL movement with negligible national polling. Historically, second place in Brazilian presidential first rounds is held by established major-party figures like Lula or Bolsonaro, not third-party activists. Unless a massive realignment and split of the main right-wing vote occurs in his favor, his probability is realistically around 1-2%. The market's 6.5% looks like noise-driven overpricing.",
+  "evidence_points": [
+    "No second-place finisher in modern Brazilian elections has been a non-traditional, minor-party candidate without major party backing.",
+    "Renan Santos's MBL lacks the organizational reach and funding of PSDB, PT, or the Bolsonaro movement.",
+    "Early 2026 speculation centers on Lula and Tarcísio de Freitas; Santos is not mentioned in any credible frontrunner discussions."
+  ],
+  "sources_consulted": [
+    "Historical Brazilian presidential election results (TSE)",
+    "General political knowledge of MBL and Renan Santos",
+    "Early 2026 candidate speculation in Brazilian media (e.g., Folha, Estadão)"
+  ],
+  "created_at": "2026-05-16T11:26:01.450859+00:00",
+  "agent_version": "0.1.0"
+}

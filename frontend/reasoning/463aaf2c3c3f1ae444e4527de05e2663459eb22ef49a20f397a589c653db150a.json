@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The 2028 election is an open-seat race following a single Trump term. Historical party alternation suggests a slight Democratic tilt, but a 38.5% implied probability for Republicans is too low. A baseline of roughly 45% is more balanced given the uncertain future landscape and party parity in modern presidential elections. The market may overprice Democratic chances due to current anti-Trump sentiment.",
+  "evidence_points": [
+    "Rare historical precedent: open seat after a one-term Republican president following a one-term Democrat.",
+    "Party parity in U.S. presidential elections tends to revert to near-even odds absent a strong candidate or economic crisis.",
+    "Prediction markets often overreact to short-term sentiment; 38.5% undervalues the Republican potential to recover before 2028."
+  ],
+  "sources_consulted": [
+    "Historical election results from Wikipedia",
+    "Polymarket current price and liquidity"
+  ],
+  "created_at": "2026-05-16T11:56:32.554752+00:00",
+  "agent_version": "0.1.0"
+}

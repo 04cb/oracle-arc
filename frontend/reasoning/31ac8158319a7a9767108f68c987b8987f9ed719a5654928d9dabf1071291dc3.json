@@ -1,0 +1,25 @@
+{
+  "market_id": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
+  "market_slug": "will-silver-si-hit-high-120-by-end-of-june",
+  "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 660,
+  "edge_bp": -610,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Silver currently trades near $30/oz with an all-time high around $50. Reaching $120 would require a >4x rally in ~18 months, a move far outside all historical extremes. Even under a generous 50% annualized volatility, the log-normal probability of hitting $120 by mid-2026 is below 0.5%. The market-implied 6.6% vastly overestimates this tail probability.",
+  "evidence_points": [
+    "Silver spot price ~$30/oz, all-time high ~$50/oz — $120 is unprecedented.",
+    "Using a log-normal model with σ=50% and S=30, the prob of exceeding $120 in 1.5y is <0.5%.",
+    "The 6.6% market price implies an event roughly 10x more likely than historical extremes and volatility suggest."
+  ],
+  "sources_consulted": [
+    "Silver spot/interim prices (tradingview/historical data)",
+    "CME silver futures settlement methodology and settlement pages",
+    "Option pricing / probability-to-exceed calculators"
+  ],
+  "created_at": "2026-05-16T11:59:18.912274+00:00",
+  "agent_version": "0.1.0"
+}

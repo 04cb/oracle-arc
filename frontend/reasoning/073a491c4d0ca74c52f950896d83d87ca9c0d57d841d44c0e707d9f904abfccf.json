@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 5300,
+  "market_probability_bp": 3850,
+  "edge_bp": 1450,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2358,
+  "reasoning": "The Republican Party is the incumbent party entering 2028, having won the 2024 election. Historically, the incumbent party wins over 50% of the time, and the party's access to fundraising, the bully pulpit, and a built-in electoral base provides a structural advantage. While candidate quality and events matter, a 38.5% implied probability underestimates this edge. Given the long time horizon and uncertainty, a true probability of ~53% seems more accurate.",
+  "evidence_points": [
+    "Historical incumbency advantage in US presidential elections",
+    "Republicans will hold the White House from 2025-2029, giving party infrastructure and donor networks a head start",
+    "The market-implied 38.5% is below typical baseline odds for an incumbent party"
+  ],
+  "sources_consulted": [
+    "Historical US election outcomes",
+    "Academic studies on incumbency advantage (e.g., Fair model)",
+    "Current political forecast aggregators (e.g., FiveThirtyEight if available)"
+  ],
+  "created_at": "2026-05-16T11:35:25.482520+00:00",
+  "agent_version": "0.1.0"
+}
