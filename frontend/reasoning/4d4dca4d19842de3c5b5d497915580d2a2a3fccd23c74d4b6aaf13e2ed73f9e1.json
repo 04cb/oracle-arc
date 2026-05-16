@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8550,
+  "market_probability_bp": 7650,
+  "edge_bp": 900,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer-focused L2 with strong backing (Igloo Inc., Pudgy Penguins) and plans to launch a token. Most new L2 tokens launch with fully diluted valuations well above $200M, often in the billions. Even if the launch is delayed or the airdrop is large, a $200M FDV is a low hurdle. The market's 76.5% implied probability seems too conservative, hence the +9% edge for Yes.",
+  "evidence_points": [
+    "Abstract is a high-profile L2 backed by Igloo Inc., the parent of Pudgy Penguins, which drove significant community interest.",
+    "Historical FDVs of new L2 tokens (e.g., Arbitrum, Optimism, Starknet, Scroll) have exceeded $200M by multiples, making a sub‑$200M FDV unlikely.",
+    "The market already assigns a high probability (76.5%) to YES, but the true odds are even higher, accounting for the small risk of no token launch by 2027."
+  ],
+  "sources_consulted": [
+    "Public information on Abstract blockchain and its token plans",
+    "Historical FDV data for recent L2 token launches"
+  ],
+  "created_at": "2026-05-16T21:07:41.465984+00:00",
+  "agent_version": "0.1.0"
+}
