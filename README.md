@@ -6,6 +6,8 @@
 
 Built for the **Agora Agents Hackathon** (Canteen × Circle, 2026-05-11 → 2026-05-25).
 
+![Oracle home page](./docs/screenshots/home.png)
+
 ---
 
 ## What it does in three sentences
@@ -17,21 +19,27 @@ Built for the **Agora Agents Hackathon** (Canteen × Circle, 2026-05-11 → 2026
 ## Live artifacts
 
 - **PickLedger contract:** [`0x762cc26e9CE5A7D3FcCB3C09d3f2d54c25EaBC2b`](https://testnet.arcscan.app/address/0x762cc26e9CE5A7D3FcCB3C09d3f2d54c25EaBC2b) on Arc Testnet
-- **Agent address:** `0x48188D27d765559C89ed0969157F8d463b64B14e`
+- **ReputationRegistry contract:** [`0x1F4C93d8a8005601b2E89d163Ffe7992344f5DA6`](https://testnet.arcscan.app/address/0x1F4C93d8a8005601b2E89d163Ffe7992344f5DA6)
+- **Agent address:** [`0x48188D27d765559C89ed0969157F8d463b64B14e`](https://testnet.arcscan.app/address/0x48188D27d765559C89ed0969157F8d463b64B14e)
 - **Polymarket builder code:** `0x1bf684d4371715597038e7f7a28ca992bb9cf226ec8c66182db09e143fa217b9`
-- **Frontend:** `npm run dev` in `frontend/` (deploy to Vercel for hackathon demo)
+- **Polymarket builder address:** `0x5447bb168ae8d63ac222beb411ee148f5b649383`
+- **Frontend:** `npm run dev` in `frontend/` (see [docs/deploy.md](./docs/deploy.md) for Vercel)
+- **Demo script:** [docs/demo-script.md](./docs/demo-script.md)
+- **Architecture:** [docs/architecture.md](./docs/architecture.md)
 
 ## Repo layout
 
 ```
 brain/        Python brain. Pull markets, run LLM, sign & publish picks,
               cron Discord webhook.
-contracts/    Foundry workspace. PickLedger.sol — the on-chain feed.
-frontend/     Next.js 16. Live picks feed + Polymarket V2 order placement
-              with builder code attached.
+contracts/    Foundry workspace. PickLedger.sol + ReputationRegistry.sol
+              (7 forge tests, all pass).
+frontend/     Next.js 16. Live picks feed (/), order placement (/place/[id]),
+              agent profile + track record (/agent/[address]), Circle
+              Modular Wallets passkey login (/wallet).
 bridge/       Node + tsx. CCTPv2 bridge script (Polygon → Arc) using
               Circle Bridge Kit.
-docs/         Architecture diagram + design notes.
+docs/         Architecture diagram, demo script, deploy guide, screenshots.
 ```
 
 See [`docs/architecture.md`](./docs/architecture.md) for the full system diagram and per-pick data flow.
@@ -112,9 +120,17 @@ Schedule via cron (every 5 minutes):
 | Dimension (weight) | How Oracle scores |
 |---|---|
 | Agentic Sophistication (30%) | Full pipeline: market selection → LLM probability estimate → Kelly sizing → publish decision. Reasoning traces are first-class artifacts, not log lines. |
-| Traction (30%) | Discord publisher pushes every pick to a public channel. Frontend gives a public URL with one-click order placement. Builder code makes every fill attributable. |
-| Circle tools (20%) | Arc Testnet for the ledger; CCTPv2 via Bridge Kit for fee flow; agent treasury holds USDC; (next) Circle Modular Wallets for the /place flow. |
-| Innovation (20%) | First implementation of Canteen's own research hooks #1 (Trading-R1 reasoning trace as the product) and #2 (Polymarket builder codes as agent monetization), bound together by ERC-8004-style reputation on Arc. |
+| Traction (30%) | Discord publisher pushes every pick to a public channel. Frontend gives a public URL with one-click order placement. Builder code makes every fill attributable. Share buttons let visitors broadcast picks. |
+| Circle tools (20%) | **Arc Testnet** for the ledger; **CCTPv2 via Bridge Kit** for fee flow (estimate verified end-to-end); **Smart Contract Platform** (forge-deployed `PickLedger` + `ReputationRegistry`); **Modular Wallets** passkey login at `/wallet`; agent treasury holds **USDC** as native gas. |
+| Innovation (20%) | First implementation of Canteen's own research hooks #1 (Trading-R1 reasoning trace as the product) and #2 (Polymarket builder codes as agent monetization), bound together by ERC-8004-style reputation events on Arc. |
+
+## Screenshots
+
+| Home — picks feed + how-it-works | Agent profile — track record |
+|---|---|
+| ![home](./docs/screenshots/home.png) | ![agent](./docs/screenshots/agent.png) |
+| **Place bet — builder code attribution** | **Passkey wallet — Circle Modular Wallets** |
+| ![place](./docs/screenshots/place.png) | ![wallet](./docs/screenshots/wallet.png) |
 
 ## Acknowledgements
 

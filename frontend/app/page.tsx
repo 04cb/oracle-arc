@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+import { LiveTicker } from "./components/LiveTicker";
+import { ShareBar } from "./components/ShareBar";
 import { PICK_LEDGER_ADDRESS, type PickEvent } from "@/lib/arc";
 import { getMarketMeta, polymarketUrl, type MarketMeta } from "@/lib/polymarket";
 import { fetchReasoning, type ReasoningBlob } from "@/lib/reasoning";
@@ -187,14 +189,41 @@ export default async function Home() {
   const { stats, picks } = await load();
   const avgEdgeBP = stats.picks ? stats.edgeSumAbs / stats.picks : 0;
 
+  const tickerItems = picks.slice(0, 8).map((p) => {
+    const outcome =
+      p.reasoning?.outcome_label ?? (p.event.edgeBP >= 0 ? "Yes" : "No");
+    return {
+      id: p.event.txHash,
+      text:
+        `${outcome.toUpperCase()} on  · ` +
+        (p.market?.question ?? p.event.marketId.slice(0, 16)),
+      hint: `#${p.event.pickId.toString()} · ${(Math.abs(p.event.edgeBP) / 100).toFixed(1)}% edge`,
+    };
+  });
+
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-100">
       {/* HERO */}
       <header className="border-b border-zinc-800">
         <div className="max-w-4xl mx-auto px-6 py-12">
-          <div className="flex items-center gap-2 text-[10px] tracking-[0.3em] uppercase text-amber-300 mb-4">
-            <span className="w-1.5 h-1.5 rounded-full bg-amber-300 animate-pulse" />
-            agora agents hackathon · canteen × circle
+          <div className="flex items-center justify-between gap-4 mb-4">
+            <div className="flex items-center gap-2 text-[10px] tracking-[0.3em] uppercase text-amber-300">
+              <span className="w-1.5 h-1.5 rounded-full bg-amber-300 animate-pulse" />
+              agora agents hackathon · canteen × circle
+            </div>
+            <div className="flex items-center gap-2">
+              <Link
+                href="/wallet"
+                className="text-xs px-3 py-1.5 rounded border border-zinc-700 hover:border-zinc-500 text-zinc-300"
+                title="Circle Modular Wallets"
+              >
+                Passkey wallet
+              </Link>
+              <ShareBar
+                url="https://oracle.thecanteenapp.com"
+                text="Oracle — AI prediction-market agent. Every pick signed on Arc, every fill carries our builder code, fees home via Circle CCTPv2."
+              />
+            </div>
           </div>
           <h1 className="text-5xl md:text-6xl font-serif tracking-tight leading-none">
             Oracle.
@@ -219,6 +248,7 @@ export default async function Home() {
             forever, hash-anchored to the full trace.
           </p>
         </div>
+        <LiveTicker items={tickerItems} />
       </header>
 
       {/* STATS */}
