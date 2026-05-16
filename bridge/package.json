@@ -1,0 +1,20 @@
+{
+  "name": "oracle-bridge",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "bridge": "tsx bridge.ts",
+    "plan": "tsx bridge.ts --plan-only"
+  },
+  "dependencies": {
+    "@circle-fin/bridge-kit": "latest",
+    "@circle-fin/adapter-viem-v2": "latest",
+    "dotenv": "^16.4.5",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.5.0"
+  }
+}
