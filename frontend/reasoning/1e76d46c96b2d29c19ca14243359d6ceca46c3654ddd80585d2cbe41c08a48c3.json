@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc9615bb82d6535d630ff98e8094060bc767d8b9446516e98f84d2001a35e50e7",
+  "market_slug": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "market_question": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1800,
+  "market_probability_bp": 2810,
+  "edge_bp": -1010,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "New People currently hold only 13 seats; in 2021 the Communists gained the most seats (+15). The Kremlin typically balances its managed opposition, and there is no clear signal that New People will be favored over others for the largest net gain. I estimate a 18% chance, well below the market's 28%, making 'No' undervalued.",
+  "evidence_points": [
+    "New People won 13 seats in 2021, while the Communist Party gained 15, so even with favorable treatment they need a larger jump.",
+    "The Russian regime uses multiple proxy parties to simulate competition, likely distributing seat gains across several systemic parties.",
+    "No polls or insider reports suggest a dedicated plan to give New People the highest seat increase in 2026."
+  ],
+  "sources_consulted": [
+    "Historical Russian Duma election results (2021)",
+    "General political analysis of Russian managed democracy"
+  ],
+  "created_at": "2026-05-16T18:32:27.967646+00:00",
+  "agent_version": "0.1.0"
+}

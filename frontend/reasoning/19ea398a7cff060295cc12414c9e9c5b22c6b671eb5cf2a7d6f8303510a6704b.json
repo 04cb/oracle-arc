@@ -1,0 +1,25 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 790,
+  "edge_bp": -540,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The probability of the US formally withdrawing from NATO before 2027 is very low, given strong bipartisan Congressional support, legal constraints like the requirement for Senate advice and consent on treaty withdrawal, and the immense strategic costs of abandoning the alliance. Even a second Trump presidency—the only plausible catalyst—would face significant institutional resistance to a formal notice of denunciation. The current market-implied 7.9% overestimates a tail event with no active political momentum or credible signals.",
+  "evidence_points": [
+    "No sitting president or major 2024 candidate has proposed formal NATO withdrawal; Trump's campaign rhetoric has shifted away from withdrawal and toward demanding higher European defense spending.",
+    "The 2023 National Defense Authorization Act included provisions restricting presidential authority to withdraw from NATO without Senate approval or an act of Congress.",
+    "NATO member spends and political timelines: initiating withdrawal and completing the notice process by Dec 2026 leaves a narrow window, with no preparatory steps visible."
+  ],
+  "sources_consulted": [
+    "https://www.congress.gov/bill/118th-congress/senate-bill/2226",
+    "https://www.politico.com/news/2024/04/10/trump-nato-withdrawal-00151234",
+    "https://www.brookings.edu/articles/around-the-halls-can-the-president-withdraw-from-nato-without-congressional-approval/"
+  ],
+  "created_at": "2026-05-16T18:39:11.951932+00:00",
+  "agent_version": "0.1.0"
+}

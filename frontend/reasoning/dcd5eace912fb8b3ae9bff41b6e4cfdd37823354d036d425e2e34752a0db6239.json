@@ -1,0 +1,27 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 7650,
+  "edge_bp": 1850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer L2 from the team behind Pudgy Penguins with significant community and funding. Comparable L2 token launches (ZKsync, StarkNet, Arbitrum) have all had FDVs far exceeding $200M—usually billions. Even in a downturn, $200M is a very low bar; the main risk is no token launch before 2028, which is unlikely given the project's maturity and roadmap. Hence I estimate a 95% true probability for YES.",
+  "evidence_points": [
+    "Abstract is built by Igloo Inc., known for Pudgy Penguins, and backed by Founders Fund, giving it a strong community and investor base.",
+    "Recent L2 token launches like ZKsync (~$3.5B FDV), StarkNet (~$8B), and Arbitrum (~$10B) demonstrate that $200M is trivially surpassed even with moderate demand.",
+    "Token launch is highly probable before the 2028 deadline; the chain's testnet is live and mainnet is targeted for late 2024/2025, with governance token expected.",
+    "Even a relatively small L2 or a bear-market launch would likely exceed $200M FDV on day one given the current FDV baseline for ecosystem tokens."
+  ],
+  "sources_consulted": [
+    "Abstract chain documentation and announcements",
+    "Historical L2 token launch FDV data (ZKsync, StarkNet, Arbitrum, Optimism)",
+    "Pudgy Penguins token (PENGU) launch data",
+    "Messari/crypto research on layer‑2 valuations"
+  ],
+  "created_at": "2026-05-16T18:23:34.858120+00:00",
+  "agent_version": "0.1.0"
+}
