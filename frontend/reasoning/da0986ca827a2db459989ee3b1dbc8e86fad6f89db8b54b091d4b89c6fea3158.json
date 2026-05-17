@@ -1,0 +1,26 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 840,
+  "edge_bp": -640,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A formal U.S. withdrawal from NATO requires a presidential decision to submit a notice of denunciation under Article 13, which faces massive political, military, and Congressional obstacles. Even under a Trump presidency, this step was never taken during 2017-2021, and bipartisan support for NATO remains strong. The 2-year window (2025-2026) is too short for such a radical shift, making a withdrawal extremely unlikely.",
+  "evidence_points": [
+    "No U.S. president has ever submitted a notice of withdrawal from NATO, despite occasional criticism of burden-sharing.",
+    "Congress passed the NATO Support Act in 2019 (bipartisan) and could block or defund a withdrawal through legislation.",
+    "Trump's first term saw no formal withdrawal move, only demands for increased spending; even his most isolationist advisors rarely advocated full exit."
+  ],
+  "sources_consulted": [
+    "North Atlantic Treaty Art. 13 text",
+    "2019 NATO Support Act (S.482)",
+    "Historical record of U.S. presidential actions on NATO",
+    "Credible media reporting on Trump-era NATO debates"
+  ],
+  "created_at": "2026-05-17T00:03:41.042360+00:00",
+  "agent_version": "0.1.0"
+}

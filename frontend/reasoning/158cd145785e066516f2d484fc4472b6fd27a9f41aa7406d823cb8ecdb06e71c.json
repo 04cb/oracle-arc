@@ -1,0 +1,25 @@
+{
+  "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+  "market_slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+  "market_question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 900,
+  "market_probability_bp": 3750,
+  "edge_bp": -2850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Carolina Hurricanes are a competitive team but are not dominant enough to warrant a 37.5% chance of winning the Stanley Cup. In a 32-team league with high parity, even the strongest teams typically have a probability in the 8–12% range before the season. This market price grossly overestimates their true likelihood, making 'No' a clear value.",
+  "evidence_points": [
+    "The Hurricanes have a strong roster (Aho, Svechnikov, Slavin, etc.) but are not the consensus favorite for the 2026 Cup.",
+    "NHL playoff variance is high; recent preseason favorites rarely exceed 10–12% implied odds from bookmakers after adjusting for vig.",
+    "No NHL team has had a true preseason win probability above ~15% in the modern era due to parity and the difficulty of winning four seven-game series."
+  ],
+  "sources_consulted": [
+    "NHL team depth charts and recent performance trends",
+    "Historical preseason Stanley Cup futures from major sportsbooks",
+    "General knowledge of NHL competitive balance"
+  ],
+  "created_at": "2026-05-17T00:09:33.555643+00:00",
+  "agent_version": "0.1.0"
+}

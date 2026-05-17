@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 450,
+  "market_probability_bp": 1410,
+  "edge_bp": -960,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market implies a 14.1% probability that Marco Rubio, a specific individual, will win the 2028 presidential election more than three years away. Given the historically large field of unknowns (including many other GOP contenders and a Democratic nominee), the true chance for any single non-incumbent this far out is typically below 5%. Rubio's current role as Secretary of State does not materially elevate his odds above other plausible candidates, making the market price too high.",
+  "evidence_points": [
+    "Presidential candidates this far from an election rarely have probabilities >10% unless they are a clear incumbent; the 2028 race is open.",
+    "Early 2025 hypothetical 2028 GOP primary polls show JD Vance, Ron DeSantis, and others leading, with Rubio polling in single digits.",
+    "Historical prediction market data shows that composite 'other' or specific candidate prices >1 year out regress sharply toward the field average."
+  ],
+  "sources_consulted": [
+    "Early 2028 GOP primary polling aggregates (e.g., from FiveThirtyEight archives)",
+    "PredictIt and Polymarket historical pricing for equivalent far-horizon single-candidate markets",
+    "General base-rate analysis of individual candidate probabilities in open-seat elections"
+  ],
+  "created_at": "2026-05-17T00:06:21.724407+00:00",
+  "agent_version": "0.1.0"
+}

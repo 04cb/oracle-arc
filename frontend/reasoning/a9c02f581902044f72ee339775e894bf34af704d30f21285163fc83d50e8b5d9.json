@@ -1,0 +1,23 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 3850,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2208,
+  "reasoning": "Historical patterns show that when a term-limited president leaves office, the opposing party wins 80% of the time (only exception 1988). With Trump term-limited after a second term, the Republican nominee will face this strong anti-incumbent headwind. Even accounting for unpredictable events, the true probability of a Republican win is likely around 30%, significantly below the market's 38.5%.",
+  "evidence_points": [
+    "In the five open-seat elections following a term-limited president since WWII, the incumbent party held the White House only once (1988).",
+    "Without the sitting president on the ballot, the incumbent party loses the advantages of incumbency, making it harder to retain the presidency.",
+    "Long-range forecasts inherently have high uncertainty, but the historical baseline suggests a lower-than-market probability for the GOP."
+  ],
+  "sources_consulted": [
+    "Historical US presidential election results 1948-2020"
+  ],
+  "created_at": "2026-05-16T23:57:54.042830+00:00",
+  "agent_version": "0.1.0"
+}

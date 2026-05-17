@@ -1,0 +1,27 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 1450,
+  "edge_bp": -1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The political and legal barriers to US acquisition of Greenland territory are enormous. Both Denmark and Greenland have firmly and repeatedly rejected such overtures. Even if negotiations miraculously began, the timeline to reach and ratify a binding agreement before December 2026 is unrealistically short. Military force against a NATO ally would be exceptionally destabilizing and politically infeasible. Consequently, a true probability of around 1% is far below the market's 14.5%, making 'No' deeply undervalued.",
+  "evidence_points": [
+    "Greenlandic and Danish governments have explicitly stated the territory is not for sale in 2025.",
+    "Any binding treaty or legal instrument would require lengthy multilateral negotiation and domestic ratification, impossible within the remaining timeframe.",
+    "Use of military force to seize territory from a NATO ally is unprecedented and would trigger severe diplomatic and security crises, making it extremely unlikely.",
+    "Historical US territorial acquisitions (e.g., Virgin Islands, Alaska) took years of diplomacy and congressional approval, not months."
+  ],
+  "sources_consulted": [
+    "Reuters: 'Greenland repeatedly tells Trump it's not for sale' (2025)",
+    "BBC News: 'Denmark dismisses Trump's 2025 Greenland overture'",
+    "US State Department historical records on territorial acquisitions",
+    "NATO treaty obligation analysis"
+  ],
+  "created_at": "2026-05-16T23:47:05.023401+00:00",
+  "agent_version": "0.1.0"
+}
