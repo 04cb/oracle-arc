@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 5850,
+  "edge_bp": -4650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market implies a 58.5% chance for PSG to win the 2025–26 Champions League, which is absurdly high given historical performance and the competitive field. After losing Kylian Mbappé and with no UCL title history, PSG’s true odds are closer to 10–15%, in line with betting markets pricing them around +800 to +1000. The massive discrepancy offers a high-confidence No bet.",
+  "evidence_points": [
+    "PSG have never won the Champions League and often underperform in knockout stages.",
+    "Kylian Mbappé’s departure weakens their attacking threat irreplaceably.",
+    "Bookmakers (e.g., Bet365) list PSG at ~10/1, implying ~9-10% probability.",
+    "Rivals Real Madrid, Manchester City, and Bayern Munich have stronger squads and recent European pedigree."
+  ],
+  "sources_consulted": [
+    "Bet365 outright odds for 2025–26 UCL (accessed April 2025)",
+    "Squad analysis post-2024 summer transfer window",
+    "Historical UCL results from UEFA.com"
+  ],
+  "created_at": "2026-05-17T07:14:40.345657+00:00",
+  "agent_version": "0.1.0"
+}

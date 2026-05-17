@@ -1,0 +1,26 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 1800,
+  "edge_bp": -1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine has consistently rejected any cap on its armed forces as a condition for peace, viewing it as a violation of sovereignty and a security risk. While a peace deal before 2027 is conceivable, a public agreement to limit troop numbers is politically toxic and unlikely to be accepted by Ukraine's leadership or public, especially with Western backing. The implied 18% probability overestimates this low-probability concession.",
+  "evidence_points": [
+    "Ukrainian officials, including President Zelenskyy, have repeatedly ruled out limits on the size of Ukraine's military in any settlement.",
+    "Domestic opinion strongly opposes any reduction in defense capabilities while the threat from Russia persists.",
+    "Western allies have not pressured Ukraine to accept troop caps and continue to provide military support.",
+    "Even if peace talks advance, a precondition of force limits would likely scuttle Ukrainian agreement."
+  ],
+  "sources_consulted": [
+    "Official statements from the Ukrainian government and President Zelenskyy",
+    "Analysis from the Institute for the Study of War (ISW) on negotiation positions",
+    "Reporting by Reuters and Associated Press on peace talks and Ukrainian red lines"
+  ],
+  "created_at": "2026-05-17T07:11:45.247778+00:00",
+  "agent_version": "0.1.0"
+}

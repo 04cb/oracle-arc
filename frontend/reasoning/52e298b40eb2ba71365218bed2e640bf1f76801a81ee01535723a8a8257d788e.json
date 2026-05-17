@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 4850,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1753,
+  "reasoning": "The war is deeply entrenched with both sides holding maximalist demands; a general ceasefire requiring mutual agreement by end of 2026 is unlikely given the lack of serious negotiations, continued Russian offensives, and Ukraine's refusal to cede territory. The market's ~48.5% implied probability overstates the chances, making No the undervalued side.",
+  "evidence_points": [
+    "Russia continues territorial advances and shows no willingness for a general ceasefire without further strategic gains.",
+    "Ukraine has consistently rejected any ceasefire that formalizes territorial losses, making mutual agreement remote.",
+    "Comparable modern conflicts (e.g., Syria, Donbas pre-2022) saw years of fighting without comprehensive ceasefires, suggesting a low probability within this timeframe."
+  ],
+  "sources_consulted": [
+    "ISW daily campaign assessments",
+    "Chatham House and RUSI analytical papers on war trajectory",
+    "Historical ceasefire data from Uppsala Conflict Data Program",
+    "Recent Polymarket odds on related 2025 ceasefire markets"
+  ],
+  "created_at": "2026-05-17T07:19:49.219133+00:00",
+  "agent_version": "0.1.0"
+}

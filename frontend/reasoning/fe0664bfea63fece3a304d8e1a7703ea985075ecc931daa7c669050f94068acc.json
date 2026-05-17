@@ -1,0 +1,26 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 110,
+  "edge_bp": 490,
+  "confidence": "medium",
+  "kelly_fraction_bp": 495,
+  "reasoning": "WTI crude is ~$70 now; a drop to $40 requires a ~43% decline. Over 14 months, that level has been reached in severe recessions or oversupply shocks (e.g., 2008, 2014-16, 2020). Given current recession risks (trade wars, China slowdown) and potential OPEC+ policy shifts, I estimate a ~6% chance, far above the 1.1% market-implied probability. Comparable options markets would price this probability much higher.",
+  "evidence_points": [
+    "Settlement price below $40 occurred multiple times historically: e.g., 2008-09, 2015-16, 2020.",
+    "Current WTI price ~$70 implies a 43% decline needed; volatility around 30% gives a hit probability ~8% under risk-neutral measure.",
+    "Geopolitical and macroeconomic risks (tariffs, recession, OPEC+ unwinding) could trigger sharp oil selloffs."
+  ],
+  "sources_consulted": [
+    "CME historical settlement data",
+    "CBOE OVX volatility index",
+    "EIA STEO",
+    "Goldman Sachs commodity forecasts"
+  ],
+  "created_at": "2026-05-17T07:25:16.065259+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xe3033b163d0e0e30cb3154049f28295dada348030e5c6cdfe58ed0d4e393c7e9",
+  "market_slug": "will-thomas-massie-be-the-republican-nominee-for-ky-04",
+  "market_question": "Will Thomas Massie be the Republican nominee for KY-04?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 4950,
+  "edge_bp": 4250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Thomas Massie is the entrenched incumbent for KY-04, having held the seat since 2012. Incumbents in safe seats almost always secure renomination barring retirement or scandal, and Massie has given no indication of stepping down. There are no known credible primary challengers, and historical data shows extremely high renomination rates for sitting House members, especially those with strong grassroots support like Massie's.",
+  "evidence_points": [
+    "Massie has won every primary since taking office, often by wide margins, and faced only one close primary in 2020.",
+    "He maintains strong name recognition and fundraising advantages typical of a long-serving incumbent.",
+    "The primary is over a year away, but no serious challenger has emerged, and filing deadlines are still in the future, making it unlikely the market's low probability is justified by uncertainty."
+  ],
+  "sources_consulted": [
+    "General knowledge of KY-04 politics and Massie's electoral history",
+    "Recent news searches (no major retirement or primary challenge reports)",
+    "Historical incumbent renomination rate data (≈98% for House incumbents)"
+  ],
+  "created_at": "2026-05-17T07:11:10.071001+00:00",
+  "agent_version": "0.1.0"
+}

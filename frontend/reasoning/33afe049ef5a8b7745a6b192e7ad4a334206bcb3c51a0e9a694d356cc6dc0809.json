@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 2650,
+  "edge_bp": -2150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market implies a 26.5% chance of a permanent US-Iran peace deal by mid-2026, which is severely overpriced given the deep mistrust, unresolved core disputes (nuclear program, ballistic missiles, regional proxies), and the present US 'maximum pressure' policy. Historic negotiations have never produced a durable, comprehensive peace treaty, and the timeframe of just over a year is far too short for such a monumental diplomatic achievement amidst ongoing hostile rhetoric and military posturing.",
+  "evidence_points": [
+    "US-Iran relations remain in a state of hostile confrontation, with no formal diplomatic ties and ongoing military posturing in the region.",
+    "Even under the most optimistic scenarios, a permanent peace deal requires resolving a wide array of deeply contentious issues that have taken decades to address in other conflicts.",
+    "Current US administration policy is defined by 'maximum pressure' and demands for sweeping concessions, while Iran's leadership has repeatedly rejected negotiations under these conditions."
+  ],
+  "sources_consulted": [
+    "Recent news reports on US-Iran tensions (April 2025)",
+    "Historical precedent of US-Iran negotiations (e.g., JCPOA, prisoner swaps)",
+    "Expert analysis of US Middle East policy under second Trump term"
+  ],
+  "created_at": "2026-05-17T07:23:01.474221+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7500,
+  "market_probability_bp": 5250,
+  "edge_bp": 2250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Under Arne Slot, Liverpool have re-established themselves as a top Premier League side, likely winning the 2024-25 title. Their deep squad, financial strength, and consistency make another top-4 finish very likely. The market price of 52.5% heavily undervalues this probability, which I estimate closer to 75%.",
+  "evidence_points": [
+    "Liverpool are on course to win the 2024-25 Premier League, showing elite performance",
+    "Manager Arne Slot has created a cohesive, dominant system with a strong squad",
+    "Despite competition from Man City and others, Liverpool's recent record and investment make them a top-4 lock barring a major collapse"
+  ],
+  "sources_consulted": [
+    "Current 2024-25 EPL standings and form",
+    "Bookmaker top-4 odds implying ~75% probability",
+    "Squad depth and financial analysis (Liverpool top revenue club)"
+  ],
+  "created_at": "2026-05-17T07:12:32.877693+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x3d6221450862c69f69e9b278a9119fc3e11f1c794650f7cddf283d4adefeee20",
+  "market_slug": "will-dan-cox-win-the-2026-maryland-governor-republican-primary-election",
+  "market_question": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 5750,
+  "edge_bp": -1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2174,
+  "reasoning": "Dan Cox has no official campaign, is still over a year from the primary, and carries the baggage of a 30-point general-election loss in 2022. The field is likely to include other high-profile contenders like Representative Andy Harris, and party insiders are signaling a desire for a more electable candidate. Assigning a 57.5% probability to a single non-incumbent this early is excessive; a more realistic range is 40–45%.",
+  "evidence_points": [
+    "Cox lost the 2022 general election by 32 points, raising electability concerns within the party.",
+    "Reports from The Baltimore Sun and Washington Post in early 2025 indicate serious interest from other Republicans, including Congressman Andy Harris, who would split the conservative base.",
+    "Open gubernatorial primaries far from the election rarely see a single candidate above 50% probability absent commanding polls, which are absent here."
+  ],
+  "sources_consulted": [
+    "Baltimore Sun – 2025 Maryland Republican gubernatorial primary speculation",
+    "Washington Post – January 2025 article on potential Maryland GOP candidates",
+    "Historical primary forecast literature – early-stage candidate probabilities"
+  ],
+  "created_at": "2026-05-17T07:24:44.278792+00:00",
+  "agent_version": "0.1.0"
+}
