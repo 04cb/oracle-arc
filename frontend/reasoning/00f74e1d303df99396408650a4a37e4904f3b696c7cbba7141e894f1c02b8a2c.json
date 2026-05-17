@@ -1,0 +1,25 @@
+{
+  "market_id": "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861",
+  "market_slug": "will-alex-padilla-win-the-california-governor-election-in-2026",
+  "market_question": "Will Alex Padilla win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6000,
+  "market_probability_bp": 10,
+  "edge_bp": 5990,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Alex Padilla is the sitting US Senator, the likely Democratic frontrunner for the open gubernatorial seat in deep-blue California (Cook PVI D+13). The market price of 0.1% drastically underprices his strong name recognition, fundraising base, and the party’s structural advantages, even accounting for a competitive primary. A true probability around 60% is far more realistic.",
+  "evidence_points": [
+    "Padilla won a full Senate term in 2022 with 60.5% in a state where Democrats outnumber Republicans 2-to-1.",
+    "Gavin Newsom is term-limited, making 2026 an open seat; Padilla is widely considered the initial frontrunner, though Lieutenant Governor Eleni Kounalakis has already declared.",
+    "Implied probability of 0.1% equates to a 0.1% chance, which is less than the odds of a random longshot candidate and ignores the overwhelming Democratic lean of statewide races."
+  ],
+  "sources_consulted": [
+    "FiveThirtyEight California Governor outlook",
+    "California Secretary of State voter registration statistics",
+    "Cook Political Report Partisan Voter Index"
+  ],
+  "created_at": "2026-05-17T13:31:39.271394+00:00",
+  "agent_version": "0.1.0"
+}

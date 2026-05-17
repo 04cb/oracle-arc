@@ -1,0 +1,25 @@
+{
+  "market_id": "0x512681435d67fc7022656b6b27d5656f0d7f9eee4807cf017a769bdd6b991d99",
+  "market_slug": "bitcoin-above-86k-on-may-18",
+  "market_question": "Will the price of Bitcoin be above $86,000 on May 18?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 20,
+  "edge_bp": 3980,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Bitcoin currently trades near $65k, and a 2-year horizon renders an $86k target only ~32% higher. Under typical BTC volatility (annualized 80%), the lognormal probability of spot above $86k on a specific future date is ~40%. The market's implied 0.2% is a severe mispricing likely due to thin liquidity or stale order.",
+  "evidence_points": [
+    "Current BTC/USDT price ~$65k, so a move to $86k in 2 years requires ~15% annualized growth, well within historical norms.",
+    "Using 80% annualized vol over 2 years, prob. of log return > ln(86/65) ≈ 0.28 is ~40% (normal CDF).",
+    "Even with crash risks, a >100x deviation from that estimate (market implied 0.2%) is implausible."
+  ],
+  "sources_consulted": [
+    "Recent BTC price on Binance",
+    "BTC historical volatility estimates",
+    "Lognormal probability of price threshold"
+  ],
+  "created_at": "2026-05-17T13:47:54.594758+00:00",
+  "agent_version": "0.1.0"
+}

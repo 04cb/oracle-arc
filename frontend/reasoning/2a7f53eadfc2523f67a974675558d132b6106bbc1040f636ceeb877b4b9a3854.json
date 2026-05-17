@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 590,
+  "edge_bp": 1410,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1498,
+  "reasoning": "The UK government has been under sustained political pressure to designate the IRGC, with credible reports in early 2025 that a decision was imminent and cross-party support in Parliament. Given the timeline of over a year until June 2026 and that allied nations like the US and Canada have already made the designation, the true probability is significantly higher than the market's implied 5.9%, though execution risks from diplomatic caution remain.",
+  "evidence_points": [
+    "March 2025 Telegraph report: 'UK poised to ban Iran’s Revolutionary Guard as terrorist group'",
+    "Cross-party parliamentary pressure and formal review by Home Office",
+    "UK already sanctioned IRGC as a whole in 2023; designation would be a formal step"
+  ],
+  "sources_consulted": [
+    "The Telegraph (March 2025)",
+    "UK Parliament Hansard",
+    "Reuters coverage of UK-Iran relations"
+  ],
+  "created_at": "2026-05-17T13:49:06.183838+00:00",
+  "agent_version": "0.1.0"
+}

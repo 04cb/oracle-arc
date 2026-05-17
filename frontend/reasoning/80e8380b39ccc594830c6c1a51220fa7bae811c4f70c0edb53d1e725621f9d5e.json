@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 9250,
+  "edge_bp": -8250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX is currently privately valued around $350B; reaching $1.4T by 2027 would require a 4x increase in a short period, which is extremely ambitious. Elon Musk has shown reluctance to take SpaceX public, and a Starlink spin-off is more likely. The probability of an IPO occurring by end 2027 and closing above $1.4T on the first day is under 10%, making the 92.5% implied probability grossly overvalued.",
+  "evidence_points": [
+    "SpaceX private valuation ~$350B as of 2024 (per Bloomberg and secondary sales)",
+    "Musk has repeatedly stated he doesn't want to take SpaceX public until its 'beloved' Mars mission is on track, preferring a Starlink IPO first.",
+    "First-day IPO pricing typically discounts growth expectations; a $1.4T market cap would require an implausible surge from the last private round."
+  ],
+  "sources_consulted": [
+    "Bloomberg (SpaceX valuation reports)",
+    "Musk's public statements on Twitter/X and interviews",
+    "Morgan Stanley analyst reports on SpaceX valuation scenarios"
+  ],
+  "created_at": "2026-05-17T13:53:05.822531+00:00",
+  "agent_version": "0.1.0"
+}

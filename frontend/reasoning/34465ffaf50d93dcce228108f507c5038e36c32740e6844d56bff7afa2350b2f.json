@@ -1,0 +1,27 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 2650,
+  "edge_bp": -2150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent US-Iran peace deal ending military hostilities is extremely unlikely given the deep-rooted antagonism, Iran's ideological opposition, its support for proxy forces, and the lack of trust between the two nations. The existence of a temporary April 2026 ceasefire suggests negotiations but does not significantly increase the odds of a full permanent accord within months. Historical precedent shows the two sides have never come close to such a comprehensive agreement, and domestic political constraints on both sides make it even less plausible. The implied market probability of ~26.5% is far too high.",
+  "evidence_points": [
+    "Iran's regime has maintained anti-American ideology as a core pillar since 1979 and shows no sign of abandoning it.",
+    "Past bilateral agreements (e.g., the JCPOA) were narrowly focused on nuclear issues and never approached a permanent end to hostilities.",
+    "The description's reference to a temporary two-week ceasefire in April 2026 implies the conflict is ongoing and any deal is likely tactical and non-permanent.",
+    "Major obstacles such as Iran's ballistic missile program, support for regional proxies, and recognition of Israel remain unaddressed and are deal-breakers for US domestic politics."
+  ],
+  "sources_consulted": [
+    "Historical analysis of US-Iran relations from 1979 to 2025",
+    "Official text of the market description (hypothetical April 2026 ceasefire reference)",
+    "Political risk assessments on Iran's foreign policy rigidity",
+    "Past US-Iran negotiation outcomes (e.g., JCPOA, failure of broader talks)"
+  ],
+  "created_at": "2026-05-17T13:54:33.214910+00:00",
+  "agent_version": "0.1.0"
+}

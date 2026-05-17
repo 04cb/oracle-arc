@@ -1,0 +1,24 @@
+{
+  "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+  "market_slug": "clarity-act-signed-into-law-in-2026",
+  "market_question": "Clarity Act signed into law in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 6050,
+  "edge_bp": -2050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The bill must pass both chambers and get signed within a tight timeframe. Previous crypto bills like FIT21 passed the House but stalled in the Senate. Despite a pro-crypto administration, the legislative process is slow and fraught with partisan hurdles; I estimate a 40% chance, well below the market's 60.5%.",
+  "evidence_points": [
+    "FIT21 passed the House in 2024 but never received a Senate vote, showing typical crypto-bill stagnation.",
+    "The 60-vote filibuster threshold in the Senate requires bipartisan support that may not materialize for a sweeping crypto reform.",
+    "Congress has a packed agenda with budget, tax, and other priority legislation, leaving limited floor time for a niche digital-asset bill."
+  ],
+  "sources_consulted": [
+    "Congress.gov",
+    "news analysis on crypto legislation"
+  ],
+  "created_at": "2026-05-17T13:37:04.778935+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x885a6abefad122348b4fbd503473d7fd1f9035d0438cf988a7591620f316a859",
+  "market_slug": "will-bitcoin-reach-130000-by-december-31-2026-756-151-855",
+  "market_question": "Will Bitcoin reach $130,000 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1250,
+  "edge_bp": 1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1429,
+  "reasoning": "Given Bitcoin's historical post-halving rallies, achieving a new all-time high above $130k is plausible, and the observation window (late 2025–2026) could still capture such levels if the cycle peak occurs later or a secondary rally materializes. The market's implied 12.5% probability appears to underestimate this chance.",
+  "evidence_points": [
+    "Post-halving rallies historically led to new ATHs within 12–18 months; an extended cycle could push the peak into late 2025 or 2026.",
+    "Diminishing returns pattern (83x → 30x → 8.6x) suggests a 2–3x multiple from the $64k halving price is plausible, yielding $128k–$192k, making $130k reachable.",
+    "Multiple institutional analysts have published 2025 Bitcoin targets in the $100k–$250k range, implying a non-trivial probability of exceeding $130k."
+  ],
+  "sources_consulted": [
+    "Historical Bitcoin price data (CoinGecko, TradingView)",
+    "Post-halving cycle analysis (Rekt Capital, stock-to-flow models)",
+    "Institutional research (Standard Chartered, Bernstein, etc.)"
+  ],
+  "created_at": "2026-05-17T13:30:31.316444+00:00",
+  "agent_version": "0.1.0"
+}

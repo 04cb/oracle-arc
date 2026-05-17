@@ -1,0 +1,24 @@
+{
+  "market_id": "0xd39905267d79b715f078279ef41f311b791c6e2c7361fea38011492b632212ef",
+  "market_slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by-may-31-2026",
+  "market_question": "Iran agrees to surrender enriched uranium stockpile by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 320,
+  "edge_bp": 380,
+  "confidence": "medium",
+  "kelly_fraction_bp": 398,
+  "reasoning": "Iran may agree to a symbolic transfer of a small amount of enriched uranium within 13 months under US diplomatic and military pressure, meeting the broad resolution criteria. The market's 3.2% implied probability underestimates the chance of even a token concession.",
+  "evidence_points": [
+    "Resolution rules count any amount of enriched uranium transferred outside Iranian control, not just the full stockpile.",
+    "Under the 2015 JCPOA, Iran shipped out low-enriched uranium to Russia, showing a precedent for such concessions.",
+    "The Trump administration’s maximum-pressure campaign and threats of military action could push Iran to make a limited gesture to avoid escalation."
+  ],
+  "sources_consulted": [
+    "Polymarket description",
+    "Reuters geopolitical overview April 2025"
+  ],
+  "created_at": "2026-05-17T13:22:46.120035+00:00",
+  "agent_version": "0.1.0"
+}

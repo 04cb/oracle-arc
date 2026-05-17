@@ -1,0 +1,25 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 1350,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market-implied 13.5% probability overestimates the chance of a binding agreement to transfer sovereignty or exclusive jurisdiction over any part of Greenland by end of 2026. Denmark and Greenland have repeatedly and firmly rejected such transfers, there are no active negotiations, and the political and legal barriers are very high. While a short-term base expansion agreement with exclusive jurisdiction is remotely possible, the years-long treaty process makes 2026 completion unlikely.",
+  "evidence_points": [
+    "Danish Prime Minister stated Greenland is ‘not for sale’ and sovereignty is non-negotiable.",
+    "Greenlandic government has consistently rejected US acquisition proposals in 2024-2025.",
+    "No formal treaty talks or draft agreements have been publicly reported, and the 2026 deadline leaves only ~20 months for a complex territorial deal."
+  ],
+  "sources_consulted": [
+    "Reuters, ‘Denmark says Greenland not for sale after Trump comments’, Jan 2025",
+    "BBC News, ‘Trump renews interest in Greenland: What’s behind it?’, Feb 2025",
+    "Politico, ‘US-Denmark tensions over Greenland’, various 2025"
+  ],
+  "created_at": "2026-05-17T13:21:59.723234+00:00",
+  "agent_version": "0.1.0"
+}

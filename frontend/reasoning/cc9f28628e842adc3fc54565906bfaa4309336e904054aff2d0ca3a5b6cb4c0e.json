@@ -1,0 +1,28 @@
+{
+  "market_id": "0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b",
+  "market_slug": "hantavirus-vaccine-in-2026",
+  "market_question": "Hantavirus vaccine in 2026? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 850,
+  "edge_bp": -800,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "No hantavirus vaccine candidate has progressed beyond early Phase 1 safety trials in the US; full FDA approval by end of 2026 would require completing Phase 2 and large Phase 3 efficacy studies, an impossible timeline given no ongoing late-stage trials. The disease's rarity makes commercial investment scarce, and even accelerated regulatory pathways (e.g., Animal Rule) are not applicable to non-biodefense pathogens like hantavirus. The market’s 8.5% implied probability drastically overstates the true chance, which is well under 1%.",
+  "evidence_points": [
+    "The only US‑based candidate (USAMRIID DNA vaccine for Hantaan/Puumala) completed Phase 1 in 2019 with no active Phase 2/3 trial publicly registered.",
+    "FDA vaccine approvals require demonstration of efficacy in large trials; for a rare disease like hantavirus pulmonary syndrome (HPS) with fewer than 50 cases/year in the U.S., recruitment for such trials is infeasible by 2026.",
+    "No manufacturer has submitted a Biologics License Application (BLA) to the FDA for a hantavirus vaccine, nor has any candidate received Breakthrough Therapy or Fast Track designation that could compress the timeline to <18 months.",
+    "Even China’s inactivated Hantaan virus vaccine, used locally for HFRS, has never been filed with the FDA and would require full clinical development to meet U.S. standards."
+  ],
+  "sources_consulted": [
+    "FDA Vaccines Licensed for Use in the United States (fda.gov)",
+    "ClinicalTrials.gov review of hantavirus vaccine trials",
+    "USAMRIID press releases and published Phase 1 data",
+    "CDC HPS surveillance reports",
+    "Biomedical literature on hantavirus vaccine pipeline"
+  ],
+  "created_at": "2026-05-17T13:45:26.255850+00:00",
+  "agent_version": "0.1.0"
+}

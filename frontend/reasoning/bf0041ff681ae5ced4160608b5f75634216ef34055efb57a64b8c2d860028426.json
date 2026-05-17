@@ -1,0 +1,23 @@
+{
+  "market_id": "0xcfad7a997bbb549459ef767b8db66771823ab3fdfd3f0eb71592332016c74fbf",
+  "market_slug": "will-iceman-drake-debut-week-album-sales-be-less-than-300k",
+  "market_question": "Will \"Iceman\" - Drake debut week album sales be less than 300k?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 110,
+  "edge_bp": 690,
+  "confidence": "medium",
+  "kelly_fraction_bp": 702,
+  "reasoning": "The market's implied 1.1% chance that Drake's 'Iceman' debuts under 300k seems vastly understated, given the non-zero risk of an experimental or surprise drop (as with Honestly, Nevermind's 204k debut) and the resolution rule that an unreleased album resolves to the lowest bracket (here, <300k). Drake's recent blockbuster albums typically exceed 300k, but a ~8% probability better accounts for outlier scenarios, making 'Yes' heavily underpriced.",
+  "evidence_points": [
+    "Drake's Honestly, Nevermind (2022) debuted with only 204k units due to surprise release and dance genre, proving sub-300k weeks are possible.",
+    "Certified Lover Boy (613k), Her Loss (404k), For All the Dogs (402k) show strong recent performance, but the 300k threshold is not invincible.",
+    "Resolution rule: if album not released by Dec 31, 2026, market resolves to lowest bracket (i.e., Yes), adding a small but meaningful floor to the probability."
+  ],
+  "sources_consulted": [
+    "General knowledge of Drake album sales history from industry reports and chart data"
+  ],
+  "created_at": "2026-05-17T13:49:25.831765+00:00",
+  "agent_version": "0.1.0"
+}

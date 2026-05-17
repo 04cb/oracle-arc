@@ -1,0 +1,25 @@
+{
+  "market_id": "0x9c50945d1c32e7e8db53675b9703a5d7759e37708a21af39a1deff1a1df73d5e",
+  "market_slug": "predictfun-fdv-above-200m-one-day-after-launch",
+  "market_question": "Predict.fun FDV above $200M one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 7850,
+  "edge_bp": -3350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Achieving a $200M FDV one day after launch is a high bar for a new governance token on a prediction market platform. Many similar DeFi and crypto projects launch at lower valuations, and sustained hype is uncertain. The market's 78.5% implied probability seems overly optimistic given typical token launch volatility and competitive pressure.",
+  "evidence_points": [
+    "Many recent token launches see FDVs below $200M without extreme hype or large liquidity backing.",
+    "Prediction markets like Polymarket operate without a token, indicating that a governance token may not guarantee high valuation.",
+    "The resolution window is short (one day), increasing randomness of a spike above $200M."
+  ],
+  "sources_consulted": [
+    "General crypto market trends",
+    "Comparable DeFi/Web3 token launch FDVs",
+    "Polymarket tokenomics background"
+  ],
+  "created_at": "2026-05-17T13:32:25.045748+00:00",
+  "agent_version": "0.1.0"
+}

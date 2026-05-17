@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 9250,
+  "edge_bp": -8950,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX IPO by end of 2027 is highly unlikely given Elon Musk's repeated statements against going public before regular Mars flights, and even if an IPO occurs, a first-day market cap above $1.4T is extremely improbable when the company was last valued around $350B (2024) and would require unrealistic growth in three years. The current market price heavily overestimates the probability of a Yes resolution.",
+  "evidence_points": [
+    "Musk has said SpaceX will not go public until there are regular flights to Mars, which is far beyond 2027.",
+    "SpaceX's valuation was ~$350B in late 2024 secondary sales, making a rise to $1.4T by 2027 an extraordinary leap.",
+    "Only one IPO (Aramco) has ever reached a market cap near $1.4T, and that was for a state-owned oil giant with proven assets, unlike a speculative growth company.",
+    "The market resolves No by default if no IPO happens, further lowering the Yes chance."
+  ],
+  "sources_consulted": [
+    "SpaceX 2024 tender offer valuation reports",
+    "Musk's public interviews and tweets regarding SpaceX IPO timing",
+    "Historical IPO market cap data (e.g., Saudi Aramco, Alibaba)"
+  ],
+  "created_at": "2026-05-17T13:23:58.047301+00:00",
+  "agent_version": "0.1.0"
+}

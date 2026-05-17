@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc62b78f7a1b56a4e2cc713a0633fe4cd2a6a5dce6cd3b4eec0bd292a6cbdff71",
+  "market_slug": "will-lance-stroll-be-the-2026-f1-drivers-champion",
+  "market_question": "Will Lance Stroll be the 2026 F1 Drivers' Champion?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 10,
+  "edge_bp": -9,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Lance Stroll is a midfield driver with zero race wins and a best season finish of 9th. Aston Martin is unlikely to build a dominant car for 2026, and even if they did, Stroll would almost certainly be outperformed by his teammate. The true probability of him winning the championship is far below 0.1%.",
+  "evidence_points": [
+    "Stroll has never won an F1 race or finished higher than 9th in the standings.",
+    "He has been consistently beaten by every teammate, including Fernando Alonso.",
+    "Aston Martin are not expected to produce a championship-winning car in 2026, and Stroll lacks the elite skill to win even with the fastest car."
+  ],
+  "sources_consulted": [
+    "Formula 1 historical standings",
+    "Aston Martin performance analysis",
+    "Driver skill assessments"
+  ],
+  "created_at": "2026-05-17T13:48:10.987361+00:00",
+  "agent_version": "0.1.0"
+}

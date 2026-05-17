@@ -1,0 +1,24 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9800,
+  "market_probability_bp": 350,
+  "edge_bp": 9450,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a naval base in Abu Dhabi (UAE) that requires regular transits through the Strait of Hormuz for resupply, exercises, and port visits. Historic precedents (e.g., frigate FS Guepratte in 2022) show at least one such transit per year, and the market's broad definition includes military cargo/support vessels. Thus a transit within the next 13 months is almost certain.",
+  "evidence_points": [
+    "French Navy maintains a permanent base in Abu Dhabi, requiring routine passage through Hormuz.",
+    "Publicly documented transits, like the FS Guepratte in November 2022, confirm annual visits.",
+    "Resolution criteria count military support/cargo vessels as warships, further lowering the bar."
+  ],
+  "sources_consulted": [
+    "French Navy Abu Dhabi base information",
+    "News reports on French warship transits (e.g., Naval News, 2022)"
+  ],
+  "created_at": "2026-05-17T13:57:47.185181+00:00",
+  "agent_version": "0.1.0"
+}

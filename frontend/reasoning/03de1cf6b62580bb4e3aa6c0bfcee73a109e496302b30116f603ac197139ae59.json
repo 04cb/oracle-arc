@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4c04cc7094bf35bd682eb4f0e492836b97392c213087a2b891d0b5d897a81eb2",
+  "market_slug": "will-marco-rubio-be-the-leader-of-venezuela-end-of-2026",
+  "market_question": "Will Marco Rubio be the leader of Venezuela end of 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 0,
+  "market_probability_bp": 20,
+  "edge_bp": -20,
+  "confidence": "high",
+  "kelly_fraction_bp": 0,
+  "reasoning": "Marco Rubio is a U.S. Senator with no Venezuelan citizenship or political role. Venezuela's constitution requires the head of state to be a natural-born Venezuelan citizen, and even in a collapse scenario he would not be installed. The true probability is astronomically small, far below the market's 0.2% implied chance.",
+  "evidence_points": [
+    "Rubio is a U.S. politician, not a Venezuelan national nor a candidate for any Venezuelan office.",
+    "Venezuela's head of state must meet constitutional requirements including natural-born citizenship, which Rubio does not.",
+    "No plausible scenario exists for Rubio to be sworn in as leader of Venezuela by Dec 2026."
+  ],
+  "sources_consulted": [
+    "Wikipedia: Marco Rubio",
+    "Constitution of Venezuela (citizenship and presidential requirements)",
+    "UN Protocol list of heads of state (current Venezuela head)"
+  ],
+  "created_at": "2026-05-17T13:46:59.213881+00:00",
+  "agent_version": "0.1.0"
+}

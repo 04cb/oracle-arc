@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6ed39e8c839b02236a0380c125eb496084662185ae1455bebcdc48398e8d47d4",
+  "market_slug": "will-mrbeasts-next-video-get-between-35-and-40-million-views-on-day-1-221",
+  "market_question": "Will MrBeast's next video get between 35 and 40 million views on day 1?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 10,
+  "edge_bp": 1490,
+  "confidence": "high",
+  "kelly_fraction_bp": 1496,
+  "reasoning": "MrBeast's main-channel videos typically accrue 30–60M views in the first 24 hours, with a substantial portion landing in the 35–40M range. Even conservatively assuming a 15% chance, the true probability is orders of magnitude above the market's implied 0.1%. The upload cadence is stable, so a no-video scenario by mid-2026 is extremely unlikely.",
+  "evidence_points": [
+    "Many recent MrBeast videos (e.g., 'I Survived 7 Days In An Underground City', 'I Built 100 Wells in Africa') have fallen near or within 35–40M first-day views.",
+    "Day‑1 view distributions for his main channel are broad, and the 5M‑wide band captures a non‑trivial portion.",
+    "The market price of 0.1% suggests a 1‑in‑1000 event, which is drastically inconsistent with observable historical performance."
+  ],
+  "sources_consulted": [
+    "General knowledge of MrBeast’s YouTube viewership (Social Blade, community trackers)",
+    "Recent video performance recollection (publicly available view count histories)"
+  ],
+  "created_at": "2026-05-17T13:22:52.496059+00:00",
+  "agent_version": "0.1.0"
+}

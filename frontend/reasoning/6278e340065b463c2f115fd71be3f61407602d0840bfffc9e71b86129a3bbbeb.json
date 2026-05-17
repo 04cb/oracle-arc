@@ -1,0 +1,27 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1370,
+  "edge_bp": -770,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "At nearly 3 years from the election, Marco Rubio’s true odds of winning the presidency are remote. He lost his only prior national campaign, is not a clear front‑runner for the 2028 Republican nomination (J.D. Vance, Donald Trump Jr., and others appear stronger), and must first secure the nomination and then win a general election. The market’s 13.7% implies a probability usually reserved for a top‑tier candidate in the year of the election, not a long‑shot hopeful.",
+  "evidence_points": [
+    "Rubio’s 2016 presidential bid failed early; he has never demonstrated national primary dominance.",
+    "The 2028 Republican field is expected to be deep, including figures like J.D. Vance (Trump’s VP) and other rising populists.",
+    "Historical data shows that US senators rarely win the presidency, especially in a cycle as uncertain as 2028.",
+    "Intrade/Polymarket odds for individual presidential hopefuls more than two years out are typically in low single digits unless they are the incumbent or deemed inevitable."
+  ],
+  "sources_consulted": [
+    "Polymarket current pricing data",
+    "US election history (presidential winners 2000–2024)",
+    "Public statements and current political standing of Sen. Rubio",
+    "2028 Republican primary polling and futures markets"
+  ],
+  "created_at": "2026-05-17T13:53:44.915500+00:00",
+  "agent_version": "0.1.0"
+}

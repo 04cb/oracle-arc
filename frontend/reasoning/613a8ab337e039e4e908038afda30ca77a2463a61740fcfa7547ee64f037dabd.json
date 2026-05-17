@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 9250,
+  "edge_bp": -9200,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX is extremely unlikely to IPO by end‑2027 – Elon Musk has repeatedly stated he won’t take the company public until regular Mars flights are established, a goal still far off. Even if an IPO occurred, the current ~$350B valuation would need to nearly quadruple to reach $1.4T, a jump that revenue projections for Starlink and launch services cannot justify by 2027. The combined probability is therefore well below 1%, making the 92.5% market price grossly overconfident.",
+  "evidence_points": [
+    "Elon Musk has said SpaceX will not IPO until regular flights to Mars are happening, which is not expected before the late 2020s at earliest.",
+    "Recent private market valuations peg SpaceX around $350B; even optimistic Starlink revenue growth to $30B by 2027 would support a fraction of a $1.4T market cap.",
+    "No credible reports suggest a SpaceX IPO is being prepared; the more likely Starlink spin‑off IPO would not count under the market’s terms."
+  ],
+  "sources_consulted": [
+    "Public statements by Elon Musk (various interviews, Twitter/X, 2021‑2025)",
+    "Recent SpaceX funding rounds and valuation reports (CNBC, Bloomberg, 2024‑2025)",
+    "Industry analyst projections for Starlink revenue growth (e.g., Quilty Space, 2024)"
+  ],
+  "created_at": "2026-05-17T13:49:26.879610+00:00",
+  "agent_version": "0.1.0"
+}

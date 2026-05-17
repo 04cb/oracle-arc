@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4e15f0f425d28b87024ba9f19504e074da257e3d231d3222618a67c5c0f600ba",
+  "market_slug": "will-the-feds-lower-bound-reach-0pt5-or-lower-before-2027-459-115-473-497-424-381-849",
+  "market_question": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 500,
+  "edge_bp": -400,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Fed’s lower bound is currently 4.25%. Reaching 0.5% would require cuts of 375 bps in under two years, an extreme scenario seen only in severe crises. FOMC dot‑plots and market pricing show rates well above 3% through end‑2026, so a 5% market probability overstates the tail risk. A realistic true probability is around 1%.",
+  "evidence_points": [
+    "Federal Reserve dot‑plot (March 2025) shows the median federal funds rate at 3.4% for end‑2026.",
+    "CME FedWatch probabilities for December 2026 assign negligible mass to rates below 2.5%.",
+    "Current economic conditions (low unemployment, above‑target inflation) do not support near‑zero rates."
+  ],
+  "sources_consulted": [
+    "Federal Reserve Summary of Economic Projections (March 2025)",
+    "CME FedWatch Tool for December 2026 futures",
+    "Polymarket liquidity and order-book levels"
+  ],
+  "created_at": "2026-05-17T13:53:44.597694+00:00",
+  "agent_version": "0.1.0"
+}

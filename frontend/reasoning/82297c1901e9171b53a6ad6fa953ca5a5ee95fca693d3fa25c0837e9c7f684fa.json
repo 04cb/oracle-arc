@@ -1,0 +1,23 @@
+{
+  "market_id": "0xc792f8824ef9bb549a4f5d89eec898caefdd3df5a507783f80202d289e9130ea",
+  "market_slug": "israel-x-hezbollah-permanent-peace-deal-by-may-31-2026",
+  "market_question": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 210,
+  "edge_bp": -190,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace deal is improbable given Hezbollah's foundational opposition to Israel and its role as an Iranian proxy. The current regional dynamic shows no signs of the fundamental shifts required for such an agreement by May 2026, and even temporary ceasefires are fragile. The market's 2.1% implied probability is far too high; I estimate a true probability closer to 0.2%.",
+  "evidence_points": [
+    "Hezbollah’s charter calls for Israel’s destruction and it shows no willingness to sign a permanent peace deal.",
+    "Israel and Hezbollah have never had a diplomatic process, and recent conflicts have deepened enmity.",
+    "Iran, Hezbollah’s main backer, opposes normalization with Israel, making a standalone Hezbollah-Israel peace deal highly unlikely."
+  ],
+  "sources_consulted": [
+    "general knowledge of Middle East geopolitics, Hezbollah’s ideology, historical conflict patterns"
+  ],
+  "created_at": "2026-05-17T13:51:33.471429+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc792f8824ef9bb549a4f5d89eec898caefdd3df5a507783f80202d289e9130ea",
+  "market_slug": "israel-x-hezbollah-permanent-peace-deal-by-may-31-2026",
+  "market_question": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 210,
+  "edge_bp": -160,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace deal between Israel and Hezbollah is extremely unlikely given Hezbollah's foundational ideology rejecting Israel's existence and its role as Iran's proxy. The current ceasefire, while holding, is fragile and falls far short of a lasting political settlement. Israel demands Hezbollah's disarmament, which Hezbollah will not accept, and both domestic and regional dynamics block a definitive end to hostilities within the next 14 months.",
+  "evidence_points": [
+    "Hezbollah's 2024 losses in leadership and arsenal have not altered its core doctrine of armed resistance against Israel.",
+    "The November 2024 ceasefire was a temporary military truce, not a step toward permanent peace, and reports indicate sporadic violations and deep mutual distrust.",
+    "No credible diplomatic track exists; the Lebanese state cannot compel Hezbollah into a final peace agreement, and Israel's political leadership shows no appetite for acceptance of Hezbollah as a legitimate actor in a permanent deal."
+  ],
+  "sources_consulted": [
+    "Reuters reporting on November 2024 Israel-Hezbollah ceasefire and subsequent violations (Dec 2024-Mar 2025)",
+    "ICG analysis of Hezbollah's post-war posture and Iranian influence (Jan 2025)",
+    "Al Jazeera and Times of Israel coverage of Israeli government statements on Hezbollah disarmament (Feb-Mar 2025)"
+  ],
+  "created_at": "2026-05-17T13:52:48.717947+00:00",
+  "agent_version": "0.1.0"
+}

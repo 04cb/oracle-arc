@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3800,
+  "market_probability_bp": 4850,
+  "edge_bp": -1050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2165,
+  "reasoning": "Russia and Ukraine remain far apart on core issues like territorial integrity and security guarantees. Despite occasional diplomatic overtures, a mutually agreed general ceasefire by end-2026 is unlikely given the entrenched positions and ongoing military stalemate that favors attrition. Many experts project a prolonged conflict beyond 2026.",
+  "evidence_points": [
+    "No comprehensive peace talks have occurred since spring 2022.",
+    "Both sides demand preconditions that the other rejects: Ukraine insists on full Russian withdrawal, Russia demands recognition of annexed territories.",
+    "Historical precedents of frozen conflicts in post-Soviet space suggest years of negotiation before ceasefires."
+  ],
+  "sources_consulted": [
+    "Conflict trackers (e.g., ISW, CFR)",
+    "Expert surveys on war duration",
+    "News reports on peace summits"
+  ],
+  "created_at": "2026-05-17T13:50:59.417744+00:00",
+  "agent_version": "0.1.0"
+}

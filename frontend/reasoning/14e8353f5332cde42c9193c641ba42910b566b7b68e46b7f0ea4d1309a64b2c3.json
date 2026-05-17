@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1400,
+  "edge_bp": 1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1284,
+  "reasoning": "The market's 14% probability underestimates the likelihood of at least one Fed rate cut between December 16, 2025 and the September 2026 FOMC meeting. The March 2025 dot plot projects two rate cuts in 2026, and the window includes six scheduled meetings. Even with robust current data, the odds of easing over that multi-meeting horizon plus possible emergency cuts should be higher, around 25%.",
+  "evidence_points": [
+    "March 2025 SEP median dot implies two cuts in 2026, suggesting policy easing bias.",
+    "The condition covers six FOMC meetings (Jan–Sep 2026) plus inter‑meeting emergency cuts, increasing the cumulative probability of a cut.",
+    "Macro uncertainties (sticky inflation, geopolitical risks, trade tensions) could tilt the Fed toward accommodation in 2026."
+  ],
+  "sources_consulted": [
+    "Federal Reserve FOMC calendar (2025–2026)",
+    "March 2025 Summary of Economic Projections (dot plot)",
+    "CME FedWatch implied probabilities trends"
+  ],
+  "created_at": "2026-05-17T13:44:33.716504+00:00",
+  "agent_version": "0.1.0"
+}

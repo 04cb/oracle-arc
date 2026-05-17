@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 5000,
+  "market_probability_bp": 3850,
+  "edge_bp": 1150,
+  "confidence": "low",
+  "kelly_fraction_bp": 1870,
+  "reasoning": "The 2028 election is an open-seat race with no incumbent running. Historical party win rates in such elections are broadly even (near 50%). Without candidate-specific information this far out, a 50% prior is more defensible. The current market price implies a 38.5% chance, significantly below the baseline, suggesting Yes shares are undervalued.",
+  "evidence_points": [
+    "Open presidential elections (no incumbent) have historically been close to coin flips between the two major parties.",
+    "The absence of known candidates or economic conditions four years out makes extreme probabilities unjustified.",
+    "The 38.5% implied probability deviates from the long-run average of roughly 50% for either major party in any given election."
+  ],
+  "sources_consulted": [
+    "Historical US presidential election outcomes",
+    "General election probability priors"
+  ],
+  "created_at": "2026-05-17T13:31:16.693049+00:00",
+  "agent_version": "0.1.0"
+}

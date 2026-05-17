@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0bccf8ce01fcd188575a96ab88ed928260e72cc4c3aacf0e82fa5ab4570dbae6",
+  "market_slug": "will-solana-dip-to-20-by-december-31-2026",
+  "market_question": "Will Solana dip to $20 by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 950,
+  "edge_bp": -550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Solana's current price is likely far above $20 (likely >$100), so a drop to $20 represents an extreme ~80-90% crash. Such a drawdown would require a black-swan event (e.g., critical exploit, regulatory disaster) with a low annual probability. Over the 13‑month window, a fair estimate is about 4% true probability, well below the market's implied 9.5%.",
+  "evidence_points": [
+    "Historical SOL crashes (e.g., FTX fallout) were rare, one-off events that took months to materialize; recovering network fundamentals make a repeat unlikely in the next year.",
+    "Implied 9.5% probability would price in a >1-in-10 chance of a catastrophic crash, which appears excessive given SOL's market cap and ecosystem growth.",
+    "Binance 1-minute candle data under $20 would require sustained panic selling – even during sharp selloffs, structural support and bid depth usually prevent such a deep wick unless a major systemic shock occurs."
+  ],
+  "sources_consulted": [
+    "Binance SOL/USDT price history and volatility",
+    "Solana network metrics and recent developer activity",
+    "Comparison with previous extreme drawdowns (FTX, 2022)"
+  ],
+  "created_at": "2026-05-17T13:50:42.793263+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0xd5ae6a536537cc3f4732a1dfab183844b33db2e86d0a637ac9f43a452f619979",
+  "market_slug": "fl1-lil-aja-2026-05-17-lil",
+  "market_question": "Will Lille OSC win on 2026-05-17?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 6950,
+  "edge_bp": -2450,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Without knowing the opponent, Lille's baseline win probability in a Ligue 1 match is close to their historical win rate of ~45%. The market's 69.5% suggests a heavy favorite, which is unjustified given no opponent or context.",
+  "evidence_points": [
+    "Lille's recent Ligue 1 win rate hovers around 40-45%.",
+    "No opponent information provided, indicating an average fixture, not a mismatch.",
+    "The match is far in the future, adding uncertainty and favoring a neutral base rate."
+  ],
+  "sources_consulted": [
+    "General football knowledge",
+    "Ligue 1 historical win rates for Lille OSC"
+  ],
+  "created_at": "2026-05-17T13:54:12.108175+00:00",
+  "agent_version": "0.1.0"
+}

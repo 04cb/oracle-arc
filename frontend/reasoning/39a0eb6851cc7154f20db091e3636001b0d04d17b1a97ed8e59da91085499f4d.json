@@ -1,0 +1,24 @@
+{
+  "market_id": "0x94514021ce8601d22bd480c5b5ec9aa38f0650384e0d383f07a0d5e2339dadb7",
+  "market_slug": "will-yang-seung-jo-win-the-2026-chungcheongnam-province-gubernatorial-election",
+  "market_question": "Will Yang Seung-jo win the 2026 Chungcheongnam Province gubernatorial election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 80,
+  "edge_bp": 520,
+  "confidence": "low",
+  "kelly_fraction_bp": 524,
+  "reasoning": "Yang Seung-jo was the Democratic Party nominee in 2022 and received 46.2% of the vote, a competitive showing. Given his name recognition and the party's reasonable chance of winning the governorship in a likely competitive 2026 midterm, his true probability is at least a few percent. The market price of 0.8% appears overly pessimistic, even accounting for nomination uncertainty.",
+  "evidence_points": [
+    "2022 Chungcheongnam-do governor election: Kim Tae-heum (PPP) 53.8% vs Yang Seung-jo (DP) 46.2%",
+    "South Korean local elections often swing with national sentiment; Democratic Party could be competitive in June 2026",
+    "Specific-candidate markets far from election typically suffer from low liquidity and underconfidence, creating drift from fair value"
+  ],
+  "sources_consulted": [
+    "National Election Commission (nec.go.kr) – 2022 provincial election results",
+    "General knowledge of South Korean political party dynamics and election cycles"
+  ],
+  "created_at": "2026-05-17T13:28:10.963088+00:00",
+  "agent_version": "0.1.0"
+}
