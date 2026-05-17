@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "Unconditional probability of a Republican win in 2028 is around 45%, reflecting near-even odds in 2024 and typical patterns of party fatigue after two terms or an incumbent's open seat. The market's 38.5% underprices Yes by over 6 percentage points.",
+  "evidence_points": [
+    "In open-seat elections after a two-term presidency, the incumbent party wins about 40% of the time.",
+    "If Democrats win in 2024, Republicans become the change party with a historical edge in midterm-like shifts.",
+    "Over the long run, both parties win roughly half of elections, making a 45% unconditional estimate for 2028 plausible."
+  ],
+  "sources_consulted": [
+    "Analysis of U.S. presidential election outcomes 1900–2020",
+    "Incumbency and party fatigue patterns"
+  ],
+  "created_at": "2026-05-17T14:56:24.357690+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0x8de68dfbcfa9e9b6472bceec9aea2f252038cc12df9838b1f0016c02ec94b6d7",
+  "market_slug": "will-dawn-buckingham-win-the-2026-republican-primary",
+  "market_question": "Will Dawn Buckingham win the 2026 Texas Republican Primary?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 10,
+  "edge_bp": 140,
+  "confidence": "low",
+  "kelly_fraction_bp": 145,
+  "reasoning": "Dawn Buckingham is a sitting statewide-elected Texas Land Commissioner with cross-over legislative experience, making her a plausible 2026 Senate candidate if John Cornyn retires. Her true odds are likely around 1-2% (150 bp) in a fragmented primary, far higher than the 0.1% implied by the market, which is likely depressed by extremely low liquidity and speculative default pricing. The edge is attractive even under conservative assumptions about her entry and competitiveness.",
+  "evidence_points": [
+    "Won a competitive statewide Republican primary for Land Commissioner in 2022, proving electoral strength.",
+    "John Cornyn’s potential retirement opens a wide-open primary where a current statewide official would be among the top contenders.",
+    "The Yes price of 0.001 is far below even a minimal base rate for a known candidate in a still-uncertain race."
+  ],
+  "sources_consulted": [
+    "General knowledge of Texas Republican politics",
+    "Market description for condition ID 0x8de68dfbcfa9e9b6472bceec9aea2f252038cc12df9838b1f0016c02ec94b6d7"
+  ],
+  "created_at": "2026-05-17T14:56:54.372769+00:00",
+  "agent_version": "0.1.0"
+}

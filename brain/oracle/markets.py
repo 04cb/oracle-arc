@@ -83,7 +83,7 @@ def fetch_open_binary_markets(
         all_markets: list[Market] = []
         offset = 0
         page_size = 100
-        while len(all_markets) < max_results * 3 and offset < 1000:
+        while len(all_markets) < max(skip + max_results, max_results * 3) and offset < 2000:
             resp = client.get(
                 f"{GAMMA_API}/markets",
                 params={

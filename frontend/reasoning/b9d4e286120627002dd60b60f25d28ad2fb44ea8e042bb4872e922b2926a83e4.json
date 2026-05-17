@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 110,
+  "edge_bp": 390,
+  "confidence": "low",
+  "kelly_fraction_bp": 394,
+  "reasoning": "Crude oil at $40 would be a ~43% decline from ~$70 levels. Over ~18 months, the probability of touching that barrier under a simple GBM with no drift is roughly 13%, but fundamental factors like OPEC+ production cuts and shale cost floors reduce the risk. I estimate a 5% true probability, still well above the market's 1.1%, offering a positive edge on Yes.",
+  "evidence_points": [
+    "Barrier-hit probability under zero-drift GBM is ~2-3x terminal probability; terminal prob <$40 is ~9%, so hit prob ~13% before mean-reversion.",
+    "OPEC+ has repeatedly cut production to defend prices above $60, reducing tail risk.",
+    "Historical episodes below $40 (2020 pandemic, 2015-16) were brief and driven by extreme supply/demand shocks; current market structure reflects low probability of such an event."
+  ],
+  "sources_consulted": [
+    "CME Crude Oil futures settlement methodology",
+    "Historical WTI price data and realised volatility estimates",
+    "General knowledge of OPEC+ behaviour and shale production costs"
+  ],
+  "created_at": "2026-05-17T14:56:15.136559+00:00",
+  "agent_version": "0.1.0"
+}
