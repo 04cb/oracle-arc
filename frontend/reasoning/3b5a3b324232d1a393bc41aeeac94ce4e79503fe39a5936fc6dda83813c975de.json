@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "Historical patterns for open presidential races after one term of a party suggest a roughly even chance, with a slight tilt to the challenging party. Trump's narrow 2024 victory and an evenly split electorate imply a competitive race, but the market's 38.5% seems too dismissive of Republican retention chances.",
+  "evidence_points": [
+    "Historical precedent: since WWII, only once (1988) did a party hold the White House in an open race after two terms, but after one term, outcomes are mixed. The last open race after one term was 1968, which saw a party flip.",
+    "Trump won the popular vote in 2024 by a modest margin, indicating a closely divided country. Without an incumbent on the ballot, partisanship and fundamentals will determine the outcome, giving both parties a plausible path.",
+    "Betting markets often imply a reversion to the mean, but fundamentals like economic growth, geopolitical events, and candidate quality will only become clear closer to the election."
+  ],
+  "sources_consulted": [
+    "Historical U.S. presidential election results",
+    "2024 election outcome (Trump win)",
+    "Prediction market aggregates"
+  ],
+  "created_at": "2026-05-17T00:47:12.549632+00:00",
+  "agent_version": "0.1.0"
+}
