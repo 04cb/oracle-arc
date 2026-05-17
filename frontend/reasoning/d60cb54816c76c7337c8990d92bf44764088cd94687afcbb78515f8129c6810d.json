@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 630,
+  "edge_bp": 870,
+  "confidence": "medium",
+  "kelly_fraction_bp": 928,
+  "reasoning": "While the UK government has long resisted proscribing the IRGC due to diplomatic considerations, parliamentary committees and allies have increased pressure. The 2026 deadline allows time for a potential trigger (e.g., support for Russia, terrorism), making a designation plausible but not highly likely. I estimate a 15% chance, well above the 6.3% market price.",
+  "evidence_points": [
+    "UK Home Office has proscribed Iran-backed groups like Hezbollah and HAMAS but not the IRGC, showing a precedent and legal pathway.",
+    "The Foreign Affairs Committee recommended proscription in January 2023, and similar calls have grown since 2022.",
+    "Government reluctance stems from preserving diplomatic channels and the JCPOA, but a new escalation could shift that calculus."
+  ],
+  "sources_consulted": [
+    "UK Home Office proscribed terror groups list",
+    "BBC News: 'UK should proscribe Iran's IRGC, say MPs' (Jan 2023)",
+    "Reuters: 'UK says no decision yet on banning Iran's Revolutionary Guard' (2023)"
+  ],
+  "created_at": "2026-05-17T12:42:51.627203+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 1400,
+  "edge_bp": 3100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market prices only a 14% chance of any rate cut between Dec 2025 and Sep 2026, implying a roughly 2% per-meeting probability. Historically, the chance of at least one cut over a 9-month, 7-meeting window is far higher given macro uncertainty, recession risks, and the Fed's stated data-dependence. Even with a 'higher for longer' baseline, tail scenarios and emergency cuts make a cut more likely than the market suggests.",
+  "evidence_points": [
+    "Implied 14% probability corresponds to ~2% chance per FOMC meeting, far below typical odds of a shock-induced cut.",
+    "Recession probabilities over a two-year horizon are non-negligible and would trigger immediate easing.",
+    "Emergency cuts are explicitly included, adding to the likelihood of a cut outside regular meetings."
+  ],
+  "sources_consulted": [
+    "Federal Reserve FOMC calendar",
+    "Historical rate-cut frequency during economic cycles",
+    "General macro forecasting practices"
+  ],
+  "created_at": "2026-05-17T12:50:25.155665+00:00",
+  "agent_version": "0.1.0"
+}

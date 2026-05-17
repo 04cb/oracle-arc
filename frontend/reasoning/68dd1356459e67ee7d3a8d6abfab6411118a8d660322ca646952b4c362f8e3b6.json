@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 350,
+  "edge_bp": 7650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France is a key contributor to the European Maritime Awareness in the Strait of Hormuz (EMASoH) mission, which regularly deploys warships to escort merchant vessels through the Strait. Given a 1.5-year window, it is very likely at least one French frigate will transit and be officially confirmed or credibly reported. The market significantly underestimates this routine operational tempo.",
+  "evidence_points": [
+    "France has continuously participated in EMASoH, with warships like FS La Fayette and FS Courbet deployed to the region in 2023–2024.",
+    "Rotational deployments typically last several months, making transits through the Strait a near-certainty within the timeframe.",
+    "Even without official announcements, overwhelming credible media reporting would resolve the market; naval movements in the Strait are well-monitored."
+  ],
+  "sources_consulted": [
+    "EMASoH official mission overview (European-led maritime surveillance)",
+    "Public records of French Navy frigate deployments to the Gulf (e.g., FS La Fayette in 2023, FS Courbet in 2024)",
+    "News articles on France’s naval presence in the Persian Gulf and Strait of Hormuz"
+  ],
+  "created_at": "2026-05-17T12:50:49.636782+00:00",
+  "agent_version": "0.1.0"
+}

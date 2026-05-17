@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6ed39e8c839b02236a0380c125eb496084662185ae1455bebcdc48398e8d47d4",
+  "market_slug": "will-mrbeasts-next-video-get-between-35-and-40-million-views-on-day-1-221",
+  "market_question": "Will MrBeast's next video get between 35 and 40 million views on day 1?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 10,
+  "edge_bp": 490,
+  "confidence": "high",
+  "kelly_fraction_bp": 495,
+  "reasoning": "The market implies a 0.1% probability that MrBeast's next video lands between 35–40M day-1 views, which is unrealistically low given the historical variability of his view counts. Even conservative estimates based on known data suggest odds of several percent, making Yes strongly underpriced.",
+  "evidence_points": [
+    "MrBeast's main channel videos frequently achieve 30–100M+ views in the first 24 hours, so the 35–40M band is not a rare outlier.",
+    "Historical examples like the Squid Game recreation and recent challenges have seen day-1 views in the 30–50M range.",
+    "The market's implied 1-in-1000 chance is orders of magnitude below what basic YouTube view volatility and his upload frequency would suggest."
+  ],
+  "sources_consulted": [
+    "General knowledge of MrBeast's channel performance",
+    "Publicly discussed YouTube analytics of his past videos"
+  ],
+  "created_at": "2026-05-17T12:45:08.642103+00:00",
+  "agent_version": "0.1.0"
+}

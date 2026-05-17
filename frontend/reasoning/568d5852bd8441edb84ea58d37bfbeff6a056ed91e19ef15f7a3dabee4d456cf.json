@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 2650,
+  "edge_bp": -2400,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite occasional talks, a lasting peace deal ending military hostilities requires extraordinary mutual concessions. Deep mistrust, Iran’s nuclear program, US sanctions, proxy warfare, and domestic hardliners on both sides make a permanent accord extremely remote in 14 months.",
+  "evidence_points": [
+    "No formal US-Iran diplomatic relations since 1980; bilateral trust is near zero.",
+    "Iran’s nuclear ambitions and US ‘maximum pressure’ sanctions create fundamental roadblocks to any comprehensive peace.",
+    "Previous breakthroughs (e.g., JCPOA) were limited nuclear deals, not peace treaties, and collapsed; a broader permanent peace is a far higher bar."
+  ],
+  "sources_consulted": [
+    "Historical US-Iran diplomatic record",
+    "Geopolitical analysis as of early 2025",
+    "Assessment of past nuclear negotiations and regional proxy conflicts"
+  ],
+  "created_at": "2026-05-17T12:42:14.195294+00:00",
+  "agent_version": "0.1.0"
+}

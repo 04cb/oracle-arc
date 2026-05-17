@@ -1,0 +1,25 @@
+{
+  "market_id": "0xe3033b163d0e0e30cb3154049f28295dada348030e5c6cdfe58ed0d4e393c7e9",
+  "market_slug": "will-thomas-massie-be-the-republican-nominee-for-ky-04",
+  "market_question": "Will Thomas Massie be the Republican nominee for KY-04?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 4950,
+  "edge_bp": 4250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Thomas Massie is the deep-rooted incumbent with a history of overwhelming primary victories, often running unopposed. No credible challenger has emerged, and he has given no indication of retirement. The political landscape and his libertarian brand fit the district, making his re-nomination probability ~92%, drastically above the market's 49.5%.",
+  "evidence_points": [
+    "Massie has won every Republican primary since 2012, with margins >80% when contested and often unopposed (2024, 2018, 2016).",
+    "No primary challenger has been announced, and the district's Republican base favors his anti-establishment, libertarian profile.",
+    "At age 54 and actively engaged in Congress, retirement is unlikely; he would be 56 in 2026, with no health or political fatigue signals."
+  ],
+  "sources_consulted": [
+    "Ballotpedia: KY-04 primary election results 2012-2024",
+    "Thomas Massie congressional biography and public statements",
+    "Cook Political Report and district partisan lean analysis"
+  ],
+  "created_at": "2026-05-17T12:27:50.148428+00:00",
+  "agent_version": "0.1.0"
+}

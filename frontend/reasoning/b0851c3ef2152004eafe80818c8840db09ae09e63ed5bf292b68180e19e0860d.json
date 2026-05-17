@@ -1,0 +1,25 @@
+{
+  "market_id": "0xd39905267d79b715f078279ef41f311b791c6e2c7361fea38011492b632212ef",
+  "market_slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by-may-31-2026",
+  "market_question": "Iran agrees to surrender enriched uranium stockpile by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 320,
+  "edge_bp": 1680,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1740,
+  "reasoning": "The market's 3.2% price severely underestimates the chance that Iran agrees to transfer any amount of enriched uranium, a bar satisfied by a symbolic shipment or a repeat of the 2015 stockpile export. With maximum pressure and a possible diplomatic off-ramp before mid-2026, a limited deal is plausible. However, Iran's strong refusal to capitulate and the short timeline introduce significant uncertainty.",
+  "evidence_points": [
+    "Iran previously shipped out 98% of its enriched uranium as part of the 2015 JCPOA, a transfer that would satisfy this market's definition of 'surrender any amount'.",
+    "Trump administration has called for a verified nuclear deal and may accept a limited enriched-uranium removal as a first step.",
+    "Iran may offer a token shipment to avert military strikes while preserving most of its program."
+  ],
+  "sources_consulted": [
+    "Historical JCPOA implementation reports",
+    "Recent U.S.-Iran negotiation signals via credible news outlets",
+    "Analysis of Iran's stockpile enrichment levels and diplomatic posture"
+  ],
+  "created_at": "2026-05-17T12:31:31.355831+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+  "market_slug": "iran-closes-its-airspace-by-june-30-432-786",
+  "market_question": "Iran closes its airspace by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 5750,
+  "edge_bp": -2750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market implies a 57.5% chance of a major non-weather airspace closure by mid-2026, which appears too high. Historical closures occur roughly once every 2–4 years; over a 15-month window, a base rate of ~30% seems more realistic. While regional tensions persist, a broad closure affecting multiple major airports is not the norm.",
+  "evidence_points": [
+    "Only two major closures (2020 after PS752 shootdown, 2024 western airspace during Iran-Israel strike) have occurred in the last five years.",
+    "The resolution requires a non-weather suspension impacting at least two of five named airports or a broad regional closure—far from routine.",
+    "Current geopolitical risk is elevated, but even in a conflict scenario, full closures are short-lived and may not meet the stringent definition."
+  ],
+  "sources_consulted": [
+    "Reuters – Iran shuts airspace (April 2024 example)",
+    "Flightradar24 and historical airspace closure records",
+    "Geopolitical risk assessments of Iran-Israel dynamics"
+  ],
+  "created_at": "2026-05-17T12:34:51.484226+00:00",
+  "agent_version": "0.1.0"
+}

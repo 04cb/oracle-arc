@@ -1,0 +1,24 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7500,
+  "market_probability_bp": 5250,
+  "edge_bp": 2250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Liverpool have a strong squad and finished 3rd in 2024-25. With the core largely intact and a settled manager, they are likely top-4 contenders again in 2025-26. A 75% true probability seems conservative, whereas the market implies only 52.5%, suggesting underpricing.",
+  "evidence_points": [
+    "Liverpool finished 3rd in 2024-25 with a high points tally",
+    "Squad depth and key players (Salah, Van Dijk, Alisson) remain world-class",
+    "Bookmakers typically price Liverpool top-4 around 1.25–1.40 (~71-80% implied probability)"
+  ],
+  "sources_consulted": [
+    "General knowledge of EPL standings and team strength for 2024-25",
+    "Typical betting odds for top-4 markets"
+  ],
+  "created_at": "2026-05-17T12:35:04.532089+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 2000,
+  "edge_bp": 1000,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1250,
+  "reasoning": "Gabbard's tenure is not guaranteed; Trump's first-term DNI Coats lasted ~2.5 years, but many cabinet members were out within 1.5 years. Gabbard's lack of intelligence experience and potential bureaucratic clashes raise the risk of early departure. The market's 20% implied probability moderately underestimates this risk.",
+  "evidence_points": [
+    "Trump's first administration saw high cabinet turnover, including DNI (Coats out after 2.5 years, Maguire acting, Ratcliffe appointed).",
+    "Gabbard has no prior intelligence community background, increasing the likelihood of conflicts or missteps.",
+    "Despite Trump's loyalty to allies, internal White House dynamics have historically led to departures within 18 months."
+  ],
+  "sources_consulted": [
+    "Trump cabinet turnover historical data (2017-2020)",
+    "Confirmation and background of Tulsi Gabbard (2025)",
+    "Polymarket price history and description"
+  ],
+  "created_at": "2026-05-17T12:32:58.201563+00:00",
+  "agent_version": "0.1.0"
+}

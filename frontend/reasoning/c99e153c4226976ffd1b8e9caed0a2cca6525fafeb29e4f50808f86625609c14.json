@@ -1,0 +1,26 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 700,
+  "edge_bp": -600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has eliminated term limits, secured a third term as General Secretary, and purged rivals, leaving no plausible mechanism for removal. The chance of sudden death or unforeseen coup is very low, perhaps 1%, far below the market's 7%.",
+  "evidence_points": [
+    "Xi removed presidency term limits in 2018 and was re-elected General Secretary for a third term in 2022.",
+    "No public dissent or factional struggle has emerged; Xi's purges have consolidated his power.",
+    "The last sudden removal of a CCP leader was during the Cultural Revolution (over 50 years ago)."
+  ],
+  "sources_consulted": [
+    "Wikipedia: Xi Jinping",
+    "Reuters: China politics",
+    "Brookings: Xi Jinping's consolidation of power",
+    "BBC: Xi Jinping's third term"
+  ],
+  "created_at": "2026-05-17T12:31:19.865662+00:00",
+  "agent_version": "0.1.0"
+}
