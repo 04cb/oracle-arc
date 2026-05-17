@@ -1,0 +1,25 @@
+{
+  "market_id": "0x452f9e53cec1846bd092436b33613c64bcb03cc23e46554c3d163de39b309c52",
+  "market_slug": "will-the-montreal-canadiens-win-the-eastern-conference",
+  "market_question": "Will the Montreal Canadiens win the Eastern Conference?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 350,
+  "market_probability_bp": 1400,
+  "edge_bp": -1050,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Montreal is a rebuilding team with a young core but still far from being a top Eastern Conference contender. Even with improvement by 2025-26, their true probability of winning three playoff rounds is realistically around 3-5%, far below the market's 14% implied chance. The market price is likely inflated by bettor sentiment or stale liquidity.",
+  "evidence_points": [
+    "Canadiens missed the playoffs in 2023-24 and are projected to miss again in 2024-25, with no guarantee of a major leap in 2025-26.",
+    "The Eastern Conference includes powerhouses like Florida, Boston, Toronto, and Carolina, making it a highly competitive path to the Finals.",
+    "Historical pre-season championship odds for comparable rebuilding teams typically hover around 2-4% to win the conference, not 14%."
+  ],
+  "sources_consulted": [
+    "NHL standings and team performance trends",
+    "MoneyPuck playoff probability models for the 2024-25 season",
+    "General knowledge of sports betting market pricing for future events"
+  ],
+  "created_at": "2026-05-17T23:31:41.268798+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "market_id": "0x0d58510591b53c9837c30c1f5a202232da376460634aee9da71a6bfeb15350bb",
+  "market_slug": "will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026",
+  "market_question": "Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5,
+  "market_probability_bp": 60,
+  "edge_bp": -55,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ahmed al-Sharaa is a Syrian opposition figure with very low global recognition as a peacemaker. The Nobel Peace Prize winner is selected from hundreds of nominees, and the chance that a specific, non-prominent individual like al-Sharaa wins is far below 0.6%. The market is strongly overpricing YES.",
+  "evidence_points": [
+    "The Nobel Peace Prize typically goes to widely recognized individuals or organizations; al-Sharaa is not a prominent international figure.",
+    "Even high-profile activists and mediators often wait decades without winning; the probability for any given obscure name is tiny.",
+    "The Syrian peace process remains fragmented, and a Nobel award to an opposition negotiator in 2026 is extremely unlikely."
+  ],
+  "sources_consulted": [
+    "General knowledge of Nobel Peace Prize history and Syrian politics"
+  ],
+  "created_at": "2026-05-17T23:25:12.873541+00:00",
+  "agent_version": "0.1.0"
+}

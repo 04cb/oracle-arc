@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7750,
+  "edge_bp": 1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile L2 from the Pudgy Penguins ecosystem with strong VC backing and a massive NFT community. In the current crypto environment, virtually all hyped L2 and airdrop tokens launch with FDVs well above $200M. The chance of no token launch by end of 2027 is small (<5%), and conditional on launch, >$200M FDV is very likely due to early speculative volume. The market's 77.5% probability undervalues this plausibility.",
+  "evidence_points": [
+    "Pudgy Penguins is a top NFT brand with millions of followers; its token launch will attract immense retail and airdrop demand.",
+    "Comparable L2 tokens (ARB, OP, ZK) all launched with multi-billion FDVs, and even low-cap meme coins often exceed $200M FDV on day one.",
+    "Abstract's parent company Igloo Inc. raised significant venture capital, and the project is actively building toward an airdrop, making a no-launch scenario unlikely before 2028."
+  ],
+  "sources_consulted": [
+    "Abstract Chain official documentation and announcements",
+    "CoinGecko historical FDV data for major L2 tokens",
+    "Pudgy Penguins and Igloo Inc. fundraising news"
+  ],
+  "created_at": "2026-05-17T23:21:37.098152+00:00",
+  "agent_version": "0.1.0"
+}

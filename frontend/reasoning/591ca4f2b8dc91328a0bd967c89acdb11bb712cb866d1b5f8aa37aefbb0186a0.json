@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 700,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping holds ironclad control over the CCP after removing term limits and purging perceived rivals. There are no indicators of an imminent challenge to his leadership. While unforeseen events are possible, the base rate for forced removal of a Chinese paramount leader in such a short window is extremely low, well under 1%. The market's 7% overestimates this risk.",
+  "evidence_points": [
+    "Eliminated presidential term limits in 2018, securing indefinite rule.",
+    "No credible reports of elite-level conspiracies or loss of support within the Politburo Standing Committee.",
+    "Historical precedent: No General Secretary has been ousted by force since the 1980s; leadership transitions are orderly."
+  ],
+  "sources_consulted": [
+    "General knowledge of Chinese elite politics",
+    "News reports on Xi's consolidation of power",
+    "Historical power transitions in the CCP"
+  ],
+  "created_at": "2026-05-17T23:27:21.014845+00:00",
+  "agent_version": "0.1.0"
+}

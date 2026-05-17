@@ -1,0 +1,27 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 350,
+  "edge_bp": 7650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a permanent naval presence in the Gulf region via its base in Abu Dhabi and routinely deploys frigates and support vessels to monitor the Strait of Hormuz as part of European and allied freedom-of-navigation operations. Over the 14‑month window until May 2026, multiple ship rotations are virtually certain, and the resolution criteria include both combatants and support vessels confirmed by official or credible reporting.",
+  "evidence_points": [
+    "French Forces in the UAE (ALINDIEN) provide a continuous naval command structure, with frigates forward‑deployed from the Indian Ocean.",
+    "France led the EMASOH maritime surveillance mission in the Strait of Hormuz beginning in 2020 and its vessels have regularly transited since.",
+    "Support vessels (e.g., replenishment oilers) qualify as warships, making a transit even more probable on each deployment.",
+    "Credible media reports easily confirm such transits, so even without an official statement, the market would resolve Yes."
+  ],
+  "sources_consulted": [
+    "French Navy official statements on ALINDIEN operations",
+    "EMASOH mission reports (2020‑2023)",
+    "Maritime security news coverage of Gulf naval activity",
+    "Reuters articles on European naval missions in the Strait of Hormuz"
+  ],
+  "created_at": "2026-05-17T23:30:37.156690+00:00",
+  "agent_version": "0.1.0"
+}

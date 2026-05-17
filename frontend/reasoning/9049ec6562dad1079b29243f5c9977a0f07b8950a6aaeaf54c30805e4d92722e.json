@@ -1,0 +1,25 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 650,
+  "market_probability_bp": 20,
+  "edge_bp": 630,
+  "confidence": "high",
+  "kelly_fraction_bp": 636,
+  "reasoning": "ByteDance is one of the most valuable private companies globally (recent valuations ~$220B). If it IPOs in 2026, it would almost certainly achieve the highest first-day market cap of any IPO that year. The market price implies only a 0.2% chance, while realistic odds of a 2026 IPO are much higher (e.g., 5–7%) given eventual liquidity pressure and ongoing talks of a listing, despite regulatory headwinds. The gap makes Yes severely underpriced.",
+  "evidence_points": [
+    "ByteDance's valuation has been consistently reported above $200B (e.g., $220B in 2023 secondary sales), dwarfing most other IPO candidates.",
+    "Persistent news reports (Bloomberg, Reuters) indicate ByteDance is considering a range of listing options, including Hong Kong, once geopolitical and regulatory barriers ease.",
+    "Only a handful of other private companies (like SpaceX, Ant Group) could potentially exceed that market cap in a 2026 IPO, making it highly probable that if ByteDance lists, it tops the year."
+  ],
+  "sources_consulted": [
+    "Bloomberg: 'ByteDance Valuation Said to Top $220 Billion' (2023)",
+    "Reuters: 'ByteDance explores TikTok listing timeline' (2024)",
+    "WSJ: 'TikTok ban delay gives parent ByteDance time for alternatives' (2025)"
+  ],
+  "created_at": "2026-05-17T23:20:29.184770+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6c38a11745e251dc0a383e36e03cf39e602ae43b6e3c7946ca7a9737e8309ec1",
+  "market_slug": "will-amanda-anisimova-be-the-2026-womens-wimbledon-winner",
+  "market_question": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 550,
+  "edge_bp": -400,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Amanda Anisimova is a talented but inconsistent player who has never advanced past the fourth round at Wimbledon and historically struggles on grass. Given the depth of the women's field, including dominant forces like Swiatek, Sabalenka, and Rybakina, her true chances of winning in 2026 are far lower than the 5.5% implied by the market.",
+  "evidence_points": [
+    "Anisimova's best Wimbledon result is a fourth-round appearance in 2022; she lost early in other appearances.",
+    "She has taken multiple mental health breaks, disrupting her momentum and ranking progression.",
+    "Grass is statistically her worst surface, with a lower career win percentage compared to hard or clay courts."
+  ],
+  "sources_consulted": [
+    "WTA player statistics (career win/loss by surface)",
+    "Wimbledon historical results (2022, 2024)",
+    "Current WTA rankings and top player analysis"
+  ],
+  "created_at": "2026-05-17T23:18:33.941892+00:00",
+  "agent_version": "0.1.0"
+}

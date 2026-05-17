@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc0f838d718bf25167ba687f574603cecac310eb7b33daa55b1ac0f9095ed5445",
+  "market_slug": "extended-fdv-above-2b-one-day-after-launch-692-597-187",
+  "market_question": "Extended FDV above $2B one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 180,
+  "edge_bp": -160,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Extended's token FDV exceeding $2B a day after launch is extremely unlikely; only top-30 cryptos have valuations that high, and new projects rarely debut with such a massive FDV without extraordinary hype or backing. The market's 1.8% chance is significantly overpriced.",
+  "evidence_points": [
+    "Only a handful of crypto assets maintain an FDV above $2B, and even fewer reached that milestone within 24 hours of launch.",
+    "Extended's public profile (x.com/extendedapp) suggests a niche product, not a mega-hyped token launch likely to draw immediate $2B FDV.",
+    "If no token launches by Dec 31, 2026, the market resolves to No, adding another path to No resolution."
+  ],
+  "sources_consulted": [
+    "Extended's Twitter profile for project scale",
+    "General crypto market capitalization data"
+  ],
+  "created_at": "2026-05-17T23:23:26.410451+00:00",
+  "agent_version": "0.1.0"
+}

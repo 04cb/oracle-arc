@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b",
+  "market_slug": "hantavirus-vaccine-in-2026",
+  "market_question": "Hantavirus vaccine in 2026? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 850,
+  "edge_bp": -700,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Hantavirus vaccines are only in early clinical research; none are in Phase 3 trials. Full FDA approval by end of 2026 would require completing Phase 3 and regulatory review within ~18 months, which is implausible. The market significantly overprices the likelihood of a sudden vaccine approval.",
+  "evidence_points": [
+    "No hantavirus vaccine has entered large-scale Phase 3 clinical trials globally.",
+    "Hantavirus infections are rare, limiting commercial incentive and urgency for accelerated development.",
+    "FDA full approval timeline for a new vaccine typically takes years beyond Phase 2, with no emergency authorization pathway currently active."
+  ],
+  "sources_consulted": [
+    "FDA Vaccines Licensed for Use in the United States list",
+    "ClinicalTrials.gov search for hantavirus vaccine Phase 2/3 trials",
+    "CDC Hantavirus overview (disease rarity)"
+  ],
+  "created_at": "2026-05-17T23:28:11.916467+00:00",
+  "agent_version": "0.1.0"
+}
