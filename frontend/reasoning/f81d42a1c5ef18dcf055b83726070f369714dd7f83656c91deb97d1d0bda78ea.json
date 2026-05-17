@@ -1,0 +1,25 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1350,
+  "edge_bp": -750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SCOTUS grants cert only after a final appellate decision, and litigation over sports event contracts is still in early stages. The CFTC's proposed rule on event contracts (April 2025) may spark lawsuits, but a final ruling and cert grant by July 2026 is very tight. Existing high-profile challenges (e.g., Kalshi) focus on election, not sports, contracts. Thus true probability of a qualifying cert grant is lower than market’s 13.5%.",
+  "evidence_points": [
+    "SCOTUS cert grant requires a final appellate decision, unlikely by July 2026 for any case challenging CFTC's sports-contract rule.",
+    "Current CFTC and court battles center on election prediction markets, not sports event contracts per se.",
+    "No known pending petition at SCOTUS docket that meets the market’s specific criteria."
+  ],
+  "sources_consulted": [
+    "CFTC event contracts rulemaking docket (Apr 2025)",
+    "SCOTUS orders and docket search",
+    "Legal analysis of prediction market litigation timeline"
+  ],
+  "created_at": "2026-05-17T05:31:22.753114+00:00",
+  "agent_version": "0.1.0"
+}

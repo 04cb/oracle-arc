@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 2650,
+  "edge_bp": -1950,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "US-Iran relations are deeply adversarial, with no diplomatic ties, ongoing proxy wars, and unresolved nuclear issues. Even limited ceasefires are rare, and a permanent peace deal requiring explicit cessation of all military hostilities would be a historic breakthrough. Given the entrenched hostility and lack of any credible peace process, the probability of such a deal by mid-2026 is extremely low, far below the market's implied 26.5%.",
+  "evidence_points": [
+    "No US-Iran diplomatic relations since 1980 and continued mutual hostility.",
+    "Recent history (JCPOA withdrawal, Soleimani killing, attacks on proxies) shows escalation risk.",
+    "Even temporary ceasefires are unprecedented; a permanent peace agreement would require drastic shifts in regime postures.",
+    "Iran's nuclear program and support for militant groups remain core obstacles, with no signs of compromise on either side."
+  ],
+  "sources_consulted": [
+    "General knowledge of US-Iran relations (2025 context)",
+    "Historical track record of US-Iran diplomacy (JCPOA, 2023 Oman talks)",
+    "Current geopolitical analysis from think tanks (ICG, CFR) as of 2025"
+  ],
+  "created_at": "2026-05-17T05:31:39.809542+00:00",
+  "agent_version": "0.1.0"
+}

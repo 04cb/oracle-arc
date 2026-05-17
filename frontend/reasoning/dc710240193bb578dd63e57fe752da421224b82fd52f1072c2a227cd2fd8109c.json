@@ -1,0 +1,26 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 110,
+  "edge_bp": 690,
+  "confidence": "medium",
+  "kelly_fraction_bp": 698,
+  "reasoning": "Crude oil exhibits high historical volatility; a 35%+ decline within 14 months would not be unprecedented (e.g., 2020, 2014–2016). With current WTI around $62, annualized volatility ~35% implies a double-digit probability of touching $40 over the horizon, far above the 1.1% implied by the market. Macro headwinds (trade tariffs, slowing global demand) and potential OPEC+ supply increases further elevate tail risk, making Yes significantly mispriced.",
+  "evidence_points": [
+    "Historical crashes: WTI fell below $40 in 2020 (even negative intra‑month) and reached $26 in 2016.",
+    "Current implied volatility (OVX) ~35% suggests daily swings of ~2.2%, giving a barrier‑hit probability well over 5% using standard GBM models.",
+    "Fundamental drivers: U.S.‑China tariff escalations threaten demand; OPEC+ may unwind production cuts, adding supply pressure that could push prices lower."
+  ],
+  "sources_consulted": [
+    "CME crude oil settlement history",
+    "OVX (CBOE Crude Oil Volatility Index) levels",
+    "Recent OPEC+ production statements",
+    "Macroeconomic forecasts (IMF, Fed)"
+  ],
+  "created_at": "2026-05-17T05:10:35.499389+00:00",
+  "agent_version": "0.1.0"
+}

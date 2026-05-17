@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 4850,
+  "edge_bp": -1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite Trump’s push for a peace deal, the entrenched maximalist demands (Russian territorial claims, Ukrainian sovereignty) and Russia’s ongoing offensive make a general ceasefire agreement by end-2026 unlikely. Diplomatic efforts may yield partial pauses, but the strict definition of an announced mutual suspension of direct military engagement across the whole conflict has a ~35% chance, well below the market’s 48.5%. Thus the market overprices Yes.",
+  "evidence_points": [
+    "Both sides’ core demands remain fundamentally incompatible (territorial concessions vs. full withdrawal/criminal accountability).",
+    "Historical pattern shows Russia using ceasefires as tactical pauses rather than adhering to lasting general truces.",
+    "Even if negotiations intensify under US pressure, the requirement for an explicit, dated commitment to a general halt to fighting is a high bar."
+  ],
+  "sources_consulted": [
+    "Recent Ukraine war analyses from ISW, CFR, and RUSI",
+    "Trump administration public statements on Ukraine peace efforts",
+    "Polymarket historical pricing and comparable geopolitical markets",
+    "News reports on ceasefire negotiations through March 2025"
+  ],
+  "created_at": "2026-05-17T05:29:00.924010+00:00",
+  "agent_version": "0.1.0"
+}

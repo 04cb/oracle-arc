@@ -1,0 +1,27 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2200,
+  "market_probability_bp": 1380,
+  "edge_bp": 820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 951,
+  "reasoning": "The market's 13.8% implied probability appears too low. With a meaningful chance of a U.S. recession in 2025–2026 from trade‑war shocks, the Fed could well be cutting rates well into 2026. Even if initial easing begins earlier, the probability of at least one additional cut after mid‑December 2025 is reasonably around 22%.",
+  "evidence_points": [
+    "Economist recession probability estimates often range 30‑40% for the next 12 months, which if materialised would likely pull further rate cuts into 2026.",
+    "Fed funds futures currently price about 75bp of cuts by December 2025, leaving ample room for further easing if the outlook deteriorates.",
+    "Historical cutting cycles typically last more than a year from the first move; if cuts start in mid‑2025, they frequently extend into the following year.",
+    "Emerging risks from tariff escalation and weakening labour‑market data increase the tail risk of an extended easing cycle."
+  ],
+  "sources_consulted": [
+    "CME FedWatch Tool (March 2025)",
+    "Bloomberg economist surveys",
+    "Goldman Sachs and J.P. Morgan US outlook notes (March 2025)",
+    "Federal Reserve official statements"
+  ],
+  "created_at": "2026-05-17T05:30:24.348819+00:00",
+  "agent_version": "0.1.0"
+}

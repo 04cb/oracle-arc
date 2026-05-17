@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2600,
+  "market_probability_bp": 2050,
+  "edge_bp": 550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 692,
+  "reasoning": "Tulsi Gabbard's past controversies and narrow confirmation (52-48) suggest persistent political risk. Trump's administration has a track record of rapid personnel turnover, and the DNI post often becomes a flashpoint. While Trump values loyalty, 14 months is a long window; I estimate a 26% chance of her departure against the market's 20.5%.",
+  "evidence_points": [
+    "Gabbard was confirmed by only four votes (52-48), signaling weak institutional support.",
+    "Trump's first-term DNI Dan Coats was pushed out after less than two years, and other loyalists (e.g., Tillerson) were abruptly fired.",
+    "Her unorthodox views on Russia and surveillance could spark friction with the intelligence community and GOP hawks, leading to resignation or removal."
+  ],
+  "sources_consulted": [
+    "Senate confirmation vote record (February 2025)",
+    "Historical DNI tenure data (2005–2025)",
+    "Reporting on Trump cabinet turnover rates"
+  ],
+  "created_at": "2026-05-17T05:33:56.217619+00:00",
+  "agent_version": "0.1.0"
+}

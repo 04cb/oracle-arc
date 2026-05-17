@@ -1,0 +1,26 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 700,
+  "edge_bp": -500,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has entrenched power after removing term limits and purging rivals; historical precedent for mid-term ouster of a Chinese General Secretary is near-zero. While black-swan events (severe health crisis, economic collapse, war) could theoretically trigger removal, their combined probability remains far below 7%, likely around 2% or less.",
+  "evidence_points": [
+    "Xi removed presidential term limits in 2018, signaling intent to stay long-term and facing no organized opposition.",
+    "No General Secretary has been removed mid-term since Zhao Ziyang in 1989, an extraordinary circumstance unlikely to repeat.",
+    "The CCP's internal control mechanisms and Xi's dominance make a palace coup extremely improbable within 18 months.",
+    "Tail risks (severe health incident, catastrophic economic crash) are possible but collectively still account for a tiny probability."
+  ],
+  "sources_consulted": [
+    "Historical analysis of CCP leadership transitions (e.g., Brookings, Chatham House)",
+    "Current expert commentary on Xi’s political strength (Foreign Affairs, The Diplomat)",
+    "Market data on Polymarket and similar political-event contracts for baseline risk assessment"
+  ],
+  "created_at": "2026-05-17T05:12:23.086812+00:00",
+  "agent_version": "0.1.0"
+}

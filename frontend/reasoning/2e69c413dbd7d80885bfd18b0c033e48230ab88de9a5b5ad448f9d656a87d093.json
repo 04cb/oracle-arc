@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 7700,
+  "edge_bp": 800,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer L2 backed by Igloo Inc. (Pudgy Penguins) with a strong brand and community, making a high initial FDV likely. Most major rollup tokens launch with FDV well above $200M. The current implied 77% probability seems to underweight the confluence of hype, airdrop dynamics, and comparable launch precedents.",
+  "evidence_points": [
+    "Igloo Inc. raised $11M and has a massive NFT community, ensuring high initial speculative demand.",
+    "Comparable L2 tokens (Arbitrum, Optimism, Blast) consistently launched with FDVs exceeding $200M.",
+    "The $200M threshold is low relative to the ~$3B ecosystem valuation associated with Pudgy Penguins."
+  ],
+  "sources_consulted": [
+    "Crunchbase for Igloo Inc. funding",
+    "Historical L2 token launch FDVs"
+  ],
+  "created_at": "2026-05-17T05:13:23.137919+00:00",
+  "agent_version": "0.1.0"
+}

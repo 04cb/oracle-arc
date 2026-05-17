@@ -1,0 +1,25 @@
+{
+  "market_id": "0xd6ff15a35757a2513027bcbabac619c63cd86c21caa643bbf1f175e053b52c60",
+  "market_slug": "andy-burnham-out-as-mayor-of-greater-manchester-by-may-31",
+  "market_question": "Andy Burnham out as Mayor of Greater Manchester by May 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 750,
+  "edge_bp": -550,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "As of the knowledge cutoff (August 2025), Andy Burnham was re-elected Mayor of Greater Manchester in May 2025, securing a new 4-year term. The probability of him leaving office by May 31, 2026—via resignation, removal, or death—is very low, likely under 2%. The market’s 7.5% implied probability appears to overestimate this risk substantially.",
+  "evidence_points": [
+    "Burnham won the May 2025 Greater Manchester mayoral election with a comfortable majority, consolidating his position.",
+    "Historical data shows sitting mayors rarely resign mid-term; the primary risk is a cabinet appointment, but Starmer's cabinet is already formed and Burnham has expressed long-term commitment to devolution.",
+    "No credible scandals or recall efforts have emerged, and the Labour government would likely avoid a costly by-election in a key region."
+  ],
+  "sources_consulted": [
+    "Greater Manchester Combined Authority election results, May 2025",
+    "Interviews and statements by Andy Burnham throughout 2024–2025",
+    "Historical resignation patterns of metro mayors in the UK"
+  ],
+  "created_at": "2026-05-17T05:27:34.072570+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 660,
+  "edge_bp": 840,
+  "confidence": "medium",
+  "kelly_fraction_bp": 899,
+  "reasoning": "The implied 6.6% underestimates the likelihood of UK proscription by mid-2026. Cross-party parliamentary pressure, alignment with US/Canadian designations, and potential catalysts from Iran-backed attacks increase the odds, though diplomatic caution and hostage risks remain headwinds. My estimate of 15% reflects a non-trivial chance, supported by ongoing government reviews and precedents like Hezbollah’s designation.",
+  "evidence_points": [
+    "Sustained cross-party parliamentary calls for proscription, including from senior MPs",
+    "Precedent: UK unilaterally proscribed Hezbollah in 2019 and has since imposed sanctions on IRGC individuals",
+    "External triggers possible: further Houthi attacks or Iran’s nuclear advancements could push the UK to act",
+    "Home Office has formally reviewed the IRGC’s status multiple times without yet reaching a decision"
+  ],
+  "sources_consulted": [
+    "UK Home Office statements on proscription",
+    "Reuters/AP reports on UK IRGC deliberation (2023–2025)",
+    "Parliamentary debates and committee reports",
+    "Expert commentary from RUSI and Chatham House"
+  ],
+  "created_at": "2026-05-17T05:30:09.224819+00:00",
+  "agent_version": "0.1.0"
+}

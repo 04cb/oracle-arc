@@ -1,0 +1,26 @@
+{
+  "market_id": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
+  "market_slug": "will-mirra-andreeva-win-the-2026-womens-french-open",
+  "market_question": "Will Mirra Andreeva win the 2026 Women’s French Open?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 740,
+  "edge_bp": -540,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Mirra Andreeva is a talented teenager but has yet to win a WTA title at any level, let alone a Grand Slam. Winning the French Open at 19 remains a rare feat, and the field includes multiple reigning champions and top-10 players in their prime. An implied 7.4% probability far exceeds typical market assessments for a young player with no major final appearances, making 'No' the value side.",
+  "evidence_points": [
+    "Andreeva's career-best Grand Slam result is a fourth-round appearance (2024 Roland Garros); she has never reached a quarterfinal.",
+    "Historically, only a handful of teenagers have won the French Open in the Open Era (e.g., Swiatek at 19 in 2020), and they were already top-10 players.",
+    "The current elite – Swiatek, Sabalenka, Gauff, Rybakina – collectively hold the vast majority of Grand Slam titles and are heavy favorites for 2026.",
+    "At comparable odds (~7%), sportsbooks would list several top-5 players, not a rising but unproven teenager."
+  ],
+  "sources_consulted": [
+    "WTA official rankings and player profiles (as of early 2025)",
+    "Historical Roland Garros women's champions list",
+    "Recent Grand Slam pre-tournament odds from major bookmakers for comparable young players"
+  ],
+  "created_at": "2026-05-17T05:27:59.737405+00:00",
+  "agent_version": "0.1.0"
+}
