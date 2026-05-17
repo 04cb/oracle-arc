@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3200,
+  "market_probability_bp": 3850,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1688,
+  "reasoning": "After two consecutive terms held by a party, the historical win rate for the incumbent party in the next election is about 1 in 4 (25%) since 1960. Adjusting for general uncertainty and the open Republican field without Trump's unique turnout, I estimate the true probability of a Republican win at 32%, below the market's 38.5%.",
+  "evidence_points": [
+    "Since 1960, parties holding the White House for two terms lost the next open election in 3 of 4 cases (1960, 2000, 2016), winning only in 1988.",
+    "Absence of Trump on the ballot may reduce the elevated turnout his populist appeal generated, potentially lowering Republican chances.",
+    "High baseline uncertainty 3+ years out keeps confidence moderate, but the time-for-change trend supports an edge against the current price."
+  ],
+  "sources_consulted": [
+    "Historical presidential election results (1960-2020)",
+    "Time-for-change political science literature"
+  ],
+  "created_at": "2026-05-17T01:12:59.863196+00:00",
+  "agent_version": "0.1.0"
+}
