@@ -1,0 +1,24 @@
+{
+  "market_id": "0x94514021ce8601d22bd480c5b5ec9aa38f0650384e0d383f07a0d5e2339dadb7",
+  "market_slug": "will-yang-seung-jo-win-the-2026-chungcheongnam-province-gubernatorial-election",
+  "market_question": "Will Yang Seung-jo win the 2026 Chungcheongnam Province gubernatorial election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 80,
+  "edge_bp": 420,
+  "confidence": "medium",
+  "kelly_fraction_bp": 423,
+  "reasoning": "Yang Seung-jo is a former governor of Chungcheongnam Province (2018-2022) with high name recognition. He is a likely potential candidate for the 2026 election, and if he runs, his odds are far above 1%. Even after accounting for primary uncertainty and a competitive general election, a 5% chance is plausible, making 0.8% a significant mispricing.",
+  "evidence_points": [
+    "Yang Seung-jo served as governor from 2018 to 2022, giving him a strong local base.",
+    "Chungcheongnam is a swing province where the Democratic Party is competitive, and a 2026 election more than a year away creates higher uncertainty than current price implies.",
+    "Market price of $0.008 assigns only 0.8% to a prominent figure; such a low probability typically requires clear reason to believe he won't run or is disqualified, which does not exist."
+  ],
+  "sources_consulted": [
+    "General knowledge of South Korean politics and election history",
+    "Polymarket order book"
+  ],
+  "created_at": "2026-05-17T04:49:13.136604+00:00",
+  "agent_version": "0.1.0"
+}

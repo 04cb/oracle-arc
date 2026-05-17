@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 590,
+  "edge_bp": 610,
+  "confidence": "medium",
+  "kelly_fraction_bp": 653,
+  "reasoning": "The Labour government under PM Starmer previously supported proscribing the IRGC while in opposition, and with over a year until the deadline there is a window for action. International pressure, especially after Gaza and Iran's proxies' attacks, raises the salience. However, bureaucratic caution and diplomatic considerations have delayed such a move before, so the true odds are around 12%, significantly above the market's 5.9%.",
+  "evidence_points": [
+    "Starmer called for IRGC proscription as opposition leader (2023).",
+    "Only the IRGC Quds Force is currently proscribed; the full IRGC remains off the list.",
+    "Recent cross-party pressure and Iran's destabilizing role increase impetus for designation."
+  ],
+  "sources_consulted": [
+    "News reports on Labour's 2023 stance on IRGC proscription",
+    "UK Home Office list of proscribed terrorist groups",
+    "Analysis of UK-Iran diplomatic ties and legal hurdles"
+  ],
+  "created_at": "2026-05-17T05:00:32.670683+00:00",
+  "agent_version": "0.1.0"
+}

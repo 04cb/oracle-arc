@@ -1,0 +1,26 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 20,
+  "edge_bp": 1480,
+  "confidence": "high",
+  "kelly_fraction_bp": 1487,
+  "reasoning": "ByteDance's private valuation ($200B+) makes it the most valuable unicorn globally; if it IPOs in 2026 (estimated ~15% chance despite regulatory headwinds), it is extremely likely to be the largest IPO by market cap. The current market price of 0.2% drastically underestimates this probability, creating a large edge.",
+  "evidence_points": [
+    "ByteDance was valued at ~$268B in a 2023 share buyback and remains the world's most valuable private company, dwarfing other IPO candidates.",
+    "Regulatory delays in China have repeatedly stalled ByteDance's IPO plans, but no definitive prohibition exists, leaving a non-trivial chance of a 2026 listing.",
+    "In 2026, no other private company (SpaceX/Starlink at ~$150B, Stripe at ~$50B) appears likely to surpass ByteDance's market cap on debut.",
+    "Historical mega-IPOs (e.g., Saudi Aramco) show that outsized market caps can occur, but none larger than ByteDance's expected valuation are on the horizon."
+  ],
+  "sources_consulted": [
+    "Polymarket current market data for 0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+    "Recent news and analyst reports on ByteDance IPO timeline (Bloomberg, Reuters 2023-2024)",
+    "Public valuation estimates for ByteDance, SpaceX/Starlink, Stripe, and other large private companies"
+  ],
+  "created_at": "2026-05-17T04:54:04.442964+00:00",
+  "agent_version": "0.1.0"
+}

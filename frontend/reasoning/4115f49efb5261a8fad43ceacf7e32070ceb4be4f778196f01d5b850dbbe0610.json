@@ -1,0 +1,25 @@
+{
+  "market_id": "0xe3033b163d0e0e30cb3154049f28295dada348030e5c6cdfe58ed0d4e393c7e9",
+  "market_slug": "will-thomas-massie-be-the-republican-nominee-for-ky-04",
+  "market_question": "Will Thomas Massie be the Republican nominee for KY-04?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6600,
+  "market_probability_bp": 4850,
+  "edge_bp": 1750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Massie is the long‑time incumbent with a very strong primary track record (75% in 2024). While he has hinted at a possible Senate run in 2026, the baseline expectation for an incumbent is to seek re‑election, and if he runs, his renomination probability is near‑certain. I estimate a ~66% chance he is the House nominee, well above the market‑implied 48.5%.",
+  "evidence_points": [
+    "Won 2024 KY‑04 Republican primary with 75.2% against a well‑funded challenger.",
+    "Has held the seat since 2012 and built deep district name recognition and donor networks.",
+    "Public speculation about a Senate run introduces some uncertainty, but most House incumbents run for re‑election."
+  ],
+  "sources_consulted": [
+    "Historical election results (Ballotpedia)",
+    "News reports on potential 2026 Senate race",
+    "General knowledge of congressional primary dynamics"
+  ],
+  "created_at": "2026-05-17T04:41:24.551820+00:00",
+  "agent_version": "0.1.0"
+}

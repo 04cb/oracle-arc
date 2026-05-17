@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4f61a39a39d5be042ae73f2b814e525789edb29c9a7b012fc6733f87192ce4b2",
+  "market_slug": "will-bitcoin-reach-100k-in-may-2026",
+  "market_question": "Will Bitcoin reach $100,000 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 60,
+  "edge_bp": 640,
+  "confidence": "medium",
+  "kelly_fraction_bp": 639,
+  "reasoning": "The market implies only a 0.6% chance of Bitcoin reaching $100k in May 2026, which is extremely pessimistic. Given the historical four-year cycle with a halving in 2024, a bull market extending into 2025–2026 is plausible, and even a post-peak correction could generate a short-term spike to $100k. I estimate a 7% probability, making Yes significantly undervalued.",
+  "evidence_points": [
+    "Bitcoin historically experiences major bull runs in the year after a halving, which would be 2025, potentially continuing into early 2026.",
+    "The month-long window allows for even a brief wick to $100k, not a sustained price, increasing the chance of a hit.",
+    "Market sentiment and institutional adoption (ETFs) could drive prices well above $100k well before May 2026, making a retest probable."
+  ],
+  "sources_consulted": [
+    "historical Bitcoin price cycles",
+    "Binance BTC/USDT trading data (as per market rules)",
+    "general crypto market analysis"
+  ],
+  "created_at": "2026-05-17T04:56:15.235893+00:00",
+  "agent_version": "0.1.0"
+}

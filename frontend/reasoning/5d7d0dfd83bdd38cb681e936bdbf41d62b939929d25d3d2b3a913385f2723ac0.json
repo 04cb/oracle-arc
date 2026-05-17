@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 700,
+  "edge_bp": -400,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has consolidated supreme power, removed term limits, and faces no visible internal opposition. Abrupt removals of Chinese paramount leaders are historically extremely rare. Even accounting for health or black-swan events, a ~3% chance in the given timeframe is far more realistic than the market's implied 7%, which is inflated by tail-risk speculation.",
+  "evidence_points": [
+    "Xi eliminated presidential term limits in 2018, securing indefinite rule.",
+    "No credible public reports of factional threats or serious health crises.",
+    "Historical precedent: no Chinese top leader has been abruptly ousted since Deng Xiaoping's era, and even then not in a short window."
+  ],
+  "sources_consulted": [
+    "Constitutional amendment history (2018)",
+    "CCP leadership stability analyses",
+    "Public health and age-risk data for 71-year-old males"
+  ],
+  "created_at": "2026-05-17T04:46:58.862409+00:00",
+  "agent_version": "0.1.0"
+}

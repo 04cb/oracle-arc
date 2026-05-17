@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 7700,
+  "edge_bp": 800,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a Layer‑2 consumer chain from Igloo Inc., the parent company of Pudgy Penguins, which gives it a strong community and brand. Most L2 governance tokens launch with FDVs far in excess of $200M (e.g., ARB, OP, STRK all >$1B), and even niche L2s rarely fall below that threshold. The remaining uncertainty comes from the fact that the token hasn’t launched yet, and a prolonged bear market or poor tokenomics could suppress the initial FDV, but I assess an 85% chance that it clears $200M.",
+  "evidence_points": [
+    "Pudgy Penguins’ brand and community consistently drive high valuations (e.g., PENGU airdrop FDV ~$2.5B).",
+    "Comparable Ethereum L2 launches (Arbitrum, Optimism, Starknet) all debuted with FDVs in the billions.",
+    "Even during weak market conditions, new L2 tokens have rarely opened below $200M fully diluted."
+  ],
+  "sources_consulted": [
+    "General knowledge of Abstract Chain and Igloo Inc. (2024‑2025)",
+    "Historical FDV data for major L2 token launches"
+  ],
+  "created_at": "2026-05-17T04:42:53.093284+00:00",
+  "agent_version": "0.1.0"
+}

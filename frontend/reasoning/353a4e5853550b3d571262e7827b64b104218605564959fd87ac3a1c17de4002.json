@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 4850,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1753,
+  "reasoning": "The war remains stalemated with both sides lacking genuine willingness to agree to a broad ceasefire without preconditions; external pressure may increase but a comprehensive deal by end 2026 is unlikely. The market’s 48.5% probability overestimates the chance of a timely diplomatic breakthrough.",
+  "evidence_points": [
+    "Ongoing military stalemate with no credible peace process underway as of early 2025",
+    "Ukraine’s and Russia’s maximalist demands and domestic political constraints make a mutual ceasefire agreement difficult",
+    "Western military aid continues, reducing pressure on Ukraine to accept unfavorable terms"
+  ],
+  "sources_consulted": [
+    "Council on Foreign Relations Ukraine conflict tracker",
+    "Reuters and Associated Press coverage of diplomatic efforts",
+    "RAND Corporation analysis on duration of intrastate conflicts"
+  ],
+  "created_at": "2026-05-17T05:06:12.284332+00:00",
+  "agent_version": "0.1.0"
+}

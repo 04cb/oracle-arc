@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1800,
+  "edge_bp": -1300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine has repeatedly and publicly rejected any externally imposed limits on the size of its armed forces, treating such constraints as an unacceptable violation of sovereignty. Even in the context of peace negotiations, no Ukrainian leadership has signaled willingness to accept numerical caps on personnel absent a complete military defeat or regime change, both of which remain unlikely before 2027. The market’s 18% probability heavily overestimates the chance of such a major political concession.",
+  "evidence_points": [
+    "President Zelensky and senior Ukrainian officials have consistently ruled out any deal that restricts the size or capabilities of Ukraine’s military.",
+    "No formal peace negotiations or draft agreements have included specific Ukrainian commitments to cap total armed forces personnel.",
+    "Historical resistance to 'Finnishization' and strong public sentiment against demilitarization make such a pledge politically toxic."
+  ],
+  "sources_consulted": [
+    "Recent statements by Ukrainian leadership (e.g., Zelensky press conferences, 2023–2024)",
+    "Analysis of Russia–Ukraine negotiation tracks (Istanbul, 2022, and subsequent backchannels)",
+    "Expert commentary from think tanks (e.g., Chatham House, ISW) on Ukrainian red lines in peace scenarios"
+  ],
+  "created_at": "2026-05-17T04:56:15.380713+00:00",
+  "agent_version": "0.1.0"
+}

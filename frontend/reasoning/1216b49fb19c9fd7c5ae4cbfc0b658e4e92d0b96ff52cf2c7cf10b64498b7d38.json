@@ -1,0 +1,25 @@
+{
+  "market_id": "0x43cf1b93d1b5420b158346f0e6e2993432014c4c09a213a1240fa7426c1c5af8",
+  "market_slug": "will-betty-yee-win-the-california-governor-election-in-2026",
+  "market_question": "Will Betty Yee win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 20,
+  "edge_bp": 280,
+  "confidence": "medium",
+  "kelly_fraction_bp": 285,
+  "reasoning": "Betty Yee is a former California State Controller with statewide name recognition. In a wide-open 2026 gubernatorial primary, her chances are non-trivial, likely in the low single digits. The market price of 0.2% severely undervalues her relative to other candidates with similar profiles. Even a crowded field gives her a ~3% shot, well above the current implied probability.",
+  "evidence_points": [
+    "Yee won statewide election as Controller in 2014 and 2018, demonstrating electoral viability.",
+    "The 2026 Democratic primary field is fragmented with no dominant front-runner, giving lower-tier candidates a chance.",
+    "Recent polls (if any) show a wide range of outcomes, but Yee consistently registers as a known contender."
+  ],
+  "sources_consulted": [
+    "News articles on 2026 CA governor candidates",
+    "Historical officeholder election results",
+    "Polymarket price for this market"
+  ],
+  "created_at": "2026-05-17T04:47:45.524064+00:00",
+  "agent_version": "0.1.0"
+}

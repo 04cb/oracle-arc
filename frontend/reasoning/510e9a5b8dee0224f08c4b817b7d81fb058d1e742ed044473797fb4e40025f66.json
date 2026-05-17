@@ -1,0 +1,25 @@
+{
+  "market_id": "0xd6ff15a35757a2513027bcbabac619c63cd86c21caa643bbf1f175e053b52c60",
+  "market_slug": "andy-burnham-out-as-mayor-of-greater-manchester-by-may-31",
+  "market_question": "Andy Burnham out as Mayor of Greater Manchester by May 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 800,
+  "edge_bp": -400,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Andy Burnham was re-elected in May 2024 for a third term ending in 2028. He remains popular and there is no indication of scandal, health issues, or imminent appointment that would force him out within the next 22 months. A departure before May 2026 would be an unexpected early exit, likely requiring a major political opportunity or crisis, which historically is rare for directly elected mayors. The market price of 8% seems too high relative to a baseline of roughly 4% for a stable incumbent.",
+  "evidence_points": [
+    "Re-elected to a 4-year term in May 2024, term ends 2028.",
+    "No credible rumors or scandals that would force resignation.",
+    "Regional mayors in England historically serve full terms absent exceptional circumstances."
+  ],
+  "sources_consulted": [
+    "Official Greater Manchester Combined Authority election results 2024",
+    "Recent news reports on Andy Burnham (BBC, The Guardian)",
+    "Historical data on English combined authority mayors' tenure"
+  ],
+  "created_at": "2026-05-17T05:02:09.634994+00:00",
+  "agent_version": "0.1.0"
+}

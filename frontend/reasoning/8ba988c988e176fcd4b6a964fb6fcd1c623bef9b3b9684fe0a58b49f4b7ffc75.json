@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 2650,
+  "edge_bp": -2400,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "US-Iran permanent peace deal by mid-2026 is extremely unlikely given ongoing hostility, no active negotiations, and the profound political changes required on both sides. The market-implied 26.5% probability is far too high.",
+  "evidence_points": [
+    "No formal US-Iran peace process exists; maximum pressure and sanctions remain in place.",
+    "A permanent treaty would require mutual recognition, security guarantees, and reversal of decades of enmity — none is even being discussed.",
+    "Historical precedent: since the 1979 revolution, no permanent peace accord has been signed; even the JCPOA was a nuclear deal, not a peace treaty."
+  ],
+  "sources_consulted": [
+    "Council on Foreign Relations backgrounders on US-Iran relations",
+    "Recent White House statements on Iran policy",
+    "News reports on Iran nuclear enrichment and US sanctions"
+  ],
+  "created_at": "2026-05-17T05:02:25.250394+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 1350,
+  "edge_bp": -550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Supreme Court grants certiorari in only ~1% of petitions, and the specific issue of sports‑event contracts is narrow and currently lacks a clear circuit split or pending high‑profile case at the cert stage. Even if a petition emerges from the Kalshi/CFTC litigation, the Court is unlikely to accept a technical regulatory question absent exceptional circumstances, so the true probability of a grant by July 2026 is likely lower than the 13.5% market price.",
+  "evidence_points": [
+    "SCOTUS grants cert in fewer than 2% of filed petitions each term.",
+    "There is no reported circuit split on the legality of sports event contracts that would compel Supreme Court review.",
+    "The issue of CFTC jurisdiction over sports event contracts is a narrow statutory question that does not currently involve a pressing constitutional dimension or national importance.",
+    "The Kalshi/CFTC disputes are still at the appellate level, and it is uncertain whether any petition will be filed and acted upon by mid‑2026."
+  ],
+  "sources_consulted": [
+    "Public reports on Kalshi v. CFTC litigation",
+    "SCOTUS certiorari statistics",
+    "CFTC rulemaking and enforcement history on event contracts"
+  ],
+  "created_at": "2026-05-17T05:05:17.931302+00:00",
+  "agent_version": "0.1.0"
+}
