@@ -1,0 +1,24 @@
+{
+  "market_id": "0xd6ff15a35757a2513027bcbabac619c63cd86c21caa643bbf1f175e053b52c60",
+  "market_slug": "andy-burnham-out-as-mayor-of-greater-manchester-by-may-31",
+  "market_question": "Andy Burnham out as Mayor of Greater Manchester by May 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 750,
+  "edge_bp": -600,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Andy Burnham is a well‑established and popular Labour mayor with a term through May 2028. There is no scandal, no credible suggestion he intends to step down before May 2026, and the new Labour government gives him little reason to leave. While unforeseen events are always possible, a 7.5% chance of his early departure appears significantly too high.",
+  "evidence_points": [
+    "Re‑elected in 2021 to a four‑year term; next automatic election is 2028.",
+    "No major personal or political scandal threatening his position.",
+    "No announcement or credible reporting of plans to resign, and he has consistently ruled out a return to Westminster."
+  ],
+  "sources_consulted": [
+    "Recent UK political news (BBC, Guardian) re Burnham’s role and statements",
+    "Polymarket resolution rules and historical leave rates for sitting metro mayors"
+  ],
+  "created_at": "2026-05-17T06:21:37.025526+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "market_id": "0x885a6abefad122348b4fbd503473d7fd1f9035d0438cf988a7591620f316a859",
+  "market_slug": "will-bitcoin-reach-130000-by-december-31-2026-756-151-855",
+  "market_question": "Will Bitcoin reach $130,000 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 1250,
+  "edge_bp": 5750,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Bitcoin is currently near $100k, requiring only a 30% move over 13 months. Given high annualized volatility (60-80%) and that the market resolves on any 1-minute candle high, a $130k touch is very likely. Historical post-halving cycles also support strong upside through 2026. The market's 12.5% probability drastically underestimates this.",
+  "evidence_points": [
+    "Bitcoin's 1-year historical volatility is 60-80%, making a 30% move probable within the timeframe.",
+    "Resolution on any 1-minute candle high (even a wick) lowers the barrier, increasing true probability.",
+    "Post-2024 halving bull markets typically last into late 2025 or 2026, aligning with the window."
+  ],
+  "sources_consulted": [
+    "Bitcoin historical volatility and cycle analysis (offline heuristics)"
+  ],
+  "created_at": "2026-05-17T06:12:55.781854+00:00",
+  "agent_version": "0.1.0"
+}

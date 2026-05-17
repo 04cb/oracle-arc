@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3400,
+  "market_probability_bp": 2050,
+  "edge_bp": 1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1698,
+  "reasoning": "Gabbard is likely to be confirmed given a Republican Senate and Trump's support, but her background is controversial, raising some small confirmation risk. Once in office, the baseline turnover rate in Trump’s first term suggests a 40–50% chance of departure within 1.5 years; loyalist status lowers it slightly, but internal chaos remains high. Combined probability yields ~34% YES, well above the market's 20.5%.",
+  "evidence_points": [
+    "Trump's first-term cabinet had a median tenure under 2 years; DNI roles specifically saw rapid turnover (Coats left after ~20 months, Ratcliffe after ~8 months).",
+    "Gabbard's nomination faces some bipartisan skepticism, but Republican control of the Senate makes outright rejection unlikely (historical confirmation rate for same-party cabinet nominees >90%).",
+    "Trump-led administration dynamics historically foster infighting and sudden firings, increasing odds of early departure for even loyal appointees."
+  ],
+  "sources_consulted": [
+    "Historical cabinet turnover data under Trump (2017-2021)",
+    "Senate confirmation process norms for cabinet appointments",
+    "Public reporting on Gabbard's nomination and controversies"
+  ],
+  "created_at": "2026-05-17T06:28:26.078832+00:00",
+  "agent_version": "0.1.0"
+}

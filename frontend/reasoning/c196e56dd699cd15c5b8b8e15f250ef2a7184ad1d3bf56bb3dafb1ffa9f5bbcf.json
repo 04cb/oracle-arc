@@ -1,0 +1,25 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 1350,
+  "edge_bp": -1050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SCOTUS grants cert in only ~1-2% of petitions, and no relevant circuit split or high-profile case on sports event contracts currently exists. Even if a suit were filed today, the full litigation and appeal process would rarely reach a cert grant before mid-2026. The market's 13.5% probability is significantly too high relative to the baseline chance of any specific, narrowly defined issue reaching the Court in time.",
+  "evidence_points": [
+    "Historical cert grant rate is 1-2%, making any petition a long shot absent exceptional circumstances.",
+    "There is no known circuit split or pending case that squarely addresses the listed legal questions on sports event contracts.",
+    "Even if a relevant case started now, typical litigation through district and circuit court, then petitioning for cert, rarely completes in under 2.5 years."
+  ],
+  "sources_consulted": [
+    "General knowledge of SCOTUS cert process and timing",
+    "Awareness of current CFTC litigation landscape (election contracts, not sports)",
+    "Typical federal litigation timelines"
+  ],
+  "created_at": "2026-05-17T06:26:46.459812+00:00",
+  "agent_version": "0.1.0"
+}

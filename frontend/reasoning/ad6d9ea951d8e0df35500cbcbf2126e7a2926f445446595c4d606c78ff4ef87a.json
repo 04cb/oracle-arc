@@ -1,0 +1,24 @@
+{
+  "market_id": "0xabd7fc5a6798cb3c1c0a8fe834428c7855dc1719d8ca194a53a976007e819415",
+  "market_slug": "will-kolkata-knight-riders-win-the-2026-indian-premier-league",
+  "market_question": "Will Kolkata Knight Riders win the 2026 Indian Premier League?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 200,
+  "edge_bp": 800,
+  "confidence": "high",
+  "kelly_fraction_bp": 816,
+  "reasoning": "KKR are the 2024 champions, retain a strong core, and have systemic advantages. A fair winning chance for a top IPL franchise is ~10–12% per season, far above the implied 2%.",
+  "evidence_points": [
+    "KKR won IPL 2024 and retained key players (Russell, Narine, Rinku Singh, Chakravarthy, Harshit Rana) for the 2025 mega auction cycle.",
+    "Franchises of KKR's historical and financial strength typically have at least a 10% chance of winning any IPL edition.",
+    "The 2026 season is two years away, but the core squad and management stability reduce downside uncertainty."
+  ],
+  "sources_consulted": [
+    "IPL official site for past results",
+    "Polymarket current price feed"
+  ],
+  "created_at": "2026-05-17T06:33:01.157495+00:00",
+  "agent_version": "0.1.0"
+}

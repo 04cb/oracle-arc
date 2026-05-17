@@ -1,0 +1,25 @@
+{
+  "market_id": "0x017099b71b4754c6f7ee6e78492d138270294db1bc520d970eaab83192e12a39",
+  "market_slug": "will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-season",
+  "market_question": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 3450,
+  "edge_bp": -1450,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "West Ham are very likely to survive the 2024-25 season (≥85% survival probability), and if they stay up they remain a mid-table club with low relegation risk for 2025-26. The market price of 34.5% heavily overstates the true probability, which is closer to 20% once current survival odds and historical follow-on relegation rates are factored in.",
+  "evidence_points": [
+    "As of early April 2025, West Ham sit outside the relegation zone with a multiple-point cushion, giving them a >85% chance of survival based on typical mid-season odds.",
+    "Even if West Ham finish 17th, historically ~25% of such teams are relegated the next season; if they finish higher, the risk drops sharply. Combining survival probability with conditional risk yields a ~20% true chance.",
+    "Plain market price of 34.5% implies West Ham are as likely to go down as a current bottom-three side, which is inconsistent with their historical stability and squad quality."
+  ],
+  "sources_consulted": [
+    "Knowledge of April 2025 Premier League standings (approximate)",
+    "Historical Premier League relegation patterns for teams finishing 15th-17th",
+    "Implied probability from Polymarket order book"
+  ],
+  "created_at": "2026-05-17T06:14:52.403674+00:00",
+  "agent_version": "0.1.0"
+}

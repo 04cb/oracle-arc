@@ -1,0 +1,26 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 1400,
+  "edge_bp": 5600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market's 14% probability of a rate cut between Dec 2025 and Sep 2026 is far below the consensus expectation that the Fed will continue easing in 2026. The Fed's dot plot and market-implied rates suggest cuts are likely to bring the federal funds rate down to around 3.0% by end-2026 from a projected 3.5% at the start of the window. Barring a severe inflation resurgence, at least one cut in the Jan-Sep 2026 period is probable.",
+  "evidence_points": [
+    "Federal Reserve dot plot (Dec 2024) shows median year-end 2026 fed funds rate at 2.9% (midpoint) vs. 3.4% for 2025, implying ~50bps of cuts in 2026.",
+    "CME FedWatch indicates futures pricing in multiple cuts by mid-2026, with the rate approaching 3.0% by September 2026.",
+    "Economist surveys (Bloomberg, Reuters) broadly expect the Fed to ease in 2026 as inflation continues to moderate toward 2%.",
+    "The window covers six FOMC meetings (Jan, Mar, May, Jun, Jul, Sep) and potential emergency cuts, providing ample opportunities for a single cut."
+  ],
+  "sources_consulted": [
+    "Federal Reserve FOMC Projections (December 2024)",
+    "CME FedWatch Tool",
+    "Bloomberg economist surveys"
+  ],
+  "created_at": "2026-05-17T06:23:54.493061+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 1800,
+  "edge_bp": -1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine's leadership has consistently rejected limiting its military capacity, viewing a robust army as essential to deter future Russian aggression. The current negotiating environment shows no movement toward such a concession, and Western security guarantees are being structured to preserve Ukrainian sovereignty. Trump's pressure may shift dynamics, but a binding commitment to cap forces by end-2026 remains highly improbable.",
+  "evidence_points": [
+    "Zelensky's 10-point peace plan makes no reference to limiting armed forces size",
+    "Istanbul peace talks in 2022 collapsed over neutrality demands, not personnel caps",
+    "Recent bilateral security agreements with the UK, France, Germany emphasize long-term military support without constraints"
+  ],
+  "sources_consulted": [
+    "Reuters coverage of Ukraine peace plan",
+    "RAND analysis of potential peace deal terms",
+    "Council on Foreign Relations timeline of negotiations"
+  ],
+  "created_at": "2026-05-17T06:16:56.484524+00:00",
+  "agent_version": "0.1.0"
+}

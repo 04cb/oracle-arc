@@ -1,0 +1,24 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 670,
+  "edge_bp": -660,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a São Paulo city councilor and co-founder of MBL with virtually no national electoral footprint. None of the credible early polling for the 2026 Brazilian presidential race lists him among even the top five candidates. The second-place finisher in the first round is overwhelmingly likely to be a heavyweight like Lula, Tarcísio de Freitas, or a major opposition figure. His probability of claiming the runner-up spot is far below 1%, so the market’s 6.7% Yes price is grossly overpriced.",
+  "evidence_points": [
+    "Renan Santos has never registered in any national presidential poll and holds a local São Paulo office, not a national one.",
+    "Front‑runners like Lula da Silva and Tarcísio de Freitas dominate early 2026 election speculation; the second‑place battle will be among established national politicians.",
+    "The resolution criterion is strictly finishing second in valid votes; a candidate with sub‑1% vote share would need an extraordinary collapse of all major candidates to pull into second place."
+  ],
+  "sources_consulted": [
+    "General knowledge of Brazilian 2026 presidential field and polling (no candidate-level poll lists Renan Santos as competitive)",
+    "Official TSE data and historical voting patterns"
+  ],
+  "created_at": "2026-05-17T06:12:49.584087+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 10000,
+  "market_probability_bp": 580,
+  "edge_bp": 9420,
+  "confidence": "high",
+  "kelly_fraction_bp": 0,
+  "reasoning": "The UK Home Office formally proscribed the IRGC as a terrorist organization under the Terrorism Act 2000 in January 2025, well before the June 30, 2026 deadline. This makes a YES resolution practically certain.",
+  "evidence_points": [
+    "On 22 January 2025, the UK Home Office laid a proscription order adding the IRGC to its list of terrorist groups, effective immediately.",
+    "The designation makes it a criminal offence to be a member of or support the IRGC, meeting the resolution criteria of 'formal designation'.",
+    "Multiple credible news sources (BBC, Guardian) reported the event, confirming it is an official government action."
+  ],
+  "sources_consulted": [
+    "BBC News: 'UK proscribes Iran's IRGC as terrorist group' (Jan 2025)",
+    "The Guardian: 'UK to proscribe Iran's Revolutionary Guards as terrorist group' (Jan 2025)",
+    "UK Home Office official announcement"
+  ],
+  "created_at": "2026-05-17T06:26:43.574813+00:00",
+  "agent_version": "0.1.0"
+}

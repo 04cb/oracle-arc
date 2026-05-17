@@ -1,0 +1,24 @@
+{
+  "market_id": "0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f",
+  "market_slug": "will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676",
+  "market_question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 110,
+  "edge_bp": 590,
+  "confidence": "medium",
+  "kelly_fraction_bp": 592,
+  "reasoning": "Gretchen Whitmer is a prominent two-term governor of Michigan with a strong national profile, and the 2028 Democratic field remains wide open. Early primary odds for a candidate like her typically fall in the 5–10% range, while the market’s 1.1% implied probability seems to severely undervalue her chances. I estimate her true likelihood around 7%, yielding a solid edge.",
+  "evidence_points": [
+    "Whitmer is a swing-state governor with proven electoral success and appeal to key Democratic constituencies.",
+    "Forecasting markets for 2028 Democratic nominee generally place a range of plausible contenders with none exceeding ~15%, implying multiple 5–10% candidates; Whitmer’s profile fits that group.",
+    "No public statements or credible reporting suggest she is less likely to run than other potential candidates."
+  ],
+  "sources_consulted": [
+    "Polymarket (market 559659) for price and volume data",
+    "General political analysis of 2028 Democratic field and historical early-stage primary odds"
+  ],
+  "created_at": "2026-05-17T06:25:55.008354+00:00",
+  "agent_version": "0.1.0"
+}
