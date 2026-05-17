@@ -1,0 +1,24 @@
+{
+  "market_id": "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861",
+  "market_slug": "will-alex-padilla-win-the-california-governor-election-in-2026",
+  "market_question": "Will Alex Padilla win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 700,
+  "market_probability_bp": 10,
+  "edge_bp": 690,
+  "confidence": "medium",
+  "kelly_fraction_bp": 686,
+  "reasoning": "Alex Padilla is a sitting U.S. Senator and former Secretary of State in California, a heavily Democratic state. With Governor Newsom term-limited, the 2026 race is wide open, and Padilla would be a top-tier candidate if he runs, making his 0.1% market-implied chance a severe underreaction. Even accounting for a competitive primary or the possibility he doesn't run, his true probability is substantially higher than the price suggests.",
+  "evidence_points": [
+    "Padilla has won statewide elections twice for Senate (2022, special) and twice for Secretary of State, demonstrating strong name recognition and broad Democratic support.",
+    "The open seat in a Democratic stronghold will attract a large primary field, but a sitting Senator is historically a formidable candidate, not a 0.1% longshot.",
+    "Market liquidity and volume suggest very little informed trading, making the almost-zero price an obvious mispricing relative to base rates of similar races."
+  ],
+  "sources_consulted": [
+    "General knowledge of California politics and Padilla's electoral history",
+    "Understanding of term limits for California governor"
+  ],
+  "created_at": "2026-05-17T14:20:52.573428+00:00",
+  "agent_version": "0.1.0"
+}

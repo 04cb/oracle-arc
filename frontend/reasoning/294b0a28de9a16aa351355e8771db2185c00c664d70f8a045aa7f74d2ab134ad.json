@@ -1,0 +1,26 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 3250,
+  "edge_bp": -1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 'No to ten million Switzerland' initiative proposes a strict population cap, very similar to the 2014 Ecopop initiative that was rejected by 74% of voters. Such restrictions are consistently opposed by the Federal Council, the majority of parties, and business groups because of their economic impact. The double majority requirement (popular + cantonal) further reduces the chance of approval, and no polls indicate majority support. Historical base rates for citizen initiatives in Switzerland are about 10% approval, and highly restrictive ones are even less likely.",
+  "evidence_points": [
+    "The 2014 Ecopop initiative, with comparable aims, failed by a 74% to 26% margin.",
+    "Only 22 of over 200 federal popular initiatives have passed since 1891, a base rate of ~10%.",
+    "Swiss government and all major parties except the SVP oppose such population caps.",
+    "Double majority (cantonal and popular) creates an additional barrier for a polarized issue."
+  ],
+  "sources_consulted": [
+    "Swiss Federal Chancellery (historical referendum results)",
+    "Knowledge of Swiss political landscape and party positions",
+    "Comparison with analogous initiatives (Ecopop, mass immigration)"
+  ],
+  "created_at": "2026-05-17T14:17:45.772314+00:00",
+  "agent_version": "0.1.0"
+}

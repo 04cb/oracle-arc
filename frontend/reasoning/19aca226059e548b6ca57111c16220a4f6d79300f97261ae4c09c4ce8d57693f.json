@@ -1,0 +1,25 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 30,
+  "market_probability_bp": 730,
+  "edge_bp": -700,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a political activist with no significant electoral base, no gubernatorial or senatorial experience, and is not featured in any credible 2026 presidential polls. Historically, Brazil's second-place finishers are major-party candidates like governors or former presidents; the chance of an obscure outsider finishing second is negligible. The market price of 7.3% greatly overstates his true odds.",
+  "evidence_points": [
+    "No major Brazilian poll (e.g., Datafolha, Ipec) lists Renan Santos as a candidate or shows him with >1% support.",
+    "The 2026 race is expected to be dominated by Lula/PT and a strong right‑wing contender such as Tarcísio de Freitas, leaving no opening for a minor left‑wing figure.",
+    "Renan Santos has never held elected office and lacks the party machinery needed to secure a second‑place finish against established political forces."
+  ],
+  "sources_consulted": [
+    "Recent Datafolha and Ipec polls (early 2025) showing Lula and Tarcísio leading",
+    "News archives on Renan Santos's political background (Mídia Ninja, PSOL)",
+    "Historical results of Brazilian presidential elections (2018, 2022)"
+  ],
+  "created_at": "2026-05-17T14:20:40.703116+00:00",
+  "agent_version": "0.1.0"
+}

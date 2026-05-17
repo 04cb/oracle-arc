@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 2650,
+  "edge_bp": -2550,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace accord ending military hostilities between the US and Iran by mid-2026 is virtually impossible given the 45‑year adversarial relationship, the absence of any precedent, and the high bar set by the resolution criteria. The market description’s reference to a temporary ceasefire in April 2026 suggests a recent escalation, not a path to a definitive peace deal. Even the JCPOA never constituted a peace agreement, making the notion of a full permanent peace deal by that date extraordinarily unlikely.",
+  "evidence_points": [
+    "No U.S.-Iran peace agreement has ever been established since the 1979 revolution; formal diplomatic ties remain severed.",
+    "The 2015 nuclear deal (JCPOA) did not include language ending military hostilities, and that agreement was significantly less ambitious than a permanent peace deal.",
+    "The market’s own hypothetical scenario includes a temporary ceasefire in April 2026, implying recent conflict and making immediate and permanent resolution implausible."
+  ],
+  "sources_consulted": [
+    "Historical record of US-Iran relations since 1979",
+    "Analysis of the JCPOA and its limitations",
+    "Contemporary geopolitical assessments through late 2024"
+  ],
+  "created_at": "2026-05-17T14:15:19.079642+00:00",
+  "agent_version": "0.1.0"
+}

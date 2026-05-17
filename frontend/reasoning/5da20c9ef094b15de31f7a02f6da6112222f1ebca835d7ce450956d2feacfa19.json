@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 110,
+  "edge_bp": 690,
+  "confidence": "medium",
+  "kelly_fraction_bp": 698,
+  "reasoning": "At ~$62 current WTI, a drop to $40 is a 35% decline. With >14 months to go, historical volatility and current macro risks (trade war, recession fears, OPEC+ supply) support a roughly 8% chance of a settlement print <= $40. The market-implied 1.1% appears too low.",
+  "evidence_points": [
+    "WTI front-month settled around $61.99 on 4-Apr-2025",
+    "Annualized volatility of crude oil is typically 30-40%, allowing a $22 move in 14 months within 1-2 standard deviations",
+    "OPEC+ has begun unwinding production cuts, and U.S. shale break-even prices are in the $40-$50 range, but a recession could temporarily push prices below cost support"
+  ],
+  "sources_consulted": [
+    "Recent WTI settlement from CME (April 2025)",
+    "Historical crude oil price charts (2014-2025)",
+    "General knowledge of OPEC+ and macro conditions"
+  ],
+  "created_at": "2026-05-17T14:18:27.047286+00:00",
+  "agent_version": "0.1.0"
+}

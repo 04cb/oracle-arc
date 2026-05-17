@@ -1,0 +1,24 @@
+{
+  "market_id": "0xcfad7a997bbb549459ef767b8db66771823ab3fdfd3f0eb71592332016c74fbf",
+  "market_slug": "will-iceman-drake-debut-week-album-sales-be-less-than-300k",
+  "market_question": "Will \"Iceman\" - Drake debut week album sales be less than 300k?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 110,
+  "edge_bp": 1390,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1410,
+  "reasoning": "Drake's last five solo studio albums show first-week sales ranging from 204k (Honestly, Nevermind) to 732k (Scorpion), with 204k falling under 300k. Thus, historical data suggests roughly a 15-20% chance, not the 1.1% implied by the market. While 'Iceman' is far out and specifics are unknown, the current price dramatically undervalues the possibility of sub-300k sales.",
+  "evidence_points": [
+    "Honestly, Nevermind (2022) debuted with 204k, well under 300k.",
+    "For All the Dogs (2023) did 402k, close to the 300k threshold with a decline from previous highs.",
+    "Long forecast horizon until summer 2026 introduces high uncertainty, making extreme confidence in >300k unwarranted."
+  ],
+  "sources_consulted": [
+    "Hits Daily Double",
+    "Wikipedia - Drake albums discography"
+  ],
+  "created_at": "2026-05-17T14:20:01.413537+00:00",
+  "agent_version": "0.1.0"
+}

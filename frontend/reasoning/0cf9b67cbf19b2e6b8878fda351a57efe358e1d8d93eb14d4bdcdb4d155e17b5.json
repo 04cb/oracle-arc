@@ -1,0 +1,25 @@
+{
+  "market_id": "0xff0aaaffdac37c3425e1fa5a901f946bd386892091278d1e8bc75450d65a46ac",
+  "market_slug": "will-arsenal-finish-in-2nd-place-in-the-2025-26-english-premier-league",
+  "market_question": "Will Arsenal finish in 2nd place in the 2025-26 English Premier League?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2200,
+  "market_probability_bp": 1650,
+  "edge_bp": 550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 659,
+  "reasoning": "Arsenal have been the second-best team in the Premier League for several seasons, finishing 2nd in 2022–23 and 2023–24, and are likely to do so again in the still-unfolding 2024–25. Projecting into 2025–26, their squad strength and stability under Arteta suggest they have roughly a 22% chance of finishing exactly second, compared to the market's implied 16.5%. The difference is large enough to warrant a position.",
+  "evidence_points": [
+    "Arsenal finished 2nd in both 2022–23 and 2023–24, and are on track for a top-two finish in 2024–25.",
+    "The team has a young core and a stable manager, making another strong season in 2025–26 probable.",
+    "Manchester City remain favorites, but Arsenal are the most likely to finish directly behind them, mirroring recent patterns."
+  ],
+  "sources_consulted": [
+    "Historical Premier League standings",
+    "Current 2024–25 league table projections",
+    "General football analysis of squad strength"
+  ],
+  "created_at": "2026-05-17T14:16:18.285579+00:00",
+  "agent_version": "0.1.0"
+}

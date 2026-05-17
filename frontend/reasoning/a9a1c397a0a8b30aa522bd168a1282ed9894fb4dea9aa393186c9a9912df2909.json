@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4200,
+  "market_probability_bp": 4850,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1340,
+  "reasoning": "As of early 2025, the conflict shows no sign of a comprehensive ceasefire. Both sides hold maximalist positions (Russia demands territorial concessions and Ukrainian neutrality; Ukraine insists on full territorial integrity) that make a mutually agreed general suspension of hostilities unlikely within the next two years. While Trump administration pressure and war exhaustion could open a window, the gap between the parties remains wide, and past negotiations have failed. I estimate the true probability is around 42%, significantly below the market's 48.5% implied.",
+  "evidence_points": [
+    "No previous agreement has met the resolution criteria after 3+ years of fighting",
+    "Both sides' publicly stated negotiation positions remain irreconcilable in early 2025",
+    "Western military aid to Ukraine continues, reducing the immediate pressure to concede; Russia still believes it can win on the battlefield",
+    "Historical ceasefire agreements in protracted similar conflicts typically take longer than 2-3 years to materialise without a decisive military outcome"
+  ],
+  "sources_consulted": [
+    "General news and analysis on Russia-Ukraine war status as of March 2025 (Reuters, BBC, ISW)",
+    "Polymarket description and resolution rules for this market",
+    "Historical precedents for ceasefires in interstate wars"
+  ],
+  "created_at": "2026-05-17T14:22:58.832136+00:00",
+  "agent_version": "0.1.0"
+}

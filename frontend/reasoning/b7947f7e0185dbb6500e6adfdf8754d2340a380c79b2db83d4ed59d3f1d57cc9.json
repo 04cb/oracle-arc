@@ -1,0 +1,24 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 1350,
+  "edge_bp": -1150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite Trump's public interest, Denmark and Greenland have firmly rejected any transfer of territory or sovereign-like control. The resolution demands a binding agreement granting sovereignty or exclusive jurisdiction, which is politically untenable and would require Danish parliamentary approval and likely a referendum. Even expanded military basing would not normally confer exclusive control where Danish law is wholly ousted. The 13.5% implied probability is driven by hype, not fundamentals.",
+  "evidence_points": [
+    "Greenlandic and Danish leaders repeatedly stated the island is not for sale and will not cede territory.",
+    "A binding sovereignty or exclusive jurisdiction agreement would need broad legislative approval and likely a referendum, which current polling suggests would fail overwhelmingly.",
+    "Even a defense agreement expanding US facilities (e.g., Pituffik) would likely retain Danish legal authority, falling short of 'primary or exclusive jurisdiction.'"
+  ],
+  "sources_consulted": [
+    "Public statements by Greenlandic and Danish officials (2024-2025)",
+    "Market resolution criteria description"
+  ],
+  "created_at": "2026-05-17T14:14:39.772231+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0x4f61a39a39d5be042ae73f2b814e525789edb29c9a7b012fc6733f87192ce4b2",
+  "market_slug": "will-bitcoin-reach-100k-in-may-2026",
+  "market_question": "Will Bitcoin reach $100,000 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 40,
+  "edge_bp": 6960,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Bitcoin has already traded above $100k in late 2024 and is highly likely to revisit that level. With over a year until May 2026, the chance of a 25% rally from current levels is far above the market-implied 0.4%. Even under bearish scenarios, the probability is orders of magnitude higher.",
+  "evidence_points": [
+    "BTC/USDT reached $100k+ multiple times in 2024, proving the threshold is attainable.",
+    "Post-halving bull runs historically peak 12–18 months after the event, well within the May 2026 window.",
+    "Implied probability of only 0.4% is disconnected from realized volatility and analyst forecasts."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT price history",
+    "Bitcoin halving cycle analysis"
+  ],
+  "created_at": "2026-05-17T14:17:11.280802+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6cf5831fc81cc7789fdb21ebad7a95156110d3693b8aa10618f4857d7c1012d6",
+  "market_slug": "will-keisha-lance-bottoms-win-the-2026-georgia-governor-democratic-primary-election",
+  "market_question": "Will Keisha Lance Bottoms win the 2026 Georgia Governor Democratic primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 9450,
+  "edge_bp": -5450,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Keisha Lance Bottoms currently serves in the Biden administration in Washington, DC, not in Georgia politics, and has made no public moves toward a 2026 gubernatorial run. The primary is nearly three years away with no field formed, and multiple credible Democratic candidates could emerge (e.g., Stacey Abrams, Jason Carter, others). Even if Bottoms runs, winning a contested primary is far from certain. Additionally, if she were to run unopposed and no primary is held, the market resolves to ‘Other,’ not ‘Yes.’ A 94.5% implied probability overestimates her chances drastically.",
+  "evidence_points": [
+    "Bottoms resigned as Atlanta mayor in 2021 to join the Biden administration, currently a Senior Advisor, indicating she is not building a Georgia campaign.",
+    "No official announcement of a candidacy for Governor; the 2026 primary is distant, and early polling does not exist.",
+    "Historical Georgia Democratic primaries have been competitive (e.g., Stacey Abrams’ two wins, multiple-candidate fields in 2018, 2022), suggesting a 94% lock for any single candidate is unrealistic this far out."
+  ],
+  "sources_consulted": [
+    "White House official profile of Keisha Lance Bottoms (2023)",
+    "News reports on Bottoms’ federal role, absence from Georgia gubernatorial speculation (Atlanta Journal-Constitution, 2023)",
+    "History of Georgia Democratic primaries via Ballotpedia"
+  ],
+  "created_at": "2026-05-17T14:23:58.702861+00:00",
+  "agent_version": "0.1.0"
+}

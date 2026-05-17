@@ -1,0 +1,24 @@
+{
+  "market_id": "0xabd7fc5a6798cb3c1c0a8fe834428c7855dc1719d8ca194a53a976007e819415",
+  "market_slug": "will-kolkata-knight-riders-win-the-2026-indian-premier-league",
+  "market_question": "Will Kolkata Knight Riders win the 2026 Indian Premier League?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 110,
+  "edge_bp": 890,
+  "confidence": "medium",
+  "kelly_fraction_bp": 904,
+  "reasoning": "In a 10-team IPL, even a weak team has about a 5-10% chance. KKR are the reigning champions and a strong franchise, so a 10% estimate is conservative. The market’s 1.1% implied probability is implausibly low, creating a large edge for betting Yes.",
+  "evidence_points": [
+    "IPL has 10 teams with reasonable parity; the worst team still typically has a 3-5% chance, while top teams like KKR are 10%+.",
+    "KKR won the 2024 IPL and has a strong core, though the 2025 mega auction introduces uncertainty, the franchise consistently fields competitive sides.",
+    "Historical title odds: no IPL team has ever been as low as 1.1% preseason in a normal season."
+  ],
+  "sources_consulted": [
+    "IPL history and championship odds",
+    "General knowledge of IPL auction cycles and team strength"
+  ],
+  "created_at": "2026-05-17T14:19:00.971547+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 350,
+  "edge_bp": 9150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a permanent naval base in Abu Dhabi (inside the Persian Gulf), so any French warship arriving from outside the Gulf must transit the Strait of Hormuz. Routine deployments and port calls occur multiple times per year; there is no indication France will halt these rotations. The long remaining timeframe makes a transit virtually certain, yet the market implies only a 3.5% probability, creating an extreme mispricing.",
+  "evidence_points": [
+    "French forces are permanently stationed in the UAE, with a naval base in Abu Dhabi inside the Persian Gulf.",
+    "France regularly sends warships to the region for missions like EMASOH, CTF150, and national operations; each arrival via the Indian Ocean confirms a Strait of Hormuz transit.",
+    "Recent examples include the frigate FS Courbet and support vessels transiting in 2023 and 2024; no policy change has been announced to suspend such movements.",
+    "The resolution rules count any military vessel passage, not just combat missions, so routine port visits qualify."
+  ],
+  "sources_consulted": [
+    "French Ministry of Armed Forces – press releases on deployments to the UAE",
+    "Naval News – articles on French naval activity in the Indian Ocean and Persian Gulf",
+    "Reuters – reports on French naval presence in the region"
+  ],
+  "created_at": "2026-05-17T14:23:19.948536+00:00",
+  "agent_version": "0.1.0"
+}
