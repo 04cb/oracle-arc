@@ -44,12 +44,13 @@ export async function fetchTrackRecords(
   fromBlock = 42_460_000n,
 ): Promise<TrackRecordEvent[]> {
   if (!REPUTATION_REGISTRY) return [];
-  const logs = await publicClient.getLogs({
+  const latest = await publicClient.getBlockNumber();
+  const logs = await getLogsChunked({
     address: REPUTATION_REGISTRY,
     event: REPUTATION_ABI[1],
-    args: { agent },
+    args: { agent } as Record<string, unknown>,
     fromBlock,
-    toBlock: "latest",
+    toBlock: latest,
   });
   return logs.map((log) => ({
     agent: log.args.agent!,
@@ -83,17 +84,44 @@ export type PickEvent = {
   blockNumber: bigint;
 };
 
+const BLOCK_RANGE = 99_999n;
+
+async function getLogsChunked<TEvent extends typeof PICK_LEDGER_ABI[0] | typeof REPUTATION_ABI[number]>(params: {
+  address: `0x${string}`;
+  event: TEvent;
+  args?: Record<string, unknown>;
+  fromBlock: bigint;
+  toBlock: bigint;
+}) {
+  const allLogs: Log<bigint, number, false, TEvent>[] = [];
+  let from = params.fromBlock;
+  while (from <= params.toBlock) {
+    const to = from + BLOCK_RANGE < params.toBlock ? from + BLOCK_RANGE : params.toBlock;
+    const chunk = await publicClient.getLogs({
+      address: params.address,
+      event: params.event,
+      args: params.args as never,
+      fromBlock: from,
+      toBlock: to,
+    });
+    allLogs.push(...(chunk as typeof allLogs));
+    from = to + 1n;
+  }
+  return allLogs;
+}
+
 export async function fetchPicks(opts: {
   agent?: `0x${string}`;
   fromBlock?: bigint;
   limit?: number;
 } = {}): Promise<PickEvent[]> {
-  const logs = await publicClient.getLogs({
+  const latest = await publicClient.getBlockNumber();
+  const logs = await getLogsChunked({
     address: PICK_LEDGER_ADDRESS,
     event: PICK_LEDGER_ABI[0],
     args: opts.agent ? { agent: opts.agent } : undefined,
     fromBlock: opts.fromBlock ?? 42440000n,
-    toBlock: "latest",
+    toBlock: latest,
   });
   const picks: PickEvent[] = logs.map((log: Log<bigint, number, false, typeof PICK_LEDGER_ABI[0]>) => {
     const a = log.args;
