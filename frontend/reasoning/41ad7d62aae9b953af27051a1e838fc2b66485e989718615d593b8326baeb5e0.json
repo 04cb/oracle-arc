@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6c85fe5b4197dc55dafef8368acaddb96adb892447730dfa53076c537b0bd9f6",
+  "market_slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+  "market_question": "Will Trump and Putin meet next in another EU country?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 450,
+  "market_probability_bp": 40,
+  "edge_bp": 410,
+  "confidence": "medium",
+  "kelly_fraction_bp": 416,
+  "reasoning": "Market implies only 0.4% probability of a meeting in an EU country by June 2026. With Trump in office and clear intent to engage Putin on Ukraine, a face-to-face encounter within the 15-month window is plausible (~35–50%). Past US-Russia summits (Helsinki 2018) show EU venues are realistic, though Saudi Arabia has been floated. Conditional on a meeting, an EU country (even excluding Finland if 'another' applies) still holds ~10–15% chance, yielding ~4.5% overall – a nearly 10× discrepancy.",
+  "evidence_points": [
+    "Trump has repeatedly expressed desire to meet Putin, including directly after inauguration 2025, making a summit likely within 15 months.",
+    "Previous Trump-Putin summit in Helsinki (EU member) establishes precedent for EU venues, despite recent Saudi/UAE speculation.",
+    "No meeting by June 2026 is a possibility, but even a conservative 35% meeting probability × 12% EU conditional gives ~4.2%.",
+    "Liquid market with $990k volume may be anchoring on early Saudi rhetoric, underrating alternative neutral EU sites like Vienna or Helsinki (if not excluded)."
+  ],
+  "sources_consulted": [
+    "News reports on Trump-Putin call and summit speculation (Reuters, AP, BBC)",
+    "Historical data on US-Russia summit locations (Helsinki 2018, Geneva 2021)",
+    "Polymarket description and resolution rules"
+  ],
+  "created_at": "2026-05-17T02:35:38.055844+00:00",
+  "agent_version": "0.1.0"
+}

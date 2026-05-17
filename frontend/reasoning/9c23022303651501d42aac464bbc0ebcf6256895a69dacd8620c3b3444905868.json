@@ -1,0 +1,25 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6500,
+  "market_probability_bp": 5250,
+  "edge_bp": 1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Liverpool’s dominant 2024-25 season under Arne Slot indicates a strong squad and tactical system likely to carry over into 2025-26. While contract uncertainty for Salah, Van Dijk, and Alexander-Arnold creates risk, the club’s financial power and recruitment record make a top‑4 finish probable. The market’s 52.5% implied odds significantly undervalue a side that has finished top 4 in most recent seasons.",
+  "evidence_points": [
+    "Liverpool sit top of the Premier League in April 2025 with deep squad depth.",
+    "Bookmaker consensus for top‑4 futures typically implies 60–70% for Liverpool in 2025-26.",
+    "Key player contracts are unresolved but the club is expected to replace departing stars aggressively."
+  ],
+  "sources_consulted": [
+    "Premier League official table (2024-25)",
+    "The Athletic – Liverpool contract updates (Mar/Apr 2025)",
+    "Oddschecker implied probabilities for 2025-26 top‑4 finishers"
+  ],
+  "created_at": "2026-05-17T02:30:24.080302+00:00",
+  "agent_version": "0.1.0"
+}

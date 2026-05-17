@@ -1,0 +1,25 @@
+{
+  "market_id": "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861",
+  "market_slug": "will-alex-padilla-win-the-california-governor-election-in-2026",
+  "market_question": "Will Alex Padilla win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 20,
+  "edge_bp": 580,
+  "confidence": "medium",
+  "kelly_fraction_bp": 586,
+  "reasoning": "Alex Padilla is a prominent California Democrat who could run to succeed the term-limited Gavin Newsom. The Democratic primary will be crowded, but Padilla's name recognition as a sitting US Senator gives him a meaningful shot if he enters. I estimate roughly a 6% chance he ultimately wins, substantially above the market's 0.2% implied likelihood.",
+  "evidence_points": [
+    "Gavin Newsom cannot run due to term limits, leaving an open gubernatorial seat in a heavily Democratic state.",
+    "Padilla is a top-tier elected Democrat in California, having won a full Senate term in 2022 and serving previously as Secretary of State.",
+    "No frontrunner has emerged, and multiple ambitious Democrats (e.g., Lt. Gov. Kounalakis, AG Bonta) will split support, keeping Padilla's chances non-negligible if he runs."
+  ],
+  "sources_consulted": [
+    "California term limits (1990 Prop 140)",
+    "Alex Padilla biography (U.S. Senate website)",
+    "News articles on potential 2026 CA governor candidates (e.g., Los Angeles Times, Sacramento Bee)"
+  ],
+  "created_at": "2026-05-17T02:32:50.689267+00:00",
+  "agent_version": "0.1.0"
+}
