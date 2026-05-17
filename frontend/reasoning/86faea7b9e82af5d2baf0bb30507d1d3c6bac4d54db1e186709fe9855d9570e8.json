@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 1410,
+  "edge_bp": -1110,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio is not considered a front-runner for the 2028 Republican nomination; potential rivals like JD Vance, Ron DeSantis, and Nikki Haley present significant obstacles. The general election outcome is also highly uncertain, but even a generic Republican would have roughly 50% odds, while Rubio’s personal chance is diluted by a crowded field. 14.1% is excessively high for any single individual this far from the election.",
+  "evidence_points": [
+    "Rubio lost the 2016 primary to Trump and was not chosen as VP in 2024.",
+    "Trump cannot run in 2028, leading to a wide-open Republican field with multiple strong contenders.",
+    "Long-term political markets often overvalue name-recognition candidates; similar 2028 single-candidate markets rarely exceed 5% this early."
+  ],
+  "sources_consulted": [
+    "Historical betting market data for early presidential candidate odds",
+    "Current political landscape and potential 2028 Republican candidates",
+    "2024 election dynamics and Rubio's standing within the GOP"
+  ],
+  "created_at": "2026-05-17T03:08:05.406129+00:00",
+  "agent_version": "0.1.0"
+}

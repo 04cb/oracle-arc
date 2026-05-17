@@ -1,0 +1,25 @@
+{
+  "market_id": "0x850aa5eba34aedbdee16aa9c41770e832d90b8150fd02d0bc0d25e1804b62df1",
+  "market_slug": "will-justin-thomas-win-the-2026-pga-championship",
+  "market_question": "Will Justin Thomas win the 2026 PGA Championship?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 20,
+  "edge_bp": 230,
+  "confidence": "medium",
+  "kelly_fraction_bp": 226,
+  "reasoning": "Justin Thomas is a two-time PGA Champion (2017, 2022) and remains a top-20 player in the world. He recently won the 2024 Players Championship and consistently finishes inside the top 20 in majors. For any given major, an elite player has at least a 2-3% win probability. The current price implies only 0.2%, a massive undervaluation likely caused by low liquidity and far-dated expiry.",
+  "evidence_points": [
+    "Won 2022 PGA Championship and 2017 PGA",
+    "Won 2024 Players Championship, T-8 at 2024 PGA",
+    "Typical pre-tournament betting odds for JT in majors are +2500 to +3300 (~3% implied)"
+  ],
+  "sources_consulted": [
+    "General golf knowledge",
+    "Recent PGA Tour results",
+    "Betting odds comparison for 2025 majors"
+  ],
+  "created_at": "2026-05-17T03:01:51.815960+00:00",
+  "agent_version": "0.1.0"
+}

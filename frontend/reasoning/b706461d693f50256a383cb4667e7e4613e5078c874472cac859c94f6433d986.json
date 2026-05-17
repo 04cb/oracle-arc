@@ -1,0 +1,26 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 20,
+  "edge_bp": 480,
+  "confidence": "medium",
+  "kelly_fraction_bp": 486,
+  "reasoning": "ByteDance is one of the most valuable private companies globally; if it goes public in 2026, it would likely be the largest IPO by market cap. While regulatory issues (TikTok divestiture) make an IPO uncertain, even a small chance of that scenario implies a higher probability than 0.2%. I estimate roughly 5% true chance.",
+  "evidence_points": [
+    "ByteDance's last private valuation was over $200B, far exceeding typical largest IPO valuations in recent years (e.g., $9.4B in 2022).",
+    "Forced TikTok sale or ban could delay or reduce IPO proceeds, but even the remainder (Douyin, Toutiao) would likely exceed $50B, making it a top candidate.",
+    "The current market price of $0.002 implies only a 0.2% chance, which seems excessively low given the potential for a 2026 IPO even with political headwinds."
+  ],
+  "sources_consulted": [
+    "News on ByteDance IPO delays",
+    "2024 TikTok divestiture law deadline",
+    "Private market valuations (PitchBook, Bloomberg)",
+    "Historical largest IPO data (Statista, exchange records)"
+  ],
+  "created_at": "2026-05-17T03:03:54.085658+00:00",
+  "agent_version": "0.1.0"
+}

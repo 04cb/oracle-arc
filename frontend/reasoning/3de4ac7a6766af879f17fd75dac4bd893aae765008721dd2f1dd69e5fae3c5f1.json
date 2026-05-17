@@ -1,0 +1,25 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6200,
+  "market_probability_bp": 5250,
+  "edge_bp": 950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2000,
+  "reasoning": "Liverpool has finished top‑4 in 4 of the last 5 seasons and retains a top‑class squad. The managerial change adds uncertainty, but the underlying player quality and club infrastructure suggest a ~62% chance of top‑4. The market’s 52.5% price underrates their true odds, creating value on Yes.",
+  "evidence_points": [
+    "Finished top‑4 in 4 of last 5 EPL seasons (3rd in 23/24, 2nd in 21/22, 3rd in 20/21).",
+    "Squad includes elite players like Salah, Alisson, Van Dijk, Alexander‑Arnold – sufficient to compete for top places.",
+    "Arne Slot’s appointment represents a transition, but Feyenoord’s performance indicates managerial competence; risk of drop‑off is real but not enough to push probability below 60%."
+  ],
+  "sources_consulted": [
+    "2023‑24 Premier League table",
+    "2024‑25 Premier League table (incomplete)",
+    "Reports on Jürgen Klopp’s departure and Arne Slot appointment"
+  ],
+  "created_at": "2026-05-17T02:59:08.958766+00:00",
+  "agent_version": "0.1.0"
+}

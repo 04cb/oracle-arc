@@ -1,0 +1,29 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 1750,
+  "edge_bp": -750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine’s constitution (2019) enshrines NATO membership as a strategic goal, and President Zelenskyy has repeatedly reaffirmed this aspiration. Publicly agreeing not to join—even temporarily—would be politically explosive and face immense domestic opposition. While a peace deal could force such a concession, the current trajectory and lack of serious negotiations make a formal pledge before 2027 highly unlikely.",
+  "evidence_points": [
+    "Ukraine’s 2019 constitutional amendment commits the country to pursue NATO and EU membership.",
+    "Zelenskyy has consistently called for accelerated NATO accession, most recently at the 2024 NATO summit.",
+    "Any agreement would require a dramatic reversal by Ukraine, with no current indication of willingness.",
+    "Peace talks remain stalled, and Ukraine’s Western backers have not pressured it to abandon NATO ambitions.",
+    "Even a temporary suspension (e.g., 10 years) would be interpreted as a major strategic defeat, reducing its likelihood."
+  ],
+  "sources_consulted": [
+    "Constitution of Ukraine (2019 amendment)",
+    "Reuters: Zelenskyy NATO membership comments (2023-2025)",
+    "Brookings Institution analysis on Ukraine-Russia peace scenarios",
+    "Recent NATO summit declarations regarding Ukraine",
+    "OSINT reports on Ukrainian public opinion regarding NATO"
+  ],
+  "created_at": "2026-05-17T02:53:16.243475+00:00",
+  "agent_version": "0.1.0"
+}

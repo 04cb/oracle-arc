@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The 2028 election is an open-seat race after a single Trump term, historically a coin-flip scenario. The market's 38.5% implied Republican chance seems low given how polarized and close recent elections have been (2020 and 2024 were decided by narrow margins). Even with potential party fatigue, a true probability near 45% better reflects the high uncertainty and competitive nature of US presidential contests.",
+  "evidence_points": [
+    "Since 1900, parties defending an open White House after one term win roughly half the time, not 38%.",
+    "Recent elections (2016, 2020, 2024) were within a few percent, suggesting the baseline is near 50/50, not a 23-point Democratic edge.",
+    "No clear structural advantage for Democrats in the Electoral College post-2024; the tipping-point state was Pennsylvania, which Trump carried."
+  ],
+  "sources_consulted": [
+    "Historical election outcome tables (post‑1900)",
+    "2024 presidential election results and electoral college analysis",
+    "General political science literature on incumbency and open‑seat races"
+  ],
+  "created_at": "2026-05-17T02:56:41.044792+00:00",
+  "agent_version": "0.1.0"
+}

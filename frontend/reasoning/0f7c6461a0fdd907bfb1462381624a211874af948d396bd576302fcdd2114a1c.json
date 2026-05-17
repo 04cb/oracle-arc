@@ -1,0 +1,26 @@
+{
+  "market_id": "0xe3033b163d0e0e30cb3154049f28295dada348030e5c6cdfe58ed0d4e393c7e9",
+  "market_slug": "will-thomas-massie-be-the-republican-nominee-for-ky-04",
+  "market_question": "Will Thomas Massie be the Republican nominee for KY-04?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 4700,
+  "edge_bp": 4500,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Thomas Massie is the entrenched Republican incumbent in a deep-red Kentucky district, having easily won every primary since 2012, including a 76% victory in 2022. There is no signal of retirement or a credible challenger for 2026, making a nomination loss highly improbable. The market's 47% implied probability drastically underrates his re-nomination odds.",
+  "evidence_points": [
+    "Incumbent since 2012 with no sign of retirement or district dissatisfaction",
+    "Won 2022 primary with 76% against a well-funded challenger",
+    "KY-04 is R+16, and the local GOP base strongly supports Massie’s libertarian-leaning brand",
+    "No challenger has announced for 2026, and Trump ally status reduces party interference risk"
+  ],
+  "sources_consulted": [
+    "Political coverage of KY-04 (Ballotpedia, Cook Political Report)",
+    "Historical primary results for KY-04 2012–2024",
+    "General knowledge of Massie’s political standing and recent activism"
+  ],
+  "created_at": "2026-05-17T02:52:57.708553+00:00",
+  "agent_version": "0.1.0"
+}

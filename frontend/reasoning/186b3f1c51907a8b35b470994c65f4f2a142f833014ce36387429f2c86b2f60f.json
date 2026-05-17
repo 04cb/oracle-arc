@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 7700,
+  "edge_bp": 1500,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer-focused L2 from the Pudgy Penguins team with high brand recognition; a token launch by 2027 is likely. Comparable L2 tokens have historically debuted with FDVs far exceeding $200M. The market's 23% probability of 'No' seems too high given the low bar and typical launch hype.",
+  "evidence_points": [
+    "Abstract is backed by Pudgy Penguins, a leading NFT brand, ensuring strong initial demand.",
+    "Comparable L2 tokens (Arbitrum, Optimism, zkSync, StarkNet) all had launch FDVs well above $200M.",
+    "The project has already launched a testnet, signaling progress toward mainnet and token launch."
+  ],
+  "sources_consulted": [
+    "General knowledge of Pudgy Penguins/Abstract project",
+    "Historical FDV data for major L2 token launches"
+  ],
+  "created_at": "2026-05-17T02:49:18.409333+00:00",
+  "agent_version": "0.1.0"
+}

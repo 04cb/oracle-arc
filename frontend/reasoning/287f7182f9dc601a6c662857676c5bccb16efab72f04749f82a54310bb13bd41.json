@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6cf5831fc81cc7789fdb21ebad7a95156110d3693b8aa10618f4857d7c1012d6",
+  "market_slug": "will-keisha-lance-bottoms-win-the-2026-georgia-governor-democratic-primary-election",
+  "market_question": "Will Keisha Lance Bottoms win the 2026 Georgia Governor Democratic primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 9410,
+  "edge_bp": -1410,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1498,
+  "reasoning": "While Keisha Lance Bottoms is a strong early frontrunner after announcing her run, the primary is over a year away, and the field remains uncertain—notably Stacey Abrams could still enter and would make the race competitive. The implied 94.1% probability prices in near-certainty, which seems excessive given the time to the primary and potential challengers.",
+  "evidence_points": [
+    "Bottoms has announced her 2026 Georgia gubernatorial run, but primary is in May 2026.",
+    "Stacey Abrams, a major figure with two prior gubernatorial bids, has not ruled out running.",
+    "Early frontrunners in primaries rarely maintain >90% implied probability unless the field is completely clear and uncontested."
+  ],
+  "sources_consulted": [
+    "news reports on Bottoms's announcement",
+    "speculation around Stacey Abrams's 2026 plans",
+    "Polymarket price data"
+  ],
+  "created_at": "2026-05-17T03:06:11.750142+00:00",
+  "agent_version": "0.1.0"
+}

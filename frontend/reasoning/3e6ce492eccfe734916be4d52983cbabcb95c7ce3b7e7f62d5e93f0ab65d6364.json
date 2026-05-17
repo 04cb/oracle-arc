@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1800,
+  "market_probability_bp": 2650,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace deal between the US and Iran by June 2026 is highly unlikely despite the temporary ceasefire extension mentioned. The deep-rooted mistrust, unresolved nuclear and regional proxy issues, and the short time window (just over 2 months) make a lasting agreement exceptionally hard to achieve. The market's 26.5% implied probability appears too optimistic given historical precedent and the complexity of disputes.",
+  "evidence_points": [
+    "Temporary ceasefire (April 7, 2026) explicitly does not qualify as a permanent peace deal.",
+    "US-Iran relations have been adversarial for decades with no permanent resolution to core disputes.",
+    "Negotiating a permanent agreement requires resolving nuclear, sanctions, and proxy-war issues—unlikely in ~80 days."
+  ],
+  "sources_consulted": [
+    "Background on US-Iran relations (pre-2025)",
+    "Typical timeline for major international peace agreements"
+  ],
+  "created_at": "2026-05-17T03:06:20.319477+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "market_id": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
+  "market_slug": "will-silver-si-hit-high-120-by-end-of-june",
+  "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 660,
+  "edge_bp": -610,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Silver currently trades around $31/oz. Reaching $120 by June 2026 would require a ~4x rally in ~15 months, a move far exceeding any historical rally and pushing silver to a nominal price more than double its all-time high of ~$50. Even under extreme inflationary scenarios, such a level is extremely improbable within this timeframe.",
+  "evidence_points": [
+    "Silver spot price approximately $31/oz as of early 2025.",
+    "All-time nominal high for silver is ~$50/oz (1980); inflation-adjusted highs are far lower.",
+    "No CME silver futures settlement history above $50.",
+    "Required quadrupling in 15 months is unprecedented in modern silver markets."
+  ],
+  "sources_consulted": [
+    "Historical silver price data (macrotrends, Kitco)",
+    "CME Group silver futures settlement history",
+    "Current spot silver price (recent market data)"
+  ],
+  "created_at": "2026-05-17T02:59:29.961492+00:00",
+  "agent_version": "0.1.0"
+}
