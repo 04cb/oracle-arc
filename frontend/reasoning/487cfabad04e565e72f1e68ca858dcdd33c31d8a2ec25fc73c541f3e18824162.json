@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 4850,
+  "edge_bp": -1850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ceasefire agreements in extended wars with maximalist aims are rare without a decisive military stalemate or external forced settlement. Russia shows no willingness to stop fighting without Ukrainian capitulation, and Ukraine will not recognize annexed territories. While US political shifts could increase pressure, a mutually agreed general ceasefire by end of 2026 appears less likely than the market's near-coin-flip price, justifying a No bet.",
+  "evidence_points": [
+    "Multiple negotiation rounds since 2022 have failed, with both sides rejecting concessions on core territorial demands",
+    "Russia continues offensive operations and has annexed four regions, signaling no imminent compromise",
+    "US elections may reduce aid, but Ukraine’s position remains clear, making a fair mutual ceasefire difficult",
+    "Historical civil/ interstate wars of this intensity often last longer without a negotiated halt"
+  ],
+  "sources_consulted": [
+    "General news analysis of Russia-Ukraine war developments through early 2025",
+    "Historical precedents for ceasefires in protracted conflicts",
+    "Expert assessments of negotiation prospects (e.g., International Crisis Group, CFR)"
+  ],
+  "created_at": "2026-05-17T14:07:19.842683+00:00",
+  "agent_version": "0.1.0"
+}

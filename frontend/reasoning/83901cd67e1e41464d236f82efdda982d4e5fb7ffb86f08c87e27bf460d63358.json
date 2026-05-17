@@ -1,0 +1,25 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 860,
+  "edge_bp": -260,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "While President Trump has made hostile remarks about NATO and threatened withdrawal, a formal denunciation under Article 13 is a drastic step he has never taken. His incentives lean toward claiming credit for strengthening the alliance rather than destroying it, and substantial political, diplomatic, and bureaucratic headwinds make the 8.6% market price too high. I estimate a 6% true probability, which falls outside the 5% skip threshold.",
+  "evidence_points": [
+    "Trump never withdrew from NATO during his first term despite persistent threats, undermining the narrative that he will imminently do so.",
+    "A formal withdrawal would face immense political blowback, including from within his own party, and damage US leadership without clear political gain.",
+    "The resolution explicitly excludes a mere exit from NATO’s integrated command structure, requiring the much higher bar of a notice of denunciation."
+  ],
+  "sources_consulted": [
+    "Historical Trump positions on NATO (2017-2024)",
+    "Expert foreign policy forecasting",
+    "NATO Article 13 text and withdrawal procedure"
+  ],
+  "created_at": "2026-05-17T14:05:27.516432+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4800,
+  "market_probability_bp": 3850,
+  "edge_bp": 950,
+  "confidence": "low",
+  "kelly_fraction_bp": 1545,
+  "reasoning": "The market implies only a 38.5% chance for Republicans to win in 2028, which seems too low even considering historical alternation patterns. With no incumbent candidate and a deeply polarised electorate, a near-50% prior is more reasonable, though the far-out timeline injects enormous uncertainty.",
+  "evidence_points": [
+    "2024 election was decided by narrow margins in swing states, suggesting a closely divided electorate.",
+    "No sitting president means the playing field is relatively level; historical open-seat elections show roughly equal odds.",
+    "Current 2028 betting markets are illiquid and likely driven by near-term narratives rather than structural probabilities."
+  ],
+  "sources_consulted": [
+    "Historical US presidential election results",
+    "Polymarket implied odds",
+    "General knowledge of electoral trends"
+  ],
+  "created_at": "2026-05-17T14:10:45.789961+00:00",
+  "agent_version": "0.1.0"
+}

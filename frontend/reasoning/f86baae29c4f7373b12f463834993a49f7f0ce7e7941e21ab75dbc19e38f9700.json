@@ -1,0 +1,27 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 2650,
+  "edge_bp": -2500,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market price of 26.5% overestimates the likelihood of a US-Iran permanent peace deal. Decades of structural hostility, active proxy warfare, and the absence of any diplomacy targeting a definitive cessation of military hostilities make such an outcome vanishingly unlikely within the timeframe. The most optimistic diplopmatic scenarios involve limited nuclear or temporary truce agreements that would not satisfy the resolution criteria, placing the true probability of YES closer to 1–2%.",
+  "evidence_points": [
+    "No historical precedent or current negotiations aimed at a permanent peace deal; diplomacy remains limited to nuclear constraints and short-term truces.",
+    "Both nations are engaged in ongoing military confrontation via proxies in Yemen, Syria, Iraq, and Lebanon, with neither leadership indicating willingness to permanently end hostilities.",
+    "The resolution rules explicitly exclude temporary or non-definitive agreements, requiring binding permanent cessation language that no credible forecast suggests will emerge by mid-2026.",
+    "High market probability likely reflects speculative overreaction to minor diplomatic gestures rather than a grounded estimate of geopolitical reality."
+  ],
+  "sources_consulted": [
+    "Reuters: US-Iran relations timeline 1979–present",
+    "Council on Foreign Relations: U.S.-Iran Conflict Tracker",
+    "Al Jazeera: Iran-US nuclear talks status updates",
+    "The Guardian: Iran-US proxy war dynamics"
+  ],
+  "created_at": "2026-05-17T14:00:29.842169+00:00",
+  "agent_version": "0.1.0"
+}

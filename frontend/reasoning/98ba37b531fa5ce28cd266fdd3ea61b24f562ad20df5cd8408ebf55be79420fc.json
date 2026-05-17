@@ -1,0 +1,24 @@
+{
+  "market_id": "0xff54b9602883d013580a41c1c8ab52ed9d6af837e4dc71a76804b372ec721ad3",
+  "market_slug": "will-anthropics-market-cap-be-between-300b-and-400b-at-market-close-on-ipo-day",
+  "market_question": "Will Anthropic’s market cap be between $300B and $400B at market close on IPO day?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 20,
+  "edge_bp": 80,
+  "confidence": "medium",
+  "kelly_fraction_bp": 75,
+  "reasoning": "Anthropic’s valuation as of March 2025 is ~$61.5B. While reaching a $300B market cap by mid-2026 requires a ~5x increase in a little over a year, the company’s revenue growth is explosive (from $1M to $1B in 2024) and AI hype could drive extreme valuations. Even with a low probability of an IPO by June 2026 and a narrow valuation window, the true odds of YES are likely closer to 1% than the market’s 0.2%.",
+  "evidence_points": [
+    "Anthropic raised $3.5B at a $61.5B valuation in March 2025 (Forbes).",
+    "Annualized revenue reached ~$1B in December 2024, up from $1M a year earlier, showing a path to multi‑billion revenues by 2026.",
+    "The narrow $300B–$400B window and tight IPO deadline keep probability low, but not as low as implied by current price."
+  ],
+  "sources_consulted": [
+    "Forbes reporting on Anthropic funding round (March 2025)",
+    "CNBC report on Anthropic revenue (December 2024)"
+  ],
+  "created_at": "2026-05-17T14:06:41.025252+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+  "market_slug": "iran-closes-its-airspace-by-june-30-432-786",
+  "market_question": "Iran closes its airspace by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 5700,
+  "edge_bp": -1700,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Over the past two years, Iran has executed two major, non-weather airspace closures (Apr 2024, Jan 2026), roughly one per year. Over the next ~3 months, the base-rate probability of another such closure is around 25‑30%. While regional tensions remain elevated, the market’s 57% implied probability appears too high absent a clear imminent trigger. Given the 17-point gap, the \"No\" side is undervalued.",
+  "evidence_points": [
+    "Historical frequency of major closures is ~1 per 12 months, implying a ~25% chance in any 3-month window.",
+    "The January 2026 closure already reflected peak retaliation; subsequent de‑escalation phases tend to follow such events.",
+    "No new flashpoint (e.g., large-scale strike) has emerged that would make another closure highly likely before June 30."
+  ],
+  "sources_consulted": [
+    "Reuters article on Jan 2026 closure",
+    "Reuters article on Apr 2024 closure",
+    "General background on Iran-Israel military tensions"
+  ],
+  "created_at": "2026-05-17T14:08:20.360828+00:00",
+  "agent_version": "0.1.0"
+}

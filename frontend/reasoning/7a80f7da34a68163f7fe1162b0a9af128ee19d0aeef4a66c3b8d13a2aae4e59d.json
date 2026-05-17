@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4e15f0f425d28b87024ba9f19504e074da257e3d231d3222618a67c5c0f600ba",
+  "market_slug": "will-the-feds-lower-bound-reach-0pt5-or-lower-before-2027-459-115-473-497-424-381-849",
+  "market_question": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 500,
+  "edge_bp": -300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Fed would need a severe crisis to cut rates to 0.5% or below from the current 4.25-4.50% range. Even a typical recession would likely not push rates that low, given the starting level. Historical 0.5% episodes (2008, 2020) were extreme events, and the chance of a similar shock within 2 years is very low (~2%). The market’s 5% implied probability overprices this tail risk.",
+  "evidence_points": [
+    "Current fed funds target range is 4.25–4.50%, requiring at least 375bp of cuts to reach 0.5%.",
+    "FOMC September 2024 dot plot median for end-2026 is ~2.9%, nowhere near 0.5%.",
+    "Only the 2008 financial crisis and the 2020 pandemic triggered cuts to near-zero; recessions in 1990 and 2001 did not."
+  ],
+  "sources_consulted": [
+    "Federal Reserve's Summary of Economic Projections (September 2024)",
+    "Historical federal funds rate data (FRED)",
+    "Current macroeconomic outlook and recession probability models"
+  ],
+  "created_at": "2026-05-17T14:06:37.057521+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 3250,
+  "edge_bp": -2050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 'No to ten million Switzerland' popular initiative seeks to cap the permanent resident population, requiring an end to free movement and threatening bilateral agreements with the EU. Swiss popular initiatives historically have a ~10% approval rate; the 2014 anti‑immigration vote barely passed at 50.3% with a uniquely favorable moment. The government, parliament, and economic stakeholders overwhelmingly oppose it, and current political dynamics make a double majority highly unlikely—I estimate a true probability of ~12 %.",
+  "evidence_points": [
+    "Swiss government and a clear parliamentary majority recommend rejection.",
+    "Initiative would breach EU bilateral treaties, raising strong economic and diplomatic alarm.",
+    "Past comparable population‑control and anti‑immigration proposals (e.g., 'Stop overpopulation' / Ecopop) failed decisively."
+  ],
+  "sources_consulted": [
+    "Swiss Federal Chancellery referendum calendar",
+    "Swissinfo coverage of the initiative",
+    "General knowledge of Swiss direct‑democracy history"
+  ],
+  "created_at": "2026-05-17T14:00:52.129779+00:00",
+  "agent_version": "0.1.0"
+}

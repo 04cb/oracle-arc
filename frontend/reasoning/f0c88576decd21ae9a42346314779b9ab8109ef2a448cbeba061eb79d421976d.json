@@ -1,0 +1,24 @@
+{
+  "market_id": "0xcfad7a997bbb549459ef767b8db66771823ab3fdfd3f0eb71592332016c74fbf",
+  "market_slug": "will-iceman-drake-debut-week-album-sales-be-less-than-300k",
+  "market_question": "Will \"Iceman\" - Drake debut week album sales be less than 300k?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 110,
+  "edge_bp": 890,
+  "confidence": "medium",
+  "kelly_fraction_bp": 904,
+  "reasoning": "Drake's 'Iceman' may be a surprise or experimental album similar to 'Honestly, Nevermind' (2022), which debuted with 204k. Market implies only 1.1% chance of <300k, but his history includes a sub-300k debut, and consumer behavior can shift unpredictably. A 10% probability better reflects the tail risk.",
+  "evidence_points": [
+    "'Honestly, Nevermind' (2022) debuted with 204k on Hits Daily Double, clearly below 300k.",
+    "'Her Loss' (2022) and 'For All the Dogs' (2023) both exceeded 300k, but each album's performance varies.",
+    "Market may be overconfident in consistent high performance; a return to a dance/experimental sound could easily miss 300k."
+  ],
+  "sources_consulted": [
+    "Drake album sales history (Billboard/Hits Daily Double)",
+    "Hits Daily Double resolution source description"
+  ],
+  "created_at": "2026-05-17T14:04:47.833344+00:00",
+  "agent_version": "0.1.0"
+}

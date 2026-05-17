@@ -1,0 +1,23 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 1370,
+  "edge_bp": -1170,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio is a long-shot for 2028; the Republican field is crowded with stronger potential contenders like Donald Trump (eligible) and Ron DeSantis. His probability of winning the general election is well under 5%, making the market's 13.7% overpriced.",
+  "evidence_points": [
+    "Rubio lost the 2016 primary and lacks a clear path to nomination in 2028",
+    "Trump remains a dominant force in Republican politics and is eligible for another term",
+    "Long-shot candidates historically have very low probability this far out"
+  ],
+  "sources_consulted": [
+    "General political analysis and historical primary trends"
+  ],
+  "created_at": "2026-05-17T14:00:33.725175+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 1350,
+  "edge_bp": -1050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The resolution demands a transfer of sovereignty or primary/exclusive US jurisdiction where Danish law does not apply, a very high bar. Denmark and Greenland have repeatedly and firmly rejected any sale or territorial concession. Even a new base agreement would likely preserve Danish sovereignty, making the required level of control improbable within the timeframe. Thus the true probability is significantly lower than the market-implied 13.5%.",
+  "evidence_points": [
+    "Danish PM Mette Frederiksen flatly rejected the idea of selling Greenland, stating it is not for sale.",
+    "Greenland's own government has voiced opposition to any transfer of sovereignty.",
+    "Existing US military presence (Pituffik Space Base) operates under Danish sovereignty with no exclusive US jurisdiction.",
+    "No formal negotiations on a binding sovereignty or jurisdiction transfer are underway, and any such agreement would face lengthy legislative processes in both Denmark and Greenland."
+  ],
+  "sources_consulted": [
+    "Reuters: 'Denmark's Frederiksen says Greenland not for sale'",
+    "BBC: 'Greenland: Trump's offer to buy 'not a joke'",
+    "U.S.-Denmark defense cooperation agreements, historical context of Thule base",
+    "Analysis of constitutional requirements for territorial changes in Denmark"
+  ],
+  "created_at": "2026-05-17T14:00:25.513615+00:00",
+  "agent_version": "0.1.0"
+}
