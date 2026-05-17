@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 1410,
+  "edge_bp": -1010,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio faces a crowded 2028 field with no frontrunner status, historical headwinds for senators, and immense uncertainty four years out. 14.1% is far above a reasonable prior for any single candidate this early, making the Yes side overpriced.",
+  "evidence_points": [
+    "Only three sitting senators have ever been elected president (Harding, Kennedy, Obama).",
+    "The 2028 Republican primary is expected to include high-profile candidates like DeSantis, Haley, and others, diluting Rubio's chances.",
+    "Rubio's 2016 presidential bid failed to win the nomination, and his national profile has not improved to frontrunner status."
+  ],
+  "sources_consulted": [
+    "Historical election results",
+    "Prediction market data (Polymarket)",
+    "Political analysis from FiveThirtyEight"
+  ],
+  "created_at": "2026-05-17T03:36:21.013147+00:00",
+  "agent_version": "0.1.0"
+}

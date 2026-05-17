@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 5850,
+  "edge_bp": -4850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "No single team has ever been >30% likely to win the Champions League in preseason betting markets due to the intense knockout competition. PSG lost Mbappe in 2024 and, while still a strong side, faces elite rivals like Real Madrid and Manchester City. True probability is around 10%, making a 58.5% market price a vast overestimate.",
+  "evidence_points": [
+    "PSG’s continued underperformance in Champions League – only one final appearance in history",
+    "Loss of Kylian Mbappe to Real Madrid in 2024 weakens squad quality",
+    "Bookmaker odds consistently show top CL favourites around 15-20%, never near 58%"
+  ],
+  "sources_consulted": [
+    "General football knowledge of PSG squad and Champions League history",
+    "Knowledge of typical preseason CL betting odds"
+  ],
+  "created_at": "2026-05-17T03:29:43.918079+00:00",
+  "agent_version": "0.1.0"
+}

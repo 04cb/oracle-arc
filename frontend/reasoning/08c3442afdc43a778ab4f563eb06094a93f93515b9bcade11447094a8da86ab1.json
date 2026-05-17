@@ -1,0 +1,29 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 2650,
+  "edge_bp": -2400,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent US-Iran peace deal ending all military hostilities requires a diplomatic breakthrough far beyond the scope of any recent negotiations. Given the Trump administration's maximum pressure approach, Iran's accelerating nuclear program, and long-standing mutual hostility, the probability is extremely low. A price of 26.5% heavily overstates the chance of such a definitive and lasting agreement before mid-2026.",
+  "evidence_points": [
+    "Trump administration reinstated maximum pressure, which Iran has rejected as a basis for talks",
+    "Iran is enriching uranium to near-weapons grade and has not shown willingness to halt its nuclear or military ambitions",
+    "Historical precedent: no permanent peace deal between the two countries since the 1979 revolution",
+    "Definition requires explicit permanent cessation of military hostilities, not just a temporary ceasefire or nuclear deal",
+    "Even a hypothetical interim ceasefire would likely be temporary and not qualify under resolution rules"
+  ],
+  "sources_consulted": [
+    "Market description and resolution criteria",
+    "Current US-Iran relations trajectory under second Trump term",
+    "IAEA reports on Iranian nuclear progress",
+    "Historical record of US-Iran diplomacy",
+    "Official statements from US State Department and Iranian leadership"
+  ],
+  "created_at": "2026-05-17T03:33:24.957391+00:00",
+  "agent_version": "0.1.0"
+}

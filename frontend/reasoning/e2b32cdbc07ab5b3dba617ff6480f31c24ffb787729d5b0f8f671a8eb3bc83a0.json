@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 110,
+  "edge_bp": 290,
+  "confidence": "medium",
+  "kelly_fraction_bp": 293,
+  "reasoning": "Crude oil has settled at or below $40 multiple times in the last two decades (2008-09, 2014-16, 2020), implying a non-trivial recurring tail event probability exceeding the market's 1.1%. Current elevated economic uncertainty and potential supply overhang make a revisit to $40 within ~17 months more likely than the market implies.",
+  "evidence_points": [
+    "WTI front-month settlement was ≤$40 in 2008-09, 2014-16, and 2020, suggesting a roughly 5-10% annual probability of hitting such levels.",
+    "Macro conditions today feature trade war risks and softening global demand which historically have triggered large oil price slides.",
+    "OPEC+ spare capacity and potential unwinding of production cuts could amplify any downside move."
+  ],
+  "sources_consulted": [
+    "CME daily settlement history for CL futures",
+    "EIA Short-Term Energy Outlook",
+    "Historical crude oil volatility and tail-risk analysis"
+  ],
+  "created_at": "2026-05-17T03:15:11.484633+00:00",
+  "agent_version": "0.1.0"
+}

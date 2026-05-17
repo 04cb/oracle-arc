@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4800,
+  "market_probability_bp": 3850,
+  "edge_bp": 950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1545,
+  "reasoning": "Three years before an open-seat presidential election, generic partisan fundamentals should give Republicans close to even odds, not a 6-point deficit. Historical patterns after two-term presidencies show no consistent penalty, and the current political landscape shows a competitive two-party system. The market's 38.5% implied probability for a GOP win is notably below a fair estimate of ~48%, suggesting the Yes side is undervalued.",
+  "evidence_points": [
+    "After two Republican terms, the party still held the White House in 1988 under similar peace-and-prosperity conditions, showing no automatic penalty.",
+    "US presidential elections are structurally close; since 2000, the popular vote margin has been under 5% in every election except 2008, and the Electoral College keeps both parties viable.",
+    "Current political environment with no clear Democratic frontrunner and an open Republican primary leaves both sides with similar baseline chances; the market's Democratic skew appears driven by premature sentiment rather than fundamentals."
+  ],
+  "sources_consulted": [
+    "Historical US election outcomes (1988, 2000, 2008, 2016)",
+    "Polymarket current price 0.385 for Yes",
+    "General knowledge of US political science models for open-seat elections (e.g., Abramowitz time-for-change model suggesting only modest incumbent-party disadvantage)"
+  ],
+  "created_at": "2026-05-17T03:23:58.034321+00:00",
+  "agent_version": "0.1.0"
+}

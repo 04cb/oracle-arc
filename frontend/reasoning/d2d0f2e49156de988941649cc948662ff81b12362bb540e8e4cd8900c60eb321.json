@@ -1,0 +1,27 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 450,
+  "edge_bp": 7550,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a permanent naval presence in the region via bases in Djibouti and the UAE, and routinely transits the Strait of Hormuz to access the Persian Gulf. The timeframe of over a year makes a transit nearly certain, and such movements are typically tracked by maritime spotters, defence analysts, and regional media, creating an 'overwhelming consensus of credible reporting' even if France doesn't issue a specific press release. The 4.5% market price severely underestimates this reality.",
+  "evidence_points": [
+    "France contributes warships to the European-led EMASoH mission in the Strait of Hormuz area, ensuring regular transits.",
+    "Historical precedent: French frigates (e.g., Languedoc) transited Hormuz in 2023–2024, widely reported by naval tracking sources and press.",
+    "The resolution criteria accept 'overwhelming consensus of credible reporting', lowering the bar from an official French statement to well-documented sightings.",
+    "The long market window (through May 2026) makes at least one confirmed transit extremely probable."
+  ],
+  "sources_consulted": [
+    "EMASoH mission updates (official and news reports)",
+    "MarineTraffic / AIS tracking discussions on social media and defence blogs",
+    "Past reports: 'French frigate Languedoc transits Hormuz' (Naval News, 2024)",
+    "French Ministry of Defence deployment announcements for the Indian Ocean / Gulf region"
+  ],
+  "created_at": "2026-05-17T03:14:45.405342+00:00",
+  "agent_version": "0.1.0"
+}

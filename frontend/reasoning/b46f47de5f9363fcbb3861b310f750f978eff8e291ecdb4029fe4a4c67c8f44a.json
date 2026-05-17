@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
+  "market_slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+  "market_question": "Will the Republicans win the Maine Senate race in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4200,
+  "market_probability_bp": 2250,
+  "edge_bp": 1950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Susan Collins is a three‑term incumbent with a proven ability to win crossover votes in Maine, even in Democratic presidential years (she won by 8.6 points in 2020 while Biden carried the state by 9). Although she has not yet announced her 2026 plans, incumbents of her stature rarely retire voluntarily, and if she runs she starts as a strong favorite. The market price implies only a ~28% chance she runs and wins, a scenario that seems too pessimistic absent a formal retirement announcement. Hence, the true probability of a Republican hold is significantly higher than the 22.5% implied by the market.",
+  "evidence_points": [
+    "Collins won re-election in 2020 with 51% of the vote, outperforming the Republican presidential ticket by over 15 points.",
+    "Maine has a history of re-electing moderate Republican senators (Collins, Olympia Snowe) even as it votes Democratic for president.",
+    "No credible retirement signal has emerged; Collins typically announces her intentions late in the cycle, and the market appears to overemphasise the possibility she will not run."
+  ],
+  "sources_consulted": [
+    "2020 Maine Senate election results (Associated Press/Fox News/NBC)",
+    "Cook Partisan Voting Index for Maine",
+    "Historical Senate re-election rates for incumbents"
+  ],
+  "created_at": "2026-05-17T03:20:36.380576+00:00",
+  "agent_version": "0.1.0"
+}

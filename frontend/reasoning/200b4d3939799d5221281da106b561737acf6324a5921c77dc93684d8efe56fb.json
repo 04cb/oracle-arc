@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 1650,
+  "edge_bp": 850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1018,
+  "reasoning": "Given broad resolution criteria (any public pledge, even part of a peace deal), and ~2.5 years until expiry, a negotiated settlement that includes Ukraine promising not to join NATO is plausible. Despite domestic support for NATO and constitutional ambitions, the combination of military stalemate, Western peace pressure (especially if Trump returns), and availability of alternative security guarantees could lead to a neutrality commitment. I estimate 25% true probability vs. 16.5% market-implied, making Yes underpriced.",
+  "evidence_points": [
+    "Any public pledge, including as part of peace talks or for any duration, qualifies for Yes.",
+    "Peace negotiations are likely by end of 2026, with neutrality a common bargaining chip.",
+    "Zelenskyy has hinted at willingness to discuss NATO neutrality if credible security guarantees given, and US politics may push for a deal."
+  ],
+  "sources_consulted": [
+    "PolyMarket market description",
+    "Recent news on Ukraine-Russia peace talks",
+    "Ukraine's constitutional and political stance on NATO membership"
+  ],
+  "created_at": "2026-05-17T03:19:26.175849+00:00",
+  "agent_version": "0.1.0"
+}

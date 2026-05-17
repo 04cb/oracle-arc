@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 700,
+  "edge_bp": -600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has consolidated control over the CCP, removed term limits, and faces no visible internal threat. His removal via coup, resignation, or incapacity within the next ~1.5 years is extremely improbable, far below the 7% implied by the market. A 1% true probability assumes a tail-risk scenario of sudden health failure or extreme political upheaval, both with no current evidence.",
+  "evidence_points": [
+    "Xi eliminated presidential term limits in 2018, signaling indefinite leadership intentions.",
+    "The 20th Party Congress (Oct 2022) re-elected him General Secretary with no opposition, cementing his third term.",
+    "No credible reporting suggests factional challenges, coup plotting, or serious health issues that would force removal before end-2026."
+  ],
+  "sources_consulted": [
+    "Official 20th CCP Congress proceedings (2022)",
+    "Constitutional amendment history (2018 NPC)",
+    "Credible media reports on Xi’s health and party dynamics (2023-2025)"
+  ],
+  "created_at": "2026-05-17T03:17:21.283578+00:00",
+  "agent_version": "0.1.0"
+}

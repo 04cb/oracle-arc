@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 1800,
+  "edge_bp": -600,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine has consistently rejected any limit on its armed forces without ironclad security guarantees, which are unlikely to materialize by 2026. Russia insists on demilitarization as a precondition, making a formal public cap improbable. While external pressure could force concessions, the probability of a specific numerical or proportional limit being agreed by end-2026 remains low, around 12%.",
+  "evidence_points": [
+    "Ukraine's official stance, reiterated since 2022, opposes limits on total force size unless granted NATO membership or equivalent security guarantees.",
+    "Russia's primary demand in negotiations is 'demilitarization,' including caps on Ukrainian personnel, which creates a fundamental deadlock.",
+    "Even if a ceasefire or preliminary peace framework emerges by 2026, it is unlikely to include a public pledge by Ukraine to limit total armed forces personnel, given domestic political costs."
+  ],
+  "sources_consulted": [
+    "Historical peace proposals (Istanbul 2022, subsequent drafts)",
+    "Official Ukrainian government statements on security guarantees",
+    "Analysis of Russian negotiation demands (2023-2025)"
+  ],
+  "created_at": "2026-05-17T03:23:55.456398+00:00",
+  "agent_version": "0.1.0"
+}
