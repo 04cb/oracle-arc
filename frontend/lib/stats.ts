@@ -1,4 +1,4 @@
-import { fetchPicks, publicClient, type PickEvent } from "./arc";
+import { fetchPicks, getTotalPicks, publicClient, type PickEvent } from "./arc";
 
 export type AgentStats = {
   picks: number;
@@ -19,6 +19,8 @@ export async function getAgentStats(): Promise<{
   const events = await fetchPicks({ limit: 500 });
   const agentAddress =
     (events[0]?.agent as `0x${string}` | undefined) ?? null;
+
+  const totalOnChain = agentAddress ? await getTotalPicks(agentAddress) : 0;
 
   let edgeSumAbs = 0;
   let kellySumBP = 0;
@@ -47,7 +49,7 @@ export async function getAgentStats(): Promise<{
   return {
     events,
     stats: {
-      picks: events.length,
+      picks: totalOnChain || events.length,
       firstBlock: sorted[0]?.blockNumber ?? null,
       lastBlock: sorted[sorted.length - 1]?.blockNumber ?? null,
       edgeSumAbs,

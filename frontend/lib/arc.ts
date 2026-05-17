@@ -22,6 +22,7 @@ export const REPUTATION_REGISTRY = process.env
 export const PICK_LEDGER_ABI = parseAbi([
   "event Pick(address indexed agent, uint256 indexed id, bytes32 indexed marketId, uint256 tokenId, uint8 side, uint16 probBP, int16 edgeBP, uint16 kellyFracBP, bytes32 reasoningHash, string reasoningURI, uint64 expiresAt)",
   "event AgentRegistered(address indexed agent, string name)",
+  "function nextId(address) view returns (uint256)",
 ]);
 
 export const REPUTATION_ABI = parseAbi([
@@ -67,6 +68,18 @@ export const publicClient = createPublicClient({
   chain: ARC_CHAIN,
   transport: http(process.env.ARC_RPC_URL),
 });
+
+export async function getTotalPicks(
+  agent: `0x${string}`,
+): Promise<number> {
+  const nextId = await publicClient.readContract({
+    address: PICK_LEDGER_ADDRESS,
+    abi: PICK_LEDGER_ABI,
+    functionName: "nextId",
+    args: [agent],
+  });
+  return Number(nextId) - 1;
+}
 
 export type PickEvent = {
   agent: `0x${string}`;
