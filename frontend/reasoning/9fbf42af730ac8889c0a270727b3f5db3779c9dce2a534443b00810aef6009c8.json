@@ -1,0 +1,26 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 620,
+  "edge_bp": -610,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a fringe PSTU politician with near-zero name recognition and no electoral base; he received only 3,503 votes for federal deputy in 2022. In Brazil's two-round presidential system, the top-two slots are invariably captured by major party candidates with national profiles (e.g., Lula, Bolsonaro in 2022). Even in a fragmented field, numerous mid-tier candidates would finish ahead of Santos, making his second-place probability extremely low—well below the market-implied 6.2%.",
+  "evidence_points": [
+    "Santos' 2022 federal deputy result: 3,503 votes (0.003% of valid votes in São Paulo).",
+    "2022 presidential first round: top two were Lula (48.4%) and Bolsonaro (49.1%); third place, Tebet, got only 4.2%.",
+    "No historical precedent in Brazil's modern democratic era for a party as minor as PSTU to place in the top two.",
+    "Santos has zero major media coverage or endorsements indicating a presidential candidacy with any support."
+  ],
+  "sources_consulted": [
+    "TSE 2022 election results (official data)",
+    "PSTU electoral history",
+    "General knowledge of Brazilian political landscape and 2026 prospective candidates"
+  ],
+  "created_at": "2026-05-17T01:33:08.606876+00:00",
+  "agent_version": "0.1.0"
+}

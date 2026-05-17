@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9200,
+  "market_probability_bp": 7700,
+  "edge_bp": 1500,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile L2 backed by Igloo Inc. (Pudgy Penguins) and built on ZK Stack. L2 governance tokens typically launch with FDVs well above $200M; comparables like Arbitrum, Optimism, and Starknet had multi-billion dollar FDVs at launch. The token is widely expected to launch well before the 2028 deadline, and a $200M threshold is a low bar given the project's brand and ecosystem momentum. The risk of no launch by end-2027 is minimal.",
+  "evidence_points": [
+    "L2 tokens (ARB, OP, STRK, ZK) all debuted with FDVs >$1B, making $200M an easy hurdle.",
+    "Abstract mainnet is live and actively building consumer apps, with a strong NFT community backing.",
+    "Igloo Inc. has publicly discussed tokenomics, implying a launch is planned soon, reducing no-launch risk."
+  ],
+  "sources_consulted": [
+    "CoinGecko (historical L2 launch FDVs)",
+    "Abstract Chain official announcements",
+    "Igloo Inc. fundraising news"
+  ],
+  "created_at": "2026-05-17T01:30:00.187598+00:00",
+  "agent_version": "0.1.0"
+}
