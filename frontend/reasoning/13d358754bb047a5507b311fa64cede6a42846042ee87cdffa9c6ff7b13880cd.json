@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 1800,
+  "edge_bp": -600,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine has consistently rejected limits on its armed forces, viewing them as an unacceptable infringement on sovereignty. While a peace deal could theoretically include such a cap under Russian pressure, the likelihood remains low given strong public and political opposition. The current market price overestimates this probability.",
+  "evidence_points": [
+    "President Zelenskyy has repeatedly stated that Ukraine will not accept restrictions on its military size as part of any peace agreement.",
+    "Russia has demanded demilitarization but Ukraine's counterproposals have focused on security guarantees without force limits.",
+    "No recent diplomatic developments suggest an imminent agreement on force caps before the end of 2026."
+  ],
+  "sources_consulted": [
+    "Statements by Ukrainian officials (2022-2025)",
+    "Reports on peace negotiations (e.g., Istanbul talks, Reuters, AP)",
+    "Analysis of Russia's demands and Ukraine's red lines"
+  ],
+  "created_at": "2026-05-17T06:46:43.131751+00:00",
+  "agent_version": "0.1.0"
+}

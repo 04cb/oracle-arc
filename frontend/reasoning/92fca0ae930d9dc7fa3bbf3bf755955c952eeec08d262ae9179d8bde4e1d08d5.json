@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 1400,
+  "edge_bp": -1000,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 14% implied probability for Marco Rubio to win the 2028 presidency is far too high given the early stage of the cycle. Rubio is not a sitting president or vice president, and the Republican primary field will be extremely crowded. Historical base rates suggest individual senators this far out have single-digit percentage chances.",
+  "evidence_points": [
+    "Rubio is a senator, not an incumbent or VP—historically such candidates have very low odds four years out.",
+    "The 2028 election is highly uncertain, with many potential candidates from both parties; early frontrunners rarely exceed 10% until the cycle clarifies.",
+    "Rubio's prior primary run in 2016 was unsuccessful, and his national profile has not markedly improved to justify a 14% chance."
+  ],
+  "sources_consulted": [
+    "Historical prediction market data",
+    "US election cycle analysis",
+    "Base-rate analysis of presidential candidacy success"
+  ],
+  "created_at": "2026-05-17T06:56:30.915291+00:00",
+  "agent_version": "0.1.0"
+}

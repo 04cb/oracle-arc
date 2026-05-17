@@ -1,0 +1,26 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 1350,
+  "edge_bp": -1200,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The US acquiring part of Greenland requires either a binding territorial transfer or exclusive jurisdiction, neither of which is remotely in prospect. Denmark and Greenland have firmly and repeatedly rejected such ideas, and Trump's previous overtures went nowhere. A forcible takeover is equally implausible. The narrow definition—exclusive US control displacing all Danish authority—makes even a base lease insufficient, putting true odds near 1.5%, far below the market's 13.5%.",
+  "evidence_points": [
+    "Trump’s 2019 interest in buying Greenland was immediately dismissed by Danish and Greenlandic governments; no subsequent negotiation or binding instrument has emerged.",
+    "Any transfer of sovereignty would require approval from Denmark and Greenland’s parliaments, a near impossibility given current political consensus.",
+    "Use of force would break all NATO and international norms and is completely inconsistent with US foreign policy patterns.",
+    "Standard defense agreements (e.g., Thule Air Base) retain Danish sovereignty; they do not meet the market’s strict ‘exclusive jurisdiction’ test."
+  ],
+  "sources_consulted": [
+    "BBC News: 'Greenland is not for sale' (2019, 2024 updates)",
+    "Reuters: Danish PM rebuffs Trump's idea of buying Greenland",
+    "Market resolution criteria and definitions provided"
+  ],
+  "created_at": "2026-05-17T06:35:11.024534+00:00",
+  "agent_version": "0.1.0"
+}

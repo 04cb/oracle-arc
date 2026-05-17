@@ -1,0 +1,24 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1400,
+  "edge_bp": 1600,
+  "confidence": "low",
+  "kelly_fraction_bp": 1860,
+  "reasoning": "The market implies only 14% for a cut in the Dec 2025–Sep 2026 window, but this far-off period could easily see the Fed resume easing if inflation cools. While cuts may occur earlier in 2025, the probability that the easing cycle continues or begins anew by late 2025 is realistically around 30%, making Yes undervalued.",
+  "evidence_points": [
+    "Fed paused after cutting to 4.25–4.50% in Dec 2024, with inflation sticky and labor market strong.",
+    "Many economists expect rate cuts to resume in 2025–2026 if inflation trends down, placing a cut within the market's window as a reasonable scenario.",
+    "The market's low 14% probability likely overweights scenarios where cuts happen only before Dec 2025 and ignores a continued cutting cycle into 2026."
+  ],
+  "sources_consulted": [
+    "Fed monetary policy history and FOMC projections",
+    "General consensus from financial news and analyst reports as of early 2025"
+  ],
+  "created_at": "2026-05-17T06:52:57.775602+00:00",
+  "agent_version": "0.1.0"
+}

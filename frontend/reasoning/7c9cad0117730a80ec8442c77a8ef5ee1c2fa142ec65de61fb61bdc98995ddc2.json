@@ -1,0 +1,24 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 80,
+  "market_probability_bp": 700,
+  "edge_bp": -620,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has consolidated power, eliminated term limits, and faces no known internal party threat. Health risks over 1.5 years are low; a political removal absent visible challengers is extremely unlikely given China's stability. The market's 7% probability is substantially overestimated.",
+  "evidence_points": [
+    "Xi controls the military, party apparatus, and media with no credible opposition.",
+    "No public reports of serious health issues or potential successors being groomed for a sudden transition.",
+    "Historical precedent: No sudden removal of a paramount leader in China since the Deng era without prior signs of struggle."
+  ],
+  "sources_consulted": [
+    "General political analysis of Chinese leadership",
+    "Open-source news monitoring for any dissent or health rumors (none found)"
+  ],
+  "created_at": "2026-05-17T06:37:59.550866+00:00",
+  "agent_version": "0.1.0"
+}

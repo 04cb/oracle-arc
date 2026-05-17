@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 9200,
+  "edge_bp": -8700,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Elon Musk has repeatedly stated he will not take SpaceX public due to Mars-focused long-term vision and dislike of quarterly pressure. Private valuations in late 2024/early 2025 are $250–350B, requiring a 4–5× jump to $1.4T within ~2.5 years, a trajectory with no precedent in aerospace. Combined with the short time horizon, a $1.4T IPO is extremely improbable, making the market’s 92% Yes price a severe overestimate.",
+  "evidence_points": [
+    "Recent SpaceX tender offers and secondary sales value the company around $250–350B (e.g., $255B in Nov 2024, talk of $350B by Jan 2025)",
+    "Musk has consistently said he wants to keep SpaceX private to avoid short-term investor pressure and protect the Mars colonization goal (e.g., 2018 email, interviews through 2023)",
+    "Achieving a $1.4T market cap by YE 2027 would require a ~5x increase from current private valuations, more than the entire market caps of all but a handful of the world’s most valuable tech firms"
+  ],
+  "sources_consulted": [
+    "Bloomberg / Reuters reports on SpaceX private valuation rounds (2024–2025)",
+    "Elon Musk’s public statements on Twitter/X and interviews regarding SpaceX IPO",
+    "Historical IPO pricing multiples and aerospace sector comparables"
+  ],
+  "created_at": "2026-05-17T06:39:01.727038+00:00",
+  "agent_version": "0.1.0"
+}

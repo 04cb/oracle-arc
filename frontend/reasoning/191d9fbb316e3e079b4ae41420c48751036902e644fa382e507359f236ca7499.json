@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 360,
+  "edge_bp": 9140,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a routine naval presence in the Gulf region as part of EMASoH and other missions. The resolution criteria are met by any military vessel transit through the strait, which occurs regularly. Given the long timeframe, the true probability of at least one such transit being officially confirmed is very high.",
+  "evidence_points": [
+    "France is a core participant in the European Maritime Awareness in the Strait of Hormuz (EMASoH) mission, which explicitly involves transiting the strait.",
+    "The French Navy regularly deploys frigates to the Arabian Gulf and Indian Ocean, and these vessels routinely pass through the Strait of Hormuz when entering or leaving the Persian Gulf.",
+    "Historical patterns show multiple French warship transits in recent years, and no credible deterrent would prevent such transits over the next year."
+  ],
+  "sources_consulted": [
+    "EMASoH official statements and mission description",
+    "French Navy deployment records and news reports (e.g., FS Languedoc, FS Forbin transits)",
+    "Resolution rules for this market"
+  ],
+  "created_at": "2026-05-17T06:59:00.824959+00:00",
+  "agent_version": "0.1.0"
+}

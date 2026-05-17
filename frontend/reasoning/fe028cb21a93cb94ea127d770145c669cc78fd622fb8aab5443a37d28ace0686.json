@@ -1,0 +1,26 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 600,
+  "edge_bp": 900,
+  "confidence": "medium",
+  "kelly_fraction_bp": 957,
+  "reasoning": "The UK has already proscribed IRGC sub-entities like the Basij (2022) and repeatedly stated it is keeping full designation under review. Heightened tensions with Iran over nuclear ambitions, support for Russia, and Houthi attacks make a formal designation plausible within the next year, though diplomatic caution persists. I estimate a 15% probability, well above the market's 6%.",
+  "evidence_points": [
+    "UK proscribed the Basij paramilitary force (an IRGC unit) as a terrorist group in October 2022.",
+    "Multiple UK government statements from 2023–2024 indicated that designation of the full IRGC was under active review.",
+    "Iran's ongoing support for Russia in Ukraine and Houthi attacks in the Red Sea increase pressure on the UK to act unilaterally.",
+    "The Labour government (since July 2024) has not ruled out designation, but its historical diplomatic tone tempers the probability."
+  ],
+  "sources_consulted": [
+    "Home Office press release on Basij proscription (2022)",
+    "Reuters/BBC reports on UK considering IRGC designation (2023–2024)",
+    "Analyses of UK-Iran relations post-Brexit"
+  ],
+  "created_at": "2026-05-17T06:55:03.562726+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 5850,
+  "edge_bp": -3850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "PSG's 58.5% implied probability is vastly inflated for a pre-season Champions League winner. Without Mbappe, the squad is weaker, and historically no team enters a season with a >30% chance of winning the tournament. A true probability around 20% is generous given the competition from Real Madrid, Man City, and others.",
+  "evidence_points": [
+    "Kylian Mbappe left PSG for Real Madrid in 2024, significantly reducing star power.",
+    "Pre-season Champions League winner odds for any single team typically top out at 20–25% implied probability.",
+    "PSG's midfield and defensive depth remain unproven against Europe's elite."
+  ],
+  "sources_consulted": [
+    "UEFA Champions League historical betting markets",
+    "PSG squad composition and recent transfer news",
+    "General football analysis of 2025–26 favorites"
+  ],
+  "created_at": "2026-05-17T06:49:03.984364+00:00",
+  "agent_version": "0.1.0"
+}
