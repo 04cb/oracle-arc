@@ -1,0 +1,27 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 840,
+  "edge_bp": -640,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Formal US withdrawal from NATO requires a notice of denunciation under Article 13, which would face severe legal and political obstacles. Congressional legislation (e.g., the NDAA) explicitly restricts presidential authority to unilaterally withdraw, and there is no precedent for such a move. Even under a Trump presidency, which would raise the risk, the probability remains far below the market-implied 8.4%—likely no more than 2%.",
+  "evidence_points": [
+    "FY2020 National Defense Authorization Act included a provision requiring congressional approval for any NATO withdrawal, severely limiting executive action.",
+    "During Trump's first term (2017-2021), despite frequent criticism of allies, the US never initiated withdrawal procedures or submitted an Article 13 notice.",
+    "Current bipartisan consensus (as of 2023) strongly supports NATO; Biden administration and most lawmakers from both parties oppose withdrawal.",
+    "Even if a future administration signaled intent, judicial challenges and Senate ratification requirements would delay or block the process beyond 2026."
+  ],
+  "sources_consulted": [
+    "Text of the National Defense Authorization Act for Fiscal Year 2020 (S.1790)",
+    "Polymarket data on 'Will US withdraw from NATO before 2027?'",
+    "Historical record of Trump administration NATO policy (2017-2021)",
+    "Academic analyses on the legality of unilateral NATO withdrawal (e.g., Lawfare, Just Security)"
+  ],
+  "created_at": "2026-05-17T04:25:56.794917+00:00",
+  "agent_version": "0.1.0"
+}

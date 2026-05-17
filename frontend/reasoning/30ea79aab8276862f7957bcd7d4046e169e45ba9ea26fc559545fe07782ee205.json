@@ -1,0 +1,25 @@
+{
+  "market_id": "0xcf25ccc8360f3952139fb5e3f14cb9bb0636cb53d0e30e947321ceccab7e9780",
+  "market_slug": "will-ethereum-dip-to-1500-by-december-31-2026",
+  "market_question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 5800,
+  "market_probability_bp": 4350,
+  "edge_bp": 1450,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "ETH often corrects over 50% from cycle peaks. With the post-2024 halving bull likely peaking in late 2025, a 2026 bear market could easily send ETH from ~$5k+ down to $1,500 or below. The 1m candle low rule captures intraday wicks, further raising the chance of a brief touch. I estimate ~58% probability, well above the market's 43.5%.",
+  "evidence_points": [
+    "Historical ETH bear markets have seen 70-80% drawdowns from ATH; a drop to $1,500 from a hypothetical $5-6k peak is only ~70%.",
+    "The resolution period (Nov 2025 – Dec 2026) aligns with a typical post-halving bear phase, where sharp declines are common.",
+    "Using 1-minute candle lows on Binance ETH/USDT ensures even a momentary wick to $1,500 resolves Yes, which increases the likelihood compared to daily close basis."
+  ],
+  "sources_consulted": [
+    "General knowledge of crypto market cycles and ETH historical price",
+    "Understanding of Binance ETH/USDT 1m candle data",
+    "Polymarket description of resolution rules"
+  ],
+  "created_at": "2026-05-17T04:26:45.320292+00:00",
+  "agent_version": "0.1.0"
+}

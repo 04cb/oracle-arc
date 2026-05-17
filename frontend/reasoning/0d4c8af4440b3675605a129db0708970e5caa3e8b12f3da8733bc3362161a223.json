@@ -1,0 +1,25 @@
+{
+  "market_id": "0x3d6221450862c69f69e9b278a9119fc3e11f1c794650f7cddf283d4adefeee20",
+  "market_slug": "will-dan-cox-win-the-2026-maryland-governor-republican-primary-election",
+  "market_question": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 5750,
+  "edge_bp": -3250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Dan Cox won the 2022 primary with Trump’s backing but lost the general by a huge margin, making him a weak general-election candidate. In 2026, Maryland Republicans are likely to rally behind a more electable moderate like Bob Cassilly or another pragmatist, especially with Cox’s far-right profile struggling in a blue state. The field is undeclared, but the 57.5% implied probability overstates his chances given his primary win was narrow in 2022 and the party’s desire to flip the seat.",
+  "evidence_points": [
+    "Cox won the 2022 GOP primary with 52.4% but lost the general election by 25 points.",
+    "Potential moderate challengers include Harford County Executive Bob Cassilly and former Delegate Kathy Szeliga.",
+    "Historical pattern: heavily outspent and radical primary winners often get sidelined in subsequent cycles by the party."
+  ],
+  "sources_consulted": [
+    "Memory of Maryland 2022 primary results",
+    "News reports on Maryland GOP 2026 potential candidates",
+    "General knowledge of Maryland political dynamics"
+  ],
+  "created_at": "2026-05-17T04:32:55.775876+00:00",
+  "agent_version": "0.1.0"
+}

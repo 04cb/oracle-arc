@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
+  "market_slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+  "market_question": "Will the Republicans win the Maine Senate race in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6000,
+  "market_probability_bp": 2250,
+  "edge_bp": 3750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Senator Susan Collins is a well-established moderate Republican incumbent who just won reelection in 2020 by 8.6% in a state that voted for Biden. While she hasn't formally announced, she historically runs again, and as an incumbent she would be favored. Even accounting for a possible retirement or a wave against the Republican president in 2026, the true probability of a Republican hold is likely around 60%, far above the market's 22.5%.",
+  "evidence_points": [
+    "Collins won the 2020 Senate race with 51% to 42%, outperforming Trump by double digits.",
+    "No credible reports suggest she plans to retire; she has previously expressed a long-term commitment to serving Maine.",
+    "Maine has a history of ticket-splitting and re-electing Republican Senators (Snowe, Collins) even in Democratic years."
+  ],
+  "sources_consulted": [
+    "2020 election results from AP/NBC/Fox",
+    "Historical Maine Senate elections",
+    "Recent Collins media appearances and retirement speculation"
+  ],
+  "created_at": "2026-05-17T04:18:14.112042+00:00",
+  "agent_version": "0.1.0"
+}

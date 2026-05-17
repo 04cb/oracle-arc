@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 9200,
+  "edge_bp": -9150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Elon Musk has repeatedly stated SpaceX will not go public until regular flights to Mars are underway, a milestone almost certainly beyond the 2027 horizon. Even if an IPO occurred, SpaceX's recent private valuation of ~$150B would need to leap to $1.4T—a nearly 10x jump unsupported by current or projected revenues—making the threshold extremely unrealistic. The market's 92% implied probability grossly overestimates both the likelihood of an IPO and the chance of such an astronomical valuation.",
+  "evidence_points": [
+    "Musk's public statements (e.g., 2022) that a SpaceX IPO won't happen until 'the ship is flying regularly to Mars'.",
+    "SpaceX's latest known private valuation of ~$150 billion (2023–2024 employee tender offers), far below the $1.4T target.",
+    "A $1.4T market cap would require either implausibly high revenues (e.g., >$200B) or fantasy multiples for a space transport + satellite company."
+  ],
+  "sources_consulted": [
+    "Musk Twitter/X posts and interviews on SpaceX IPO timing",
+    "Reports on SpaceX tender offers and private valuations (Bloomberg, CNBC, 2023)",
+    "Public company market cap benchmarks (Apple ~$3T, Microsoft ~$3T) for comparison"
+  ],
+  "created_at": "2026-05-17T04:14:06.802364+00:00",
+  "agent_version": "0.1.0"
+}

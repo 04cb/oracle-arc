@@ -1,0 +1,27 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1350,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Supreme Court grants certiorari in a tiny fraction of petitions, and this niche must appear on the docket within ~15 months. While the CFTC proposed a rule on sports event contracts in mid-2024, the final rule has not been issued, and any subsequent legal challenge would need to race through district and appellate courts to reach cert by July 2026—an extremely tight timeline. No case is currently known to be at the appellate stage that squarely addresses the defined issues, making a grant by the deadline unlikely.",
+  "evidence_points": [
+    "SCOTUS grants cert in only about 1–2% of petitions, and most cases take years to reach the Court.",
+    "The CFTC’s proposed rule on event contracts (RIN 3038-AF34) has not yet been finalized, delaying any potential litigation.",
+    "Even if a challenge is filed after a final rule, expedited appeals (as in Kalshi’s election case) might still not yield a cert grant by July 2026, given the crowded docket and typical briefing schedules.",
+    "No pending lawsuit explicitly concerning sports event contracts is near the certiorari stage as of early 2025."
+  ],
+  "sources_consulted": [
+    "CFTC proposed rulemaking on event contracts (Federal Register, May 2024)",
+    "DC Circuit opinion in KalshiEx LLC v. CFTC (Oct. 2024) illustrating expedited timeline",
+    "General SCOTUS certiorari statistics",
+    "Public docket searches for sports event contract litigation"
+  ],
+  "created_at": "2026-05-17T04:35:45.243582+00:00",
+  "agent_version": "0.1.0"
+}

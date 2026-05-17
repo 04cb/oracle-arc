@@ -1,0 +1,23 @@
+{
+  "market_id": "0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f",
+  "market_slug": "will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676",
+  "market_question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 110,
+  "edge_bp": 290,
+  "confidence": "low",
+  "kelly_fraction_bp": 288,
+  "reasoning": "Gretchen Whitmer is a well-known Democratic governor of a crucial swing state, term-limited in 2026, leaving her free to run in 2028. Early polling (e.g., Echelon Insights Jan 2024) showed her at ~4% support among Democratic primary voters, and she is widely considered a plausible nominee. While the field is uncertain and 1.1% is not impossible, her true odds are likely closer to 4%, making Yes underpriced.",
+  "evidence_points": [
+    "Whitmer won reelection in 2022 in Michigan, a key battleground, and was on Biden's 2020 VP shortlist.",
+    "Early 2024 national poll of Democratic primary voters had her at 4%, ahead of many other governors.",
+    "Her term ends Jan 2027, making her a free agent for the 2028 primaries without incumbency baggage."
+  ],
+  "sources_consulted": [
+    "Echelon Insights January 2024 Democratic Primary Poll (via public media coverage)"
+  ],
+  "created_at": "2026-05-17T04:36:48.861769+00:00",
+  "agent_version": "0.1.0"
+}

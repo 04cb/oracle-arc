@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7700,
+  "edge_bp": 1300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile L2 project with strong community backing. Most comparable L2 tokens have launched with FDVs far exceeding $200M, often in the billions. The timeline until end of 2027 gives ample room for a token launch, and a sub-$200M FDV would be exceptionally low given current market norms for hyped projects.",
+  "evidence_points": [
+    "ARB launched with FDV ~$10B; OP also multi-billion.",
+    "Even smaller rollups and L2s like Blast, Starknet exceeded $200M FDV at launch.",
+    "Abstract is backed by Pudgy Penguins/Igloo Inc., ensuring significant attention and potential demand.",
+    "4 years until resolution reduces no-launch risk substantially."
+  ],
+  "sources_consulted": [
+    "General knowledge of L2 token launch FDVs (Arbitrum, Optimism, Blast, Starknet)",
+    "Abstract project background (Pudgy Penguins connection)"
+  ],
+  "created_at": "2026-05-17T04:14:37.267461+00:00",
+  "agent_version": "0.1.0"
+}

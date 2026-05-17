@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 1800,
+  "edge_bp": -1000,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine views limiting the size of its armed forces as an existential risk without robust, enforceable security guarantees from the West, and such guarantees are unlikely to materialize before 2027. The war's trajectory and Ukraine's political consensus strongly favor maintaining defense self-sufficiency. While a forced concession under external pressure is possible, it is a tail-risk scenario, making the market's 18% price too optimistic.",
+  "evidence_points": [
+    "Ukraine's President Zelensky has repeatedly ruled out military disarming or limitations without NATO membership or equivalent binding security commitments.",
+    "Any agreement capping troop numbers would be politically toxic domestically and seen as capitulation, given public sentiment.",
+    "Russia has demanded Ukrainian demilitarization, but peace talks have stalled, with no credible framework for mutual concessions."
+  ],
+  "sources_consulted": [
+    "Historical peace process analyses (Minsk II, Istanbul talks)",
+    "Expert commentary on Ukraine's military doctrine and negotiating positions",
+    "Polling data on Ukrainians' views on concessions to Russia"
+  ],
+  "created_at": "2026-05-17T04:24:05.262881+00:00",
+  "agent_version": "0.1.0"
+}

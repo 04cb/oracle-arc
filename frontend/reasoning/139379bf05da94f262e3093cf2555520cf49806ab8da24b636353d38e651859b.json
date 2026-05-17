@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 450,
+  "edge_bp": 8050,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France actively participates in the European-led EMASoH/Operation Agenor mission, which regularly transits the Strait of Hormuz to ensure freedom of navigation. France also maintains a permanent naval base in Abu Dhabi and routinely deploys frigates in the region. With over a year until May 2026, the probability of at least one qualifying French warship transit is very high.",
+  "evidence_points": [
+    "France is a core contributor to the EMASoH maritime surveillance mission, which has been conducting transits of the Strait of Hormuz since 2020.",
+    "The French Navy maintains a permanent forward base at Camp de la Paix in Abu Dhabi, enabling frequent deployments in the Persian Gulf and Strait of Hormuz.",
+    "The market's timeframe spans more than 14 months, during which routine patrols and escort duties make a French warship transit practically certain."
+  ],
+  "sources_consulted": [
+    "Official EMASoH mission statements and press releases",
+    "French Navy deployment reports and regional presence documentation",
+    "Recent credible news reporting on Operation Agenor and Strait of Hormuz transits"
+  ],
+  "created_at": "2026-05-17T04:10:54.477373+00:00",
+  "agent_version": "0.1.0"
+}
