@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa2b7d292821eafb97059947b9d834512deda11b7866e0f7b299bcb035071d626",
+  "market_slug": "will-oliver-bearman-be-the-2026-f1-drivers-champion",
+  "market_question": "Will Oliver Bearman be the 2026 F1 Drivers' Champion?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 20,
+  "edge_bp": -19,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Oliver Bearman is unlikely to be in a championship-winning seat for 2026. He is a 2025 rookie, and top teams have committed drivers. The true probability is extremely low (≈0.01%), while the market implies 0.2%, making 'No' significantly underpriced.",
+  "evidence_points": [
+    "Bearman will enter his second F1 season in 2026; only Hamilton (2008) managed a second-year title, and that required a top car.",
+    "Top teams have locked-in driver lineups (Verstappen, Leclerc/Hamilton, Norris/Piastri, Russell/Antonelli likely) leaving Bearman in midfield.",
+    "Haas, his team for 2025, rarely challenges for wins, and 2026 regulation changes are unlikely to instantly transform them into title contenders."
+  ],
+  "sources_consulted": [
+    "Official Formula 1 website (2025 driver lineups)",
+    "News articles on Hamilton's multi-year Ferrari contract",
+    "2026 F1 technical regulation overview"
+  ],
+  "created_at": "2026-05-17T23:47:30.840934+00:00",
+  "agent_version": "0.1.0"
+}

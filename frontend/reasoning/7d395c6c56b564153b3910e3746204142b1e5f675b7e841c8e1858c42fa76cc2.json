@@ -1,0 +1,24 @@
+{
+  "market_id": "0x452f9e53cec1846bd092436b33613c64bcb03cc23e46554c3d163de39b309c52",
+  "market_slug": "will-the-montreal-canadiens-win-the-eastern-conference",
+  "market_question": "Will the Montreal Canadiens win the Eastern Conference?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1400,
+  "edge_bp": -900,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Canadiens are a rebuilding team with a young core; they are highly unlikely to defeat the multiple elite teams in the Eastern Conference. The implied 14% probability seems driven by sentiment rather than on-ice metrics, and a true probability around 5% is more realistic.",
+  "evidence_points": [
+    "Montreal finished near the bottom of the Atlantic in 2023-24 and missed the playoffs in 2024-25, with underlying numbers (xG%, etc.) placing them in the league's lower third.",
+    "The Eastern Conference includes dominant teams like Florida, Carolina, NY Rangers, Boston, and Toronto, each with far stronger rosters and deeper playoff experience.",
+    "Since their surprise run in the 2021 pandemic playoffs, the Canadiens have not advanced past the first round and have traded away core veterans, signaling a long-term rebuild."
+  ],
+  "sources_consulted": [
+    "NHL standings and team analytics (2022-23, 2023-24, 2024-25)",
+    "Betting market consensus (generic understanding of long-shot team odds)"
+  ],
+  "created_at": "2026-05-17T23:48:01.011942+00:00",
+  "agent_version": "0.1.0"
+}

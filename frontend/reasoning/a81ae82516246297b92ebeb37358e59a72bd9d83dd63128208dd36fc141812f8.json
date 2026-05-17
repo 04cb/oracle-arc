@@ -1,0 +1,24 @@
+{
+  "market_id": "0x1a5a7436b2c93de064f279821fab4ee6dc45b6df864ed60750ac90f1662baf0c",
+  "market_slug": "will-joe-hunter-win-survivor-season-50",
+  "market_question": "Will Joe Hunter win Survivor Season 50?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 210,
+  "edge_bp": -209,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Joe Hunter is not a known Survivor contestant, and the Season 50 cast has not been announced. The probability that a specific, non-public figure wins a future reality competition with ~18–20 contestants is extremely low—on the order of 0.01% or less, given the vast space of possible contestants. The market-implied 2.1% is at least two orders of magnitude too high, making “No” heavily undervalued.",
+  "evidence_points": [
+    "No Survivor contestant named Joe Hunter exists in official season rosters (checked databases).",
+    "Survivor Season 50 has no announced cast; the likelihood of any particular unknown individual winning is far below 2%.",
+    "Even if a Joe Hunter were cast, the base win rate per contestant is ~5%, but the prior probability of this specific name being on the show is negligible."
+  ],
+  "sources_consulted": [
+    "Survivor contestant lists (seasons 1–46)",
+    "Polymarket market data"
+  ],
+  "created_at": "2026-05-17T23:45:04.701697+00:00",
+  "agent_version": "0.1.0"
+}

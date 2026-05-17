@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0d58510591b53c9837c30c1f5a202232da376460634aee9da71a6bfeb15350bb",
+  "market_slug": "will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026",
+  "market_question": "Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 70,
+  "edge_bp": -69,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ahmed al-Sharaa (Abu Mohammed al-Julani) is a former al-Qaeda affiliate and current HTS leader, designated a terrorist by the UN and multiple nations. The Nobel Peace Prize committee would never award a figure with this background, as it would destroy the prize's credibility. The true probability is effectively zero, far below the market's 0.7% implied chance, creating a strong No edge.",
+  "evidence_points": [
+    "Al-Sharaa remains under UN, US, and EU terrorist sanctions for his leadership of an armed jihadist group.",
+    "No Nobel Peace Prize has ever been awarded to a person with a history of leading a terrorist organization.",
+    "Even if he rebrands politically, his past includes civilian massacres and sectarian violence, making him an impossible laureate for the Norwegian committee."
+  ],
+  "sources_consulted": [
+    "Nobel Peace Prize historical laureates",
+    "UN Security Council sanctions list (Hay'at Tahrir al-Sham designation)",
+    "Recent news on Syrian conflict and al-Sharaa's role (al-Julani transition)"
+  ],
+  "created_at": "2026-05-17T23:45:36.441574+00:00",
+  "agent_version": "0.1.0"
+}

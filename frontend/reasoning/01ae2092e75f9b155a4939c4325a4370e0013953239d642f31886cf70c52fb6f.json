@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa467b14d51f01b957109d9cbb1d6c124fab2a089d52ed8f471d23c2812e743b7",
+  "market_slug": "xi-jinping-out-before-2027",
+  "market_question": "Xi Jinping out before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 700,
+  "edge_bp": -550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Xi Jinping has consolidated supreme power, removed term limits, and faces no visible internal threats. Removal within 18 months would require an extraordinary event like a coup, severe health crisis, or massive unrest — all tail risks. A 7% probability significantly overstates the chance of such a black swan.",
+  "evidence_points": [
+    "Xi eliminated presidential term limits in 2018, signaling indefinite rule.",
+    "No organized opposition exists within the CCP; key rivals purged.",
+    "The next Party Congress (2027) is beyond the market window, and Xi would normally transition then only if he chose."
+  ],
+  "sources_consulted": [
+    "Historical Chinese leadership transitions",
+    "Analysis of Xi's anti-corruption campaign and power consolidation",
+    "Recent reporting on CCP internal dynamics"
+  ],
+  "created_at": "2026-05-17T23:49:25.296480+00:00",
+  "agent_version": "0.1.0"
+}

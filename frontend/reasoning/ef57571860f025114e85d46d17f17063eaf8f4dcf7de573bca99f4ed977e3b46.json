@@ -1,0 +1,26 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6500,
+  "market_probability_bp": 1470,
+  "edge_bp": 5030,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The current fed funds rate is 4.25-4.50% and the Fed's own December 2024 Summary of Economic Projections shows a median year‑end 2026 rate of 3.4%, implying several cuts in 2026. Inflation is gradually easing and the labor market is cooling, making further easing highly likely. The market’s implied 14.7% probability severely underprices the almost certain need for at least one additional 25bp cut in the Dec’25–Sep’26 window.",
+  "evidence_points": [
+    "FOMC December 2024 dot‑plot median for end‑2026 is 3.4%, well below the current 4.25–4.50% range.",
+    "Core PCE inflation is trending toward 2.5% and the Fed’s own projections show gradual disinflation continuing.",
+    "The window covers three regular FOMC meetings (Jan, Mar, May 2026) plus the Sep meeting, with emergency cuts also qualifying.",
+    "No plausible economic scenario (outside of a sudden, sustained inflation surge) would keep rates unchanged for the entire 9‑month period."
+  ],
+  "sources_consulted": [
+    "Federal Reserve FOMC Projections Materials (December 18, 2024)",
+    "CME FedWatch Tool for current market‑implied path",
+    "Recent macroeconomic commentary from major banks (e.g., Goldman Sachs, J.P. Morgan)"
+  ],
+  "created_at": "2026-05-17T23:48:57.461837+00:00",
+  "agent_version": "0.1.0"
+}

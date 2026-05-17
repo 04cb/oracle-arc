@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5e614739363bbfc399469102c600e4e8260032d41e59e0bc12ebc0e71231642d",
+  "market_slug": "will-czechia-win-the-2026-fifa-world-cup",
+  "market_question": "Will Czechia win the 2026 FIFA World Cup?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 30,
+  "edge_bp": -29,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Czechia is not a realistic contender for the 2026 World Cup; their true win probability is orders of magnitude lower than the 0.3% implied by the market. They failed to qualify for the last edition and lack the world-class talent depth needed to beat the top ~10‑12 nations over seven matches.",
+  "evidence_points": [
+    "Czechia did not qualify for the 2022 FIFA World Cup and has only reached one World Cup (2006, group‑stage exit) since the dissolution of Czechoslovakia.",
+    "As of end‑2024, Czechia sits ~40th in the FIFA rankings and 30th+ in Elo, far behind the handful of teams that historically win World Cups.",
+    "Leading betting markets price Czechia at roughly 500‑1000:1 to win the 2026 World Cup, implying a probability well below 0.1%."
+  ],
+  "sources_consulted": [
+    "FIFA Men’s World Rankings (Nov 2024)",
+    "Wikipedia: Czech Republic at the FIFA World Cup",
+    "Betting odds comparison for 2026 World Cup winner (2025)"
+  ],
+  "created_at": "2026-05-17T23:46:28.836799+00:00",
+  "agent_version": "0.1.0"
+}

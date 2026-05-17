@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6c38a11745e251dc0a383e36e03cf39e602ae43b6e3c7946ca7a9737e8309ec1",
+  "market_slug": "will-amanda-anisimova-be-the-2026-womens-wimbledon-winner",
+  "market_question": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 590,
+  "edge_bp": -440,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Amanda Anisimova is a talented but inconsistent player whose career-best Grand Slam result is a quarterfinal (AO 2019). Two years before the event, a true probability of ~1.5% is far more realistic than the market’s 5.9%, given the dominance of top players and historical long-shot success rates. The implied odds (≈16/1) overestimate her chances significantly.",
+  "evidence_points": [
+    "Anisimova has never won a Grand Slam or reached a Wimbledon semifinal; her best Wimbledon result is R4 (2022).",
+    "Recent Wimbledon winners outside the top 10 (Vondrousova, Krejcikova) had implied pre-tournament odds of roughly 1–2%, far below 5.9%.",
+    "The 2026 field will almost certainly include dominant forces like Swiatek, Sabalenka, Gauff, and Rybakina, making a mid-tier player win very unlikely."
+  ],
+  "sources_consulted": [
+    "WTA official rankings & tournament history (wta.com)",
+    "Historical Wimbledon betting odds data (public news archives)",
+    "Polymarket current price for market 1088109"
+  ],
+  "created_at": "2026-05-17T23:40:39.326986+00:00",
+  "agent_version": "0.1.0"
+}
