@@ -1,0 +1,25 @@
+{
+  "market_id": "0x43cf1b93d1b5420b158346f0e6e2993432014c4c09a213a1240fa7426c1c5af8",
+  "market_slug": "will-betty-yee-win-the-california-governor-election-in-2026",
+  "market_question": "Will Betty Yee win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 20,
+  "edge_bp": 280,
+  "confidence": "medium",
+  "kelly_fraction_bp": 285,
+  "reasoning": "Betty Yee is a declared Democratic candidate with statewide name recognition from two terms as Controller. In a heavily Democratic state, winning the nomination is tantamount to victory, and the 2026 primary has no overwhelming frontrunner, making her base odds significantly above the market's 0.2% estimate. While the field will be crowded, a 3% probability better captures the early‑cycle uncertainty for a credible statewide official.",
+  "evidence_points": [
+    "Yee won statewide election twice (2014, 2018) and is an announced candidate for 2026.",
+    "Open seat gubernatorial primaries without a clear frontrunner historically give multiple serious candidates a non‑trivial shot.",
+    "The market implied probability of 0.2% implies a 1‑in‑500 chance, far below what a recognised statewide Democrat deserves even in a competitive primary."
+  ],
+  "sources_consulted": [
+    "Wikipedia – Betty Yee",
+    "Ballotpedia – California gubernatorial election, 2026",
+    "General news coverage of 2026 CA governor race"
+  ],
+  "created_at": "2026-05-17T05:43:55.592013+00:00",
+  "agent_version": "0.1.0"
+}

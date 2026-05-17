@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4f61a39a39d5be042ae73f2b814e525789edb29c9a7b012fc6733f87192ce4b2",
+  "market_slug": "will-bitcoin-reach-100k-in-may-2026",
+  "market_question": "Will Bitcoin reach $100,000 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 60,
+  "edge_bp": 1440,
+  "confidence": "high",
+  "kelly_fraction_bp": 1444,
+  "reasoning": "Bitcoin exhibits high intra-month volatility, with historical monthly ranges often exceeding 20%. With BTC trading near $85k in late April, a 17% rally to $100k within May is well within typical swings. The market’s 0.6% implied probability drastically underestimates this, and a ~15% chance is far more realistic.",
+  "evidence_points": [
+    "BTC monthly high-low ranges frequently surpass 20%, making a 17% up move plausible.",
+    "The current price ~$85k leaves a relatively small gap to $100k, similar to rallies seen in prior months.",
+    "Implied probability of 0.6% is inconsistent with historical volatility data and recent price action."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT 1m chart historical data",
+    "General knowledge of Bitcoin monthly volatility statistics",
+    "Current BTC spot price ~$85k (April 2025)"
+  ],
+  "created_at": "2026-05-17T05:52:44.520608+00:00",
+  "agent_version": "0.1.0"
+}

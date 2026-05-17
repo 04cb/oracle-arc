@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6c85fe5b4197dc55dafef8368acaddb96adb892447730dfa53076c537b0bd9f6",
+  "market_slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+  "market_question": "Will Trump and Putin meet next in another EU country?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 40,
+  "edge_bp": 210,
+  "confidence": "medium",
+  "kelly_fraction_bp": 206,
+  "reasoning": "A Trump-Putin meeting during the Sep 2025–Jun 2026 window is plausible (around 50% chance) given Trump’s push for Ukraine talks. Conditional on a meeting, an EU venue is unlikely due to the ICC warrant and anti-Russia sentiment, but Hungary (EU member) remains a credible host, giving ~5% conditional probability, for a joint ~2.5% chance—well above the market’s 0.4%. This mispricing makes ‘Yes’ undervalued.",
+  "evidence_points": [
+    "Trump has repeatedly stated he will meet Putin to negotiate Ukraine peace.",
+    "Hungary’s Orbán maintains friendly ties with both leaders and has signaled willingness to host Putin despite the ICC warrant.",
+    "Other EU countries have strongly opposed Putin’s travel and would face domestic backlash for hosting him.",
+    "The 9-month timeframe is long enough for at least one summit, with non-EU neutral locations (e.g. Saudi Arabia) being the default."
+  ],
+  "sources_consulted": [
+    "Reuters reports on Trump-Putin meeting prospects (2025)",
+    "BBC coverage of Hungary’s stance towards Putin’s ICC warrant",
+    "General geopolitical analysis of EU-Russia relations post-2022"
+  ],
+  "created_at": "2026-05-17T05:56:05.042477+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 3350,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 'No to ten million Switzerland' initiative faces a high hurdle due to the double majority requirement (popular vote + cantons). Similar restrictive immigration initiatives from the SVP historically fail to gain a cantonal majority, even when the popular vote is close. The Swiss business community and centrist parties strongly oppose a hard cap, and without recent polling, the base rate for such initiatives is below 30% approval. The current market implies a 33.5% chance, which appears overstated.",
+  "evidence_points": [
+    "Swiss popular initiatives require a double majority (majority of voters and majority of cantons), which is rarely met for SVP immigration proposals.",
+    "Past SVP initiatives like the 'Against Mass Immigration' (2014) passed narrowly but later initiatives on similar topics failed or were rejected by cantons.",
+    "No public polls show support above 40%, and institutional opposition from government, parliament, and economic actors depresses the probability of approval."
+  ],
+  "sources_consulted": [
+    "Swiss Federal Chancellery referendum rules",
+    "Swissinfo.ch coverage of the 'No to ten million' initiative",
+    "Historical Swiss referendum results database (admin.ch)",
+    "Analysis of double-majority failures (e.g., 2016 'Implementation initiative')"
+  ],
+  "created_at": "2026-05-17T05:50:37.211266+00:00",
+  "agent_version": "0.1.0"
+}

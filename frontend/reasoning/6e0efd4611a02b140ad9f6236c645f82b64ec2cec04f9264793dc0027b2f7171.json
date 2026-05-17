@@ -1,0 +1,24 @@
+{
+  "market_id": "0x83030b249525db4c0bcd83a915776442f4ea32d2fba10825fca4abeb51512d8f",
+  "market_slug": "will-renan-santos-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 670,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Renan Santos is a political activist and MBL co-founder with no significant electoral track record—he received ~10,000 votes for federal deputy in 2022. The 2026 presidential field is expected to include heavyweight governors (Tarcísio, Zema) and established national figures, making his chance to finish second in the first round virtually nil. The market's 6.7% implied probability is an order of magnitude too high relative to his electoral viability.",
+  "evidence_points": [
+    "Santos failed to win a federal deputy seat in 2022, obtaining around 10,000 votes.",
+    "Prominent right-wing alternatives like Tarcísio de Freitas and Romeu Zema have far larger bases and name recognition.",
+    "No credible polls or analyses place Santos among even dark-horse contenders for the 2026 presidency."
+  ],
+  "sources_consulted": [
+    "General knowledge of Brazilian politics and 2022 election results",
+    "Assessment of MBL’s political influence"
+  ],
+  "created_at": "2026-05-17T05:48:05.194791+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
+  "market_slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+  "market_question": "Will the Republicans win the Maine Senate race in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6200,
+  "market_probability_bp": 2250,
+  "edge_bp": 3950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Susan Collins is a well-established incumbent who won by 10 points in 2020 even as Biden carried Maine by 9 points. Midterm headwinds exist for the president's party, but Collins’s moderate image and proven cross-party appeal suggest her odds of re-election are significantly above the market's 22.5%. The low price likely reflects generic Republican headwinds, overlooking her personal brand.",
+  "evidence_points": [
+    "2020 result: Collins 51%, Gideon 41% while Biden won Maine 53%–44%.",
+    "Cook Political Report currently rates the seat as Lean R.",
+    "Maine's use of ranked-choice voting may help Collins if a third-party candidate splits the opposition."
+  ],
+  "sources_consulted": [
+    "2020 Maine Senate election results",
+    "Cook Political Report 2026 Senate ratings",
+    "FiveThirtyEight Collins approval history"
+  ],
+  "created_at": "2026-05-17T05:47:42.352301+00:00",
+  "agent_version": "0.1.0"
+}

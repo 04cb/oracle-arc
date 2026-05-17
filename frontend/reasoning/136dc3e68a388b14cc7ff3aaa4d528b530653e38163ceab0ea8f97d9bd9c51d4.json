@@ -1,0 +1,27 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 360,
+  "edge_bp": 7640,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France is a leading nation in the EMASoH maritime surveillance mission in the Strait of Hormuz and Persian Gulf, regularly deploying frigates on rotating deployments. Over the next 14 months, at least one such vessel will almost certainly transit the narrowest portion of the Strait while entering or exiting the Gulf, and open-source tracking and/or official reporting will confirm it. The market's ~3.6% price severely underestimates the event's likelihood.",
+  "evidence_points": [
+    "France commands the European-led EMASoH mission (HQ Abu Dhabi) focused on the Strait of Hormuz and Persian Gulf",
+    "French FREMM frigates (e.g., FS Forbin, FS Languedoc) have repeatedly transited the Strait during mission rotations",
+    "Naval vessel displacements through the Strait are routinely captured by OSINT tracking (AIS, satellite) and reported by credible media",
+    "No policy reversal or suspension of the mission has been signaled, making a transit highly probable by May 2026"
+  ],
+  "sources_consulted": [
+    "EMASoH official mission description",
+    "Reports of French naval deployments to the Indian Ocean (Mer et Marine, Naval News)",
+    "OSINT monitoring accounts on Twitter/X documenting warship movements through chokepoints",
+    "Polymarket market description and resolution rules"
+  ],
+  "created_at": "2026-05-17T06:04:34.005076+00:00",
+  "agent_version": "0.1.0"
+}

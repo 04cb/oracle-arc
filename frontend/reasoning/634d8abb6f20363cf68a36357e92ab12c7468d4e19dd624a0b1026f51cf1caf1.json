@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 620,
+  "edge_bp": 6380,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The UK Labour government, elected in July 2024 with a large majority, explicitly pledged to proscribe the IRGC. Senior officials including the PM and Foreign Secretary have since signaled they are moving toward designation. With over a year until the deadline and robust cross-party support, the political and legal path is clear, making formal proscription highly likely.",
+  "evidence_points": [
+    "Labour’s 2024 manifesto promised to proscribe the IRGC as a terrorist organization.",
+    "Foreign Secretary David Lammy publicly stated the government is actively considering proscription.",
+    "The UK has already proscribed other Islamist groups (e.g., Hamas, Hezbollah) and faces minimal diplomatic cost compared to the benefit of aligning with key allies."
+  ],
+  "sources_consulted": [
+    "UK Labour Party 2024 election manifesto",
+    "Statements by David Lammy (2024-2025)",
+    "Reuters/BBC reporting on UK IRGC proscription prospects"
+  ],
+  "created_at": "2026-05-17T05:59:40.975246+00:00",
+  "agent_version": "0.1.0"
+}

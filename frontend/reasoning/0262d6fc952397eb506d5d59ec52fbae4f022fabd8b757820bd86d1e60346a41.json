@@ -1,0 +1,24 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 2050,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite Trump's reputation for high turnover, Tulsi Gabbard is a loyalist who survived a contentious confirmation, signalling Trump’s commitment. Historical DNI tenures under Trump (e.g. Dan Coats 2017-2019) exceed the remaining window. Barring unforeseen events, departure within ~15 months seems less likely than the 20.5% implied, so I recommend No.",
+  "evidence_points": [
+    "Gabbard is a Trump loyalist, reducing the risk of a sudden firing over policy disputes.",
+    "The market window is only ~15 months; Dan Coats, Trump’s first-term DNI, served over 2.5 years despite not being a close ally.",
+    "No major scandals or public calls for her removal have emerged since her February 2025 confirmation."
+  ],
+  "sources_consulted": [
+    "Public reporting on Trump administration cabinet appointments and historical turnover",
+    "Confirmation timeline and political commentary on Gabbard’s relationship with Trump"
+  ],
+  "created_at": "2026-05-17T06:02:39.047203+00:00",
+  "agent_version": "0.1.0"
+}

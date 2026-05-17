@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 4850,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1753,
+  "reasoning": "As of early 2025, the Russia-Ukraine war remains a bloody stalemate with no active ceasefire negotiations. Both sides have entrenched, maximalist positions: Russia demands territorial concessions, Ukraine refuses to cede land. Despite Trump’s promises, no rapid deal has materialized. The probability of a mutually agreed, general ceasefire by end 2026 appears lower than the market’s 48.5%, hence I estimate 40%.",
+  "evidence_points": [
+    "No formal ceasefire talks underway; previous rounds (e.g., Istanbul 2022) collapsed without lasting result.",
+    "Russia is making slow territorial gains and shows no sign of accepting a freeze, while Western aid to Ukraine may wane but has not yet forced Kyiv to the table.",
+    "Trump administration rhetoric raised hopes but no concrete ceasefire framework has emerged in early 2025, and both sides continue full-scale combat operations."
+  ],
+  "sources_consulted": [
+    "Conflict news through early 2025",
+    "Historical ceasefire negotiation outcomes",
+    "Expert commentary on war dynamics"
+  ],
+  "created_at": "2026-05-17T05:58:38.881439+00:00",
+  "agent_version": "0.1.0"
+}

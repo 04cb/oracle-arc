@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b",
+  "market_slug": "hantavirus-vaccine-in-2026",
+  "market_question": "Hantavirus vaccine in 2026? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 850,
+  "edge_bp": -800,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "No hantavirus vaccine for humans has ever received full FDA approval, and none are in late-stage US clinical trials. Vaccine development from early research to approval typically takes 5–10 years; with only ~1.5 years remaining, and very low disease incidence complicating efficacy trials, the chance of full approval by end of 2026 is below 1%. The market's 8.5% implied probability is far too high.",
+  "evidence_points": [
+    "No hantavirus vaccine is listed in the FDA’s approved vaccines or known to be in a Phase 3 trial targeting US licensure.",
+    "Hantavirus incidence in the US is extremely low (sporadic cases), making large-scale efficacy trials impractical without international collaboration, which is not underway for US approval.",
+    "Even accelerated approval pathways require substantial clinical data and a validated surrogate endpoint, none of which is publicly planned for hantavirus before 2026."
+  ],
+  "sources_consulted": [
+    "FDA Vaccines Licensed for Use in the United States (fda.gov)",
+    "CDC Hantavirus overview (cdc.gov)",
+    "ClinicalTrials.gov search for hantavirus vaccine Phase 2/3",
+    "Published reviews on hantavirus vaccine development (WHO, PubMed)"
+  ],
+  "created_at": "2026-05-17T06:03:24.611766+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 1350,
+  "edge_bp": -1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The US acquiring part of Greenland by end of 2026 is highly improbable. Denmark has consistently refused to sell or cede territory, and no serious negotiations are underway. A use-of-force scenario would be an extreme departure from norms and alliance commitments, making a 13.5% market price far too optimistic. A 1% true probability still accounts for unforeseeable black-swan events.",
+  "evidence_points": [
+    "Trump repeatedly expressed interest in buying Greenland, but Denmark's Prime Minister called the idea 'absurd' and rejected it.",
+    "Greenlandic and Danish officials have consistently stated the island is not for sale and sovereignty will not transfer.",
+    "Historical precedent: US territorial acquisitions since 1900 (e.g., American Samoa, Virgin Islands) were consensual purchases from willing colonial powers; no modern case of acquiring territory from a NATO ally."
+  ],
+  "sources_consulted": [
+    "Official statements from Danish PM Mette Frederiksen (2019, 2025)",
+    "US State Department remarks on the US consulate in Nuuk (no mention of sovereignty)",
+    "News archives on Trump's Greenland interest (Reuters, AP)"
+  ],
+  "created_at": "2026-05-17T05:39:46.355743+00:00",
+  "agent_version": "0.1.0"
+}

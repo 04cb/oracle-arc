@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 5850,
+  "edge_bp": -4850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "PSG is a strong team, but the Champions League is highly competitive with several stronger or equally matched squads like Manchester City, Real Madrid, and Bayern Munich. Historical pre-season betting odds rarely exceed 20% for any single club, and PSG's recent performances do not support a 58.5% win probability. The current market price appears significantly inflated, likely due to fan sentiment or speculation.",
+  "evidence_points": [
+    "No single club has approached 58.5% pre-season win probability in major league or sportsbook markets in recent years.",
+    "PSG has never won the Champions League and was eliminated in the quarter- or semi-finals in recent seasons.",
+    "Rivals such as Manchester City, Real Madrid, and Bayern Munich have more consistent deep runs and superior squad depth."
+  ],
+  "sources_consulted": [
+    "Historical UEFA Champions League results (uefa.com)",
+    "Pre-season betting odds comparisons for top European clubs (2020–2024)",
+    "General knowledge of club strength and past performance"
+  ],
+  "created_at": "2026-05-17T05:53:11.434686+00:00",
+  "agent_version": "0.1.0"
+}
