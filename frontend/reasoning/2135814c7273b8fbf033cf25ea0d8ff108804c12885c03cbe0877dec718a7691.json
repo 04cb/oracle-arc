@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc792f8824ef9bb549a4f5d89eec898caefdd3df5a507783f80202d289e9130ea",
+  "market_slug": "israel-x-hezbollah-permanent-peace-deal-by-may-31-2026",
+  "market_question": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 30,
+  "market_probability_bp": 210,
+  "edge_bp": -180,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace deal between Israel and Hezbollah contradicts decades of deep-rooted, irreconcilable hostilities; no such agreement has ever materialized. The conflict's core issues—Hezbollah's disarmament, Israel's security demands, Iranian influence—make a lasting resolution within this short window historically implausible. The market's own hypothetical reference to a temporary 10-day ceasefire highlights the gulf between fleeting truces and the definitive, permanent agreement required, reinforcing the negligible likelihood before May 2026.",
+  "evidence_points": [
+    "No permanent peace deal has ever been reached between Israel and Hezbollah despite decades of intermittent conflict.",
+    "The resolution rules define a permanent deal strictly, excluding temporary ceasefires like the hypothetical April 2026 extension, which further narrows the already slim path to a qualifying outcome.",
+    "Entrenched regional dynamics (Hezbollah’s dependence on Iran, the unresolved status of southern Lebanon, and mutual non-recognition) provide no historical precedent or current momentum for a definitive peace accord."
+  ],
+  "sources_consulted": [
+    "Market description and resolution criteria (conditionId=0xc792f8824ef9bb549a4f5d89eec898caefdd3df5a507783f80202d289e9130ea)",
+    "General historical knowledge of Israel-Hezbollah relations and regional geopolitics."
+  ],
+  "created_at": "2026-05-17T14:50:35.473830+00:00",
+  "agent_version": "0.1.0"
+}

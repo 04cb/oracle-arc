@@ -1,0 +1,25 @@
+{
+  "market_id": "0xf7b5491e70b477d451afe7d9c1fde4bf1a927e69ff289d294b96df164f6c10f0",
+  "market_slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+  "market_question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 900,
+  "market_probability_bp": 3750,
+  "edge_bp": -2850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "No NHL team has a 37.5% chance to win the Stanley Cup in a 32-team league; even the strongest favourites rarely exceed ~12-15%. The Hurricanes are a consistent playoff team but have repeatedly failed to reach the final, and they face stiff competition from elite Eastern and Western teams. This market price is massively overvaluing Carolina.",
+  "evidence_points": [
+    "Preseason Cup odds for the top favourite usually sit around +900 to +1200 (implied ~8-10%)",
+    "Hurricanes lost in the second round in 2024 and haven't advanced past the conference finals since 2019",
+    "Roster has goaltending concerns (Andersen's age, Kochetkov's inconsistency) and potential free agency losses"
+  ],
+  "sources_consulted": [
+    "NHL.com standings and playoff history",
+    "The Athletic and MoneyPuck pre-season Cup odds (2024-25)",
+    "General knowledge of NHL competitive balance and parity"
+  ],
+  "created_at": "2026-05-17T14:49:16.968566+00:00",
+  "agent_version": "0.1.0"
+}

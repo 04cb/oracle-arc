@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9900,
+  "market_probability_bp": 350,
+  "edge_bp": 9550,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a permanent naval base in Abu Dhabi and regularly deploys warships (frigates, support vessels) to the Indian Ocean via the Strait of Hormuz. As a core participant in the European-led EMASoH mission, French Navy vessels patrol and transit the strait multiple times per year. It is almost certain that at least one qualifying transit will occur before the May 2026 deadline.",
+  "evidence_points": [
+    "French naval base in Abu Dhabi (FFEAU) positions warships inside the Persian Gulf, making Hormuz transits a routine part of deployments to the Indian Ocean.",
+    "France is a consistent contributor to EMASoH, the European maritime awareness mission in the Strait of Hormuz, with frigates like FS Courbet deployed to the region as recently as 2024.",
+    "The resolution criteria merely require a military vessel passing through the narrowest portion of the strait, with no requirement for a special operation—routine patrols qualify."
+  ],
+  "sources_consulted": [
+    "French Navy deployment announcements (2023-2024)",
+    "EMASoH official mission details and participating nations",
+    "News reports on French naval presence in the Persian Gulf/UAE"
+  ],
+  "created_at": "2026-05-17T14:48:23.058955+00:00",
+  "agent_version": "0.1.0"
+}

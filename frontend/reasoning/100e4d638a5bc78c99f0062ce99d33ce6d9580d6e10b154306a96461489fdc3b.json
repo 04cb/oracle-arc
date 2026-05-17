@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0d58510591b53c9837c30c1f5a202232da376460634aee9da71a6bfeb15350bb",
+  "market_slug": "will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026",
+  "market_question": "Will Ahmed al-Sharaa win the Nobel Peace Prize in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 60,
+  "edge_bp": -50,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ahmed al-Sharaa's background as a former rebel leader makes him a highly unlikely Nobel Peace Prize laureate, especially with the 2026 prize still two cycles away. While his role in Syria's transitional government has brought attention, no credible shortlist or peace breakthrough supports a 0.7% chance. The market appears to overprice this outcome due to recent headlines.",
+  "evidence_points": [
+    "No reputable Nobel Peace Prize prediction lists include Al-Sharaa among serious contenders.",
+    "The Nobel Committee typically rewards established peace processes or figures with a proven track record, not newly appointed transitional leaders with contentious pasts.",
+    "Significant global rivals (e.g., activists, mediators in Ukraine/Gaza) make his selection even less probable."
+  ],
+  "sources_consulted": [
+    "General knowledge: Nobel Peace Prize criteria and past laureates",
+    "News analysis: Ahmed al-Sharaa's role in post-Assad Syria"
+  ],
+  "created_at": "2026-05-17T14:49:04.335508+00:00",
+  "agent_version": "0.1.0"
+}

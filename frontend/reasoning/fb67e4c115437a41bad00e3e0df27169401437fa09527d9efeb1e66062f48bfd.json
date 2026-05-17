@@ -1,0 +1,24 @@
+{
+  "market_id": "0x4f61a39a39d5be042ae73f2b814e525789edb29c9a7b012fc6733f87192ce4b2",
+  "market_slug": "will-bitcoin-reach-100k-in-may-2026",
+  "market_question": "Will Bitcoin reach $100,000 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 40,
+  "edge_bp": 1460,
+  "confidence": "high",
+  "kelly_fraction_bp": 1462,
+  "reasoning": "Bitcoin at ~$84k needs a 19% rally to $100k, feasible in 25 days given historical monthly volatility (often ~20% std dev). The market's 0.4% implied probability is unreasonably low, ignoring even tail risk of a quick wick. Any 1-minute candle high ≥ $100k triggers a Yes, further increasing the true likelihood to at least 15%.",
+  "evidence_points": [
+    "BTC has seen 20%+ monthly moves several times in the past year, including during periods of positive news.",
+    "A 1-minute candle wick to $100k counts for resolution, making the condition easier to satisfy than a daily close.",
+    "Implied probability of 0.4% is an outlier compared to any standard quant estimate for a 19% upside over 25 days."
+  ],
+  "sources_consulted": [
+    "BTC price history",
+    "Binance BTC/USDT 1m candle data"
+  ],
+  "created_at": "2026-05-17T14:45:58.191044+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc0f838d718bf25167ba687f574603cecac310eb7b33daa55b1ac0f9095ed5445",
+  "market_slug": "extended-fdv-above-2b-one-day-after-launch-692-597-187",
+  "market_question": "Extended FDV above $2B one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 180,
+  "edge_bp": -130,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Extended appears to be a relatively unknown Web3 social app; historically, such projects rarely launch with FDVs above $2B on day one. The low liquidity and volume suggest no strong conviction behind the Yes price, and the risk of the token never launching by 2027 further lowers the true probability. A 1.8% implied probability seems too high given these factors.",
+  "evidence_points": [
+    "Base rate for social app token FDV at launch: typically well under $500M, making $2B an extreme outlier.",
+    "Market illiquidity and low volume indicate soft pricing, not a strong conviction for a 1.8% chance.",
+    "The resolution hinges on token existence by end of 2026; many announced projects miss deadlines."
+  ],
+  "sources_consulted": [
+    "Knowledge of historical token launches and FDV data (e.g., Friend.tech, Farcaster, Lens)",
+    "General observation of Web3 social app markets",
+    "Market depth and trading activity on Polymarket"
+  ],
+  "created_at": "2026-05-17T14:47:03.551678+00:00",
+  "agent_version": "0.1.0"
+}

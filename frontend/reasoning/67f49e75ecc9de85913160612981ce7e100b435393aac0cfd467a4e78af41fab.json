@@ -1,0 +1,24 @@
+{
+  "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+  "market_slug": "iran-closes-its-airspace-by-june-30-432-786",
+  "market_question": "Iran closes its airspace by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9900,
+  "market_probability_bp": 5650,
+  "edge_bp": 4250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The January 2026 total closure of Iranian airspace (except flights with express government permission) meets the criteria for a broad, non-weather major closure and is explicitly listed as a qualifying example in the resolution rules. Since the event has already occurred by the deadline, the likelihood of a 'Yes' resolution is near certainty—around 99%—while the market prices it at only 56.5%.",
+  "evidence_points": [
+    "The January 2026 total closure of Iranian airspace, documented by Reuters, is a qualifying event per the market's own description.",
+    "The closure applied generally to commercial flights, with only limited exceptions, exactly matching the defined major closure.",
+    "The resolution rules do not require the closure to persist until June 30, 2026, only that it be initiated by that date."
+  ],
+  "sources_consulted": [
+    "Polymarket question description and resolution criteria (market ID 2241742)",
+    "Linked Reuters article (January 14, 2026) on Iranian airspace closure"
+  ],
+  "created_at": "2026-05-17T14:48:29.072885+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 1350,
+  "edge_bp": -1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The United States has a long history of territorial acquisitions, but in the modern era, acquiring a part of a NATO ally's autonomous territory is virtually unprecedented. Greenland and Denmark have repeatedly stated the island is not for sale, and there is no credible indication of interest in granting exclusive jurisdiction. While Trump’s administration may increase pressure, the probability of a binding agreement by end of 2026 is extremely low, plausibly under 2%.",
+  "evidence_points": [
+    "Denmark and Greenland have consistently and forcefully rejected the idea of selling or ceding territory.",
+    "No credible negotiations or offers are under way that would meet the market's strict resolution criteria (binding treaty, exclusive jurisdiction, or use of force).",
+    "US territorial acquisitions in the past century have been rare and never involved coercive purchase from a NATO ally.",
+    "Even a long-term lease for a military base would not automatically confer primary or exclusive jurisdiction overriding Danish law – a scenario Denmark would almost certainly oppose."
+  ],
+  "sources_consulted": [
+    "Reuters reports on Denmark/Greenland responses to US purchase proposals (2019–2025)",
+    "BBC coverage of the Greenland autonomy and historical US interest",
+    "Official statements from Danish and Greenlandic government officials",
+    "Analysis of US territorial acquisition precedents and international law"
+  ],
+  "created_at": "2026-05-17T14:41:53.638143+00:00",
+  "agent_version": "0.1.0"
+}
