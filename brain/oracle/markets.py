@@ -68,6 +68,7 @@ def fetch_open_binary_markets(
     min_liquidity_usd: float = 5_000,
     min_volume_usd: float = 10_000,
     max_results: int = 50,
+    skip: int = 0,
     client: httpx.Client | None = None,
 ) -> list[Market]:
     """Pull open binary (Yes/No) Polymarket markets with non-trivial liquidity.
@@ -115,7 +116,7 @@ def fetch_open_binary_markets(
                     continue
                 all_markets.append(m)
             offset += page_size
-        return all_markets[:max_results]
+        return all_markets[skip : skip + max_results]
     finally:
         if own_client:
             client.close()

@@ -23,6 +23,7 @@ log = logging.getLogger("oracle.run")
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=8, help="markets to analyze")
+    parser.add_argument("--skip", type=int, default=0, help="skip first N markets (for parallel instances)")
     parser.add_argument(
         "--min-edge-bp",
         type=int,
@@ -48,7 +49,7 @@ def main() -> int:
         ensure_registered("Oracle")
 
     log.info("fetching open markets…")
-    markets = fetch_open_binary_markets(max_results=args.limit)
+    markets = fetch_open_binary_markets(max_results=args.limit, skip=args.skip)
     log.info("got %d markets", len(markets))
 
     picks = []
