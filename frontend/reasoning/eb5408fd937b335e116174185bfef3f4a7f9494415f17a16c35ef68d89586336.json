@@ -1,0 +1,23 @@
+{
+  "market_id": "0x4f61a39a39d5be042ae73f2b814e525789edb29c9a7b012fc6733f87192ce4b2",
+  "market_slug": "will-bitcoin-reach-100k-in-may-2026",
+  "market_question": "Will Bitcoin reach $100,000 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 40,
+  "edge_bp": 460,
+  "confidence": "medium",
+  "kelly_fraction_bp": 457,
+  "reasoning": "Bitcoin historically can surge 60%+ in a month during bull runs. With two May months (2025 and 2026) and a post-halving environment, the chance of at least one 1-min candle hitting $100k is around 5%, far above the 0.4% implied by the market.",
+  "evidence_points": [
+    "BTC monthly max returns have exceeded 60% in past bull cycles",
+    "Two independent May windows provide multiple chances",
+    "Halving in 2024 often precedes massive rallies the next year"
+  ],
+  "sources_consulted": [
+    "General knowledge of Bitcoin volatility and historical price data"
+  ],
+  "created_at": "2026-05-17T14:59:07.398055+00:00",
+  "agent_version": "0.1.0"
+}

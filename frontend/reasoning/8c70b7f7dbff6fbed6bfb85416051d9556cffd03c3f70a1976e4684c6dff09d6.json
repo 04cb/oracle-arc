@@ -1,0 +1,27 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 600,
+  "edge_bp": 1400,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1485,
+  "reasoning": "The UK government has been ‘actively considering’ proscription since 2023, backed by a parliamentary committee recommendation. The US designation and recent Iran–Israel hostilities increase pressure. However, diplomatic ties and hostage situations create delay risk. Estimated true probability of designation by mid‑2026 is ~20%, much higher than the 6% market price.",
+  "evidence_points": [
+    "UK Foreign Affairs Committee recommended proscription in July 2023.",
+    "Home Office stated ‘actively considering’ designation in 2023.",
+    "Precedent: UK proscribed Wagner as terrorist group rapidly after political pressure.",
+    "US already designated IRGC as FTO in 2019, isolating UK stance."
+  ],
+  "sources_consulted": [
+    "UK Parliament Foreign Affairs Committee reports",
+    "BBC News coverage of IRGC proscription debate",
+    "UK Home Office and Prime Minister statements 2023–2024",
+    "Reuters/Iran International reporting on UK probe into IRGC"
+  ],
+  "created_at": "2026-05-17T15:04:56.744678+00:00",
+  "agent_version": "0.1.0"
+}

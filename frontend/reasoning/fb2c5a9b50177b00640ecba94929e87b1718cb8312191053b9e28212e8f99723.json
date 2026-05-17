@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6c85fe5b4197dc55dafef8368acaddb96adb892447730dfa53076c537b0bd9f6",
+  "market_slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+  "market_question": "Will Trump and Putin meet next in another EU country?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1600,
+  "market_probability_bp": 50,
+  "edge_bp": 1550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1558,
+  "reasoning": "Trump and Putin are very likely to meet within the Sept 2025–June 2026 window to discuss Ukraine and broader relations, as Trump will be president during that period. Historical precedent (Helsinki 2018, Hamburg G20) shows EU countries are common neutral venues for such summits. Even under conservative estimates, the true probability of an EU-country first meeting is orders of magnitude above the market's 0.5% implied, which prices as if a meeting in an EU country is essentially impossible.",
+  "evidence_points": [
+    "Trump takes office Jan 2025; first-year summits with Putin occurred in July 2017 (G20 Hamburg) and July 2018 (Helsinki).",
+    "Ending the Ukraine war will likely require face-to-face negotiations, often held in neutral European countries like Finland, Austria, or Switzerland.",
+    "The market's 0.5% price implies a ~1-in-200 chance, which is far below any reasonable base rate given the diplomatic calendar and Trump's stated intentions."
+  ],
+  "sources_consulted": [
+    "Historical record of Trump-Putin meetings (2017–2018)",
+    "Current geopolitical expectations for Ukraine peace talks",
+    "Market description and resolution rules"
+  ],
+  "created_at": "2026-05-17T15:05:24.719142+00:00",
+  "agent_version": "0.1.0"
+}

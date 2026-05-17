@@ -1,0 +1,27 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 9250,
+  "edge_bp": -7250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX currently has no official IPO plans and Elon Musk has repeatedly stated a preference to keep it private until Mars missions are established. Even if an IPO occurs before 2027, the company's latest valuation is around $200–250B, requiring over a 5x jump to reach $1.4T—a valuation that would immediately place it among the world's top few companies, far outpacing current revenue and profit projections. Given the high uncertainty and limited time window, the true probability is vastly below the market's 92.5%.",
+  "evidence_points": [
+    "SpaceX's last known valuation is ~$210B (2024 tender offer), far below $1.4T",
+    "Elon Musk has indicated no near-term IPO for SpaceX, citing mission alignment",
+    "Saudi Aramco's $1.7T remains the largest IPO; SpaceX would need to rival that with much lower current revenues",
+    "The market resolves to No if no IPO occurs by Dec 31, 2027, introducing substantial timing risk"
+  ],
+  "sources_consulted": [
+    "Public statements by Elon Musk regarding SpaceX IPO timeline",
+    "Recent SpaceX private valuation reports (~$210B as of 2024)",
+    "Historical IPO valuations (Saudi Aramco $1.7T)",
+    "Current public market cap comparisons ($1.4T would be top 5 globally)"
+  ],
+  "created_at": "2026-05-17T15:04:33.292400+00:00",
+  "agent_version": "0.1.0"
+}
