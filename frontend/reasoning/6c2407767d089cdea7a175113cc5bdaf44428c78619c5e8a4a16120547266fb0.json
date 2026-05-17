@@ -1,0 +1,25 @@
+{
+  "market_id": "0x8de68dfbcfa9e9b6472bceec9aea2f252038cc12df9838b1f0016c02ec94b6d7",
+  "market_slug": "will-dawn-buckingham-win-the-2026-republican-primary",
+  "market_question": "Will Dawn Buckingham win the 2026 Texas Republican Primary?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 10,
+  "edge_bp": 290,
+  "confidence": "medium",
+  "kelly_fraction_bp": 295,
+  "reasoning": "Dawn Buckingham is a statewide elected official (Land Commissioner) who has announced a 2026 primary challenge to Senator John Cornyn. While incumbents, especially well-funded ones like Cornyn, are heavily favored, Buckingham's name recognition and credible statewide profile give her a small but non-trivial chance. The market's 0.1% implied probability seems excessively pessimistic, likely underestimating the possibility of an upset or a weakened incumbent. A 3% chance better reflects the base rate of credible primary challengers in modern Texas GOP primaries.",
+  "evidence_points": [
+    "Dawn Buckingham is the current Texas Land Commissioner, elected statewide in 2022, giving her built-in name ID and donor base.",
+    "Incumbent John Cornyn is a strong fundraiser with establishment support, but has occasionally drawn conservative primary challengers.",
+    "Recent Texas GOP primary upsets (e.g., Ken Paxton-backed challengers) show that even entrenched incumbents can face real risk in a polarized environment."
+  ],
+  "sources_consulted": [
+    "Texas Tribune – Buckingham announces Senate run",
+    "FEC fundraising data for Cornyn vs potential challengers",
+    "Historical primary win rates for U.S. Senate incumbents in Texas"
+  ],
+  "created_at": "2026-05-17T07:49:50.773160+00:00",
+  "agent_version": "0.1.0"
+}

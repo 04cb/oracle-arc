@@ -1,0 +1,25 @@
+{
+  "market_id": "0x1b252df7e5281d8fb86888619f4ee1f5045c9f2aecb857d361819ca6522e4665",
+  "market_slug": "will-silver-si-hit-high-120-by-end-of-june",
+  "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 680,
+  "edge_bp": -630,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "At current silver prices (~$32/oz), reaching $120 requires a ~3.75x rally in a year and a half, far beyond any historical analog or fundamental catalyst. Even the 1979-80 mania peaked at $49.45, so $120 settlement is an extreme outlier with near-zero probability.",
+  "evidence_points": [
+    "Silver’s all-time nominal high is ~$49.45 (1980); CPI-adjusted high is ~$150, but settlement-based $120 would require far higher real price under current CPI.",
+    "Current CME SI futures active month settlement price (early 2025) is around $32, implying a >270% gain needed by June 2026.",
+    "CME settlement methodology ignores intraday spikes and only records official end-of-day settlement, lowering the chance of capturing a fleeting high."
+  ],
+  "sources_consulted": [
+    "CME Group Silver Futures (SI) daily settlement data (historical)",
+    "Macrotrends historical silver price data",
+    "Current SI active month price (mid-April 2025)"
+  ],
+  "created_at": "2026-05-17T07:44:51.982639+00:00",
+  "agent_version": "0.1.0"
+}

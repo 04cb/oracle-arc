@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 5500,
+  "market_probability_bp": 4850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1262,
+  "reasoning": "Given the 21-month window until Dec 2026, there is a plausible chance of a mutual ceasefire agreement, even if temporary. The Trump administration is prioritizing an end to the conflict, and war fatigue may increase pressure on both sides. The definition requires only a general suspension of military engagement, not a permanent settlement, so the bar is lower than a full peace deal. I estimate the true probability at around 55%, versus the market's 48.5%.",
+  "evidence_points": [
+    "New US administration signals urgency to broker a deal, potentially leveraging aid and sanctions.",
+    "Protracted conflicts often see temporary ceasefires due to mutual exhaustion or international mediation.",
+    "Market definition includes any mutually agreed general pause, not limited to permanent peace or territorial resolution."
+  ],
+  "sources_consulted": [
+    "General knowledge of Russia-Ukraine war up to March 2025",
+    "Reports on Trump administration foreign policy statements",
+    "Historical precedent of ceasefires in frozen conflicts"
+  ],
+  "created_at": "2026-05-17T07:55:49.136794+00:00",
+  "agent_version": "0.1.0"
+}

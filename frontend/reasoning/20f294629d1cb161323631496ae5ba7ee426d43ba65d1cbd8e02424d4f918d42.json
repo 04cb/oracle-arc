@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8600,
+  "market_probability_bp": 7700,
+  "edge_bp": 900,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a consumer L2 by Igloo Inc., the Pudgy Penguins parent, with a strong brand and community. A token launch is highly likely before the 2027 deadline given active points campaigns and governance needs. Conditional on launch, the FDV will almost certainly exceed $200M given comparable L2 token valuations and the project’s hype. The market price of 77% appears to underestimate this probability.",
+  "evidence_points": [
+    "Abstract mainnet launched Jan 2025 with points system, signalling an upcoming token airdrop.",
+    "Comparable L2 tokens (ARB, OP, ZK) had FDVs well above $200M at launch in similar or weaker market conditions.",
+    "Igloo Inc. raised $11M and has a large, passionate Pudgy Penguin community, which will drive initial demand and valuation."
+  ],
+  "sources_consulted": [
+    "Abstract chain official announcements",
+    "Cryptorank for L2 token launch FDVs",
+    "Igloo Inc. funding news"
+  ],
+  "created_at": "2026-05-17T07:33:56.844827+00:00",
+  "agent_version": "0.1.0"
+}

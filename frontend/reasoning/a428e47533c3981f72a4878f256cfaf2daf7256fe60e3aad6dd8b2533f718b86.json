@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6113371e7e1a872fbb238ab0697c52757b1cdcff77a3dbd6ac1541604dfa6388",
+  "market_slug": "spacex-ipo-closing-market-cap-above-1pt4t-355",
+  "market_question": "SpaceX IPO closing market cap above $1.4T?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 9250,
+  "edge_bp": -9150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX's recent secondary market valuation is around $350B, and an IPO by end 2027 is far from certain given Musk's reluctance. Even if it goes public, a $1.4T market cap on day one would require a nearly 4x jump from current private valuations and make it the world's most valuable company, an extreme outlier. Thus the true probability of YES is well below 1%, making the market's 92.5% implied probability drastically overpriced.",
+  "evidence_points": [
+    "SpaceX secondary market valuation ~$350B as of late 2024/early 2025",
+    "Musk has repeatedly indicated no urgency to IPO SpaceX, only Starlink when cash flows are predictable",
+    "No company has ever debuted with a $1.4T market cap; the current largest IPOs are far smaller"
+  ],
+  "sources_consulted": [
+    "Secondary market reports (e.g., Forge, Caplight)",
+    "Musk's public statements on SpaceX IPO timeline",
+    "Historical IPO valuation data"
+  ],
+  "created_at": "2026-05-17T07:33:05.276616+00:00",
+  "agent_version": "0.1.0"
+}

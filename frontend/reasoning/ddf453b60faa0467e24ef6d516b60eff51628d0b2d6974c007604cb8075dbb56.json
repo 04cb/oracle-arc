@@ -1,0 +1,25 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 3350,
+  "edge_bp": -1350,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The initiative's population cap would directly violate EU free movement pacts, a red line for Swiss voters who rejected a similar limitation initiative in 2020 by a wide margin (~62% No). Strong cross-party and business opposition, combined with the double‑majority requirement, makes approval very unlikely; market‑implied 33.5% significantly overrates its chances.",
+  "evidence_points": [
+    "2020 ‘limitation initiative’ (similar EU‑treaty‑threatening anti‑immigration measure) failed with only 38.3% Yes.",
+    "Constitutional amendments in Switzerland require a double majority (voters + cantons), historically a high bar.",
+    "Federal Council, parliament, and major business unions all recommend rejection; no broad coalition supports it."
+  ],
+  "sources_consulted": [
+    "Knowledge of Swiss referendum history (2014 mass immigration, 2020 limitation initiative)",
+    "Swiss Federal Chancellery and vote documentation structure",
+    "General EU‑Swiss bilateral treaty context"
+  ],
+  "created_at": "2026-05-17T07:37:10.289667+00:00",
+  "agent_version": "0.1.0"
+}
