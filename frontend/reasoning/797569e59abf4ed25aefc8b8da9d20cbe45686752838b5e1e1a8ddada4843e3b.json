@@ -1,0 +1,23 @@
+{
+  "market_id": "0xa4cab194f7487ecbe058aa8278a45a51487afe828af6c3c2eed5b096639c23e9",
+  "market_slug": "will-hyperliquid-dip-to-20-by-december-31-2026",
+  "market_question": "Will Hyperliquid dip to $20 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 2390,
+  "edge_bp": 1610,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2110,
+  "reasoning": "Over a >1-year window, even strong crypto tokens often experience >30% corrections. HYPE is relatively new and volatile, and the time horizon captures potential bear-market conditions, making a dip to $20 more likely than the market's 24% implies.",
+  "evidence_points": [
+    "Crypto assets frequently suffer drawdowns of 30% or more within a year, even in overall uptrends.",
+    "HYPE has limited price history, increasing uncertainty and the probability of significant moves.",
+    "The timeframe through December 2026 covers multiple potential market cycles and correction phases."
+  ],
+  "sources_consulted": [
+    "General knowledge of cryptocurrency volatility and HYPE price history"
+  ],
+  "created_at": "2026-05-17T08:05:04.355746+00:00",
+  "agent_version": "0.1.0"
+}

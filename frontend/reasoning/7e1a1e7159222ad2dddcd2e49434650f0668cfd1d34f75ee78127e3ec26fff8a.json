@@ -1,0 +1,25 @@
+{
+  "market_id": "0x86f097adec2b38cbd44f02d1476a20b26a4ba82d00ced50944126b6096f7950b",
+  "market_slug": "will-houston-texans-win-the-2027-nfl-afc-championship-334",
+  "market_question": "Will Houston Texans win the 2027 NFL AFC Championship?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1110,
+  "edge_bp": -510,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Houston Texans are a solid team with a young QB, but the AFC remains loaded with perennial contenders (Chiefs, Bills, Bengals, Ravens). Even assuming they remain a playoff-caliber team, their true probability of winning the AFC championship in any given year is modest, likely around 6%. The market’s 11.1% implied probability overestimates their chances, making 'No' the value side.",
+  "evidence_points": [
+    "Texans have just one AFC Championship appearance in franchise history (never won it).",
+    "AFC features elite QBs like Mahomes, Allen, Burrow, and Jackson, all in their primes through 2026.",
+    "Two-year-out team championship futures typically have a wide range, but the middle tier rarely exceeds 8% true odds."
+  ],
+  "sources_consulted": [
+    "NFL historical standings and playoff results",
+    "General knowledge of AFC power dynamics",
+    "Implied probabilities from multi-year futures betting markets"
+  ],
+  "created_at": "2026-05-17T08:19:18.077195+00:00",
+  "agent_version": "0.1.0"
+}

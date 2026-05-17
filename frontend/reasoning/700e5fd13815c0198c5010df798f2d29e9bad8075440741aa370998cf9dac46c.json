@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 360,
+  "edge_bp": 8140,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a permanent naval presence in the region, regularly transiting the Strait of Hormuz with frigates and support vessels for operations like EUNAVFOR Agenor. The market’s broad definition (including cargo/support vessels) makes a transit all but certain within a year, yet the price implies a negligible chance, representing a massive mispricing.",
+  "evidence_points": [
+    "France participates in the European-led Agenor mission directly monitoring shipping in the Strait of Hormuz.",
+    "French naval vessels routinely rotate through the French naval base in Abu Dhabi, often transiting the Strait.",
+    "Even routine resupply or logistics movements by French military support vessels would satisfy the resolution criteria."
+  ],
+  "sources_consulted": [
+    "French Navy deployment patterns in Indian Ocean/Persian Gulf, 2024-2025",
+    "EUNAVFOR Agenor official statements",
+    "Historical transits of French warships through Strait of Hormuz"
+  ],
+  "created_at": "2026-05-17T08:22:52.511106+00:00",
+  "agent_version": "0.1.0"
+}

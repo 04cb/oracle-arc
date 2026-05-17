@@ -1,0 +1,25 @@
+{
+  "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+  "market_slug": "clarity-act-signed-into-law-in-2026",
+  "market_question": "Clarity Act signed into law in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5000,
+  "market_probability_bp": 6100,
+  "edge_bp": -1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1803,
+  "reasoning": "Despite a GOP trifecta, the bill requires 60 Senate votes due to the filibuster, and the chamber’s narrow majority makes bipartisan support difficult. Crypto legislation historically stalls, and crowded congressional agendas in an election year reduce the probability of enactment to around 50%, below the 61% implied by the market.",
+  "evidence_points": [
+    "119th Congress has a Republican trifecta but only 53 Senate seats, short of the 60 needed to overcome a filibuster.",
+    "Crypto market-structure bills like FIT21 passed the House in the 118th Congress but never advanced in the Senate, showing high legislative inertia.",
+    "Politico and other outlets report that 2026’s legislative calendar will be dominated by appropriations, tax cuts, and midterm campaigning, squeezing out niche bills."
+  ],
+  "sources_consulted": [
+    "Congress.gov (bill introduction history for 118th and 119th Congress)",
+    "Ballotpedia (party control of 119th Congress)",
+    "Historical passage rates of standalone crypto legislation"
+  ],
+  "created_at": "2026-05-17T08:22:18.676796+00:00",
+  "agent_version": "0.1.0"
+}

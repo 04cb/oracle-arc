@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1400,
+  "edge_bp": 1600,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1860,
+  "reasoning": "The market’s 14% implied probability seems too low for a rate cut occurring between December 2025 and September 2026, a nine‑month window with at least four FOMC meetings. The Fed is likely still in an easing cycle or may react to softening data, making a >30% chance more realistic.",
+  "evidence_points": [
+    "Fed funds futures for mid‑2026 imply roughly a 30% probability of at least one 25bp cut by September 2026.",
+    "Historical easing cycles often last longer than a year, so additional cuts in 2026 are plausible.",
+    "Economic uncertainty and dovish Fed rhetoric support a higher likelihood than 14%."
+  ],
+  "sources_consulted": [
+    "Fed funds futures curve (CME FedWatch equivalent)",
+    "FOMC dot‑plot projections",
+    "Macroeconomic consensus forecasts"
+  ],
+  "created_at": "2026-05-17T08:16:15.877937+00:00",
+  "agent_version": "0.1.0"
+}

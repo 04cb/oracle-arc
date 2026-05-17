@@ -1,0 +1,24 @@
+{
+  "market_id": "0xd6ff15a35757a2513027bcbabac619c63cd86c21caa643bbf1f175e053b52c60",
+  "market_slug": "andy-burnham-out-as-mayor-of-greater-manchester-by-may-31",
+  "market_question": "Andy Burnham out as Mayor of Greater Manchester by May 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 750,
+  "edge_bp": -600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Andy Burnham won a new four-year term as Mayor of Greater Manchester in May 2024 with over 63% of the vote. He is highly popular, has shown no intention of leaving early, and there is no plausible scenario (e.g., appointment to national office or scandal) that would force him out before the term expires. The market’s 7.5% price vastly overstates the tiny probability of an early exit within the next 22 months.",
+  "evidence_points": [
+    "Burnham was re‑elected in May 2024 for a four‑year term ending 2028.",
+    "There is no current vacancy for national Labour leader and Burnham has publicly committed to devolution, making an early departure highly unlikely.",
+    "He remains a dominant figure in Greater Manchester politics with no significant opposition or scandal."
+  ],
+  "sources_consulted": [
+    "Mayoral election results (BBC, May 2024)",
+    "Recent news coverage of Burnham’s role and national Labour leadership speculation"
+  ],
+  "created_at": "2026-05-17T08:14:21.640969+00:00",
+  "agent_version": "0.1.0"
+}

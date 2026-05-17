@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6cf5831fc81cc7789fdb21ebad7a95156110d3693b8aa10618f4857d7c1012d6",
+  "market_slug": "will-keisha-lance-bottoms-win-the-2026-georgia-governor-democratic-primary-election",
+  "market_question": "Will Keisha Lance Bottoms win the 2026 Georgia Governor Democratic primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 9350,
+  "edge_bp": -6350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Keisha Lance Bottoms hasn't declared a run and the primary is more than a year away. Several strong Democrats could mount competitive campaigns, making a >90% win probability for any single candidate unrealistic. Even if she runs, a crowded race would reduce her likelihood of victory significantly below the market's 93.5% implied chance.",
+  "evidence_points": [
+    "No official candidacy announcement from Keisha Lance Bottoms as of late 2023.",
+    "Open primary could draw candidates such as Stacey Abrams, Lucy McBath, or other high-profile state officials.",
+    "Historical data shows that early primary markets for open races rarely price a single candidate above 80%, let alone 93.5%."
+  ],
+  "sources_consulted": [
+    "General knowledge of Georgia Democratic politics",
+    "Historical trends in primary election prediction markets",
+    "News reports on potential 2026 Georgia gubernatorial candidates"
+  ],
+  "created_at": "2026-05-17T08:16:11.320848+00:00",
+  "agent_version": "0.1.0"
+}

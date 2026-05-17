@@ -1,0 +1,24 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 2050,
+  "edge_bp": 950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1195,
+  "reasoning": "Trump's first-term cabinet saw ~20% depart within 15 months, and Gabbard's controversial background, lack of intelligence experience, and institutional resistance elevate her risk. The market price of 20.5% seems too low given the historical baseline and current political dynamics.",
+  "evidence_points": [
+    "Trump's first-term cabinet had at least 3 of 15 secretaries leave within 15 months (Tillerson, Price, Shulkin).",
+    "Gabbard's confirmation was contentious (52-48), and she faces skepticism from intelligence community and hawkish Republicans.",
+    "The DNI role has been unstable under Trump, with Dan Coats forced out and a series of acting directors."
+  ],
+  "sources_consulted": [
+    "Brookings Institution data on Trump cabinet turnover",
+    "News reports on Gabbard confirmation and early tenure"
+  ],
+  "created_at": "2026-05-17T08:23:31.218330+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 840,
+  "edge_bp": -690,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A formal US withdrawal from NATO is extremely unlikely by end of 2026. Even under a potential Trump administration, institutional resistance, congressional pushback, and lack of precedent make such a step a very low-probability tail event. The market price of 8.4% vastly overestimates the odds.",
+  "evidence_points": [
+    "No US president has ever invoked Article 13 denunciation.",
+    "Trump's first term saw threats but no formal withdrawal, and Congress passed laws to prevent it.",
+    "Bipartisan support for NATO remains strong, and withdrawal would face legal and political obstacles."
+  ],
+  "sources_consulted": [
+    "Official NATO treaty text",
+    "Historical US foreign policy record",
+    "Congressional actions on NATO support (e.g., NATO Support Act 2019)"
+  ],
+  "created_at": "2026-05-17T08:15:02.203139+00:00",
+  "agent_version": "0.1.0"
+}

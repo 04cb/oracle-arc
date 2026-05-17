@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 5850,
+  "edge_bp": -4650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "PSG's true chance of winning the Champions League is around 10-15%, far below the 58.5% implied by the market. Even top teams rarely exceed 20% pre-tournament. PSG lacks consistent knockout success and faces many equally strong or stronger opponents.",
+  "evidence_points": [
+    "PSG has never won the UCL, reaching the final only once (2020).",
+    "Pre-tournament betting odds typically price PSG around 8/1 to 12/1 (implied probability ~8-12%).",
+    "Other elite clubs like Real Madrid, Man City, and Bayern have deeper squads and more recent European pedigree."
+  ],
+  "sources_consulted": [
+    "General knowledge of UCL winner odds",
+    "PSG's historical UCL performance"
+  ],
+  "created_at": "2026-05-17T08:12:09.978258+00:00",
+  "agent_version": "0.1.0"
+}

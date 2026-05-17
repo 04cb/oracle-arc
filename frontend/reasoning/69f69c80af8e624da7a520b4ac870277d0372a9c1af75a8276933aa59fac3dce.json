@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "Even with Trump term-limited, the Republican party retains an incumbency advantage and a mobilized base. The current 38.5% implied probability seems too low given that holding the White House after two terms is not unusual, and the political landscape still heavily favors the GOP under Trump's influence.",
+  "evidence_points": [
+    "Historical incumbency advantage for the party holding the presidency in open-seat elections.",
+    "Trump’s enduring hold on the Republican electorate and high approval within the party.",
+    "Early betting markets and forecast models (e.g., PredictIt) often show opposition party overreaction this far out."
+  ],
+  "sources_consulted": [
+    "Historical election data (1948–2024)",
+    "General political analysis of term-limited incumbency",
+    "Current PredictIt pricing as a comparator"
+  ],
+  "created_at": "2026-05-17T08:08:18.944130+00:00",
+  "agent_version": "0.1.0"
+}

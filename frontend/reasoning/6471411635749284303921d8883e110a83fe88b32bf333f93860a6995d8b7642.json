@@ -1,0 +1,25 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 3350,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The initiative caps population at 10 million by 2050, likely requiring termination of the EU free movement agreement and risking the entire bilateral treaty package. Similar SVP immigration initiatives have historically failed, e.g., the 2020 'For moderate immigration' lost with 61.7% No. Early polling (49% Yes) typically overstates eventual support, which tends to fall once economic damage is highlighted during campaigns.",
+  "evidence_points": [
+    "The 2020 referendum to end free movement with the EU failed 61.7% No, showing low ceiling for such proposals.",
+    "The Swiss government and a broad cross-party coalition oppose the initiative, citing severe economic harm and loss of EU market access.",
+    "Early polls often show high initial support for populist initiatives, but historical trends show a significant decline before the vote."
+  ],
+  "sources_consulted": [
+    "Swiss Federal Chancellery referendum records",
+    "Historical outcomes of Swiss popular initiatives (2014 'Mass Immigration', 2020 'For Moderate Immigration')",
+    "Media reporting on early polling for the 'No to 10 Million Switzerland' initiative"
+  ],
+  "created_at": "2026-05-17T08:07:22.159280+00:00",
+  "agent_version": "0.1.0"
+}

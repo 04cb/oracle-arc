@@ -1,0 +1,24 @@
+{
+  "market_id": "0x9c50945d1c32e7e8db53675b9703a5d7759e37708a21af39a1deff1a1df73d5e",
+  "market_slug": "predictfun-fdv-above-200m-one-day-after-launch",
+  "market_question": "Predict.fun FDV above $200M one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 7550,
+  "edge_bp": -5050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Predict.fun is a nascent prediction market platform with no established track record. Achieving a $200M fully diluted valuation one day after launch would require extraordinary hype and immediate market demand, something few governance tokens manage even under favorable conditions. The long timeline until 2028 doesn't inherently increase the probability of such a high valuation. Given the speculative nature and historical difficulty for new tokens to sustain such FDVs, I estimate the true probability well below the market's implied 75.5%.",
+  "evidence_points": [
+    "Predict.fun is a relatively unknown platform, reducing the likelihood of massive early adoption.",
+    "A $200M FDV one day after launch is uncommon even for well-funded crypto projects; typical new governance tokens struggle to reach those levels so quickly.",
+    "The token must be actively tradable and liquid, adding further barriers; many token launches fail to generate sustained trading volume."
+  ],
+  "sources_consulted": [
+    "General knowledge of crypto token launches and market dynamics",
+    "Observed FDV patterns for recent DeFi and governance token launches"
+  ],
+  "created_at": "2026-05-17T08:26:35.402009+00:00",
+  "agent_version": "0.1.0"
+}
