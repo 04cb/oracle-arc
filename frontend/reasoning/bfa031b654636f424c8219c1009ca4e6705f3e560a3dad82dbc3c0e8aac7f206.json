@@ -1,0 +1,24 @@
+{
+  "market_id": "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861",
+  "market_slug": "will-alex-padilla-win-the-california-governor-election-in-2026",
+  "market_question": "Will Alex Padilla win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 10,
+  "edge_bp": 990,
+  "confidence": "medium",
+  "kelly_fraction_bp": 986,
+  "reasoning": "Alex Padilla is a sitting US Senator, a prominent Democrat in deep-blue California, where the governorship is an open seat in 2026. Despite a crowded primary and no formal campaign launch, a credible statewide figure like Padilla has far better than 0.1% odds of eventually winning. The market vastly underprices his chances.",
+  "evidence_points": [
+    "Padilla has statewide name recognition and won his Senate election in 2022 with 61.6%.",
+    "The California top-two primary and heavy Democratic lean ensure any major Dem candidate's path is viable.",
+    "Several less-known candidates (e.g., Kounalakis) are already running; Padilla would instantly be a top-tier contender if he chooses to enter."
+  ],
+  "sources_consulted": [
+    "General knowledge of California politics",
+    "California gubernatorial election 2026 candidate speculation news"
+  ],
+  "created_at": "2026-05-17T13:03:55.427737+00:00",
+  "agent_version": "0.1.0"
+}

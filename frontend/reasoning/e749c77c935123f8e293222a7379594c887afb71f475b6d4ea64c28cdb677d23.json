@@ -1,0 +1,26 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 7750,
+  "edge_bp": 750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a hyped Ethereum L2 from the Pudgy Penguins team with a large NFT community. L2 governance tokens often debut with FDVs well above $200M (e.g., Blast, Starknet). The threshold is relatively low, and community excitement should support a high valuation at launch, though tokenomics and market conditions add some uncertainty.",
+  "evidence_points": [
+    "Pudgy Penguins and Igloo Inc. have massive community and brand recognition.",
+    "Comparable L2 tokens (Arbitrum, Optimism, Blast, Starknet) launched with multibillion FDVs.",
+    "$200M FDV is modest for a top-tier L2; initial trading often inflates FDV before potential correction.",
+    "Risk of no token launch by end-2027 exists but is low given the team's roadmap."
+  ],
+  "sources_consulted": [
+    "Abstract Chain official announcements",
+    "General knowledge of L2 token launches and FDVs",
+    "Pudgy Penguins community size and engagement metrics"
+  ],
+  "created_at": "2026-05-17T12:56:23.889165+00:00",
+  "agent_version": "0.1.0"
+}

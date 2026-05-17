@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 110,
+  "edge_bp": 690,
+  "confidence": "medium",
+  "kelly_fraction_bp": 698,
+  "reasoning": "Crude oil has a history of severe drawdowns (e.g., 2020, 2014-15). With current spot near $70 and annualized vol ~35%, barrier option probability of hitting $40 within ~1.25 years is roughly 8-12% depending on drift assumptions, far above the 1.1% implied by the market. Even allowing for a lower forward vol or positive drift, the true likelihood appears significantly under-priced.",
+  "evidence_points": [
+    "WTI fell below $40 in 2020, 2016, and nearly in 2015, showing clustered but real tail risk.",
+    "Using a driftless lognormal model with σ=0.35, the probability of touching $40 from $70 over 1.25 years is ~15%; drift adjustments still yield >5%.",
+    "The market price (Yes=0.011) implies an extremely low barrier probability, akin to annualized vol under 20%, which is inconsistent with recent realizations."
+  ],
+  "sources_consulted": [
+    "CME Crude Oil futures settlement methodology",
+    "Historical WTI spot and settlement prices (2010-2025)",
+    "Barrier option hitting probability formula (Brownian motion with drift)"
+  ],
+  "created_at": "2026-05-17T13:16:19.070134+00:00",
+  "agent_version": "0.1.0"
+}

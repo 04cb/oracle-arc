@@ -1,0 +1,25 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 620,
+  "edge_bp": 1880,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2004,
+  "reasoning": "The UK Labour Party manifesto included a pledge to proscribe the IRGC as a terrorist group, and with a large majority in Parliament, the government has both the political will and legal pathway to deliver. While diplomatic and legal hurdles remain, the June 2026 deadline provides sufficient time for the Home Secretary to act on this pledge. The market’s 6.2% significantly undervalues a clear manifesto commitment with no major blocking factors yet visible.",
+  "evidence_points": [
+    "Labour manifesto 2024 explicitly pledged to proscribe the IRGC.",
+    "UK already proscribed the IRGC’s Quds Force, establishing precedent and evidence base.",
+    "Domestic pressure and Iranian-linked plots on UK soil increase political urgency."
+  ],
+  "sources_consulted": [
+    "Labour Party Manifesto 2024",
+    "UK Home Office list of proscribed terrorist groups",
+    "Parliamentary debates and statements from Prime Minister Starmer (post‑election)"
+  ],
+  "created_at": "2026-05-17T13:10:42.484644+00:00",
+  "agent_version": "0.1.0"
+}

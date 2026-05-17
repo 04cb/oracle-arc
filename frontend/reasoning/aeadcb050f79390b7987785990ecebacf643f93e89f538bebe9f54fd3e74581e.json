@@ -1,0 +1,25 @@
+{
+  "market_id": "0x3d4a1a3e0581eb60fdd03cc85b8190a9a1cfbda42f1aa9771e39197f8a21f441",
+  "market_slug": "will-another-country-leave-opec-in-2026",
+  "market_question": "Will another country leave OPEC in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 3150,
+  "edge_bp": -1150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The UAE's departure is already known, so the question focuses on a second exit within ~8 months. OPEC exits are rare—historically, only a few members have left in the past decade—and no other member currently shows clear public intent to leave. Internal quota disputes exist but haven't reached the point of formal withdrawal announcements. Thus, the true probability of another exit by Dec 2026 is likely lower than the 31.5% implied by the market, making 'No' the value side.",
+  "evidence_points": [
+    "No official statements from any current OPEC member signaling intention to withdraw in 2026.",
+    "OPEC exits (Qatar 2019, Ecuador 2020, UAE 2026) have been isolated events, not clustered within a single year.",
+    "Most remaining members, especially Saudi Arabia and its Gulf allies, are deeply invested in OPEC+ coordination."
+  ],
+  "sources_consulted": [
+    "Reuters report on UAE withdrawal (linked in market description)",
+    "OPEC member roster and historical withdrawal records",
+    "Recent news on OPEC+ production disputes (no credible withdrawal threats)"
+  ],
+  "created_at": "2026-05-17T12:59:12.771489+00:00",
+  "agent_version": "0.1.0"
+}

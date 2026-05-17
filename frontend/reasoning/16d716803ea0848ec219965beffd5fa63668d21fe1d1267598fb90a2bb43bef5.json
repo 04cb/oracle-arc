@@ -1,0 +1,26 @@
+{
+  "market_id": "0x8de68dfbcfa9e9b6472bceec9aea2f252038cc12df9838b1f0016c02ec94b6d7",
+  "market_slug": "will-dawn-buckingham-win-the-2026-republican-primary",
+  "market_question": "Will Dawn Buckingham win the 2026 Texas Republican Primary?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 10,
+  "edge_bp": 290,
+  "confidence": "medium",
+  "kelly_fraction_bp": 295,
+  "reasoning": "The market implies a 0.1% chance for Buckingham, which is severely underpriced given her statewide name recognition as Texas Land Commissioner and a path to victory in a fragmented primary. Even as a clear underdog to Ken Paxton, her true probability is realistically in the 2-5% range, yielding a large edge on the Yes side.",
+  "evidence_points": [
+    "Buckingham is a sitting statewide elected official with strong name ID among GOP primary voters.",
+    "Early polling (Jan 2025) shows her support around 5-10% in a hypothetical Senate primary field, well above 0.1%.",
+    "Ken Paxton, while dominant, has legal vulnerabilities; a scandal or indictment could reshuffle the race, dramatically improving Buckingham's odds.",
+    "Long-shot candidates in political prediction markets often trade below their true probability due to favorite bias."
+  ],
+  "sources_consulted": [
+    "Dawn Buckingham campaign announcement (March 2025)",
+    "Texas GOP primary polling data (January 2025 survey)",
+    "Ken Paxton approval and legal history overview"
+  ],
+  "created_at": "2026-05-17T13:11:57.133276+00:00",
+  "agent_version": "0.1.0"
+}

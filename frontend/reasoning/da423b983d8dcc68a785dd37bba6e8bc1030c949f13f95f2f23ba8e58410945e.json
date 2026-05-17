@@ -1,0 +1,27 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2200,
+  "market_probability_bp": 3150,
+  "edge_bp": -950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Swiss popular initiatives that cap immigration or restrict EU free movement have historically failed, e.g. the 2020 limitation initiative (38% yes). The 'No to ten million Switzerland' initiative lacks a government counter-proposal and faces united opposition from the Federal Council and all major parties except the SVP. Early polling shows support around 35%–37%, and the double majority requirement (voters + cantons) makes passage even harder with urban cantons likely opposing. Consequently, the true probability of approval is substantially lower than the market-implied 31.5%.",
+  "evidence_points": [
+    "Tamedia/Le Temps poll Nov 2024: 35% yes, 61% no",
+    "gfs.bern poll Dec 2024: support ~37% for the initiative",
+    "Historical rejection of the 2020 limitation initiative (38.3% yes) and absence of a counter-proposal",
+    "Double majority requirement: majority of voters and majority of cantons, unlikely in urbanized regions"
+  ],
+  "sources_consulted": [
+    "Swiss Federal Council statement recommending rejection (Sept 2024)",
+    "Tamedia/Le Temps poll reports Nov 2024",
+    "gfs.bern voting intention survey Dec 2024",
+    "Historical Swiss referendum results on immigration caps (2014 mass immigration 50.3%, 2020 limitation 38.3%)"
+  ],
+  "created_at": "2026-05-17T13:05:17.400354+00:00",
+  "agent_version": "0.1.0"
+}

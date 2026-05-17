@@ -1,0 +1,25 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 5250,
+  "edge_bp": 1750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Liverpool has consistently been a top-4 contender, making it in 4 of the last 5 seasons. Despite the managerial transition from Klopp to Slot, the squad retains world-class talent and solid depth. The market appears to undervalue their chances at 52.5%, whereas I estimate around 70% probability based on recent performance and squad strength.",
+  "evidence_points": [
+    "Finished top 4 in 4 of the last 5 EPL seasons (only missed 2022–23).",
+    "Squad includes key players like Salah, Van Dijk, and Alisson, ensuring a high floor.",
+    "New manager Arne Slot led Feyenoord to an Eredivisie title, suggesting tactical competence."
+  ],
+  "sources_consulted": [
+    "Premier League historical standings",
+    "Recent news on Liverpool squad and management changes",
+    "Transfermarkt squad valuation comparisons"
+  ],
+  "created_at": "2026-05-17T13:02:11.690919+00:00",
+  "agent_version": "0.1.0"
+}

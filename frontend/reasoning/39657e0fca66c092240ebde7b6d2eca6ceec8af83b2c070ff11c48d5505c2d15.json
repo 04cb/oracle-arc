@@ -1,0 +1,24 @@
+{
+  "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+  "market_slug": "iran-closes-its-airspace-by-june-30-432-786",
+  "market_question": "Iran closes its airspace by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6500,
+  "market_probability_bp": 5750,
+  "edge_bp": 750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1765,
+  "reasoning": "Iran has closed its airspace twice in 2024 (April and October) during military escalations with Israel. With tensions ongoing and no clear path to de-escalation, another major closure within 1.5 years is more likely than the market implies. The resolution criteria are broad and include short-lived closures, making the event plausible.",
+  "evidence_points": [
+    "Iran closed its western airspace in April 2024 and entire airspace briefly in October 2024, both qualifying.",
+    "Israel-Iran proxy conflict and direct exchanges remain active, with periodic retaliation loops.",
+    "No diplomatic breakthroughs suggest risk of future closures is sustained at elevated levels."
+  ],
+  "sources_consulted": [
+    "Reuters reports on April 2024 and October 2024 Iran airspace closures",
+    "Assessments of Middle East geopolitical risk as of early 2025"
+  ],
+  "created_at": "2026-05-17T13:01:30.075020+00:00",
+  "agent_version": "0.1.0"
+}

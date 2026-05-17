@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5c19f205507ce03ff5f3be08a8090a5969ea6870cc07b902a4ca2e61dfe48fdd",
+  "market_slug": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+  "market_question": "Russia x Ukraine ceasefire agreement by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 4850,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1753,
+  "reasoning": "The market-implied 48.5% chance seems too high given the deep-rooted disagreements and lack of progress toward a mutually agreed ceasefire. I estimate a 40% probability, as while external pressure (e.g., a potential Trump presidency) could force a temporary deal, both sides' core demands remain irreconcilable, and any agreement must be general and dated. The discount is modest but clear.",
+  "evidence_points": [
+    "Russia and Ukraine's publicly stated peace terms are far apart, with Russia demanding territorial concessions Ukraine refuses.",
+    "A Trump administration could pressure Ukraine to accept a ceasefire on Russian terms, raising the short-term chance of a deal, but forcing a sustainable agreement remains uncertain.",
+    "The definition is broad enough that even a temporary bilateral truce qualifies, yet recent history shows such agreements are rarely reached or quickly broken without mutual consent."
+  ],
+  "sources_consulted": [
+    "Current news on Russia-Ukraine peace negotiations (mid-2024)",
+    "US political landscape and potential election outcomes",
+    "Polymarket description and resolution rules"
+  ],
+  "created_at": "2026-05-17T13:04:35.712084+00:00",
+  "agent_version": "0.1.0"
+}

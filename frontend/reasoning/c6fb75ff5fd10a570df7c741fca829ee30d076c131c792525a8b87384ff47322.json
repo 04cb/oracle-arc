@@ -1,0 +1,25 @@
+{
+  "market_id": "0x3d6221450862c69f69e9b278a9119fc3e11f1c794650f7cddf283d4adefeee20",
+  "market_slug": "will-dan-cox-win-the-2026-maryland-governor-republican-primary-election",
+  "market_question": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 5750,
+  "edge_bp": -1750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Dan Cox won the 2022 primary with ~52% over a moderate opponent, but his lopsided general election loss in a blue state could prompt GOP voters to prioritize electability. Potential credible challengers may emerge before June 2026, reducing his chances below the current 57.5% price.",
+  "evidence_points": [
+    "Cox won the 2022 primary narrowly (52–44%) against moderate Kelly Schulz, suggesting a significant faction opposed his candidacy.",
+    "His 2022 general election defeat by 32 points highlighted electability concerns that could sway primary voters.",
+    "The 2026 primary field is unsettled, and a well-funded or establishment-backed candidate could mount a stronger challenge."
+  ],
+  "sources_consulted": [
+    "2022 Maryland gubernatorial election results",
+    "Political analysis of Maryland GOP primary dynamics",
+    "General knowledge of Trump endorsement influence in primaries"
+  ],
+  "created_at": "2026-05-17T13:13:43.703550+00:00",
+  "agent_version": "0.1.0"
+}

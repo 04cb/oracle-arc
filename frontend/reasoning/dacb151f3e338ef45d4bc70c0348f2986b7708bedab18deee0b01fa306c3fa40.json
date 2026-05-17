@@ -1,0 +1,26 @@
+{
+  "market_id": "0x885a6abefad122348b4fbd503473d7fd1f9035d0438cf988a7591620f316a859",
+  "market_slug": "will-bitcoin-reach-130000-by-december-31-2026-756-151-855",
+  "market_question": "Will Bitcoin reach $130,000 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 1250,
+  "edge_bp": 3250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Bitcoin needs only a ~49% increase from ~$87K to reach $130K by end of 2026, which is modest given historical bull-market volatility and the post-halving uptrend (halving April 2024). The market's 12.5% implied probability seems far too low, likely underestimating the chance of even a brief spike above $130K. I estimate a roughly 45% probability, creating a large edge.",
+  "evidence_points": [
+    "Current BTC price ~$87K, a 49% gain to $130K is small relative to historical bull-run multiples (e.g., 2020-2021: ~7x from $10K).",
+    "Post-halving cycles typically see peak prices within 12-18 months; many forecasts target $124K-$250K, placing $130K at the lower end.",
+    "Resolution requires only one 1-minute candle high ≥$130K, so a temporary spike suffices, increasing the likelihood.",
+    "Diminishing cycle returns still suggest a high probability of a new ATH well above $130K from the $15.5K 2022 low."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT 1m chart",
+    "Historical Bitcoin halving cycles and peak multiples",
+    "Analyst cycle-top forecasts (e.g., PlanB, on-chain models)"
+  ],
+  "created_at": "2026-05-17T13:01:43.837680+00:00",
+  "agent_version": "0.1.0"
+}

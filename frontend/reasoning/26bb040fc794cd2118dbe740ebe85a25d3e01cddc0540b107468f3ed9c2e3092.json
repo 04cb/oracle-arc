@@ -1,0 +1,24 @@
+{
+  "market_id": "0x9c50945d1c32e7e8db53675b9703a5d7759e37708a21af39a1deff1a1df73d5e",
+  "market_slug": "predictfun-fdv-above-200m-one-day-after-launch",
+  "market_question": "Predict.fun FDV above $200M one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 7850,
+  "edge_bp": -4350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Achieving >$200M FDV one day after launch is a high bar, especially for a niche prediction‑market governance token. There is considerable uncertainty whether Predict.fun will even launch a token by the 2027 deadline, and many comparable projects have struggled to reach such valuations immediately. The market‑implied 78.5% probability is far too aggressive.",
+  "evidence_points": [
+    "Polymarket, the dominant prediction market, has no governance token and no public FDV.",
+    "Tokens of small/medium crypto platforms often launch with FDVs well below $200M.",
+    "The resolution rule includes a 'No' fallback if no token launches by end of 2027, adding a meaningful source of early uncertainty."
+  ],
+  "sources_consulted": [
+    "Market resolution rules",
+    "General knowledge of crypto token launches and prediction‑market verticals"
+  ],
+  "created_at": "2026-05-17T13:02:30.374721+00:00",
+  "agent_version": "0.1.0"
+}
