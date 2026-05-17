@@ -1,0 +1,25 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1750,
+  "market_probability_bp": 3250,
+  "edge_bp": -1500,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Swiss popular initiatives requiring constitutional amendment rarely pass without broad cross-party support. The 'No to ten million Switzerland' initiative is championed primarily by the SVP (≈28% vote share) and faces strong opposition from other major parties, the Federal Council, and business groups. Historical patterns and early polling suggest low voter support, making the 32.5% market price too optimistic.",
+  "evidence_points": [
+    "SVP-backed initiatives usually fail to secure the double majority of voters and cantons.",
+    "Federal Council and parliament are expected to recommend a 'No' vote, heavily influencing public opinion.",
+    "Available polling (early 2024) showed roughly 63% opposed, pointing to a likely rejection."
+  ],
+  "sources_consulted": [
+    "General knowledge of Swiss direct democracy outcomes",
+    "SVP initiative history (e.g., 2014 mass immigration vote, subsequent failures)",
+    "Early media reports on polling for the 2026 initiative"
+  ],
+  "created_at": "2026-05-17T14:30:20.185478+00:00",
+  "agent_version": "0.1.0"
+}

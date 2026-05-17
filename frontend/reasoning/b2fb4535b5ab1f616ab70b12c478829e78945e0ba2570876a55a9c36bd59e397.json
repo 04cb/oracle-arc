@@ -1,0 +1,25 @@
+{
+  "market_id": "0x1a5a7436b2c93de064f279821fab4ee6dc45b6df864ed60750ac90f1662baf0c",
+  "market_slug": "will-joe-hunter-win-survivor-season-50",
+  "market_question": "Will Joe Hunter win Survivor Season 50?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 180,
+  "edge_bp": -160,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Joe Hunter is not confirmed as a contestant on Survivor 50, and there are no credible leaks or rumors placing him on the cast; the base probability for any specific unannounced player to even be on a 18–20 person season is very low, and his past gameplay does not make him a standout threat. Even if he were cast, his win chance would be roughly the inverse of the cast size, giving a combined probability far below the market's 1.8% implied odds.",
+  "evidence_points": [
+    "No official announcement or credible leak indicates Joe Hunter will compete on Survivor 50.",
+    "Survivor 50 likely features 18–20 players, so a specific unknown player's win probability from a blind drawing is about 5%, but P(cast) is well below 50%.",
+    "Joe Hunter's previous appearance on Survivor 48 did not demonstrate dominant strategic or social gameplay that would elevate his odds above average."
+  ],
+  "sources_consulted": [
+    "Survivor casting announcements and r/survivor subreddit as of June 2025",
+    "Survivor wiki – Joe Hunter's season 48 performance",
+    "General knowledge of reality TV competition structures"
+  ],
+  "created_at": "2026-05-17T14:27:19.357308+00:00",
+  "agent_version": "0.1.0"
+}

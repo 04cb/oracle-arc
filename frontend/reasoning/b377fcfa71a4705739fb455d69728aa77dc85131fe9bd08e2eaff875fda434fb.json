@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+  "market_slug": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363",
+  "market_question": "US x Iran permanent peace deal by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 2650,
+  "edge_bp": -2450,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A permanent peace deal ending all military hostilities between the US and Iran is historically unprecedented and extremely unlikely within the short timeframe. Deep-seated enmity, proxy warfare, and the lack of any framework for such an agreement make success a remote tail risk. The market's 26.5% implied probability appears to heavily overestimate the chances, likely influenced by speculative hopes or misinterpretation of normalization trends elsewhere.",
+  "evidence_points": [
+    "No formal peace agreement has existed between the US and Iran since the 1979 Islamic Revolution; relations are defined by hostility and intermittent indirect confrontation.",
+    "Even the JCPOA nuclear deal (2015) was a narrow arms‑control agreement, not a permanent cessation of military hostilities, and was later abandoned by the US.",
+    "Iran‑backed militias continue to attack US forces in the Middle East, and Iran’s leadership maintains an ideological commitment to opposing the United States; there is no diplomatic track toward a permanent peace treaty.",
+    "The resolution criteria require an explicit, definitive, and permanent end to military hostilities—far beyond any temporary ceasefire or confidence‑building measure—which would face massive political obstacles in both Washington and Tehran."
+  ],
+  "sources_consulted": [
+    "General knowledge of US‑Iran relations (1953–2023)",
+    "Historical record of US‑Iran diplomacy (e.g., JCPOA, Iraq war, Strait of Hormuz standoffs)",
+    "Analysis of contemporary Iranian political system and IRGC influence"
+  ],
+  "created_at": "2026-05-17T14:29:30.168996+00:00",
+  "agent_version": "0.1.0"
+}

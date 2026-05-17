@@ -1,0 +1,27 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 610,
+  "edge_bp": 890,
+  "confidence": "medium",
+  "kelly_fraction_bp": 948,
+  "reasoning": "The UK has faced sustained pressure to proscribe the IRGC, highlighted by a 2024 parliamentary committee recommendation and Labour's earlier support for designation. However, the diplomatic and security implications of designating a state military force have so far prevented action. Given the time until mid-2026, a 15% probability of formal designation reflects a plausible but far-from-certain scenario, above the market's implied 6.1%.",
+  "evidence_points": [
+    "January 2024 House of Commons Home Affairs Committee report recommended proscribing the IRGC.",
+    "Labour Party, now in government, previously called for IRGC designation while in opposition.",
+    "The UK has incrementally sanctioned IRGC-linked individuals but has not yet formally proscribed the organization.",
+    "The US designated the IRGC as a Foreign Terrorist Organization in 2019, creating precedent for allied action.",
+    "Direct threats to UK nationals and activities by Iran could catalyse designation, but no clear trigger has emerged."
+  ],
+  "sources_consulted": [
+    "BBC News on Iran-UK tensions",
+    "Reuters reporting on UK proscription considerations",
+    "Home Affairs Committee report 2024"
+  ],
+  "created_at": "2026-05-17T14:30:08.251526+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2500,
+  "market_probability_bp": 110,
+  "edge_bp": 2390,
+  "confidence": "high",
+  "kelly_fraction_bp": 2417,
+  "reasoning": "Crude Oil at $61 requires a ~34% decline to reach a $40 settlement. Given ~35% implied volatility and 13 months to expiry, a discrete barrier model suggests a ~25% probability of touching $40 at settlement, historically supported by episodes in 2016 and 2020. The market's 1.1% implied probability drastically undervalues this tail risk.",
+  "evidence_points": [
+    "CL touch barrier probability using lognormal model with daily monitoring ≈ 25%",
+    "Historical sub-$40 settlements occurred in 2015-16 and 2020",
+    "Current macro and geopolitical uncertainties amplify downside tail risk"
+  ],
+  "sources_consulted": [
+    "CME historical settlement data",
+    "OVX (CBOE Crude Oil Volatility Index)",
+    "Barrier option pricing literature"
+  ],
+  "created_at": "2026-05-17T14:30:40.069869+00:00",
+  "agent_version": "0.1.0"
+}

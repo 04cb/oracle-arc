@@ -1,0 +1,25 @@
+{
+  "market_id": "0x51a7c8afb7a0e09b8b47643171d90f400de23a176c4ea06f6552d6e53213839c",
+  "market_slug": "iran-closes-its-airspace-by-june-30-432-786",
+  "market_question": "Iran closes its airspace by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5000,
+  "market_probability_bp": 5650,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1150,
+  "reasoning": "While geopolitical tensions in the Middle East remain high, Iran has already conducted multiple temporary airspace closures in recent years (April and October 2024) as a direct response to Israeli strikes. These events were short-lived and tied to acute conflicts. The baseline risk of a new major closure by mid-2026 is significant but not overwhelming; I estimate around a 50% probability, slightly below the market's 56.5%. The market appears to overprice the likelihood of another qualifying closure within the timeframe.",
+  "evidence_points": [
+    "Two qualifying closures occurred in 2024 alone (western airspace in April and broader restrictions in October), demonstrating a high-frequency pattern during spikes in Israel-Iran hostilities.",
+    "Despite the October 2024 ceasefire, the Israel-Hezbollah conflict remains unresolved, and Iran-backed groups continue to attack shipping, keeping the risk of a large-scale Iranian airspace closure elevated.",
+    "US-Iran tensions under the next administration could escalate dramatically, but major military conflict is not the base case; a diplomatic off-ramp or mutual deterrence may prevent a repeat scenario."
+  ],
+  "sources_consulted": [
+    "Reuters: Iran shuts airspace to most flights (Oct 2024)",
+    "Reuters: Iranian airports cancel flights after Israeli strike on Damascus (Apr 2024)",
+    "General assessment of Middle East conflict trajectories and Iran-Israel deterrence dynamics"
+  ],
+  "created_at": "2026-05-17T14:35:44.907116+00:00",
+  "agent_version": "0.1.0"
+}

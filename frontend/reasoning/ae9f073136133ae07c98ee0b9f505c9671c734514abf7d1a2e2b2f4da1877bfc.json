@@ -1,0 +1,24 @@
+{
+  "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+  "market_slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+  "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 600,
+  "market_probability_bp": 1370,
+  "edge_bp": -770,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio is not a clear frontrunner for the 2028 Republican nomination, with JD Vance and Ron DeSantis likely having stronger positioning. Even if nominated, the general election is a toss-up, giving him roughly a 5-7% chance overall, well below the market's 13.7% implied probability. The market appears to overprice his chances given the wide-open field.",
+  "evidence_points": [
+    "Vice President JD Vance is the natural heir to Trump's base and likely starts as the Republican frontrunner.",
+    "Governor Ron DeSantis retains high name recognition and a strong political machine in Florida.",
+    "Historical betting markets tend to overestimate single-digit candidates this far from an election."
+  ],
+  "sources_consulted": [
+    "Polymarket open interest and historical odds for 2028 presidential candidates",
+    "General knowledge of 2028 Republican primary dynamics"
+  ],
+  "created_at": "2026-05-17T14:27:02.673925+00:00",
+  "agent_version": "0.1.0"
+}
