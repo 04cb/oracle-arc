@@ -1,0 +1,25 @@
+{
+  "market_id": "0x850aa5eba34aedbdee16aa9c41770e832d90b8150fd02d0bc0d25e1804b62df1",
+  "market_slug": "will-justin-thomas-win-the-2026-pga-championship",
+  "market_question": "Will Justin Thomas win the 2026 PGA Championship?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 30,
+  "edge_bp": 270,
+  "confidence": "high",
+  "kelly_fraction_bp": 276,
+  "reasoning": "Justin Thomas is a two-time PGA Champion (2017, 2022) and a perennial top contender, normally carrying a 2–5% win probability in any major. The market’s implied 0.3% is drastically too low, even accounting for the long time horizon and field strength. This mispricing is large and persistent.",
+  "evidence_points": [
+    "Winner of the PGA Championship in 2017 and 2022",
+    "Consistent world top-25 ranking and multiple other major top-10s",
+    "Typical betting odds for elite golfers in a major assign a 2–5% chance, not 0.3%"
+  ],
+  "sources_consulted": [
+    "Official World Golf Ranking",
+    "Previous PGA Championship results",
+    "General knowledge of major championship betting markets"
+  ],
+  "created_at": "2026-05-17T03:55:09.365786+00:00",
+  "agent_version": "0.1.0"
+}

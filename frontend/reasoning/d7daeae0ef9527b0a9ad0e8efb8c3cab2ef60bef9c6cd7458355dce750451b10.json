@@ -1,0 +1,25 @@
+{
+  "market_id": "0xec4e5a2666b14fedded928dc4dcd6b5f2d38cc1eba91755b8aa6de1fabd42a2f",
+  "market_slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+  "market_question": "Ukraine agrees to limit size of armed forces before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1800,
+  "edge_bp": -1300,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine is fighting an existential war and cannot afford to cap its armed forces, which would be seen as a surrender to Russian demands. No credible peace process is underway, and any such agreement would face overwhelming domestic and political opposition. The market significantly overprices the chance of a yes resolution.",
+  "evidence_points": [
+    "Ukraine's military survival depends on maintaining and expanding its forces; a cap would be suicidal.",
+    "Russia has consistently demanded demilitarization, a non-starter for Kyiv under current leadership.",
+    "No diplomatic track record or serious proposals indicate Ukraine would voluntarily limit its troop numbers before 2027."
+  ],
+  "sources_consulted": [
+    "News archives on Ukraine-Russia negotiations (2022–2024)",
+    "Ukrainian government statements on military mobilization and peace terms",
+    "Analysis of Russian demands and the Istanbul peace talks breakdown"
+  ],
+  "created_at": "2026-05-17T03:52:10.566868+00:00",
+  "agent_version": "0.1.0"
+}

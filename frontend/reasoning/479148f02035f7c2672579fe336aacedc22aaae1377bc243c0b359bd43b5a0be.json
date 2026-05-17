@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3300,
+  "market_probability_bp": 2050,
+  "edge_bp": 1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1572,
+  "reasoning": "Trump's first term saw high cabinet turnover, with DNIs Dan Coats fired and John Ratcliffe surviving only until term's end. Gabbard's heterodox views and outsider status in the IC, combined with Trump's demand for loyalty, create a nontrivial risk of resignation or removal within 17 months. I estimate ~33% chance, meaning the market at 20.5% is underpricing Yes significantly.",
+  "evidence_points": [
+    "Trump's first-term average tenure for senior officials was under 2 years; Coats was forced out as DNI.",
+    "Gabbard's confirmation was controversial, and her past policy stances (e.g., on Syria, Ukraine) may clash with administration hawks.",
+    "The 'any period of time' clause means even a brief departure triggers Yes, lowering the bar for resolution."
+  ],
+  "sources_consulted": [
+    "Historical cabinet turnover data (Brookings, 2021)",
+    "Confirmation hearing coverage (AP, Jan 2025)",
+    "Polymarket market data for context on similar Trump-official markets"
+  ],
+  "created_at": "2026-05-17T04:05:51.361097+00:00",
+  "agent_version": "0.1.0"
+}

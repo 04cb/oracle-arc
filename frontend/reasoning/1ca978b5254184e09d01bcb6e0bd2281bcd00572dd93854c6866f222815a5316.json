@@ -1,0 +1,25 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 1350,
+  "edge_bp": -950,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Supreme Court grants cert in very few cases, and by mid-2026 a petition must be filed, briefed, and accepted. There is no known pending cert petition specifically challenging sports event contracts under the CEA or preemption doctrines as of early 2025. Even if such a case existed, the odds of certiorari before the deadline are low, making the market’s 13.5% implied probability too optimistic.",
+  "evidence_points": [
+    "SCOTUS grants only ~70–80 cert petitions per year out of nearly 8000, a baseline rate <1%.",
+    "No public docket entry or credible reporting identifies a pending petition on this narrow issue.",
+    "The earliest a case could realistically reach cert stage is the October 2025 term, giving less than two years for litigation, cert briefing, and the Court’s decision to grant."
+  ],
+  "sources_consulted": [
+    "SCOTUS docket and certiorari statistics (2023-24)",
+    "Recall of major CFTC litigation (Kalshi, PredictIt) through early 2025",
+    "Legal reporting on sports betting, CEA, and CFTC jurisdiction"
+  ],
+  "created_at": "2026-05-17T04:02:49.936560+00:00",
+  "agent_version": "0.1.0"
+}

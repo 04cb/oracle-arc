@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "low",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "Historical pattern after two-term presidencies shows a slight tendency for the opposition party to win, but incumbency advantages and an uncertain environment render a 45% fair estimate for Republicans. The market's 38.5% appears to underprice Republican chances by a modest margin.",
+  "evidence_points": [
+    "In the last four elections following a term-limited president (1988, 2000, 2008, 2016), the incumbent party retained the White House only once (1988).",
+    "Base rate of Republican wins since 1972 is about 54%, but current political polarization and potential backlash after Trump’s second term suggest a near-even contest.",
+    "Early-cycle markets historically exhibit large errors; sharp deviations often mean-revert as new information arrives."
+  ],
+  "sources_consulted": [
+    "Historical U.S. Presidential Election Results (270toWin, Wikipedia)",
+    "Current political climate intangibles (no specific poll data)"
+  ],
+  "created_at": "2026-05-17T03:52:36.105502+00:00",
+  "agent_version": "0.1.0"
+}

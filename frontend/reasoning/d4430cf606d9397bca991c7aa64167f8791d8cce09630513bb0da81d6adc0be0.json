@@ -1,0 +1,25 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 1350,
+  "edge_bp": -1250,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "There is currently no evidence of binding negotiations or agreements; Denmark and Greenland have repeatedly and firmly rejected any sale. The 2026 deadline is very short for such a complex sovereignty transfer, especially through diplomatic means, and use of force is extremely unlikely among NATO allies. Therefore the true probability of a Yes resolution is substantially lower than the market price implies.",
+  "evidence_points": [
+    "Both Danish and Greenlandic governments have publicly and consistently said the territory is not for sale.",
+    "No binding agreement, treaty, or executive action has been announced or leaked that suggests progress.",
+    "Historical precedent shows that peaceful territorial acquisitions by major powers from close allies are exceptionally rare and slow-moving."
+  ],
+  "sources_consulted": [
+    "News archives 2024-2025 on Trump Greenland proposal reactions",
+    "Danish foreign ministry statements",
+    "Status of Thule Air Base agreement"
+  ],
+  "created_at": "2026-05-17T03:42:21.908245+00:00",
+  "agent_version": "0.1.0"
+}

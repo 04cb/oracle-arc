@@ -1,0 +1,26 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 250,
+  "market_probability_bp": 10,
+  "edge_bp": 240,
+  "confidence": "medium",
+  "kelly_fraction_bp": 235,
+  "reasoning": "ByteDance is valued at $200B+ privately, so if it IPOs in 2026 it would likely be the largest. The market implies only a 0.1% chance, likely overstating the certainty of no IPO. While geopolitical and regulatory hurdles (e.g., TikTok ban risk) make an IPO uncertain, a 2.5% probability seems more realistic given the potential resolution of those issues and the company's size.",
+  "evidence_points": [
+    "ByteDance private valuation is over $200B, surpassing most known 2026 IPO candidates like Stripe (~$65B), Databricks (~$43B), or even SpaceX (~$180B).",
+    "The Yes side is priced at 0.1%, implying only 1-in-1000 odds, which seems excessively pessimistic given the chance of a geopolitical deal or IPO restart.",
+    "While regulatory pressure in the US may delay or block a TikTok-linked IPO, ByteDance could still list in a different market or restructure; the exact timing remains uncertain but far from impossible.",
+    "Other potential mega-IPOs in 2026 (SpaceX, OpenAI) could rival ByteDance's size, but ByteDance's massive revenue base still gives it a plausible path to the top spot if it lists."
+  ],
+  "sources_consulted": [
+    "Public knowledge of ByteDance private valuation and IPO speculation",
+    "US legislative developments related to TikTok divestiture",
+    "Potential 2026 IPO pipeline estimates (Stripe, Databricks, SpaceX, OpenAI)"
+  ],
+  "created_at": "2026-05-17T03:54:16.448769+00:00",
+  "agent_version": "0.1.0"
+}

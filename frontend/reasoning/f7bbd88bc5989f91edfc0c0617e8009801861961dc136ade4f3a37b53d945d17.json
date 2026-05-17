@@ -1,0 +1,27 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 590,
+  "edge_bp": 2410,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Labour Party, while in opposition, explicitly pledged to proscribe the IRGC. As the current government, they face sustained pressure from backbench MPs, the US, and Israel to act. The UK's proscription of Wagner Group in 2023 shows willingness to use this power, but fears of Iranian retaliation and loss of diplomatic channels may cause delay. Over the next year, I estimate a 30% chance of formal designation.",
+  "evidence_points": [
+    "David Lammy, now Foreign Secretary, said in Feb 2024 that Labour would proscribe the IRGC in government.",
+    "The UK proscribed the Wagner Group as a terrorist organization in September 2023, demonstrating capability and precedent.",
+    "Pressure from the US and Israel continues to mount, especially given Iran's nuclear advances and support for Russia.",
+    "Opposing factors: diplomatic caution about severing ties with Iran, and ongoing but slow internal security assessments."
+  ],
+  "sources_consulted": [
+    "BBC News reports on Labour pledges (Feb 2024)",
+    "Reuters coverage of UK proscription of Wagner Group (Sep 2023)",
+    "The Guardian reporting on IRGC proscription debates (2023-2024)",
+    "General knowledge of UK politics and Iran relations up to Oct 2024"
+  ],
+  "created_at": "2026-05-17T04:01:03.703693+00:00",
+  "agent_version": "0.1.0"
+}

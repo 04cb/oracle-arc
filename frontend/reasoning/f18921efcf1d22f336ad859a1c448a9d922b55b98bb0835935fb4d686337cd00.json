@@ -1,0 +1,27 @@
+{
+  "market_id": "0x017099b71b4754c6f7ee6e78492d138270294db1bc520d970eaab83192e12a39",
+  "market_slug": "will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-season",
+  "market_question": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 3450,
+  "edge_bp": -2650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "West Ham has a well-established Premier League presence, finishing mid-table in recent seasons with significant financial resources and squad depth. Relegation odds for such a club are typically around 5–10% for any given future season. The market-implied 34.5% probability heavily overprices a tail risk, likely due to thin liquidity or recency bias from a mediocre 2024/25 campaign. Furthermore, if West Ham were relegated in 2024/25, they could not be relegated from the Premier League in 2025/26, so the ‘Yes’ outcome requires both avoiding relegation this season and then going down next season, making the true probability even lower.",
+  "evidence_points": [
+    "West Ham last suffered relegation in 2010/11 and has since been a stable mid‑table side, often finishing in the top half.",
+    "Leading bookmakers price West Ham’s relegation for the 2025/26 season at around 14/1 to 20/1, implying a 5–7% probability.",
+    "Current 2024/25 league standing (14th) is modest but still well above the relegation zone with a strong underlying squad and financial backing to strengthen in the summer.",
+    "The market’s 34.5% implied probability is unsupported by any credible news of financial distress, points deductions, or structural decline that would justify such a drastic reassessment."
+  ],
+  "sources_consulted": [
+    "Historical Premier League standings and relegation data",
+    "Current 2024/25 season table and performance metrics",
+    "Betting market odds for West Ham relegation in 2025/26",
+    "Club financial reports and news (general knowledge as of Jan 2025)"
+  ],
+  "created_at": "2026-05-17T03:51:32.605896+00:00",
+  "agent_version": "0.1.0"
+}

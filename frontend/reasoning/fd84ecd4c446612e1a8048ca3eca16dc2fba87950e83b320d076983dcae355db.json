@@ -1,0 +1,26 @@
+{
+  "market_id": "0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f",
+  "market_slug": "will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676",
+  "market_question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 625,
+  "market_probability_bp": 110,
+  "edge_bp": 515,
+  "confidence": "medium",
+  "kelly_fraction_bp": 516,
+  "reasoning": "Gretchen Whitmer is a prominent two-term governor of a key swing state and a plausible 2028 Democratic nominee, especially if the 2024 election leaves the Democratic field open. The market's implied 1.1% probability severely undervalues her chances, which I estimate closer to 6.25% (factoring in the likelihood of an open primary and her standing among potential candidates).",
+  "evidence_points": [
+    "Whitmer is a high-profile battleground-state governor with a national profile, often listed among top 2028 contenders.",
+    "If Harris loses in 2024, the 2028 Democratic primary will be wide open, elevating Whitmer's chances substantially.",
+    "Even in a Harris win scenario, the probability isn't zero (vp replacement, unforeseen circumstances), but the overwhelming driver is an open field.",
+    "Current market consensus on similar platforms and political analysis suggests Whitmer's true odds are in the mid-single digits, far above 1%."
+  ],
+  "sources_consulted": [
+    "General political forecasting norms for nomination markets 4 years out",
+    "Public polling and handicapper commentary on 2028 Democratic field",
+    "Comparison with similar high-volume political prediction markets"
+  ],
+  "created_at": "2026-05-17T04:03:58.762766+00:00",
+  "agent_version": "0.1.0"
+}

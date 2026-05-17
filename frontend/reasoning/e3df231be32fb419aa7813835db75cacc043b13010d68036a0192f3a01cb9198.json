@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 5850,
+  "edge_bp": -5050,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "No single team has ever entered a Champions League season with a >50% probability to win the title, and PSG is not the dominant force that would justify such odds. Post-Mbappé, they remain a top-10 side but historically underperform in Europe. The market’s 58.5% implied chance is a gross overpricing of YES, given that even elite favourites rarely exceed 20-25% pre-tournament. A fair estimate is around 8% based on competitive landscape and squad depth relative to rivals like Real Madrid, Man City, and Bayern.",
+  "evidence_points": [
+    "No team has a historical pre-season CL win probability above 25-30% due to knockout randomness and competition depth.",
+    "PSG lost Mbappé in 2024 and, while they are strong collectively, they lack the singular superstar that historically drove deep runs.",
+    "Betting markets for the 2024-25 season implied only ~7.5-10% for PSG, and the 2025-26 outlook is similar."
+  ],
+  "sources_consulted": [
+    "Historical Champions League winner odds and implied probabilities",
+    "PSG squad composition and transfer activity post-2024",
+    "Comparative analysis of European top teams' title chances"
+  ],
+  "created_at": "2026-05-17T03:56:56.709726+00:00",
+  "agent_version": "0.1.0"
+}
