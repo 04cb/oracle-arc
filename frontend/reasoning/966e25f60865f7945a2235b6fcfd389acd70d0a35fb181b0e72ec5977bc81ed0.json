@@ -1,0 +1,26 @@
+{
+  "market_id": "0x09bd898af149ff142f72abd30709dadf4fedafcce3b00ef37fd62a733063d7c9",
+  "market_slug": "will-us-withdraw-from-nato-before-2027-348-975-598-224-737",
+  "market_question": "Will US withdraw from NATO before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 840,
+  "edge_bp": -640,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The FY2024 National Defense Authorization Act requires an Act of Congress or Senate approval for NATO withdrawal, eliminating unilateral presidential action. Both parties have strong pro-NATO majorities, making legislative authorization extremely unlikely through 2026. Even under a Trump administration, prior pressure tactics never escalated to formal denunciation, and the strategic costs would be immense.",
+  "evidence_points": [
+    "FY2024 NDAA (passed Dec 2023) mandates congressional approval for any NATO withdrawal.",
+    "Bipartisan consensus in Congress opposes NATO exit; even Trump's first term did not attempt formal withdrawal despite rhetoric.",
+    "No credible political momentum or official statements signal imminent Article 13 notice; market-implied 8.4% is grossly inflated relative to foundational legal and political barriers."
+  ],
+  "sources_consulted": [
+    "Public Law 118-31 (FY2024 NDAA §1250B)",
+    "Congressional voting records on NATO support (2023-2024)",
+    "Historical statements by Trump administration officials on NATO (2017-2021)",
+    "Article 13 of the North Atlantic Treaty"
+  ],
+  "created_at": "2026-05-17T00:27:37.457660+00:00",
+  "agent_version": "0.1.0"
+}

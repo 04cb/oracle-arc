@@ -1,0 +1,24 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 7700,
+  "edge_bp": 1300,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a high-profile L2 chain with strong community backing, and similar L2 tokens have historically launched with FDVs far exceeding $200M. The market's 77% implied probability underestimates the likelihood of FDV surpassing this low threshold given current hype, though token launch timing introduces some uncertainty.",
+  "evidence_points": [
+    "Abstract is from the team behind Pudgy Penguins, a well‑known NFT brand, driving high launch interest",
+    "Comparable new L2 tokens (e.g., STRK at ~$20B FDV, Blast at ~$1B) show $200M is a very low bar for a hyped ecosystem",
+    "The token launch is expected within the 2027 deadline given the live mainnet, making a 'No' resolution unlikely"
+  ],
+  "sources_consulted": [
+    "Public knowledge of Abstract chain and Pudgy Penguins",
+    "Historical FDV data of recent L2 token launches"
+  ],
+  "created_at": "2026-05-17T00:13:32.471561+00:00",
+  "agent_version": "0.1.0"
+}

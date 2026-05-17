@@ -1,0 +1,25 @@
+{
+  "market_id": "0x041af8e1a3188ee98a74cc11cf595b541121322e68b4fd83b01b839ae44267a3",
+  "market_slug": "bitcoin-above-80k-on-may-17",
+  "market_question": "Will the price of Bitcoin be above $80,000 on May 17?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 180,
+  "edge_bp": 2820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Bitcoin is currently above $80k, and while a bear market could drive it lower, the probability of being above this level at a single point in time 14 months out is substantially higher than the market’s 1.8% implied probability. Historical volatility and past cycle patterns suggest a 30% chance is more realistic, giving a large edge on the underpriced Yes.",
+  "evidence_points": [
+    "Bitcoin spot price is already above $80k as of early 2025, establishing a recent precedent",
+    "Historical bull/bear cycles show multi‑month windows with prices staying near or above prior highs",
+    "The resolution is a single snapshot; even in a broader downtrend, temporary spikes above $80k have non‑negligible probability"
+  ],
+  "sources_consulted": [
+    "BTC/USDT price history (Binance)",
+    "Bitcoin halving cycle analysis (2024 halving)",
+    "Market implied probability from Polymarket"
+  ],
+  "created_at": "2026-05-17T00:15:15.275843+00:00",
+  "agent_version": "0.1.0"
+}

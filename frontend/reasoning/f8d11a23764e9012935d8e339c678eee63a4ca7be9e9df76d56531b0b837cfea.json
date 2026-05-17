@@ -1,0 +1,25 @@
+{
+  "market_id": "0x6c85fe5b4197dc55dafef8368acaddb96adb892447730dfa53076c537b0bd9f6",
+  "market_slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+  "market_question": "Will Trump and Putin meet next in another EU country?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 40,
+  "edge_bp": 760,
+  "confidence": "high",
+  "kelly_fraction_bp": 763,
+  "reasoning": "Trump has openly stated a desire to meet Putin to negotiate on Ukraine, and historical US-Russia summits often take place in EU countries (e.g., Helsinki 2018, Hamburg 2017). Even with talks of a possible Gulf state meeting, the chance that the next meeting occurs in an EU country is substantially above the 0.4% implied by the market, likely in the 5–10% range considering the window to mid-2026 and the unresolved war.",
+  "evidence_points": [
+    "Trump repeatedly pledges to meet Putin soon to discuss Ukraine peace.",
+    "Previous Trump-Putin meetings in Helsinki (2018) and Hamburg (2017) show EU venues are precedented.",
+    "No confirmed location for a meeting, leaving many EU countries plausible."
+  ],
+  "sources_consulted": [
+    "Recent news on Trump-Putin summit prospects",
+    "Historical meeting locations (Helsinki, Hamburg)",
+    "Polymarket market details for condition 0x6c85..."
+  ],
+  "created_at": "2026-05-17T00:24:29.937269+00:00",
+  "agent_version": "0.1.0"
+}

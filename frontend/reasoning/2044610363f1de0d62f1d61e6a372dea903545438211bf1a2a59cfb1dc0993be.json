@@ -1,0 +1,27 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 1800,
+  "edge_bp": -1000,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ukraine has repeatedly and publicly pursued NATO membership as a strategic goal, including a 2022 accelerated application and a constitutional amendment. A pledge not to join would be a major concession to Russia, face overwhelming domestic and political opposition, and contradict Western allies’ stated positions. While a peace deal could theoretically include a temporary moratorium, the probability of such a public and formal agreement by end-2026 is very low, well under the market’s 18%.",
+  "evidence_points": [
+    "Ukraine applied for accelerated NATO membership in September 2022 and the 2019 constitution sets NATO/EU accession as strategic objectives.",
+    "Spring 2022 Istanbul neutrality discussions collapsed; Zelenskyy later signed a decree banning negotiations with Putin after annexations.",
+    "Opinion polls since 2022 consistently show over 80% of Ukrainians support joining NATO, making a no-join pledge politically suicidal.",
+    "Western security assurances (e.g. G7 Kyiv Security Compact) are designed to bolster Ukraine’s defence without requiring neutrality."
+  ],
+  "sources_consulted": [
+    "NATO press releases and statements (2022–2024)",
+    "Reuters/AP coverage of Ukraine-Russia negotiations",
+    "Chatham House / ISW analysis of Ukrainian public opinion and security policy",
+    "Polymarket description and resolution rules"
+  ],
+  "created_at": "2026-05-17T00:16:02.982305+00:00",
+  "agent_version": "0.1.0"
+}
