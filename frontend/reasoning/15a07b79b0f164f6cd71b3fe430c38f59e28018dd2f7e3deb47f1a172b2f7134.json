@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0bccf8ce01fcd188575a96ab88ed928260e72cc4c3aacf0e82fa5ab4570dbae6",
+  "market_slug": "will-solana-dip-to-20-by-december-31-2026",
+  "market_question": "Will Solana dip to $20 by December 31, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 950,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "A drop to $20 from current ~$200 would require a >90% decline. Historically, such extreme drawdowns for major altcoins occur only during systemic crises like the FTX collapse. The 13-month window makes a repeat of such an event unlikely, so the true probability is lower than 9.5%.",
+  "evidence_points": [
+    "SOL currently trades near $200; a $20 low implies a 90%+ crash, seen only during Black Swan events.",
+    "The resolution window of ~13 months limits the chance of a catastrophic altcoin wipeout absent an immediate systemic shock.",
+    "Market-implied 9.5% probability assigns significant weight to extreme tail risk that, while possible, appears overpriced relative to base rates."
+  ],
+  "sources_consulted": [
+    "Historical SOL/USDT price charts (Binance)",
+    "General crypto drawdown patterns (2018, 2022 bear markets)",
+    "Market structure and current SOL market cap/volume context"
+  ],
+  "created_at": "2026-05-17T02:05:08.344439+00:00",
+  "agent_version": "0.1.0"
+}

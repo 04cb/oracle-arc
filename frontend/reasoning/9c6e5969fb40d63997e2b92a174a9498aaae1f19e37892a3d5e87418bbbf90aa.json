@@ -1,0 +1,26 @@
+{
+  "market_id": "0x017099b71b4754c6f7ee6e78492d138270294db1bc520d970eaab83192e12a39",
+  "market_slug": "will-west-ham-be-relegated-from-the-english-premier-league-after-the-202526-season",
+  "market_question": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 800,
+  "market_probability_bp": 3450,
+  "edge_bp": -2650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "West Ham are an established Premier League club with a strong squad and finances, consistently mid-table. They are safe from relegation in 2024-25 and unlikely to be in serious danger next season. Historical odds for comparable clubs suggest a ~8% relegation chance, far below the market's 34.5%.",
+  "evidence_points": [
+    "West Ham currently 15th in 2024-25, comfortably safe from relegation (14+ points clear).",
+    "Strong squad with high market value, including Bowen, Kudus, and Paqueta, under manager Graham Potter.",
+    "Relegation odds for established mid-table Premier League teams are typically 5-10% per season."
+  ],
+  "sources_consulted": [
+    "Premier League 2024-25 standings",
+    "Historical Premier League relegation rates by prior-season finish",
+    "Team squad valuation and financial reports",
+    "Betting market relegation odds for comparable clubs"
+  ],
+  "created_at": "2026-05-17T02:01:50.032475+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8800,
+  "market_probability_bp": 7700,
+  "edge_bp": 1100,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a live L2 from Igloo (Pudgy Penguins). L2 tokens typically launch with FDVs well above $200M (e.g., Arbitrum, Optimism, ZKsync). The token launch is highly likely before end 2027, and given the brand, even a modest token would exceed $200M FDV at T+1. Risk of no launch or catastrophic FDV is low.",
+  "evidence_points": [
+    "Abstract mainnet launched Jan 2025; token speculation exists via XP programs and airdrop hints.",
+    "Comparable L2 token launches (OP, ARB, ZK) all had FDVs >$1B initially; $200M is a very low threshold.",
+    "Sister project PENGU token launched with >$2B FDV, demonstrating brand strength.",
+    "Only Base explicitly forgoes a token; Abstract likely needs one for ecosystem incentives."
+  ],
+  "sources_consulted": [
+    "Abstract chain documentation",
+    "Crypto market data on L2 token launches",
+    "Knowledge of Pudgy Penguins / Igloo Inc."
+  ],
+  "created_at": "2026-05-17T01:56:45.625987+00:00",
+  "agent_version": "0.1.0"
+}
