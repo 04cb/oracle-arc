@@ -1,0 +1,25 @@
+{
+  "market_id": "0x93cc6525a287e51e142c5e7b7cf97c4799833affd945f82237e9e849602e6fb1",
+  "market_slug": "will-databricks-have-the-highest-ipo-market-cap-2026-418",
+  "market_question": "Will Databricks have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 20,
+  "edge_bp": 480,
+  "confidence": "low",
+  "kelly_fraction_bp": 486,
+  "reasoning": "Databricks is a high-valued private company (~$62B) and a plausible candidate to lead 2026 IPOs, but the field of potential giant IPOs (e.g., Stripe, SpaceX, OpenAI, ByteDance) makes it unlikely to be the absolute largest. I estimate about a 5% chance, significantly above the market's ~0.2%. The wide differential suggests Yes is underpriced.",
+  "evidence_points": [
+    "Databricks raised capital at a ~$62B valuation in late 2024, making it one of the most valuable private companies.",
+    "Other potential 2026 IPOs include firms like Stripe, SpaceX, OpenAI, or ByteDance, any of which could debut at >$100B market cap.",
+    "Historical IPO data: the largest IPO in a given year is often an outlier, and Databricks' odds to be that outlier are low but not 0.2%."
+  ],
+  "sources_consulted": [
+    "Databricks funding and valuation reports (2023–2025)",
+    "IPO pipeline predictions for 2026 (analyst reports, financial news)",
+    "Private company valuations (Stripe, SpaceX, OpenAI, ByteDance, etc.)"
+  ],
+  "created_at": "2026-05-18T00:24:05.016125+00:00",
+  "agent_version": "0.1.0"
+}

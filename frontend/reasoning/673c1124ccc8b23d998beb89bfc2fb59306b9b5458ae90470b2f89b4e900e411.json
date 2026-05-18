@@ -1,0 +1,24 @@
+{
+  "market_id": "0xb91be12388b3d4079c3ed9b5783cb42d8c33051d37746a49300227e0f45fc089",
+  "market_slug": "will-james-talarico-win-the-2028-democratic-presidential-nomination",
+  "market_question": "Will James Talarico win the 2028 Democratic presidential nomination?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 30,
+  "market_probability_bp": 180,
+  "edge_bp": -150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "James Talarico is a Texas state representative with no national profile or prominent elected office. The Democratic nomination typically goes to widely known figures (senators, governors, vice presidents). The market’s 1.8% implied probability far exceeds his realistic chances, making No a clear value bet.",
+  "evidence_points": [
+    "Talarico holds only a state representative seat, never winning a statewide or federal election.",
+    "Historical Democratic nominees since 1972 have been sitting/former presidents, vice presidents, governors, or U.S. senators—never a state legislator.",
+    "No major media, polling, or fundraising signals indicate he is even a speculative candidate."
+  ],
+  "sources_consulted": [
+    "Biographical knowledge: James Talarico elected to Texas House 2018, born 1989, progressive activist.",
+    "Historical pattern of Democratic nominations."
+  ],
+  "created_at": "2026-05-18T00:14:55.180175+00:00",
+  "agent_version": "0.1.0"
+}

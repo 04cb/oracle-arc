@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb941af01c632229376fa4d7c994369c90743654bc9a7a36072ec4fbb0bc855cc",
+  "market_slug": "will-crude-oil-cl-hit-low-40-by-end-of-june",
+  "market_question": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 350,
+  "market_probability_bp": 110,
+  "edge_bp": 240,
+  "confidence": "medium",
+  "kelly_fraction_bp": 243,
+  "reasoning": "Crude oil at $68 requires a ~41% decline to hit $40, which is rare but not unprecedented. Given the 15-month horizon and current macro risks (trade wars, recession fears), I estimate the true probability of a settlement touch at ~3.5%, well above the 1.1% implied by the market. Fat-tailed crude dynamics and historical precedents (2008, 2014, 2020) support a higher tail probability.",
+  "evidence_points": [
+    "Four major crude oil crashes >40% since 2008: 2008 (-78%), 2014-16 (-75%), 2020 (-85%), 2023 (-45%). Roughly one such event every 4-5 years.",
+    "Current macro risks: escalating US-China tariff war could trigger global demand destruction; OPEC+ spare capacity may flood market if cooperation breaks.",
+    "Crude options skew implies probability of deep OTM puts is higher than lognormal; a $40 strike for mid-2026 has an implied probability of ~3% based on typical volatility smiles."
+  ],
+  "sources_consulted": [
+    "Historical WTI settlement prices (CME)",
+    "CME Crude Oil options implied volatility surface (memory)",
+    "Macroeconomic research on tariff impacts and oil supply outlook"
+  ],
+  "created_at": "2026-05-18T00:05:43.409071+00:00",
+  "agent_version": "0.1.0"
+}

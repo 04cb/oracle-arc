@@ -1,0 +1,25 @@
+{
+  "market_id": "0x18076e7d0f58a52d3d4f311d0456306edf16d1873cf5eef27d3ff044153e9576",
+  "market_slug": "bitcoin-all-time-high-by-december-31-2026",
+  "market_question": "Bitcoin all time high by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2200,
+  "market_probability_bp": 1550,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 769,
+  "reasoning": "The market implies a 15.5% chance of a new Bitcoin all-time high between mid-December 2025 and end of 2026. While typical post-halving cycles suggest a peak earlier, a 12.5-month window still provides a reasonable opportunity for a new ATH if bullish momentum extends or a new cycle begins earlier than expected. I estimate the true probability closer to 22%, making Yes undervalued.",
+  "evidence_points": [
+    "Bitcoin historically peaks 12-18 months after halving (April 2024), placing a likely peak in early 2025, but cycles can deviate; the window captures a potential early cycle recovery.",
+    "A 12.5-month observation period is relatively long, increasing the chance of at least one extreme price spike above prior highs.",
+    "Current implied probability of 15.5% appears too low given historical volatility and institutional adoption trends."
+  ],
+  "sources_consulted": [
+    "Binance BTC/USDT historical data",
+    "Bitcoin halving cycle analysis (PlanB, Glassnode)",
+    "Polymarket orderbook and volume"
+  ],
+  "created_at": "2026-05-18T00:05:35.307014+00:00",
+  "agent_version": "0.1.0"
+}

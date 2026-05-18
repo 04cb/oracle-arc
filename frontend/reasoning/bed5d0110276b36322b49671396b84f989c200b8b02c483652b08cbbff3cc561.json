@@ -1,0 +1,26 @@
+{
+  "market_id": "0x27392ec97b564a0ddc74056c384d2e98f71d19bf233d5269b73a5a4b51bbca1a",
+  "market_slug": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+  "market_question": "Will ByteDance have the highest IPO Market Cap 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 10,
+  "edge_bp": 290,
+  "confidence": "medium",
+  "kelly_fraction_bp": 285,
+  "reasoning": "ByteDance is a private giant (~$220B). If it IPOs in 2026, it is likely to be the year’s largest given few comparable candidates. Reports suggest ByteDance is aiming for a Hong Kong IPO of its China operations around 2025-2026, giving a non-trivial probability (≈3%) of hitting the market in 2026 and leading the IPO size. The current implied 0.1% seems far too low.",
+  "evidence_points": [
+    "ByteDance is consistently valued above $200B, putting any IPO in the top tier globally.",
+    "Recent news (2024) report ByteDance plans to IPO its domestic businesses in Hong Kong as early as 2025 or 2026.",
+    "Other mega-IPO candidates like SpaceX have seen CEO statements against going public, reducing competition for the largest 2026 IPO slot.",
+    "The TikTok divestiture deadline may accelerate a partial IPO of ByteDance’s remaining assets."
+  ],
+  "sources_consulted": [
+    "Reuters: ByteDance explores IPO of Chinese operations",
+    "Bloomberg: ByteDance valuation data",
+    "SEC/financial news on TikTok ban law timeline"
+  ],
+  "created_at": "2026-05-18T00:07:32.888645+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+  "market_slug": "will-psg-win-the-202526-champions-league",
+  "market_question": "Will PSG win the 2025–26 Champions League?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1000,
+  "market_probability_bp": 5850,
+  "edge_bp": -4850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "PSG have never won the Champions League and lost Kylian Mbappé, their best player, before the 2024-25 season. Pre-season betting odds for the 2025-26 UCL would place PSG around 8-12%, as many other elite clubs (Real Madrid, Man City, Bayern, etc.) are stronger. A 58.5% implied probability is unsustainably high for any single team a year before the tournament begins.",
+  "evidence_points": [
+    "PSG's squad weakened after Mbappé's departure, reducing their UCL win probability.",
+    "No team in modern UCL history has had >50% implied probability a year before the tournament; typical favorites are 15-25%.",
+    "Comparison to betting exchanges: PSG are usually priced around +800 to +1200 (8-11%) for UCL winner."
+  ],
+  "sources_consulted": [
+    "General knowledge of UEFA Champions League winner odds from major betting exchanges",
+    "Historical implied probabilities for pre-season UCL favorites"
+  ],
+  "created_at": "2026-05-18T00:04:55.215357+00:00",
+  "agent_version": "0.1.0"
+}

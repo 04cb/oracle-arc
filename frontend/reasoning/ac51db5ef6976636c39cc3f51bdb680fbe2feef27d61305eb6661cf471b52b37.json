@@ -1,0 +1,25 @@
+{
+  "market_id": "0x139ba0e7f931f09466c0fb27fc8ddb5e77ce9d1e2bdc953a5f22765bf779452f",
+  "market_slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+  "market_question": "SCOTUS accepts sports event contract case by July 31, 2026?     ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 1350,
+  "edge_bp": -1050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Supreme Court grants cert in only about 1% of petitions, and a case explicitly targeting sports event contracts as regulated derivatives is extremely niche. There is no well-known pending circuit split or cert petition on this issue, and the 18-month window leaves little time for new litigation to mature through lower courts and receive a grant. While a surprise enforcement action by the CFTC could theoretically produce a fast‑tracked petition, the overall likelihood remains well below the market's 13.5% implied probability.",
+  "evidence_points": [
+    "SCOTUS grants cert in ~1% of petitions annually, making any specific case unlikely to be selected.",
+    "No prominent federal appellate case currently addressing sports event contracts as derivatives under the Commodity Exchange Act.",
+    "Even if a new enforcement action began now, the full litigation and cert petition process would stretch beyond July 2026 in most scenarios."
+  ],
+  "sources_consulted": [
+    "General observation of SCOTUS cert grant rates",
+    "News on CFTC v. Kalshi (election contracts, not sports)",
+    "West Flagler v. Haaland (tribal gaming compact, not derivatives)"
+  ],
+  "created_at": "2026-05-18T00:14:20.838157+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7603555ca158dfb3ec4ef84a0d9d247b5229def167093a9e844e1ae383c5d83a",
+  "market_slug": "tulsi-gabbard-out-by-june-30",
+  "market_question": "Tulsi Gabbard out by June 30?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 2000,
+  "edge_bp": 1000,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1250,
+  "reasoning": "Trump's first term saw high early turnover among senior officials, often for perceived disloyalty or political expediency. Gabbard, though a loyalist, remains a polarizing figure with a history of controversial statements; if political pressure mounts or intelligence 'deep state' conflicts intensify, Trump could remove her quickly. The 16‑month window is long enough for an administration known for sudden firings, making a 30% probability more realistic than the market’s 20%.",
+  "evidence_points": [
+    "Trump fired or forced out multiple cabinet-level officials within 18 months in his first term (e.g., Tillerson, Sessions, Shulkin).",
+    "Gabbard's confirmation was contentious and her past stances (Syria, Snowden) may make her a liability that Trump would drop if she becomes a political burden.",
+    "The resolution rule counts any temporary departure as Yes, adding slightly to the tail risk."
+  ],
+  "sources_consulted": [
+    "Historical Trump cabinet turnover analysis (e.g., Brookings tracker for first-term departures).",
+    "Contemporary reporting on Gabbard's confirmation hearing and controversies (Feb 2025).",
+    "General knowledge of Trump's personnel management style (loyalty demands, rapid dismissals)."
+  ],
+  "created_at": "2026-05-18T00:16:01.162801+00:00",
+  "agent_version": "0.1.0"
+}

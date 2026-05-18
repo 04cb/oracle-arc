@@ -1,0 +1,25 @@
+{
+  "market_id": "0xda9e24f8b6b8f71f02a79fe9d27348f6cbf2ff670cbef4afc58ae52fb4c8b1cb",
+  "market_slug": "will-charlie-kirk-win-the-nobel-peace-prize-in-2026",
+  "market_question": "Will Charlie Kirk win the Nobel Peace Prize in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 100,
+  "edge_bp": -99,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Charlie Kirk is a conservative political activist with no history of peacemaking or humanitarian work; he is an implausible Nobel Peace Prize candidate. Even if he were named a joint laureate, the complex resolution rules give precedence to several better‑known figures (e.g., Trump, Zelenskyy), making his actual chances of being the market’s ‘single winner’ essentially zero. The market’s implied 1% probability is at least two orders of magnitude too high.",
+  "evidence_points": [
+    "Charlie Kirk’s profile as a partisan activist makes him an extreme outlier among Nobel Peace Prize recipients, who are typically diplomats, humanitarians, or international organizations.",
+    "No credible forecasts or news sources list him as a candidate.",
+    "The resolution rules further reduce his chances: if any of Trump, Zelenskyy, Netanyahu, Putin, or Musk are joint laureates, the market resolves to the highest‑ranked of those, nullifying a Kirk win even in the single scenario where he might be awarded."
+  ],
+  "sources_consulted": [
+    "Nobel Peace Prize laureate history",
+    "Charlie Kirk biography (Turning Point USA)",
+    "Market resolution criteria"
+  ],
+  "created_at": "2026-05-18T00:17:12.388643+00:00",
+  "agent_version": "0.1.0"
+}

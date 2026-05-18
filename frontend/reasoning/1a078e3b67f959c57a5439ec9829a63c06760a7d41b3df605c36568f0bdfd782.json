@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7000,
+  "market_probability_bp": 350,
+  "edge_bp": 6650,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains the naval base 'Base navale d’Abou Dabi' in the UAE, and any French warship visiting or supplying that base must transit the Strait of Hormuz. Routine deployments, exercises, and logistical support missions make at least one confirmed transit by a warship or military support vessel extremely likely within the timeframe. The current market price of 3.5% severely underestimates this near-certain event.",
+  "evidence_points": [
+    "France operates a permanent naval facility in Abu Dhabi (Base navale d’Abou Dabi), requiring regular sea access through the Strait of Hormuz.",
+    "Official French Ministry of Armed Forces press releases and maritime tracking (AIS) data frequently confirm French naval movements in and around the Persian Gulf.",
+    "The market resolution criteria accept official confirmation or overwhelming consensus of credible reporting, both of which are easily met for routine transits."
+  ],
+  "sources_consulted": [
+    "Public knowledge of French naval bases and deployments",
+    "Historical news reports of French naval activity in the Gulf region",
+    "Polymarket resolution rules for this market"
+  ],
+  "created_at": "2026-05-18T00:21:48.275118+00:00",
+  "agent_version": "0.1.0"
+}

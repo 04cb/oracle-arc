@@ -1,0 +1,27 @@
+{
+  "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
+  "market_slug": "trump-out-as-president-before-2027",
+  "market_question": "Trump out as President before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 400,
+  "market_probability_bp": 950,
+  "edge_bp": -550,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Trump’s removal before 2027 is very unlikely. He is in good health for a 78-year-old, and presidents receive top medical care; actuarial death risk over two years is around 4%, and other removal mechanisms (impeachment, 25th amendment) are politically infeasible given Republican control of Congress and his solid base. Even adding a slim chance for resignation, total probability remains around 4%. The market-implied 9.5% is significantly too high.",
+  "evidence_points": [
+    "Social Security actuarial tables assign about 4% annual mortality for 78-year-old males; presidential healthcare further lowers risk, so ~4% over two years is generous.",
+    "Republicans hold the Senate, making conviction in an impeachment trial nearly impossible after a House vote (which itself is unlikely).",
+    "No serious health scares or incapacitation events have been reported; the 25th Amendment sustained removal requires broad bipartisan consensus that does not exist.",
+    "Resignation under scandal is historically rare for sitting presidents in first two years and would require overwhelming pressure that has not materialized."
+  ],
+  "sources_consulted": [
+    "SSA Period Life Table, 2021",
+    "Historical impeachment and removal precedents",
+    "Current political environment and Congressional composition",
+    "Public health assessments of Donald Trump"
+  ],
+  "created_at": "2026-05-18T00:06:15.505628+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d",
+  "market_slug": "will-marco-rubio-win-the-2028-republican-presidential-nomination",
+  "market_question": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 2460,
+  "edge_bp": -1260,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Marco Rubio's path to the 2028 GOP nomination is complicated by a likely crowded field featuring younger, more Trump-aligned figures like Ron DeSantis or Donald Trump Jr. His unsuccessful 2016 bid and current role as Secretary of State—a position that rarely catapults to the presidency—limit his perceived electoral strength. The market’s 24.6% implied probability seems too generous.",
+  "evidence_points": [
+    "Rubio lost the 2016 primary badly, raising doubts about his ability to consolidate support.",
+    "Potential rivals like Ron DeSantis, who has a strong national donor network, and Trump family members are likely to dominate early polling.",
+    "The historical trend: sitting cabinet members rarely become nominees, and the modern GOP prefers candidates with outsider or governor profiles."
+  ],
+  "sources_consulted": [
+    "historical nomination data",
+    "political analysis of 2028 Republican field"
+  ],
+  "created_at": "2026-05-18T00:13:23.072777+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,24 @@
+{
+  "market_id": "0xd048b3e9ccad82c57a4eec953e75794aeb5e6d0e08bdb79b9e01b24e0049f16d",
+  "market_slug": "surf-fdv-above-50m-one-day-after-launch",
+  "market_question": "Surf FDV above $50M one day after launch?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 5500,
+  "market_probability_bp": 7150,
+  "edge_bp": -1650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2308,
+  "reasoning": "Achieving a $50M FDV one day after launch is a high bar for a new token. Most launches fail to sustain such valuations, and without concrete evidence of extraordinary pre-launch demand or backing for Surf, the market-implied 71.5% looks overconfident. I estimate the true probability closer to 55%, favoring No.",
+  "evidence_points": [
+    "Many token launches fail to reach $50M FDV within a day, even with initial hype.",
+    "The market's volume suggests informed participants, but the high implied probability may reflect hype rather than realistic odds.",
+    "The project description (SurfAI) gives no unique insight that guarantees a high FDV; generic AI tokens face fierce competition."
+  ],
+  "sources_consulted": [
+    "x.com/SurfAI (no tokenomics data found)",
+    "General knowledge of crypto launch dynamics"
+  ],
+  "created_at": "2026-05-18T00:14:26.713961+00:00",
+  "agent_version": "0.1.0"
+}

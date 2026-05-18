@@ -1,0 +1,27 @@
+{
+  "market_id": "0xe51f231db21003948460569107975a20ed138b642b2952c4f0798da8c64d8591",
+  "market_slug": "will-spacexs-market-cap-be-between-2pt5t-and-3pt0t-at-market-close-on-ipo-day",
+  "market_question": "Will SpaceX's market cap be between $2.5T and $3.0T at market close on IPO day?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 2040,
+  "edge_bp": -1990,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX's current valuation is ~$180B; reaching $2.5T – $3.0T by a 2027 IPO would require a >13× explosion in 3 years, far exceeding the most bullish analyst projections ($500B–$1T). Elon Musk has repeatedly signaled reluctance to take SpaceX public, making any IPO before 2028 unlikely. Conditional on an IPO, such an extraordinary market cap is unprecedented for any space company and only matched by Saudi Aramco, an outlier with state backing.",
+  "evidence_points": [
+    "SpaceX last raised equity at a ~$180B valuation (late 2023/2024 rounds).",
+    "Musk has stated he prefers to keep SpaceX private to focus on Mars and avoid short‑term shareholder pressure.",
+    "The highest IPO‑day market cap ever was ~$2T (Aramco), driven by unique sovereign oil assets; no pure tech/space company has come close.",
+    "Starlink spin‑off IPO might value the subsidiary at $500B–$1T, but the parent SpaceX’s consolidated market cap would still be well below $2.5T."
+  ],
+  "sources_consulted": [
+    "SpaceX funding rounds & valuations (CNBC, Reuters, 2023–2024)",
+    "Elon Musk interviews on IPO timing (e.g., All‑In Summit 2023, Twitter/X statements)",
+    "Historical IPO valuations (Saudi Aramco, Alibaba, Facebook, etc.)",
+    "Financial analyst reports on SpaceX’s revenue and Starlink projections (e.g., TMF Associates, ARK Invest)"
+  ],
+  "created_at": "2026-05-18T00:19:29.447966+00:00",
+  "agent_version": "0.1.0"
+}

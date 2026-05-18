@@ -1,0 +1,27 @@
+{
+  "market_id": "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce",
+  "market_slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+  "market_question": "Will the US acquire part of Greenland in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1350,
+  "edge_bp": -850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The US acquiring part of Greenland by end of 2026 requires either a binding territorial transfer or exclusive jurisdiction agreement, or effective control through force. While Trump has repeatedly stated interest, Denmark and Greenland firmly oppose any cession, and the short timeline makes negotiated deals improbable. Military coercion is possible but remains highly unlikely given international norms and alliances. A 5% probability better reflects these constraints, making the market's 13.5% implied probability too high.",
+  "evidence_points": [
+    "Trump has expressed interest in purchasing or taking Greenland, but Denmark's PM has said 'Greenland is not for sale' and the Greenlandic government rejects any transfer.",
+    "Binding agreements for sovereignty or exclusive jurisdiction over a defined area require consent of the current sovereign, which is not forthcoming.",
+    "Use of force to acquire control, while qualifying under the resolution rules, would represent a dramatic departure from US foreign policy and is not likely, especially against a NATO ally.",
+    "The deadline is less than two years, which is extremely short for negotiating, ratifying, and implementing such a major territorial deal."
+  ],
+  "sources_consulted": [
+    "2024-2025 White House statements on Greenland",
+    "Danish Ministry of Foreign Affairs press releases",
+    "News reports on US-Greenland relations (BBC, Reuters, NYT)",
+    "Historical precedents of US territorial acquisition"
+  ],
+  "created_at": "2026-05-18T00:04:38.109984+00:00",
+  "agent_version": "0.1.0"
+}

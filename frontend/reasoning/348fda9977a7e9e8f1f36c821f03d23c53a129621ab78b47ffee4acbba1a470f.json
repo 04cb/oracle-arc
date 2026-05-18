@@ -1,0 +1,25 @@
+{
+  "market_id": "0x90c6511dcc9499c2c58786a2456df333a87c97a9cf548acc26f3e4e56fbc36e7",
+  "market_slug": "will-trump-and-putin-not-meet-315-857-437-514",
+  "market_question": "Will Trump and Putin not meet?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 9100,
+  "edge_bp": -5600,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Trump has repeatedly expressed intent to meet Putin in Saudi Arabia or UAE, with both sides signaling openness to a summit in 2025. The timeframe extends to mid-2026, providing ample opportunity for a direct encounter (including multilateral events). Historical precedent and the Ukraine diplomacy push make a meeting far more likely than the 9% chance implied by the market.",
+  "evidence_points": [
+    "Trump said in Feb 2025 he expects to meet Putin in Saudi Arabia for Ukraine peace talks.",
+    "Putin confirmed readiness to meet Trump, calling him a 'pragmatic' leader.",
+    "Multiple G20, G7, and other summits through mid-2026 provide natural venues for a handshake or direct interaction, which qualifies under the resolution criteria."
+  ],
+  "sources_consulted": [
+    "Reuters: 'Trump says he expects to meet Putin in Saudi Arabia' (Feb 2025)",
+    "AP News: 'Putin says he is ready to meet Trump' (Feb 2025)",
+    "POLITICO: 'Trump, Putin plan potential meeting in the Middle East' (March 2025)"
+  ],
+  "created_at": "2026-05-18T00:17:00.092777+00:00",
+  "agent_version": "0.1.0"
+}

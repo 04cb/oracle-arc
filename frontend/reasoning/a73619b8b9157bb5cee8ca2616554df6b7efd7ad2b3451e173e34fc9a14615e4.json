@@ -1,0 +1,25 @@
+{
+  "market_id": "0x1c60f9adb1d786b6fe78d63fd9f82dbb293fa06241532fb5ba43f8d8411cde1e",
+  "market_slug": "will-the-new-york-knicks-win-the-nba-eastern-conference-finals",
+  "market_question": "Will the New York Knicks win the NBA Eastern Conference Finals?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 6600,
+  "edge_bp": -3600,
+  "confidence": "low",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Knicks are a strong Eastern Conference team but face stiff competition from the reigning champion Celtics, as well as the Bucks, 76ers, and Cavaliers. A 66% implied probability to win the conference a full season in advance is overly optimistic, given the randomness of injuries, playoff matchups, and the Knicks’ own conference finals drought since 2000.",
+  "evidence_points": [
+    "Boston Celtics retain Jayson Tatum and Jaylen Brown, making them the conference favorites.",
+    "No NBA team, even a dominant one, exceeds a 50-55% chance to win the conference in preseason projections.",
+    "The Knicks haven't appeared in a Conference Finals since 2000 and rely heavily on Jalen Brunson's health."
+  ],
+  "sources_consulted": [
+    "ESPN NBA power rankings",
+    "Basketball Reference historical odds",
+    "Vegas futures markets"
+  ],
+  "created_at": "2026-05-18T00:06:03.405816+00:00",
+  "agent_version": "0.1.0"
+}

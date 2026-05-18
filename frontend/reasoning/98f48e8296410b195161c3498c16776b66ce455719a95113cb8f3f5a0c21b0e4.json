@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5b334c510f1b9f4d7cf7ebf1eeeff9cb7b16106027d921bd4e2bf742110be02b",
+  "market_slug": "hantavirus-vaccine-in-2026",
+  "market_question": "Hantavirus vaccine in 2026? ",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 850,
+  "edge_bp": -750,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Hantavirus vaccines are not in advanced clinical development in the US. No candidate has entered Phase III trials, and the standard approval pathway requires years. The rare, sporadic nature of the disease provides little commercial incentive, making timely FDA approval by end of 2026 extremely improbable.",
+  "evidence_points": [
+    "No U.S. Phase III clinical trials for a hantavirus vaccine are underway as of early 2025.",
+    "Only a few candidates have reached Phase I/II stages, primarily DNA or inactivated vaccines, with no breakthrough status or fast-track designation for hantavirus.",
+    "FDA approval typically requires 3-5 years after Phase III initiation; even accelerated approvals require substantial safety/efficacy data not yet available."
+  ],
+  "sources_consulted": [
+    "FDA list of licensed vaccines",
+    "ClinicalTrials.gov search for hantavirus vaccine (no active Phase III) ",
+    "Background on Hantavax (South Korea, not FDA-approved)"
+  ],
+  "created_at": "2026-05-18T00:15:54.055586+00:00",
+  "agent_version": "0.1.0"
+}

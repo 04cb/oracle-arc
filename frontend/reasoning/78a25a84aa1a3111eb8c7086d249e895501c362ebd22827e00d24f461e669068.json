@@ -1,0 +1,26 @@
+{
+  "market_id": "0x5f6faca9da5d9637da5479a648a1770efe1eccca91076e163ad2dd08da885188",
+  "market_slug": "will-chicago-white-sox-win-the-2026-american-league-championship-series",
+  "market_question": "Will Chicago White Sox win the 2026 American League Championship Series?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 90,
+  "edge_bp": -70,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Chicago White Sox are in a historically deep rebuild, coming off a 121-loss season in 2024, with a weak farm system and no clear path to contention by 2026. Even an aggressive turnaround would likely leave them far from ALCS contention, making their true probability well below the market's 0.9%.",
+  "evidence_points": [
+    "White Sox finished 41-121 in 2024, the worst MLB record in decades",
+    "Farm system ranks near the bottom of MLB, offering little near-term help",
+    "The AL is stacked with powerhouse teams (Yankees, Astros, Rangers, Orioles) that are far ahead in competitiveness",
+    "Even mediocre-to-good MLB teams rarely have a 0.9% pennant chance, let alone a team projected to be one of the league's worst"
+  ],
+  "sources_consulted": [
+    "MLB 2024 final standings",
+    "Minor league farm system rankings",
+    "General knowledge of White Sox organizational state"
+  ],
+  "created_at": "2026-05-18T00:07:54.564754+00:00",
+  "agent_version": "0.1.0"
+}

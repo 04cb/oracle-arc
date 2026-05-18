@@ -1,0 +1,25 @@
+{
+  "market_id": "0x80590117819c7b4a2be045d98f7be8247fa13162830e5540bec140d14829e9eb",
+  "market_slug": "will-pete-hegseth-enter-iran-by-june-30",
+  "market_question": "Will Pete Hegseth enter Iran by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 180,
+  "edge_bp": -160,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Pete Hegseth is the current U.S. Secretary of Defense. The U.S. and Iran have no diplomatic relations and are in a state of deep hostility. The probability of a cabinet-level defense official physically entering Iran—whether for diplomacy (virtually impossible) or during a military engagement—is far below the 1.8% implied by the market, even over a 1.5-year horizon.",
+  "evidence_points": [
+    "No U.S. Secretary of Defense has visited Iran since the 1979 Islamic Revolution.",
+    "U.S.-Iran relations remain adversarial with sanctions, military tensions, and no ongoing diplomatic negotiations.",
+    "Any hypothetical visit would likely be preceded by a Secretary of State or presidential trip, further lowering Hegseth’s chances."
+  ],
+  "sources_consulted": [
+    "News on Pete Hegseth's role and public statements",
+    "U.S.-Iran relations status reports",
+    "Historical records of U.S. Secretaries of Defense travel"
+  ],
+  "created_at": "2026-05-18T00:12:47.236307+00:00",
+  "agent_version": "0.1.0"
+}

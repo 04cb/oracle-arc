@@ -1,0 +1,25 @@
+{
+  "market_id": "0x69487ec66303113e2c9125f83de781ba9311656f5f79d811e1153aed5c427fab",
+  "market_slug": "starmer-out-by-may-19-2026",
+  "market_question": "Starmer out by May 19, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1120,
+  "edge_bp": -620,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Starmer has a commanding Commons majority and faces no election until 2029. Historical data shows prime ministers rarely leave office within the first 18 months of a full term unless there is a severe scandal or health crisis, both of which are low-probability tail events. The market-implied 11.2% appears to overprice these risks given the current stability.",
+  "evidence_points": [
+    "Labour holds a 170+ seat majority, making a successful no-confidence vote or internal coup extremely unlikely.",
+    "No UK prime minister since Eden (1955) has left office within 13 months of a fresh general-election victory without an extraordinary event like Truss's market meltdown.",
+    "Starmer’s approval ratings are weak but not catastrophic, and there is no active leadership challenge."
+  ],
+  "sources_consulted": [
+    "Historical list of UK prime ministers and tenure lengths",
+    "Current UK political news and polling data (early 2025)",
+    "Parliamentary arithmetic post-2024 general election"
+  ],
+  "created_at": "2026-05-18T00:09:28.016596+00:00",
+  "agent_version": "0.1.0"
+}

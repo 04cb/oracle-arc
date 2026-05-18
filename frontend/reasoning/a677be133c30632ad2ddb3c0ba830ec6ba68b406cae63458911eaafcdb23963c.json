@@ -1,0 +1,26 @@
+{
+  "market_id": "0x6ab0ce92e138eec9776d055e052140ff284f885fb8a54c74a944316e4a2e4d80",
+  "market_slug": "will-saeed-jalili-be-head-of-state-in-iran-end-of-2026",
+  "market_question": "Will Saeed Jalili be head of state in Iran end of 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 30,
+  "edge_bp": -20,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Saeed Jalili becoming head of state by end of 2026 would require the death or incapacitation of Supreme Leader Khamenei and a subsequent succession that selects Jalili, a non-clerical hardliner, over more favored candidates like President Raisi. The probability is extremely low given Khamenei's current position, Jalili's losing presidential bids, and the clerical establishment's likely preference for a senior cleric. Market odds of 0.3% are still an overestimate.",
+  "evidence_points": [
+    "Supreme Leader Khamenei holds the head of state role for life; he turns 87 by end of 2026 but there is no clear indication of imminent succession.",
+    "Jalili is a civilian hardliner, not a high-ranking cleric, historically a requirement for Supreme Leader; non-clerics face institutional barriers.",
+    "President Ebrahim Raisi, a cleric with strong ties to Khamenei, is widely considered the most likely successor and already exercises significant influence.",
+    "Jalili's past presidential bids (2013, 2021) failed to win; he lacks the broad clerical and military backing needed for the role."
+  ],
+  "sources_consulted": [
+    "Iran's constitution and political structure analysis (Council on Foreign Relations, 2023)",
+    "Succession speculation from Iran experts (e.g., Sanam Vakil, Chatham House)",
+    "Biographical profiles of Jalili and Raisi (BBC Monitoring, 2024)"
+  ],
+  "created_at": "2026-05-18T00:16:09.796668+00:00",
+  "agent_version": "0.1.0"
+}

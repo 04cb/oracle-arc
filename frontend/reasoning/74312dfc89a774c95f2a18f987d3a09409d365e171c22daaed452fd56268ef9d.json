@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa9549c44687993a9a154347c6907092341459b927efaa3f2b49009ca2c4e40a1",
+  "market_slug": "will-jamie-dimon-win-the-2028-us-presidential-election",
+  "market_question": "Will Jamie Dimon win the 2028 US Presidential Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 90,
+  "edge_bp": -70,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Jamie Dimon has not declared any candidacy, will be 72 in 2028, and has no electoral experience. The base rate for a non-politician CEO securing a major-party nomination and winning the presidency is far below 1%, making the market's ~0.9% price an overestimate.",
+  "evidence_points": [
+    "Dimon has consistently denied presidential ambitions and has no campaign infrastructure.",
+    "At 72 years old in 2028, he would be one of the oldest first-term presidents.",
+    "No non-politician CEO has won the presidency without prior elected office in modern history (Trump had celebrity and political branding; Dimon lacks that)."
+  ],
+  "sources_consulted": [
+    "Public statements by Jamie Dimon regarding political aspirations",
+    "Historical data on CEOs running for president",
+    "Current political landscape and 2028 election field"
+  ],
+  "created_at": "2026-05-18T00:12:42.049890+00:00",
+  "agent_version": "0.1.0"
+}

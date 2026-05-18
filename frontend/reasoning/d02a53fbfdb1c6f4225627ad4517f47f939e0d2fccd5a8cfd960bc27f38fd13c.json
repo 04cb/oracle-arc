@@ -1,0 +1,26 @@
+{
+  "market_id": "0x1166388a24a3f2a9bb0a45956bdb205c70f0ecafb8539e277a57adf022e306be",
+  "market_slug": "will-jordan-bardella-win-the-2027-french-presidential-election",
+  "market_question": "Will Jordan Bardella win the 2027 French presidential election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 2250,
+  "edge_bp": -1750,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Jordan Bardella's chance to win the 2027 French presidential election is heavily contingent on first securing the National Rally nomination over Marine Le Pen, who polls show is preferred by a majority of party supporters. Even if nominated, current runoff polling consistently shows Bardella losing to likely center-right or centrist opponents by 4–8 points. Compounding these factors suggests a true probability around 5%, far below the market-implied 22.5%.",
+  "evidence_points": [
+    "Odoxa (March 2025) found 63% of RN symphathizers prefer Le Pen as the party's 2027 candidate, vs 34% for Bardella.",
+    "Cluster17 (April 2025) second-round poll: Bardella loses to Philippe 46%-54%, and Ifop (March 2025) shows similar deficits against Attal and Darmanin.",
+    "In the 2022 runoff, Marine Le Pen (a more established figure) only achieved 41.5%, and without Macron in 2027, centrist consolidation still poses a high barrier for a less experienced Bardella."
+  ],
+  "sources_consulted": [
+    "Odoxa survey (March 2025) on RN candidate preference",
+    "Cluster17 presidential runoff scenario poll (April 2025)",
+    "Ifop second-round polling (March 2025) featuring Bardella",
+    "Historical 2022 presidential election results"
+  ],
+  "created_at": "2026-05-18T00:09:27.592959+00:00",
+  "agent_version": "0.1.0"
+}

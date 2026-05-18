@@ -1,0 +1,24 @@
+{
+  "market_id": "0xca5e7321fd8fabb9c70edd53674120064f687a4790de8a2c46fca144f9c8caae",
+  "market_slug": "will-warren-buffett-be-richest-person-on-december-31-579",
+  "market_question": "Will Warren Buffett be richest person on December 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2,
+  "market_probability_bp": 130,
+  "edge_bp": -128,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Warren Buffett is currently around the 7th richest person with a net worth of ~$140B, far behind Elon Musk (~$400B+), Bezos, Arnault, etc. He is 95 years old and has pledged to give away 99% of his wealth, making his net worth likely to decline rather than surge to #1. The probability of him overtaking all others by Dec 31, 2026, is vanishingly small, well below 0.02%.",
+  "evidence_points": [
+    "Buffett is ~$260B+ behind the top spot and his wealth is heavily in Berkshire Hathaway, which grows slower than tech-driven fortunes.",
+    "He has been consistently donating billions to charity, reducing his net worth over time.",
+    "The Bloomberg Billionaires Index rarely shows anyone but Musk, Bezos, or Arnault at #1; drastic shifts would require an unimaginable collapse of all leaders simultaneously."
+  ],
+  "sources_consulted": [
+    "Bloomberg Billionaires Index current rankings",
+    "Public records of Buffett's charitable pledges and net worth trends"
+  ],
+  "created_at": "2026-05-18T00:04:34.138125+00:00",
+  "agent_version": "0.1.0"
+}

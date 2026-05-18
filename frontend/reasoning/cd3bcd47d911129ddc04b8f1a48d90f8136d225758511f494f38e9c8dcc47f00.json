@@ -1,0 +1,25 @@
+{
+  "market_id": "0xdeb0a6abf730d613190d1b49e64bbedb2af0cc14f8a6f87e8da9282e64c29c0b",
+  "market_slug": "will-wti-crude-oil-wti-hit-high-115-in-may-221",
+  "market_question": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 4100,
+  "edge_bp": -3800,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Current WTI forward curve for mid-2026 is around $64, making a touch of $115 in a single month an extreme 80%+ spike. Even with high volatility, the monthly probability of such a move is near zero; the market price of 41% vastly overstates the true chance.",
+  "evidence_points": [
+    "Forward price for July 2026 active contract likely near $64, well below $115",
+    "WTI monthly implied volatility ~9% makes $115 a >6-sigma event from the forward price",
+    "Historical spikes above $115 are rare, coincide with major disruptions, and rarely hit a pre-specified month"
+  ],
+  "sources_consulted": [
+    "CME WTI contract specifications and roll rules",
+    "general oil market forward curves and implied volatilities",
+    "historical WTI price extremes (e.g. 2008, 2011-14, 2022)"
+  ],
+  "created_at": "2026-05-18T00:22:53.628572+00:00",
+  "agent_version": "0.1.0"
+}

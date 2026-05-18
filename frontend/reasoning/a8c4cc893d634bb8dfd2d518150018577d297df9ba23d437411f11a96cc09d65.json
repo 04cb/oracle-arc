@@ -1,0 +1,24 @@
+{
+  "market_id": "0x189c38e8bf3733572f401f8d578099f7233baef3d5fcb438b4eeb0b73bacc787",
+  "market_slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-june-30-2026-673",
+  "market_question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 5000,
+  "edge_bp": -1500,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Over a 14-month horizon, some form of in‑person diplomatic contact (direct or via mediators) is more likely than not. Recent Iranian openness to indirect talks and the Trump administration’s stated preference for negotiation, combined with an established Oman backchannel, make a meeting probable. The market’s 50% implied probability of no meeting overprices the tail risk of complete diplomatic freeze.",
+  "evidence_points": [
+    "Iran rejected direct talks in March 2025 but expressed willingness for indirect negotiations.",
+    "Historically, indirect US‑Iran talks occurred frequently via Oman, e.g., under the Biden administration.",
+    "The definition includes indirect, in‑person meetings acknowledged by credible media, a low bar easily met if both sides decide to re‑engage."
+  ],
+  "sources_consulted": [
+    "Associated Press reports on Trump’s March 2025 letter to Iran",
+    "Reuters reporting on Iranian stance on indirect talks (April 2025)"
+  ],
+  "created_at": "2026-05-18T00:19:10.148246+00:00",
+  "agent_version": "0.1.0"
+}

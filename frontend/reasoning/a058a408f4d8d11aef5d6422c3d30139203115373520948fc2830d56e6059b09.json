@@ -1,0 +1,25 @@
+{
+  "market_id": "0xa5d79e71e66c9fe122f8b8b3ca6ab7a0e3048bd8508f130746944e92ed79ddf3",
+  "market_slug": "will-xavier-becerra-win-the-california-governor-election-in-2026",
+  "market_question": "Will Xavier Becerra win the California Governor Election in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 5140,
+  "edge_bp": -1140,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2225,
+  "reasoning": "Becerra is a plausible frontrunner but the Democratic primary for the open seat is a wide field with no clear leader; his HHS role draws progressive scrutiny. The market-implied 51.4% overestimates his advantage two years before the election.",
+  "evidence_points": [
+    "Multiple strong Democratic contenders (Kounalakis, Thurmond, Yee) are already moving toward runs.",
+    "California's jungle primary often fractures the Democratic vote, making any single candidate's probability below 50%.",
+    "Becerra has not formally declared and his national-profile position may alienate some state activist groups."
+  ],
+  "sources_consulted": [
+    "Polymarket market data",
+    "General news on CA 2026 governor race",
+    "Historical primary dynamics in CA"
+  ],
+  "created_at": "2026-05-18T00:06:52.809974+00:00",
+  "agent_version": "0.1.0"
+}

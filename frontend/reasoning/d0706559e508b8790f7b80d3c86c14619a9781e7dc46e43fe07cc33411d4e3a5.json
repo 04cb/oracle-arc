@@ -1,0 +1,24 @@
+{
+  "market_id": "0x552c464206214b1ede6021f457790446b4557525eff4620adf7c0f25d4213cba",
+  "market_slug": "will-dune-messiah-have-the-best-domestic-opening-weekend-in-2026",
+  "market_question": "Will Dune: Messiah have the best domestic opening weekend in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 180,
+  "edge_bp": -130,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Dune: Messiah is a major sci-fi sequel, but 2026's slate includes Avengers: Doomsday, a new Star Wars film, and a Super Mario sequel—all with opening weekend potential far above the $80–120M range Dune might achieve. The probability that it tops all three (plus other surprises) is very low.",
+  "evidence_points": [
+    "Avengers: Doomsday (May 1, 2026) is a near-certain $200M+ opener, dwarfing the Dune franchise’s best domestic debut (Dune: Part Two, $82.5M).",
+    "Star Wars: The Mandalorian & Grogu (May 22, 2026) and The Super Mario Bros. Movie 2 (April 3, 2026) are also poised for $100M–$200M+ openings.",
+    "Even a significant series growth for Dune: Messiah would leave it far behind these established blockbuster properties historically."
+  ],
+  "sources_consulted": [
+    "Publicly known 2026 release schedule (The Hollywood Reporter, Box Office Mojo)",
+    "Historical opening weekend data for Avengers, Star Wars, and Dune films"
+  ],
+  "created_at": "2026-05-18T00:07:04.171218+00:00",
+  "agent_version": "0.1.0"
+}

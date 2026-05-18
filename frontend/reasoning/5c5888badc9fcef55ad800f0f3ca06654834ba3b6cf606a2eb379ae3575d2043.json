@@ -1,0 +1,24 @@
+{
+  "market_id": "0x2d86d3aa882cd7c5464677da0ddb0292082d5da4e9f704ce3937f791b3c8cf4b",
+  "market_slug": "will-firecracker-die-in-the-boys-season-5",
+  "market_question": "Will Firecracker die in \"The Boys: Season 5\"?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 6000,
+  "market_probability_bp": 9980,
+  "edge_bp": -3980,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Firecracker survived Season 4’s finale in prison. While deaths are common in The Boys, not every minor antagonist dies, and the market’s near-certainty is unsupported. The true probability of her death is likely ~60%, so the 99.8% Yes price is a severe overpricing, making No an excellent value.",
+  "evidence_points": [
+    "Firecracker was last seen alive and arrested, not dead.",
+    "The Boys often kills characters but many survive entire series.",
+    "The market’s 99.8% probability implies almost certain death, which is unsupported by plot or typical show patterns."
+  ],
+  "sources_consulted": [
+    "The Boys season 4 finale plot summary",
+    "General knowledge of show's character mortality rates"
+  ],
+  "created_at": "2026-05-18T00:09:50.039408+00:00",
+  "agent_version": "0.1.0"
+}

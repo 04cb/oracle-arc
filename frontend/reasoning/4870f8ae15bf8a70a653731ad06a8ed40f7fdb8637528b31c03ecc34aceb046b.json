@@ -1,0 +1,24 @@
+{
+  "market_id": "0x3f94e17ef610aa742194321016c5c5bb981d94ed82c1a9c055421990dacb3b47",
+  "market_slug": "will-ethereum-reach-3400-in-may-2026",
+  "market_question": "Will Ethereum reach $3,400 in May?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 300,
+  "market_probability_bp": 40,
+  "edge_bp": 260,
+  "confidence": "low",
+  "kelly_fraction_bp": 266,
+  "reasoning": "Ethereum's historical volatility makes a 1-in-250 chance of touching $3,400 in a full month far too low. Even if ETH were around $2,000, a ~70% monthly rally is not outlandish in crypto cycles, and the target is below the all‑time high. The true probability is plausibly several percent, making Yes underpriced.",
+  "evidence_points": [
+    "ETH exhibits frequent monthly moves above 20%, and 70% rallies occur during bull markets",
+    "$3,400 is only ~30% below the all‑time high, so it is a reachable level even from a moderate base",
+    "One-minute candle highs capture intra-month spikes, increasing the chance of a touch"
+  ],
+  "sources_consulted": [
+    "Historical ETH/USDT price data and volatility metrics",
+    "General knowledge of cryptocurrency market behavior"
+  ],
+  "created_at": "2026-05-18T00:14:27.387858+00:00",
+  "agent_version": "0.1.0"
+}

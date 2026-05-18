@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4cf389adc069a4d713e1ddb6348c96afd6df78e6bf676c7dce1780135186d90e",
+  "market_slug": "will-the-oklahoma-city-thunder-win-the-nba-western-conference-finals",
+  "market_question": "Will the Oklahoma City Thunder win the NBA Western Conference Finals?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 6850,
+  "edge_bp": -3850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Thunder are a top Western Conference team, but an implied 68.5% chance to win the 2026 West Finals is far too high given the league's parity and the long time horizon. Even elite teams typically carry 30–40% estimates this far out due to injury risk and other strong contenders like Denver, Dallas, and Minnesota.",
+  "evidence_points": [
+    "The 2025-26 season is over a year away, introducing massive uncertainty about roster moves and health.",
+    "Multiple West teams (Nuggets, Mavericks, Timberwolves, Suns) are capable of eliminating the Thunder in any playoff round.",
+    "Historical betting markets rarely assign >50% conference win probability to any team before a season begins."
+  ],
+  "sources_consulted": [
+    "general NBA team strength and parity analysis",
+    "historical pre-season conference futures pricing",
+    "consideration of the 2024-25 performance landscape"
+  ],
+  "created_at": "2026-05-18T00:23:40.307410+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xbbd623c4191ca76dec466507375d6df85b403b7e14f9cbd3d09f2c450ae0cd96",
+  "market_slug": "will-mike-lindell-win-the-2026-minnesota-governor-republican-primary-election",
+  "market_question": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1200,
+  "edge_bp": -700,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Mike Lindell's chances depend on whether he runs and his ability to win a primary against likely more electable candidates. He is a divisive figure with significant legal baggage, and Minnesota Republicans may prefer a mainstream candidate as in 2022. The market's 12% implied probability appears high given the uncertainty and his weak positioning.",
+  "evidence_points": [
+    "Lindell has not yet announced a run for 2026; his 2022 gubernatorial flirtation did not materialize.",
+    "In 2022, Minnesota GOP primary chose Scott Jensen, a relative moderate, over more extreme options, suggesting limited appetite for Lindell-like candidates.",
+    "Lindell faces ongoing defamation lawsuits (Dominion, Smartmatic) that could alienate primary voters concerned about general-election viability."
+  ],
+  "sources_consulted": [
+    "News reports on Lindell's political ambitions (e.g., 2022 Minnesota governor race speculation)",
+    "Minnesota Republican primary historical results",
+    "Coverage of Lindell's legal problems and their political impact"
+  ],
+  "created_at": "2026-05-18T00:15:32.407660+00:00",
+  "agent_version": "0.1.0"
+}

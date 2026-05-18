@@ -1,0 +1,24 @@
+{
+  "market_id": "0x891b9bd66d626effcbc6fab8e7edb61e4b050c922dfd6ff733fee5f426d7d70f",
+  "market_slug": "elon-musk-of-tweets-may-16-may-18-115-139",
+  "market_question": "Will Elon Musk post 115-139 tweets from May 16 to May 18, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 10,
+  "edge_bp": 190,
+  "confidence": "medium",
+  "kelly_fraction_bp": 195,
+  "reasoning": "Elon Musk can tweet prolifically, especially during news-heavy periods or major events. Counting reposts and quote tweets along with main-feed posts, a 48-hour total of 115–139 is rare but plausible (≃2% chance), significantly higher than the market's implied 0.1%.",
+  "evidence_points": [
+    "Elon's tweet volume occasionally spikes to 50+ posts per day during intense news cycles, putting a 2-day total of 115+ within reach.",
+    "The market resolution includes reposts and quote tweets, which add substantially to his count beyond original tweets alone.",
+    "Market is heavily skewed No, possibly reflecting a heuristic that such numbers are unreachable, rather than a calibrated probability."
+  ],
+  "sources_consulted": [
+    "General knowledge of Elon Musk's posting history on X",
+    "Polymarket resolution rules and tracker details"
+  ],
+  "created_at": "2026-05-18T00:08:31.046245+00:00",
+  "agent_version": "0.1.0"
+}

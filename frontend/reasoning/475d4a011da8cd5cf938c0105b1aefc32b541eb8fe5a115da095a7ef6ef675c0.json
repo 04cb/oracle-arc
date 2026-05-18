@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0f2158e04dec35565e6b30b7c9fa0e32f80ec29d6662956c21f0b0e498af6fd7",
+  "market_slug": "grvt-fdv-above-200m-one-day-after-launch",
+  "market_question": "GRVT FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8000,
+  "market_probability_bp": 5150,
+  "edge_bp": 2850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "GRVT is a well-funded DEX with prominent backers; if it launches by the deadline (highly likely), its FDV will almost certainly exceed $200M, a low bar for governance tokens in this sector. The market appears to underestimate both the launch probability and the typical FDV of projects of this caliber.",
+  "evidence_points": [
+    "GRVT has raised from top VCs (Multicoin, Delphi), signaling strong backing and token launch plans.",
+    "Comparable DEX governance tokens routinely launch with FDVs well above $200M, even in unfavorable market conditions.",
+    "The launch deadline is over 3 years away, allowing ample time and reducing the risk of non-launch."
+  ],
+  "sources_consulted": [
+    "GRVT public announcements and X profile",
+    "Typical FDV range for crypto DEX governance tokens",
+    "Market implied probability"
+  ],
+  "created_at": "2026-05-18T00:13:49.620347+00:00",
+  "agent_version": "0.1.0"
+}

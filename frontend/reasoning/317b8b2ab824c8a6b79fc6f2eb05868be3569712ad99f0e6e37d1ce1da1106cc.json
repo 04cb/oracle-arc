@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 7750,
+  "edge_bp": 1750,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a prominent Ethereum L2 with Pudgy Penguins branding and a live mainnet. Historical L2 token launches (Arbitrum, Optimism, ZKsync, Starknet) saw FDVs in the billions; a $200M threshold is extremely low for a well-funded, hyped L2. The likelihood of Abstract launching a token by the 2028 deadline is very high, and conditional on launch, FDV >$200M appears near-certain, making the market's 77.5% implied probability underpriced.",
+  "evidence_points": [
+    "Arbitrum FDV ~$10B, Optimism ~$5B, ZKsync ~$5B, Starknet ~$10B at launch – even smaller L2s like Blast debuted at ~$2B.",
+    "Abstract is backed by Igloo Inc., creator of Pudgy Penguins, providing strong brand recognition and community.",
+    "The chain is already live on mainnet; token airdrop is expected, and a fully diluted valuation under $200M would be an outlier for any L2 with meaningful traction."
+  ],
+  "sources_consulted": [
+    "Comparative L2 FDV data from token launches (Arbitrum, Optimism, ZKsync, Starknet)",
+    "Abstract L2 mainnet launch news (early 2025)",
+    "General knowledge of Pudgy Penguins brand value and crypto market conditions"
+  ],
+  "created_at": "2026-05-18T00:08:37.665648+00:00",
+  "agent_version": "0.1.0"
+}

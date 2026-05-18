@@ -1,0 +1,26 @@
+{
+  "market_id": "0x34918035a590555ba1fb1d6a019d766ab6e557d63e7f3140b63b4550eee7f417",
+  "market_slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
+  "market_question": "Will the Democrats win the Texas Senate race in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4000,
+  "market_probability_bp": 4650,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1398,
+  "reasoning": "Texas remains a Republican-leaning state, with no statewide Democratic wins since 1994. Even with a likely Democratic-friendly midterm environment in 2026, the partisan lean (R+5) and potential Cornyn incumbency keep the true probability closer to 40% than the market's 46.5%.",
+  "evidence_points": [
+    "No Democrat has won a statewide race in Texas since 1994.",
+    "In 2024's high-turnout presidential year, Cruz won by 8.5 points despite underperforming Trump's 14-point margin.",
+    "Texas's Cook PVI is R+5, meaning a generic Democrat would need a substantial national wave to win.",
+    "Incumbent John Cornyn (R) may run again, further lowering Democratic odds."
+  ],
+  "sources_consulted": [
+    "Historical election results (1994–2024)",
+    "Cook Political Report PVI",
+    "2026 midterm generic ballot trends"
+  ],
+  "created_at": "2026-05-18T00:07:07.617040+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0xb4022c0b2718eca7ad27195f2d48f06527fa000269d188e1d3001ff8bbc16956",
+  "market_slug": "fed-rate-cut-by-september-2026-meeting-264-382",
+  "market_question": "Fed rate cut by September 2026 meeting?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1240,
+  "edge_bp": 1760,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2009,
+  "reasoning": "The market heavily discounts the probability of a rate cut in the Dec 2025–Sep 2026 window, implying only ~12%. Given elevated uncertainty from trade tensions, still‑restrictive rates, and the lagged impact of earlier tightening, a growth‑scare scenario that forces at least one 25 bp cut appears more likely than that. I estimate roughly 30% odds (a moderate edge over the market).",
+  "evidence_points": [
+    "Current fed funds upper bound still near 5.5% after no cuts so far in early 2025",
+    "FOMC Summary of Economic Projections has shown wide dispersion, with several dots pointing to 2026 cuts",
+    "Tariff‑driven supply‑side shocks may initially boost inflation but could suppress growth by mid‑2026, triggering an easing response"
+  ],
+  "sources_consulted": [
+    "CME FedWatch tool for market‑implied path (pre‑mid‑2025)",
+    "FOMC meeting minutes and dot‑plot releases",
+    "Consensus macro forecasts from investment banks"
+  ],
+  "created_at": "2026-05-18T00:06:55.127207+00:00",
+  "agent_version": "0.1.0"
+}

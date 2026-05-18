@@ -1,0 +1,24 @@
+{
+  "market_id": "0x31f31222f37f2583de6c44c4297cafdccfd21d443e785042af0180192897f8ed",
+  "market_slug": "will-carlos-roberto-massa-jnior-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election",
+  "market_question": "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 30,
+  "edge_bp": 470,
+  "confidence": "medium",
+  "kelly_fraction_bp": 476,
+  "reasoning": "Ratinho Júnior (Carlos Roberto Massa Júnior) is the governor of Paraná and a credible center‑right presidential candidate. Early polling for the 2026 Brazilian election often shows him in third place behind Lula and Tarcísio, though he faces competition from other right‑wing names. The probability of him finishing exactly third should be at least single‑digit percentages, well above the market’s near‑zero price. Even accounting for high election uncertainty, 0.3% is far too low, presenting a large edge.",
+  "evidence_points": [
+    "Recent polls (e.g., late 2024/early 2025) show Lula ~35%, Tarcísio ~15‑20%, with Ratinho Jr. around 5‑8%, often in third position.",
+    "Ratinho Jr. won the Paraná governorship twice with strong margins, giving him a regional base and national viability.",
+    "Multiple right‑wing candidates (Zema, Caiado) split the opposition vote, but none clearly dominate the third‑place lane over Ratinho."
+  ],
+  "sources_consulted": [
+    "Poll aggregations from Veja, PoderData, and XP/Ipespe (2024–2025)",
+    "General knowledge of Brazilian political landscape and 2026 potential candidates"
+  ],
+  "created_at": "2026-05-18T00:09:37.824798+00:00",
+  "agent_version": "0.1.0"
+}

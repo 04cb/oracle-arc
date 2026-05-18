@@ -1,0 +1,25 @@
+{
+  "market_id": "0x235693693a07f40782ff4a91d992a98a627d77a4cde305af3dd675eb982ec283",
+  "market_slug": "will-spacexs-market-cap-be-between-1pt5t-and-2pt0t-at-market-close-on-ipo-day",
+  "market_question": "Will SpaceX's market cap be between $1.5T and $2.0T at market close on IPO day?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 3050,
+  "edge_bp": -2850,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "SpaceX's current private valuation is ~$250B, far below the $1.5T–$2T range. Elon Musk has repeatedly stated he does not want to take SpaceX public soon, and if an IPO does occur before 2028, the valuation is extremely unlikely to be 6–8× higher than today's. The market's 30.5% implied probability severely overprices a highly improbable combination of events.",
+  "evidence_points": [
+    "SpaceX valuation in 2024 tender offers was ~$210B; by early 2025 it is estimated at ~$250B.",
+    "Elon Musk has consistently opposed a SpaceX IPO, citing long‑term Mars‑mission focus and only hinted at a future Starlink IPO.",
+    "To reach a $1.5T market cap, SpaceX would need to be valued higher than Tesla ever was, with no clear near‑term path."
+  ],
+  "sources_consulted": [
+    "Bloomberg SpaceX valuation reports",
+    "CNBC interviews with Elon Musk on IPO",
+    "Public market cap comparables (Tesla, Apple)"
+  ],
+  "created_at": "2026-05-18T00:11:15.260186+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x7b5c576ee07b4e95934b114634af0b8c7002cdced133e4d03db8fdb5dad7efc9",
+  "market_slug": "will-trump-endorse-mara-corina-machado-for-venezuela-president-in-2026-314",
+  "market_question": "Will Trump endorse María Corina Machado for Venezuela president in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 1550,
+  "edge_bp": -1050,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Trump rarely endorses foreign presidential candidates years in advance; his past Venezuela focus was on Guaidó. María Corina Machado is barred from office, and it's unclear she would be the main opposition figure in 2026. The market's 15.5% implied probability overrates a highly contingent political gesture.",
+  "evidence_points": [
+    "Trump historically endorsed Juan Guaidó as interim president in 2019 but has not endorsed other specific Venezuelan candidates.",
+    "Machado won the 2023 opposition primary but was disqualified by Venezuelan authorities, making her an unlikely consensus candidate.",
+    "The 2026 election date is speculative; Venezuela’s next scheduled presidential election is 2024, and any rescheduling is uncertain."
+  ],
+  "sources_consulted": [
+    "Wikipedia – María Corina Machado",
+    "Reuters – US stance on Venezuela opposition",
+    "Prediction market historical context"
+  ],
+  "created_at": "2026-05-18T00:19:16.854620+00:00",
+  "agent_version": "0.1.0"
+}

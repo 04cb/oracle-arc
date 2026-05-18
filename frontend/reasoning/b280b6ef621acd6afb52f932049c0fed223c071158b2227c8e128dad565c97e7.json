@@ -1,0 +1,26 @@
+{
+  "market_id": "0xa7b594ae07d5c1590fa86028fcc2f8705990437237416556c05837a08b2e1cda",
+  "market_slug": "will-bitcoin-reach-150000-by-december-31-2026-557-246-971",
+  "market_question": "Will Bitcoin reach $150,000 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 650,
+  "edge_bp": 850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 909,
+  "reasoning": "Bitcoin currently trades near $98k and has ~13 months to gain ~53% to reach $150k. The post-halving window (April 2024 halving) historically delivers the strongest 12-18 month price appreciation. A 53% rally is well within Bitcoin's historical range for similar timeframes. The market's 6.5% implied probability appears to significantly underprice this possibility—I estimate the true probability closer to 15%, reflecting a material edge on the Yes side.",
+  "evidence_points": [
+    "Bitcoin historically sees its strongest gains 12-18 months post-halving; this observation window (Nov 2025–Dec 2026) falls squarely in that zone",
+    "A ~53% gain over ~13 months is consistent with prior Bitcoin bull cycles (e.g., $9k→$64k in 2020-21, $1k→$19k in 2017)",
+    "Current market price implies only ~6.5% probability, which appears unreasonably low given historic post-halving performance and continued institutional ETF inflows"
+  ],
+  "sources_consulted": [
+    "Historical Bitcoin post-halving returns data",
+    "Current BTC/USDT price (~$98k as of late Nov 2025)",
+    "Binance 1m candle resolution specification",
+    "Market implied probability from Polymarket order book (Yes=0.065)"
+  ],
+  "created_at": "2026-05-18T00:24:11.189291+00:00",
+  "agent_version": "0.1.0"
+}

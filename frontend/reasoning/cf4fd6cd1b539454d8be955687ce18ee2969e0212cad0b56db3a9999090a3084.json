@@ -1,0 +1,26 @@
+{
+  "market_id": "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861",
+  "market_slug": "will-alex-padilla-win-the-california-governor-election-in-2026",
+  "market_question": "Will Alex Padilla win the California Governor Election in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 500,
+  "market_probability_bp": 10,
+  "edge_bp": 490,
+  "confidence": "medium",
+  "kelly_fraction_bp": 486,
+  "reasoning": "California's 2026 gubernatorial election is an open seat with no Republican likely to be competitive. Alex Padilla, as a sitting U.S. Senator, would be a strong Democrat in the primary field. Even with announced candidates like Lt. Governor Eleni Kounalakis, Padilla's statewide name recognition and fundraising ability give him a non-trivial chance, far above the market's 0.1% implied probability. However, he has not yet declared, so the probability is tempered.",
+  "evidence_points": [
+    "Incumbent Gavin Newsom is term-limited, making 2026 an open race in a solidly Democratic state.",
+    "Alex Padilla is a well-known statewide Democrat, having been appointed and then elected to the U.S. Senate, with strong party backing.",
+    "The primary field already includes Lt. Gov. Eleni Kounalakis, but Padilla would be a top-tier contender if he runs.",
+    "The market's 0.1% implied chance appears to drastically underestimate the uncertainty of a future open primary."
+  ],
+  "sources_consulted": [
+    "General knowledge of California politics",
+    "Ballotpedia California gubernatorial election 2026 candidate list",
+    "News reports on potential candidates (e.g., Padilla, Kounalakis)"
+  ],
+  "created_at": "2026-05-18T00:14:11.317846+00:00",
+  "agent_version": "0.1.0"
+}

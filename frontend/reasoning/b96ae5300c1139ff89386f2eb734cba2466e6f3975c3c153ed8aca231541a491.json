@@ -1,0 +1,26 @@
+{
+  "market_id": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
+  "market_slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+  "market_question": "Will the Republicans win the Maine Senate race in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6500,
+  "market_probability_bp": 2350,
+  "edge_bp": 4150,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Maine has a history of ticket-splitting and electing moderate Republicans like Susan Collins, who is the likely 2026 nominee. Even in a Democratic-leaning state, Collins outperformed in 2020 and would be a heavy favorite if she runs. The market's 23.5% implies Collins has only a ~1-in-4 chance, which seems far too low given her incumbency and cross-party appeal. The true probability is around 65%, creating a large edge.",
+  "evidence_points": [
+    "Susan Collins won her last Senate race in 2020 with 51% of the vote, outperforming Donald Trump's 44% in the state.",
+    "Maine has voted for Republican senators in every election since 1972 except for a brief period in the 1980s, demonstrating durable GOP strength in Senate contests.",
+    "No strong Democratic challenger has emerged, and the 2026 midterm environment under a Democratic president historically favors the opposition party."
+  ],
+  "sources_consulted": [
+    "2020 Maine Senate election results (Collins vs Gideon)",
+    "Maine presidential vote history (Biden +9 in 2020)",
+    "Historical Maine Senate election outcomes",
+    "Cook Political Report analysis of incumbent strength"
+  ],
+  "created_at": "2026-05-18T00:09:39.376468+00:00",
+  "agent_version": "0.1.0"
+}

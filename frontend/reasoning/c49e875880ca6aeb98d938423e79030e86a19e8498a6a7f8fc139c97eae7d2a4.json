@@ -1,0 +1,25 @@
+{
+  "market_id": "0xd07ad157463306284e16a0f897510948a1ff9904c4cbf0992e1421e62a079d38",
+  "market_slug": "will-choo-mi-ae-win-the-2026-gyeonggi-province-gubernatorial-election",
+  "market_question": "Will Choo Mi-ae win the 2026 Gyeonggi Province Gubernatorial Election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 9660,
+  "edge_bp": -1160,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1201,
+  "reasoning": "Choo Mi-ae is the likely Democratic nominee in a Democratic-leaning province, but the election is over a year away and political landscapes can shift significantly. The 96.6% implied probability understates risks from a competitive primary, a strong opposition candidate, and national political headwinds. I estimate the true probability near 85%, making 'No' the value side.",
+  "evidence_points": [
+    "Choo Mi-ae is a nationally recognized figure with a strong base in Gyeonggi, but she carries baggage from controversies (e.g., son's military exemption investigation).",
+    "Gyeonggi has voted Democratic in recent gubernatorial elections, but the 2022 winner, Kim Dong-yeon, might seek re-election (or other primary challengers).",
+    "Long time horizons (>1 year) increase political uncertainty due to possible scandals, economic shifts, or changes in national sentiment."
+  ],
+  "sources_consulted": [
+    "General knowledge of South Korean politics",
+    "2022 Gyeonggi gubernatorial election results",
+    "Choo Mi-ae's political biography and public controversies"
+  ],
+  "created_at": "2026-05-18T00:19:47.331311+00:00",
+  "agent_version": "0.1.0"
+}

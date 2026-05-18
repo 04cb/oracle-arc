@@ -1,0 +1,25 @@
+{
+  "market_id": "0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64",
+  "market_slug": "will-tulsi-gabbard-leave-the-trump-administration-before-2027",
+  "market_question": "Will Tulsi Gabbard leave the Trump administration before 2027?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6200,
+  "market_probability_bp": 5500,
+  "edge_bp": 700,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1556,
+  "reasoning": "Turnover in Trump administrations tends to be high, with many top officials leaving within two years. Tulsi Gabbard's controversial background and lack of intelligence experience raise the risk of clashes or early departure. The market's 55% implied probability of leaving by end of 2026 seems slightly too low given these dynamics.",
+  "evidence_points": [
+    "In Trump's first term, roughly 40% of cabinet-level officials departed within two years, including high-profile firings and resignations.",
+    "Gabbard, a former Democrat with no intelligence background, may face resistance from the intelligence community and could be forced out or resign under pressure.",
+    "Multiple political analysts have noted the elevated risk of early departures in Trump's second term, given his management style and loyalty tests."
+  ],
+  "sources_consulted": [
+    "Historical cabinet turnover data from Trump first term (Brookings, AP reports)",
+    "News analyses of Gabbard confirmation and potential clashes (Politico, NYT, 2025)",
+    "PredictIt and Polymarket comparable market data on cabinet exits"
+  ],
+  "created_at": "2026-05-18T00:23:31.242235+00:00",
+  "agent_version": "0.1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+  "market_slug": "clarity-act-signed-into-law-in-2026",
+  "market_question": "Clarity Act signed into law in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 6150,
+  "edge_bp": -1650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Despite a Republican trifecta and a pro-crypto White House, comprehensive crypto legislation has repeatedly stalled in recent years. The Clarity Act faces a crowded congressional calendar with higher-priority items like tax reform and budget reconciliation. Past bipartisan crypto bills (e.g., FIT21) passed the House but died in the Senate, suggesting persistent obstacles. I estimate a 45% chance of enactment, below the 61.5% implied by the market.",
+  "evidence_points": [
+    "H.R.3633 is a Republican-led bill that may attract less Democratic support in a polarized environment.",
+    "Prior crypto market-structure bills failed to reach the President's desk despite strong industry lobbying.",
+    "Legislative focus in 2025-26 is likely on tax, immigration, and budget — not digital-asset reform — limiting scheduling time."
+  ],
+  "sources_consulted": [
+    "Congress.gov bill summary",
+    "Historical outcomes of FIT21 and other crypto bills",
+    "Political landscape analysis (Republican control, Trump stance)"
+  ],
+  "created_at": "2026-05-18T00:15:04.986659+00:00",
+  "agent_version": "0.1.0"
+}

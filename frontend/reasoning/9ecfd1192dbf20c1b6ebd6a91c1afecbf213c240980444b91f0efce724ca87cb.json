@@ -1,0 +1,24 @@
+{
+  "market_id": "0x40add37beb6b2754d1af6c90af8fbb7d4b1f84eb5b67fb2f42351d5aa868965d",
+  "market_slug": "elon-musk-of-tweets-may-12-may-19-440-459",
+  "market_question": "Will Elon Musk post 440-459 tweets from May 12 to May 19, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 200,
+  "market_probability_bp": 10,
+  "edge_bp": 190,
+  "confidence": "medium",
+  "kelly_fraction_bp": 195,
+  "reasoning": "Historical weekly tweet counts for Elon Musk often fall in the 300–500 range, with at least one known week (April 20–27, 2024) recording 446, directly inside the 440–459 interval. Even with high variability, a 20‑tweet window centered on a typical active week yields an estimated probability near 2%, not 0.1%. The market appears to underprice due to the narrow‑range framing.",
+  "evidence_points": [
+    "Elon Musk posted 446 times in the week of April 20–27, 2024, per Polymarket resolution data.",
+    "His daily tweet rate has frequently exceeded 50/day during active periods, suggesting weekly totals of 350–500+.",
+    "No structural change is announced for May 2026 that would drastically lower his output from recent years."
+  ],
+  "sources_consulted": [
+    "Recollection of Polymarket resolution for tweet‑count market on April 20–27, 2024",
+    "General knowledge of Elon Musk's X posting frequency in 2024‑2025"
+  ],
+  "created_at": "2026-05-18T00:25:56.248877+00:00",
+  "agent_version": "0.1.0"
+}

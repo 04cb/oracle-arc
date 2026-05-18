@@ -1,0 +1,25 @@
+{
+  "market_id": "0x0a99479228e93524b25676ae69b94bd3f4278a6bca8d8c265c84d24755399cf5",
+  "market_slug": "will-the-republicans-win-the-2028-us-presidential-election",
+  "market_question": "Will the Republicans win the 2028 US Presidential Election?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 3850,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1057,
+  "reasoning": "The market seems too pessimistic about Republican chances this far out. Historically, the incumbent party often retains the White House even with an open seat, and the Republicans showed strong electoral performance in 2024. Potential candidate JD Vance could consolidate Trump's base. I estimate the true probability around 45%, giving a 6.5% edge over the market's 38.5%.",
+  "evidence_points": [
+    "The incumbent party historically wins open-seat presidential elections about half the time since WWII, not drastically below 50%.",
+    "Republicans won the 2024 election with a clear mandate, and the party will likely nominate a strong Trump-aligned candidate like JD Vance.",
+    "Democrats face internal divisions after 2024 and uncertainty over their future leader, making a 61.5% implied probability for them seem too high this early."
+  ],
+  "sources_consulted": [
+    "Historical US presidential election data",
+    "Current political landscape post-2024",
+    "General knowledge of party dynamics"
+  ],
+  "created_at": "2026-05-18T00:17:23.969277+00:00",
+  "agent_version": "0.1.0"
+}

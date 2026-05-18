@@ -1,0 +1,24 @@
+{
+  "market_id": "0x01110879441e6376a69dc318c4c8f9cbb4f6eef394d3563b6925ce17db809404",
+  "market_slug": "will-ali-asghar-hejazi-be-head-of-state-in-iran-end-of-2026",
+  "market_question": "Will Ali Asghar Hejazi be head of state in Iran end of 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1,
+  "market_probability_bp": 40,
+  "edge_bp": -39,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Ali Asghar Hejazi is an obscure figure with no realistic path to become head of state in Iran by the end of 2026. The power structure heavily favors senior clerics, and the likely outcomes are Ali Khamenei remaining Supreme Leader or a well-known successor like Mojtaba Khamenei taking over. Hejazi lacks the religious credentials, political backing, and public profile necessary to assume de facto head of state powers. A 0.4% probability is far higher than his true near-zero chances.",
+  "evidence_points": [
+    "Hejazi is not mentioned in Iranian succession analyses or among known candidates for Supreme Leader.",
+    "The Islamic Republic's system requires the head of state (Supreme Leader) to be a senior Shia jurist, a status Hejazi does not hold.",
+    "Even in a radical collapse, de facto control would likely be seized by top military or political figures, not a low-profile individual like Hejazi."
+  ],
+  "sources_consulted": [
+    "General knowledge of Iranian politics and succession dynamics",
+    "Political analyses of Supreme Leader succession"
+  ],
+  "created_at": "2026-05-18T00:08:40.384484+00:00",
+  "agent_version": "0.1.0"
+}

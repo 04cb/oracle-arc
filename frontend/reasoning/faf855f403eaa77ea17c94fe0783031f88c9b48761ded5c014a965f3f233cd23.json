@@ -1,0 +1,24 @@
+{
+  "market_id": "0x0188297b3b68b403d98b82281f12f07fe041d3277edcb8f733e9282d3abfeb76",
+  "market_slug": "will-hype-flip-sol-by-december-31",
+  "market_question": "Will HYPE flip SOL by December 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 1100,
+  "edge_bp": -1050,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "HYPE is a DEX governance token with a market cap likely under $1B, while Solana is a top-10 L1 blockchain with a market cap exceeding $50B. For HYPE to flip SOL, it would need a >50x relative gain in under 2.5 years, a scenario with virtually no precedent outside stablecoin failures. The true probability is well under 1%, far below the market's 11% implied odds, making NO the cheap side.",
+  "evidence_points": [
+    "Current market cap of HYPE is dwarfed by Solana's by a factor of over 50x.",
+    "HYPE is tied to a single derivatives exchange, not a general-purpose smart-contract platform, limiting its upside relative to Solana's ecosystem.",
+    "No DEX token has ever overtaken a major L1 in market cap within such a short window, even during peak manias."
+  ],
+  "sources_consulted": [
+    "CoinGecko (approximate market cap data for HYPE and Solana)",
+    "Crypto industry structure and recent market capitalizations"
+  ],
+  "created_at": "2026-05-18T00:12:51.185143+00:00",
+  "agent_version": "0.1.0"
+}

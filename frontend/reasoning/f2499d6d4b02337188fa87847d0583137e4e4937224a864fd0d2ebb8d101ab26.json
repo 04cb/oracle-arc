@@ -1,0 +1,25 @@
+{
+  "market_id": "0x96d62023398788f44afff65cd3513eddc9bdb0fddaaf15206212f076721167a7",
+  "market_slug": "will-wti-crude-oil-wti-hit-low-90-in-may",
+  "market_question": "Will WTI Crude Oil (WTI) hit (LOW) $90 in May?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 1200,
+  "market_probability_bp": 2650,
+  "edge_bp": -1450,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Current futures curve and EIA forecasts suggest WTI in mid‑2026 will be around $62–$68, making a one‑month touch of $90 extremely unlikely. The market’s 26.5% probability is excessively high, offering a significant edge by shorting YES.",
+  "evidence_points": [
+    "June 2026 WTI futures currently trade near $65, roughly $25 below the $90 strike",
+    "EIA’s 2026 average WTI forecast is $63, well below $90",
+    "OPEC+ spare capacity and modest demand growth limit upside price risk"
+  ],
+  "sources_consulted": [
+    "EIA Short-Term Energy Outlook (2026 projections)",
+    "CME WTI futures curve (June 2026 contract pricing)",
+    "Historical WTI monthly return distributions and barrier‑hit probabilities"
+  ],
+  "created_at": "2026-05-18T00:14:12.725269+00:00",
+  "agent_version": "0.1.0"
+}

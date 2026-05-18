@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed710d7066b939a62ccf9a6de6024d011dd753a22412a7d8fdb1c05525d581bb",
+  "market_slug": "will-philadelphia-phillies-win-the-2026-nl-east-title",
+  "market_question": "Will Philadelphia Phillies win the 2026 NL East title?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 2000,
+  "market_probability_bp": 1350,
+  "edge_bp": 650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 751,
+  "reasoning": "The Phillies have a strong core (Harper, Turner, Wheeler, Nola) under contract through 2026 and won the NL East in 2024. In a competitive division with the Braves and Mets, a ~20% chance to win the division in 2026 seems reasonable. The market's 13.5% implied probability is too low, offering a positive edge on Yes.",
+  "evidence_points": [
+    "Phillies won the NL East in 2024 and have a competitive roster.",
+    "Key stars Bryce Harper, Trea Turner, Zack Wheeler, Aaron Nola are signed long-term.",
+    "The NL East is competitive, but no team is a runaway favorite, leaving the Phillies with a solid chance."
+  ],
+  "sources_consulted": [
+    "MLB.com",
+    "public depth charts",
+    "historical division odds"
+  ],
+  "created_at": "2026-05-18T00:11:21.821233+00:00",
+  "agent_version": "0.1.0"
+}

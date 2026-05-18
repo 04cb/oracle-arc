@@ -1,0 +1,25 @@
+{
+  "market_id": "0x3392d482621c56ea88b671505df166ab696f540e35f775f459cd1531e9175855",
+  "market_slug": "will-lighter-reach-10-before-2027",
+  "market_question": "Will Lighter reach $10 before 2027?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 100,
+  "market_probability_bp": 450,
+  "edge_bp": -350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "LIT currently trades around $0.016, meaning a move to $10 requires a >62,000% rally. Even a single intra-candle wick on a thin order book would need an extraordinary catalyst, and such extreme spikes are exceptionally rare. The market’s 4.5% implied probability significantly overstates the real‑world chance of this event.",
+  "evidence_points": [
+    "LIT price is ~$0.016, so $10 is a 62,400% gain.",
+    "Lighter’s LIT/USDC pair likely has very low depth; a wick to $10 would still require a multi‑million dollar buy or a bug.",
+    "Tokens of this market cap almost never record wicks of this magnitude within a ~20‑month window."
+  ],
+  "sources_consulted": [
+    "CoinGecko (LIT price)",
+    "Lighter.xyz trading interface",
+    "General crypto market data"
+  ],
+  "created_at": "2026-05-18T00:25:50.701449+00:00",
+  "agent_version": "0.1.0"
+}

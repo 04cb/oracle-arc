@@ -1,0 +1,25 @@
+{
+  "market_id": "0xfd0c9092cd2b2059c1487de5fc2145f19702d314039a8d10df55d206d08058f1",
+  "market_slug": "will-venezuela-recognize-israel-by-june-30-115",
+  "market_question": "Will Venezuela recognize Israel by June 30?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 10,
+  "market_probability_bp": 170,
+  "edge_bp": -160,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Venezuela severed diplomatic ties with Israel in 2009 and has since maintained a fiercely anti-Israel stance aligned with Iran, Syria, and Hezbollah. There are no diplomatic signals or incentives suggesting a reversal of this policy, especially within a short 7-month window. The probability of formal recognition of Israel is negligible, far below the market's implied 1.7%.",
+  "evidence_points": [
+    "Venezuela broke relations with Israel in 2009 under Hugo Chávez and has remained hostile under Maduro.",
+    "The government is ideologically committed to the Palestinian cause and part of the anti-Israel axis.",
+    "No known normalization talks or diplomatic gestures have occurred between Venezuela and Israel."
+  ],
+  "sources_consulted": [
+    "Official Venezuelan foreign policy statements (2009–2025)",
+    "Historical diplomatic relations records",
+    "Recent geopolitical analysis on Venezuela-Iran-Israel dynamics"
+  ],
+  "created_at": "2026-05-18T00:12:01.547266+00:00",
+  "agent_version": "0.1.0"
+}

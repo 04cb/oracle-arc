@@ -1,0 +1,25 @@
+{
+  "market_id": "0x895e01dbf3e6a33cd9a44ca0f8cdb5df1bd2b0b6ebed5300d28f8da7145145e4",
+  "market_slug": "will-donald-trump-win-the-2028-republican-presidential-nomination",
+  "market_question": "Will Donald Trump win the 2028 Republican presidential nomination?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 240,
+  "edge_bp": -220,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The 22nd Amendment renders Trump ineligible for a third presidential term, and Republican Party rules require nominees to be eligible. Even if he attempted to run, the party would not nominate an ineligible candidate, making the probability of a Yes outcome near zero.",
+  "evidence_points": [
+    "22nd Amendment limits any person to two presidential terms.",
+    "Republican National Committee rules mandate a nominee be constitutionally eligible.",
+    "No major party has nominated an ineligible candidate in modern history."
+  ],
+  "sources_consulted": [
+    "U.S. Constitution, Amendment XXII",
+    "Republican Party rules (Rule No. 40, 2024 convention)",
+    "News analysis on 2028 eligibility (e.g., Politifact, Ballotpedia)"
+  ],
+  "created_at": "2026-05-18T00:27:45.713533+00:00",
+  "agent_version": "0.1.0"
+}

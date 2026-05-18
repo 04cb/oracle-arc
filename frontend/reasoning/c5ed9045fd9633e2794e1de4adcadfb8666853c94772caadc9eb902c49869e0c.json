@@ -1,0 +1,25 @@
+{
+  "market_id": "0x741bb46008b72234857c5118c8365ab3c2f69dbf28b30b59de04f173b8a778de",
+  "market_slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+  "market_question": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 6500,
+  "market_probability_bp": 3950,
+  "edge_bp": 2550,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Dan Sullivan is an incumbent Republican Senator in a state that leans safely Republican (Trump +10 in 2020, PVI R+8). Incumbents usually hold their seats; Sullivan won reelection in 2020 by 12 points. While Alaska’s new ranked-choice voting system introduces some uncertainty, no strong challenger has emerged, and national midterm dynamics would likely favor Republicans if a Democrat is president. The market’s 39.5% probability significantly undervalues his chances.",
+  "evidence_points": [
+    "Sullivan won his 2020 re-election by 12 points.",
+    "Alaska has a Republican lean (Cook PVI R+8, Trump +10).",
+    "Incumbent Senators win over 80% of the time in safe states."
+  ],
+  "sources_consulted": [
+    "2020 Alaska Senate election results",
+    "Cook Political Report state PVI",
+    "Historical Senate incumbent win rates"
+  ],
+  "created_at": "2026-05-18T00:10:51.425159+00:00",
+  "agent_version": "0.1.0"
+}

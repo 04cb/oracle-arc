@@ -1,0 +1,26 @@
+{
+  "market_id": "0x9baecdc68b73b7f4b69109dfb6d56282281b0cce490aa97af8b8129c2744ad6a",
+  "market_slug": "will-mirra-andreeva-win-the-2026-womens-french-open",
+  "market_question": "Will Mirra Andreeva win the 2026 Women’s French Open?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 150,
+  "market_probability_bp": 670,
+  "edge_bp": -520,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Mirra Andreeva is a promising young player but as of now she hasn't won a WTA title nor shown elite clay results. The chance she wins the 2026 French Open at age 19 against a field that will still likely include dominant clay champions like Iga Swiatek is realistically around 1–2%, well below the market-implied 6.7%. The 5.2% edge makes ‘No’ the value side.",
+  "evidence_points": [
+    "Andreeva has no WTA singles titles yet and her best Grand Slam result is a fourth round appearance.",
+    "Historical French Open winners at age ≤19 are extremely rare and usually come after prior elite clay performances (e.g., Swiatek 2020).",
+    "The women’s field includes multiple established clay-court elites who will still be prime contenders in 2026.",
+    "Probability models for a single non-top-5 player winning a Grand Slam typically fall below 2%."
+  ],
+  "sources_consulted": [
+    "WTA player profiles and rankings (general knowledge)",
+    "Roland Garros historical results",
+    "Implied probabilities from betting markets"
+  ],
+  "created_at": "2026-05-18T00:19:24.851390+00:00",
+  "agent_version": "0.1.0"
+}

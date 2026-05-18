@@ -1,0 +1,24 @@
+{
+  "market_id": "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606",
+  "market_slug": "will-spencer-pratt-win-the-2026-los-angeles-mayoral-election-983",
+  "market_question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 50,
+  "market_probability_bp": 2350,
+  "edge_bp": -2300,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Spencer Pratt is a reality TV personality with zero political experience or base of support. Los Angeles mayoral elections are won by serious, experienced candidates, and the notion of him winning is virtually impossible. The market price of 23.5% appears driven by meme speculation rather than any realistic electoral chance.",
+  "evidence_points": [
+    "Spencer Pratt has no political experience or campaign infrastructure",
+    "Recent LA mayoral races (e.g., Karen Bass in 2022) were won by established politicians, not celebrity outsiders",
+    "No credible polling or reporting suggests Pratt is running or viable"
+  ],
+  "sources_consulted": [
+    "General knowledge of Los Angeles politics and the 2022 mayoral election",
+    "Public biography of Spencer Pratt showing no political involvement"
+  ],
+  "created_at": "2026-05-18T00:16:36.051343+00:00",
+  "agent_version": "0.1.0"
+}

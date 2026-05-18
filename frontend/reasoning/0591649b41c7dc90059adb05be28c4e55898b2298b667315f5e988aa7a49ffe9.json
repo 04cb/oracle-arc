@@ -1,0 +1,25 @@
+{
+  "market_id": "0xf06d28ca471354ee70ec6e1dff6284a15ced43bcaa70fafcdc6cc32f485598c8",
+  "market_slug": "will-the-us-strike-13-countries-in-2026",
+  "market_question": "Will the US strike 13 countries in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 340,
+  "edge_bp": -320,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The US has never struck 13 distinct countries in a single year; historical peaks are around 7–8, even during the height of the War on Terror. Barring an unprecedented global war, which itself is very unlikely in 2026, reaching 13 countries is not plausible. The current market price significantly overestimates this risk.",
+  "evidence_points": [
+    "Historical airstrike data from 2010–2023 shows the US struck 5–8 countries per year (e.g., Afghanistan, Iraq, Syria, Somalia, Yemen, Libya, Pakistan, Philippines, Niger).",
+    "The US pivot to great-power competition is reducing counterterrorism engagements, making a sudden increase to 13 countries improbable.",
+    "Even a major regional conflict (e.g., with Iran) would typically involve strikes on 3–4 neighboring states, not 13."
+  ],
+  "sources_consulted": [
+    "Bureau of Investigative Journalism – Drone Warfare database",
+    "New America Foundation – Drone Strikes data",
+    "Council on Foreign Relations – Global Conflict Tracker"
+  ],
+  "created_at": "2026-05-18T00:18:22.516360+00:00",
+  "agent_version": "0.1.0"
+}

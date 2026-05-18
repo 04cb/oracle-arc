@@ -1,0 +1,27 @@
+{
+  "market_id": "0x47dae10c137aed5c59e42319fabd1501733b45208b724129620b614222cb3c9e",
+  "market_slug": "will-the-uk-designate-the-irgc-a-terrorist-organization-by-june-30",
+  "market_question": "Will the UK designate the IRGC a terrorist organization by June 30? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 1500,
+  "market_probability_bp": 680,
+  "edge_bp": 820,
+  "confidence": "medium",
+  "kelly_fraction_bp": 885,
+  "reasoning": "While the UK Government under Labour has so far resisted proscription, growing parliamentary and US pressure, combined with Iran’s regional escalations and drone supplies to Russia, make formal designation more likely than the market’s 6.8% implies. The Home Office keeps the matter under review, and a decisive trigger event could lead to action within the next 15 months.",
+  "evidence_points": [
+    "Labour Home Secretary Yvette Cooper stated the government keeps IRGC proscription ‘under review’ in 2024 debates.",
+    "Trump administration’s ‘maximum pressure’ campaign is expected to push allies including the UK to designate the IRGC.",
+    "Cross-party parliamentary support: a 2023 amendment backed by 69 Conservatives and some Labour MPs called for proscription.",
+    "Iran’s supply of Shahed drones to Russia and its direct attacks on Israel raise UK security concerns, lowering the bar for designation."
+  ],
+  "sources_consulted": [
+    "UK Parliament Hansard (2024 debates on IRGC proscription)",
+    "The Guardian (articles on UK government deliberation)",
+    "Reuters (reports on US pressure and Iran tensions)",
+    "UK Home Office proscription criteria and guidance"
+  ],
+  "created_at": "2026-05-18T00:20:21.031892+00:00",
+  "agent_version": "0.1.0"
+}

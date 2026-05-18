@@ -1,0 +1,24 @@
+{
+  "market_id": "0xdf4e5a2bbb9ebb235eb3c35717be36ed8064bf13b614afd2d8c53d06c672e83b",
+  "market_slug": "will-wesley-said-be-the-top-goal-scorer-in-the-2025-26-ligue-1-season",
+  "market_question": "Will Wesley Said be the top goal scorer in the 2025-26 Ligue 1 season?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 0,
+  "market_probability_bp": 10,
+  "edge_bp": -10,
+  "confidence": "high",
+  "kelly_fraction_bp": 0,
+  "reasoning": "Wesley Said is a backup striker for Lens with a career-best 9 Ligue 1 goals; he scored only 4 in 27 games in 2024‑25 and has never been near the top-scorer race. The chance he suddenly leads the league is astronomically smaller than the 0.1% implied by the market.",
+  "evidence_points": [
+    "Said scored 4 Ligue 1 goals in the 2024‑25 season.",
+    "His single‑season Ligue 1 high is 9 goals.",
+    "Top scorer typically requires 20‑25+ goals in a 34‑match season."
+  ],
+  "sources_consulted": [
+    "Ligue 1 official stats",
+    "Transfermarkt player history"
+  ],
+  "created_at": "2026-05-18T00:17:27.984719+00:00",
+  "agent_version": "0.1.0"
+}

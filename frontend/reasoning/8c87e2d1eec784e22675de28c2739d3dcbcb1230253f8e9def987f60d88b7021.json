@@ -1,0 +1,25 @@
+{
+  "market_id": "0xd4cb184e5dc458f3b03e6da54c87f7272e478bffe30c2d8157c6df8e2eb8c985",
+  "market_slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971",
+  "market_question": "Will NVIDIA be the largest company in the world by market cap on May 31?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 9000,
+  "market_probability_bp": 9650,
+  "edge_bp": -650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 669,
+  "reasoning": "NVIDIA is currently the most valuable company, but the landscape is highly competitive with Apple and Microsoft neck-and-neck. A 96.5% implied probability overstates the certainty for a snapshot one year away; slight market shifts can change the ranking. My 90% estimate reflects a meaningful 10% chance that NVIDIA is not on top on that exact date, making No undervalued.",
+  "evidence_points": [
+    "NVIDIA's market cap ~$3.5T is not far ahead of Apple (~$3.3T) and Microsoft (~$3.2T); a 5-10% relative move could flip the order.",
+    "Market cap leadership has changed frequently in the past five years, with Apple, Microsoft, and Amazon all holding the top spot at times.",
+    "NVIDIA's AI-fueled growth may face headwinds from competition (AMD, custom ASICs), regulatory scrutiny, or cyclical demand softening, adding downside risk.",
+    "The resolution is a single-day snapshot, making it susceptible to short-term volatility and noise."
+  ],
+  "sources_consulted": [
+    "Public market cap data (Yahoo Finance, Google Finance) as of mid-2025",
+    "Tech sector analysis on competitive dynamics in AI chips (public reports, analyst notes)"
+  ],
+  "created_at": "2026-05-18T00:10:11.152724+00:00",
+  "agent_version": "0.1.0"
+}

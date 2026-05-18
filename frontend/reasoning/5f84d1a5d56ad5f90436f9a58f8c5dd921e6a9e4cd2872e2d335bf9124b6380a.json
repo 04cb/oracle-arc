@@ -1,0 +1,25 @@
+{
+  "market_id": "0xf8ffc79497e28506895f59a72288ef924ce98481c8b0341281fdd786e9489668",
+  "market_slug": "republican-trifecta-with-supermajority-in-the-senate",
+  "market_question": "Republicans win Trifecta with Senate Supermajority in midterms?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 20,
+  "market_probability_bp": 370,
+  "edge_bp": -350,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The Republican party holds the presidency until 2029, so the condition reduces to maintaining House control and gaining 7+ net Senate seats in a midterm where they defend 22 of 33 seats. Midterm history shows the president's party usually loses seats; a net gain that large from such a defensive map is unprecedentedly rare, putting the true probability near 0.2% versus the market's 3.7%.",
+  "evidence_points": [
+    "Since 1913, no president's party has gained a Senate supermajority in a midterm, and only twice has it gained any seats (1934, 2002) – never 7 net.",
+    "The 2026 Senate map has 22 Republican-held seats up vs 11 Democratic, requiring a net Republican pickup of 7 amid typical midterm headwinds.",
+    "House races have high correlation with presidential popularity, and the incumbent party typically loses House seats in midterms, making simultaneous retention and supermajority even harder."
+  ],
+  "sources_consulted": [
+    "Historical U.S. Senate election results (via Brookings, 270toWin)",
+    "2026 Senate class II composition (Wikipedia)",
+    "Midterm seat change data for president's party"
+  ],
+  "created_at": "2026-05-18T00:20:36.942509+00:00",
+  "agent_version": "0.1.0"
+}

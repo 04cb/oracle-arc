@@ -1,0 +1,26 @@
+{
+  "market_id": "0x885a6abefad122348b4fbd503473d7fd1f9035d0438cf988a7591620f316a859",
+  "market_slug": "will-bitcoin-reach-130000-by-december-31-2026-756-151-855",
+  "market_question": "Will Bitcoin reach $130,000 by December 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3000,
+  "market_probability_bp": 1150,
+  "edge_bp": 1850,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2090,
+  "reasoning": "The market implies only 11.5% chance of Bitcoin reaching $130k during the specific window (Nov 2025–Dec 2026). Given historical post‑halving rallies, strong ETF‑driven institutional adoption, and the typical 12–18 month lag from halving (April 2024), a peak above $130k in late 2025 or a secondary surge in 2026 is plausible. Even if the initial peak occurs before the window, a retest or new high during the window is reasonably likely, making a ~30% true probability more realistic.",
+  "evidence_points": [
+    "Bitcoin historically peaks 12–18 months after halving (April 2024), putting a potential top in late 2025, possibly above $130k, and if that peak extends into the Nov‑2025 start, Yes triggers.",
+    "Institutional flows via spot ETFs and potential strategic Bitcoin reserves (e.g., US) provide sustained demand momentum that could push price well above $130k by 2026.",
+    "Bitcoin’s volatility implies a significant chance of a run to $130k even from a $100k base within a 13‑month window; a 30% move is typical in bull phases."
+  ],
+  "sources_consulted": [
+    "General knowledge of Bitcoin halving cycles",
+    "Market structure and ETF adoption trends",
+    "Publicly available price targets from analysts (e.g., Fundstrat, Bernstein)",
+    "Binance BTC/USDT historical volatility"
+  ],
+  "created_at": "2026-05-18T00:17:32.512854+00:00",
+  "agent_version": "0.1.0"
+}
