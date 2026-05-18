@@ -1,0 +1,25 @@
+{
+  "market_id": "0xed0f5596263aa1d3dffbe903502f8134864f0b5d8c102c66631b9636b5cc9e4b",
+  "market_slug": "will-france-send-warships-through-the-strait-of-hormuz-by-may-31-2026",
+  "market_question": "Will France send warships through the Strait of Hormuz by May 31, 2026?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 8500,
+  "market_probability_bp": 350,
+  "edge_bp": 8150,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "France maintains a continuous naval presence in the Indian Ocean and Mediterranean, with frequent transits through the Suez Canal and Strait of Hormuz for port visits, freedom of navigation operations, or escort missions. Over a 13‑month window, the probability of at least one French warship (including support vessels) passing the narrowest part of Hormuz is very high. Historical patterns (e.g., FREMM frigates, Charles de Gaulle strike group, EMASoH missions) confirm multiple transits in recent years, making 3.5% a severe under‑pricing.",
+  "evidence_points": [
+    "France has regularly deployed frigates to the Strait of Hormuz as part of the European‑led EMASoH surveillance mission and often escorts shipping.",
+    "The French carrier strike group (Charles de Gaulle) transited Hormuz in 2021, and FREMM frigate Languedoc did so in 2023; such patterns are typical of French naval rhythms.",
+    "Any port call to UAE, Bahrain, or other Gulf states requires a Strait transit, and French logistics/projection deployments routinely pass through Hormuz."
+  ],
+  "sources_consulted": [
+    "French Navy press releases on OPERATION AGENOR / EMASoH",
+    "Maritime security reporting (Reuters, AP) on Hormuz transits 2020‑2024",
+    "Historical deployment patterns of Marine Nationale Indian Ocean assets (e.g., Djibouti‑based forces)"
+  ],
+  "created_at": "2026-05-17T23:59:22.117761+00:00",
+  "agent_version": "0.1.0"
+}

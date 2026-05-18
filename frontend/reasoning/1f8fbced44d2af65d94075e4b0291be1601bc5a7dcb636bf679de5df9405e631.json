@@ -1,0 +1,24 @@
+{
+  "market_id": "0x9cb23d04b2ded06147482076688b69b487a8d982c63ebdda2ab3678cf27cf390",
+  "market_slug": "clarity-act-signed-into-law-in-2026",
+  "market_question": "Clarity Act signed into law in 2026?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 4500,
+  "market_probability_bp": 6150,
+  "edge_bp": -1650,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "The market implies a 61.5% chance, but legislative hurdles like the Senate filibuster (requiring 60 votes) and a narrow House majority make passage challenging. Despite the pro-crypto administration, many similar bills have stalled in past Congresses, and true probability is closer to 45%.",
+  "evidence_points": [
+    "H.R.3633 would likely need 60 Senate votes, requiring 7+ Democratic supporters amid ideological divisions.",
+    "The 119th Congress Republican majorities are slim (e.g., ~220-215 House), so a handful of defections can block the bill.",
+    "Precedents like FIT21 (2024) passed the House but never reached a Senate floor vote, showing the gap between chamber will and final enactment."
+  ],
+  "sources_consulted": [
+    "Congress.gov legislation tracker for H.R.3633",
+    "Historical performance of crypto-related legislation in 117th-118th Congresses"
+  ],
+  "created_at": "2026-05-18T00:00:27.231241+00:00",
+  "agent_version": "0.1.0"
+}

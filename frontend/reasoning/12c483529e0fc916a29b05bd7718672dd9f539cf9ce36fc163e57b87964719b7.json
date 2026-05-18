@@ -1,0 +1,25 @@
+{
+  "market_id": "0x88e08e1db2095d39e18ef77068b8dc8074069ccac3feac7fba88482f4f822935",
+  "market_slug": "will-the-no-to-ten-million-switzerland-initiative-be-approved-in-switzerlands-june-14-2026-popular-vote",
+  "market_question": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+  "outcome_label": "No",
+  "side": 0,
+  "my_probability_bp": 2200,
+  "market_probability_bp": 3550,
+  "edge_bp": -1350,
+  "confidence": "medium",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Swiss popular initiatives historically have a low success rate (~10%) due to the double-majority requirement. Although early polling (late 2023/early 2024) showed near 49% support, such initiatives typically see support erode significantly by the vote date, as occurred with the 2020 limitation initiative. The proposed strict population cap is likely to face strong opposition from business and urban cantons, making approval improbable.",
+  "evidence_points": [
+    "Since 1848, only about 10% of Swiss popular initiatives have been approved; the double-majority hurdle is high.",
+    "Early polls by Sotomo/Tamedia (Nov 2023/Jan 2024) showed 49% yes, but past similar initiatives saw dramatic drops (e.g., 2020 limitation initiative went from 58% early polling to 38% final).",
+    "The initiative would require cutting net immigration from ~75,000/year to ~40,000/year, opposed by business, left‑wing, and French‑speaking cantons."
+  ],
+  "sources_consulted": [
+    "Swiss Federal Chancellery referendum history",
+    "gfs.bern/Sotomo opinion polls",
+    "Historical results of popular initiatives since 1848"
+  ],
+  "created_at": "2026-05-17T23:52:25.668868+00:00",
+  "agent_version": "0.1.0"
+}

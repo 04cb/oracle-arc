@@ -1,0 +1,25 @@
+{
+  "market_id": "0xc40b9080a94f13f2013636d9d04b845d2ffcf1b0349876f1c3abf19efc4867da",
+  "market_slug": "abstract-fdv-above-200m-one-day-after-launch",
+  "market_question": "Abstract FDV above $200M one day after launch?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 9500,
+  "market_probability_bp": 7750,
+  "edge_bp": 1750,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Abstract is a highly visible consumer L2 with strong backing (Pudgy Penguins/Igloo Inc) and likely to launch its governance token before the 2027 deadline. A $200M FDV is a very low bar for an L2 launch—comparable projects like Arbitrum, Optimism, and even smaller L2s have seen FDVs well above that in their first day. Significant community interest and pre-launch hype make it extremely probable the FDV will exceed $200M, despite any initial sell pressure.",
+  "evidence_points": [
+    "Comparable L2 tokens (Arbitrum ~$2-3B, Optimism ~$2B, zkSync ~$500M, StarkNet ~$1.5B) all launched with FDVs far above $200M",
+    "Abstract benefits from the large Pudgy Penguins community and active consumer-application focus",
+    "The token launch is effectively certain by end of 2027, given the network’s current stage and ecosystem momentum"
+  ],
+  "sources_consulted": [
+    "CoinGecko token market data for existing L2 FDVs",
+    "Abstract official announcements and community discussions",
+    "General knowledge of crypto L2 valuations and launch dynamics"
+  ],
+  "created_at": "2026-05-17T23:54:49.918744+00:00",
+  "agent_version": "0.1.0"
+}

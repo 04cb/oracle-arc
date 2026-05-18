@@ -1,0 +1,25 @@
+{
+  "market_id": "0x5caf6459052e0fcc736c368f97b5ea98e6bf264507f2e94ac8d69fcc441b1bae",
+  "market_slug": "ukraine-agrees-not-to-join-nato-before-2027",
+  "market_question": "Ukraine agrees not to join NATO before 2027? ",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 3500,
+  "market_probability_bp": 1900,
+  "edge_bp": 1600,
+  "confidence": "medium",
+  "kelly_fraction_bp": 1975,
+  "reasoning": "External pressure (US under Trump, battlefield stalemate) makes a peace deal with a NATO neutrality pledge more likely than 19%. Ukraine could agree to a moratorium on NATO membership to secure a ceasefire or security guarantees, possibly within the next 20 months. The 19% implied probability undervalues this scenario.",
+  "evidence_points": [
+    "Trump has signaled a strong push to end the war quickly, likely demanding Ukraine trade NATO aspirations for peace.",
+    "Zelenskyy has hinted at willingness to delay NATO membership if alternative security guarantees are offered.",
+    "Various peace proposals (e.g., 10‑year moratorium on NATO) already float a neutrality pledge, making an agreement plausible."
+  ],
+  "sources_consulted": [
+    "Geopolitical news on Ukraine‑Russia negotiations",
+    "Trump’s public statements on Ukraine",
+    "Analysis of Ukraine’s NATO membership prospects"
+  ],
+  "created_at": "2026-05-17T23:55:29.680044+00:00",
+  "agent_version": "0.1.0"
+}

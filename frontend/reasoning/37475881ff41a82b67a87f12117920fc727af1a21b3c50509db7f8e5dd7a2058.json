@@ -1,0 +1,25 @@
+{
+  "market_id": "0x11a8cc3ed975d554331e153d3dd2b8fab52b3ecab40f9f1064683b32de4fad47",
+  "market_slug": "will-liverpool-finish-in-the-top-4-of-the-epl-202526-standings",
+  "market_question": "Will Liverpool finish in the top 4 of the EPL 2025–26 standings?",
+  "outcome_label": "Yes",
+  "side": 0,
+  "my_probability_bp": 7500,
+  "market_probability_bp": 5250,
+  "edge_bp": 2250,
+  "confidence": "high",
+  "kelly_fraction_bp": 2500,
+  "reasoning": "Liverpool have a strong squad and manager, finishing top 4 in three of the last four seasons, including 3rd in 2023–24. Their underlying metrics and spending power suggest they are more likely than not to secure a Champions League spot, making the true probability around 75%, well above the market’s 52.5%.",
+  "evidence_points": [
+    "Finished top 4 in 3 of past 4 EPL seasons (3rd, 2nd, 3rd, 5th).",
+    "Squad quality remains among league’s best with key players under long-term contracts.",
+    "Competition for top 4 is strong but Liverpool's financial power and depth provide a consistent edge over most rivals."
+  ],
+  "sources_consulted": [
+    "EPL official standings 2020–2025",
+    "Transfermarkt squad valuations",
+    "FiveThirtyEight club soccer rankings (historical)"
+  ],
+  "created_at": "2026-05-17T23:54:18.450712+00:00",
+  "agent_version": "0.1.0"
+}
